@@ -1,0 +1,524 @@
+TY  - JOUR
+TI  - Capacity sharing between competing manufacturers: A collective good or a detrimental effect?
+AU  - Chen, Xu
+AU  - Peng, Ying
+AU  - Wang, Xiaojun
+AU  - Wang, Pengfei
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Capacity sharing has become a prevalent solution for addressing the supply-demand mismatch by optimizing capacity allocation among participating manufacturers. However, effective coordination and cooperation are required among involved parties, particularly if capacity sharing occurs between competing manufacturers. This paper investigates capacity sharing between competing manufacturers and examines the optimal sharing service fee policy, taking external market, internal operational, and relationship-specific factors into consideration. Our study incorporates product substitution rate, information symmetry (or asymmetry), and interfirm power relationship to go beyond the immediate direct cost-benefit analysis of capacity sharing and evaluates the trade-off between capacity sharing associated benefits and costs. Our analysis results illustrate how the market and relationship-specific factors interact with operational factors such as production cost difference and capacity constraints to influence firms' capacity sharing decisions. The broad set of decision outcomes derived from our comprehensive analyses is beneficial for companies of all sizes and shapes to make informed strategic and operational decisions according to their own circumstances.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijpe.2023.109107
+VL  - 268
+IS  - 
+SP  - 109107
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Strength in numbers: collaborative procurement and competitiveness of craft breweries
+AU  - Ramjaun, Timothy I. I.
+AU  - Pullman, Madeleine
+AU  - Kumar, Maneesh
+AU  - Rodrigues, Vasco Sanchez
+T2  - INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT
+AB  - PurposeThis article aims to investigate collaborative procurement as a sourcing strategy amongst competing small enterprises in an effort to reduce their material supply costs through increased efficiencies, bargaining power and economies of scale.Design/methodology/approachA case study approach is applied to a network of breweries that are regionally clustered. Interview data from producers, suppliers and industry experts is inductively interpreted to understand the viability, organisational impact and benefits/limitations of joint procurement activities.FindingsThe craft brewing industry follows a market place strategy of differentiation to achieve competitive advantage. This has supply chain implications that promote raw material diversity, which is in conflict with standardisation - a necessary factor for collective buying. Competition impacts information sharing and governance mechanism, while the structural factors of size asymmetry along and across the supply chain influence returns. These issues impact the potential economic benefits of collaborative procurement.Research limitations/implicationsThe research propositions have been developed in a specific industry but are generalisable to other companies with a differentiation strategy, especially in the consumer packaged goods sector.Practical implicationsEnabling conditions and constraints are captured in a framework and capability matrix, which can be used by practitioners to assess industry and product feasibility for collaborative procurement.Originality/valuePrevious studies of collaborative procurement have been in the public sector amongst large organisations. This work focusses on coopetition in the context of small businesses to identify the viability and cost-benefit of this strategy.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1108/IJOPM-08-2022-0503
+VL  - 44
+IS  - 3
+SP  - 643-665
+J2  - INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Friend or foe? Examining local service sharing between offline stores and e-tailers
+AU  - Lei, Bozhuang
+AU  - Li, Gang
+AU  - Cheng, T. C. E.
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - Local Service Sharing (LSS), a cooperation program between e-tailers and their rival offline retailers, provides customers with the convenience of buying online and receiving services in-store. Regarded as an effective means to integrate online sales and offline after-sales services, LSS helps e-tailers overcome their inherent weaknesses in capabilities of physical service provision. Although LSS deprives offline stores' competitiveness in services and causes the demand encroachment by e-tailers, offline stores under LSS benefit from the in-store online consumer traffic in the online-to-offlinespillover and the service fees. This research investigates the optimal LSS adoption strategy of e-tailers and offline stores. We develop a stylized model where an e-tailer competes against an offline store for a unit mass of consumers who are heterogeneous in their geographic locations. Crucially, for the competing online and offline channels, we unveil that LSS generates the competition-mitigating effect (LSS can alleviate the price competition between retailers), the demand-shift effect (LSS results in an offline-to-onlinedemand migration), and the strategic-channel effect (LSS lowers the offline channel's wholesale price but can increase the online channel's wholesale price). Overall, based on these effects, LSS can lead to a Pareto improvement for the e-tailer and the offline store. Interestingly, we show that under LSS, although a smaller offline market base leads to fewer in-store online consumers, it softens the price competition because the cross-channel competition is confined to a smaller consumer base, which benefits both retailers' profits. By comparing the benchmark and LSS results, we reveal that under certain conditions, LSS can improve the in-store service level and benefit the profit of the online channel's supplier. However, LSS always hurts the profit of the offline channel's supplier. In addition, LSS can be beneficial to consumer surplus.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.omega.2023.102988
+VL  - 123
+IS  - 
+SP  - 102988
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Stackelberg-Nash asymmetric bargaining-based scheduling optimization and revenue-allocation for multi-operator regional integrated energy system considering competition-cooperation relationship and source-load uncertainties
+AU  - Lin, Junjie
+AU  - Gao, Chong
+AU  - Zeng, Jianfeng
+AU  - Han, Fengwu
+T2  - ENERGY
+AB  - The integration of source-grid-load-storage greatly improves the energy managing flexibility of regional integrated energy systems (RIES). Considering the conflicting interests of multi-operator, this paper divides RIES into 1) energy supply center (ESC); 2) load aggregator (LA); 3) energy storage aggregator (ESA), and establishes a multi-operator two-layer optimal scheduling model by combining 1) the Stackelbelberg-Nash asymmetric bargaining game based on the genetic algorithm; and 2) the alternating direction method of multipliers algorithm (GA-ADMM). Firstly, considering the absence of historical data, trapezoidal fuzzy parameters are introduced to construct fuzzy chance constraints based on credibility theory to simulate the source-load uncertainties. Secondly, the uncertainty of demand response behavior, real-time carbon credits trading within RIES, and cooperation-competition behavior of followers (LA and ESA) are considered to simulate the asymmetric relationship between followers and leaders (ESC) based on GA. Then, based on the ADMM algorithm, a Nash asymmetric bargaining game considering energy dependency and energy supply-reception status is proposed to realize the revenue allocation between followers. Finally, simulations are implemented to verify the validity and reliability of the proposed model. Results show that: 1) Cooperation improves the energy-managing flexibility of followers, reduces their dependence on ESC, and thus enhances their game ability. 2) The real-time carbon credits trading enables zero-carbon energy interactions and natural gas replenishment within RIES. 3) Increases in the price of various energy and carbon credits can enhance cooperation between followers.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.energy.2024.130262
+VL  - 291
+IS  - 
+SP  - 130262
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Unpacking coopetition in international strategic alliances: Dimensions, contingencies, and structures
+AU  - Xie, Qiuhao
+AU  - Ma, Pei
+AU  - Gao, Ying
+AU  - Zhang, Shuibo
+T2  - JOURNAL OF INTERNATIONAL MANAGEMENT
+AB  - Further progress in coopetition research is currently impeded by three ongoing problems in the literature: (a) conceptual ambiguity surrounding the coopetition construct; (b) an insufficient understanding of contingency factors; and (c) a lack of consideration of the potential variations in coopetition structures. In the specific context of international strategic alliances (ISAs), these unresolved issues have increased confusion regarding coopetition-joint performance relationship. To address these interrelated issues, this study unpacks coopetition in the ISA context into coopetition intensity and coopetition balance, examines the contingent role of trust in coopetition-joint performance relationship, and provides a nuanced analysis of coopetition structures. Based on a sample of 172 ISAs, we find that both coopetition intensity and balance independently exert positive effects on ISA joint performance outcomes. Moreover, simultaneously high levels of coopetition intensity and balance yield synergistic benefits. The results of the moderating effects indicate that goodwill trust weakens the positive effect of coopetition balance on joint performance, while competence trust strengthens this positive effect. Compared to a horizontal structure, the moderating effects of trust on the relationship between coopetition balance and joint performance are stronger in a vertical structure. This study therefore provides novel results; specifically, it indicates how coopetition manifests and how parties in ISAs jointly benefit or suffer from coopetition activities, offering fresh insights into managing coopetition in ISAs.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.intman.2024.101201
+VL  - 30
+IS  - 6
+SP  - 101201
+J2  - JOURNAL OF INTERNATIONAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Investigating the impact of consumer environmental consciousness on food supply chain: The case of plant-based meat alternatives
+AU  - Pang, Shinsiong
+AU  - Chen, Mu-Chen
+T2  - TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+AB  - With plant-based meat increasing in popularity, this study intends to analyze the challenges of popularizing plant-based meat alternatives (PBMAs) and investigate the incentives to enhance future consumption. We investigate a PBMAs producer's distribution channel selection strategies of direct-sell-to-consumer (DSTC) and indirect-sell-to-consumer (Non-DSTC), as well as the decisions for wholesale price, product eco-friendly level and research and development (R&D) investment on sustainable food products. We first examine global meat consumption trends and the emergence of PBMAs and consumer perceptions. We incorporate game-theoretic models with consumer environmental consciousness (CEC) and producer's investment decisions in a multi-channel food supply chain. Social welfare has been used to explore the effects of CEC and the competition of distribution channels on the food supply chain. Our results show that stakeholders in different channels could adopt a Coopetition strategy to make the pie bigger. Numerical analysis shows that members of the food supply chain benefit from a higher CEC in both channel settings. This study provides insights for managerial decisions on investment in technological innovation in the food industry in terms of social, environmental and technological aspects.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.techfore.2023.123190
+VL  - 201
+IS  - 
+SP  - 123190
+J2  - TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+ER  - 
+
+
+TY  - JOUR
+TI  - Horizontal cooperation strategies for competing manufacturers in a capital constrained supply chain
+AU  - Li, Ran
+AU  - Yan, Jin-Jiang
+AU  - Wang, Xian-Yu
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - Many studies concentrate on the vertical collaboration between upstream and downstream enterprises in the supply chain. However, we have observed that some competing manufacturers also engage in horizontal collaboration in practice, where they hold minority ownership shares in their rival, especially for those with limited initial capital. Although such collaboration has become increasingly prevalent, achieving the expected effects remains challenging due to frequent conflicts in collaboration mechanisms. This study considers a two-echelon supply chain with one supplier and two manufacturers with different financial statuses, where manufacturer 2 not only engages in Cournot competition with manufacturer 1, but also offers a horizontal collaboration contract as a collaborator. By incorporating the initial capital of manufacturer 1, we develop a benchmark sufficient capital model, and two other models such as capital constrained model and the horizontal collaboration model. The impact of horizontal cooperation on the optimal decisions of manufacturers is analyzed to investigate whether a collaboration strategy exists that can mitigate these conflicts while improving the profits of all participants. We prove that the horizontal collaboration can benefit both manufacturers when manufacturer 1 is highly capital constrained and holds a large equity share in itself. However, collaborating with a competing manufacturer 2 does not always benefit the capital-constrained manufacturer 1 compared to a situation where both manufacturers have sufficient capital, but it can increase the profits of manufacturer 2 and the entire supply chain in certain conditions. There exists an optimal collaboration mechanism that can achieve a win-win situation, where manufacturer 2 transfers partial payments to the capital-constrained manufacturer 1. The transfer payment is influenced by the cost differences between the manufacturers and the shareholding ratio. These findings can provide valuable management insights to enable competitors to adopt the optimal collaboration method in the face of capital constraints.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.tre.2023.103369
+VL  - 181
+IS  - 
+SP  - 103369
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Micro-coopetition: conceptualizing and operationalizing coopetitive managerial decision-making over time-a game theoretic approach
+AU  - Gelei, Andrea
+AU  - Dobos, Imre
+T2  - REVIEW OF MANAGERIAL SCIENCE
+AB  - The purpose of the paper is to provide a conceptualization and an aligned game-theoretic operationalization of the dynamic coopetitive managerial decision-making process. The proposed two-step sequential game uses existing game theoretical constructs but combines them in a unique way. One of its important positive features is its capacity to make the performance implications of all potential coopetitive decisions in a relationship episode explicit, together with the interplay among them. The lack of such a feature has been recognized as a severe limitation of extant literature, hampering further theoretical and methodological development. The proposed solution gives insights into how moment-by-moment managerial decisions unfold over time and possibly result in disequilibrium states, generating tension. Managerial attributes play a key role in effectively managing such moments, it is suggested. Based on the proposed operationalization, behavioral experiments can be designed through which future empirical research can develop appropriate data sets and test the widely hypothesized roles of these attributes, which can result in more reliable and generalizable research results. Besides the theoretical and empirical value of the proposed conceptualization and operationalization, the paper is of value to decision makers, as it makes the internal complexity of the coopetitive strategizing and its inherent interdependencies explicit, providing practical insights into this complex phenomenon.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1007/s11846-023-00676-3
+VL  - 18
+IS  - 6
+SP  - 1743-1767
+J2  - REVIEW OF MANAGERIAL SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Analysis of global brands' green procurement strategy: Co-opetitive local sourcing vs. overseas sourcing under delivery disruption
+AU  - Niu, Baozhuang
+AU  - Xie, Fengfeng
+AU  - Chen, Lei
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - Recently, black swan events, such as the Covid-19 pandemic and the Russia-Ukraine war, have caused disrup-tions for the local brand with overseas procurement (BOP) who traditionally purchase remanufactured com-ponents globally. This induces the BOP to find a local alternative supplier, although the remanufactured components without supply disruption can be of high price, and the local supplier has a self-branded business. In this paper, we consider a BOP's strategic sourcing decisions from a local supplier with self-branded end products (LSP) who sells remanufactured components. We focus on the BOP's incentives toward such a co-opetitive relationship and the LSP's willingness to sell remanufactured components to the BOP. We find that having two suppliers may induce a component price war but the component price will not become too low when the probability of overseas supply disruption is high. Interestingly, we find that the BOP will allocate a low pro-portion of component purchasing orders to the LSP when it faces a high probability of overseas supply disruption. In contrast, the LSP has the incentive to sell remanufactured components to the BOP when the probability of overseas supply disruption is in a moderate range. If the BOP's remanufactured component quality requirement is high, or the probability of overseas supply disruption is low, the LSP might even have a profit loss when selling components to the BOP.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.omega.2023.102991
+VL  - 123
+IS  - 
+SP  - 102991
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - To fight or not? product introduction and channel selection in the presence of a platform's private label
+AU  - Li, Yongjian
+AU  - Chu, Mingsen
+AU  - Bai, Xuanming
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - Platform retailers' private labels have recently flourished, threatening the business of traditional national brand (NB) sellers. To fight against these platforms, some NB sellers introduce new products as low-quality substitutes through marketplace channels or exclusive channels. This raises a question: Considering the existence of a platform's private label, how does an NB seller's fight/no-fight strategy affect the co-opetition relationship between the two players? In this paper, we construct a game-theoretic model to explore the optimal response strategy of the NB seller. Our study shows that the interaction between the expansion effect and the cannibalization effect can lead to outcomes in which the no-fight strategy benefits the NB seller and the fight strategy benefits the platform. We find that for the NB seller, introducing a new low-quality product through a marketplace channel may be more profitable than doing so through an exclusive channel, particularly when the expansion effect is large and the quality difference is small. We also find that new product introduction as a fight strategy may cause a win-win situation for the NB seller and the platform when done through a marketplace channel with a large expansion effect. An intriguing result of the extension is that the NB seller may switch from the marketplace channel to the exclusive channel as the operating cost in the exclusive channel increases. This work provides valuable managerial insights for NB sellers in response to strategic competition with platforms' private labels.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.tre.2023.103373
+VL  - 181
+IS  - 
+SP  - 103373
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Ratcheting up private standards by exploiting coopetition: The curious case of RSPO's adoption of zero-deforestation criteria
+AU  - Jespersen, Kristjan
+AU  - Grabs, Janina
+AU  - Gallemore, Caleb
+T2  - ECOLOGICAL ECONOMICS
+AB  - At its November 2018 annual meeting, the Roundtable on Sustainable Palm Oil (RSPO) approved a new version of its foundational rules that advocates argued made it a zero-deforestation standard. Using a combination of over 160 key informant interviews and archival analysis, we argue that actors in the RSPO orbit made the High Carbon Stock Approach - a new method for defining forest boundaries that features heavy use of satellite data attractive by blending cooperative and competitive strategies in a pattern known as coopetition. Critical stakeholders pushed leading companies into a competition for legitimacy that spurred innovations outside of the Roundtable setting. In turn, however, these firms also used relationships established through the RSPO Roundtable - cooperating - to elaborate guidelines and tools for defining forest areas, pursuing supply chain traceability and engaging in supplier transformation. This cooperation helped zero-deforestation strategies to emerge outside the organization. In response, stakeholders with sunk investments in RSPO membership reincorporated those external tools into the standard by framing them as consistent with the institution's fundamental logics. This case provides a compelling example of how coopetition can lead to norm emergence in a contentious governance arena, allowing a combination of internal and external actors to steer institutional development. We argue that this strategy could be employed to stimulate increased rigor in environmental standards.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ecolecon.2024.108229
+VL  - 223
+IS  - 
+SP  - 108229
+J2  - ECOLOGICAL ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Membership bundles in content platforms: Bundle decision and content distribution
+AU  - Guo, Tengfei
+AU  - Zhong, Shiquan
+AU  - Wang, Xuelian
+AU  - Ma, Shoufeng
+T2  - INFORMATION & MANAGEMENT
+AB  - We investigate an intriguing strategy where rival content platforms jointly launch a membership bundle that allows consumers to access both of their platforms at a reduced price. We highlight that this approach transforms the platform relationship from pure competition to coopetition. Using a game -theoretical model, we show how a membership bundle significantly influences additional content distribution and acquisition outcomes and the associated welfare implications. We further undertake various extensions to demonstrate the robustness of our findings. We enrich the understanding of platform coopetition and derive practical implications with relevance for both platforms and content providers.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.im.2024.103941
+VL  - 61
+IS  - 3
+SP  - 103941
+J2  - INFORMATION & MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative innovation among competitors in a supply chain with cross shareholding
+AU  - Li, Ran
+AU  - Yan, Jin-Jiang
+AU  - Wang, Xian-Yu
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Many firms have transferred from independent innovations to engage in collaborative innovations with competitors to boost the synergy effects. However, such innovation mechanisms may involve conflicts of interest problems due to the existence of a co-opetition relationship. The cross-shareholding that allows enterprises to share partial profits of competitors by holding a certain proportion of shares in each other's business, can be used to counterbalance multi-agents' strategic decisions and thus improve benefits allocations. Nevertheless, its role in the innovation field has rarely been explored. Motivated by this, we incorporate cross shareholding into a supply chain with one supplier and two manufacturers, and investigate the incentives of competing manufacturers to adopt cross-shareholding in investments of innovation. A benchmark model without innovation and two innovation models are considered, including independent innovation and collaborative innovation with cross shareholding. By comparing the different innovation models, we find that cross shareholding may weaken manufacturers' innovation levels when technology spillover is small. However, it exerts a positive effect on manufacturers' profits if a significant technology spillover and shareholding ratio are achieved or the technology spillover is within a low range. Also, with the joint consideration of investment in innovation and crossshareholding, manufacturers have motivations to adopt collaborative innovation under certain conditions. Besides, the horizontal innovation of competing manufacturers may benefit or harm the suppliers' profits through a vertical channel, which depends on the difficulty level of innovation and shareholding ratio. Finally, our main results remain robust when considering manufacturers' asymmetric production costs, shareholding ratios, production scales and innovation capabilities, as well as the linear demand function and endogenous shareholding ratios.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.110296
+VL  - 193
+IS  - 
+SP  - 110296
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Self-building new brand or cooperating with a frenemy? Market expansion strategy of manufacturer in a C2M supply chain
+AU  - Liu, Bin
+AU  - Li, Juan
+AU  - Liu, Peng
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The Customer -to -Manufacturer (C2M) supply chain is an innovative mode in which the firm quickly producing and providing goods to dispersed end consumers. However, the fragmented orders may lead to production inefficient, which makes expanding market to obtain more demands be a necessary problem. Some C2M manufacturers have cooperated with a frenemy owning competitive brands or self -building another new brand. Then a question arises: How do different market expansion strategies affect a firm's performance? This paper utilizes a Hotelling model to examine the optimal decision: no -expansion or expansion through self -building a new brand or cooperating with a frenemy. By comparing the firm's profits under different strategies, results show that the no -expansion strategy may be better off despite only one revenue stream. For the strategy of self -building a new brand, surprisingly, we find that allowing competition is always more profitable than significantly differentiating brand positions to avoid market cannibalization. Furthermore, when implementing expansion strategy is beneficial, self -building a new brand is preferred to cooperating with the frenemy if his brand is not quietly distinguished from the incumbent one. Otherwise, fostering a competitive brand is more favorable because of the lower market erosion and no brand operation costs. When consumers value the latter launching brand more than the original one, or firms price simultaneously, as shown in extension, the C2M manufacturer becomes more inclined to build a new brand. The relaxation of cost coefficient of brand building does not change the primary findings qualitatively.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2023.109843
+VL  - 187
+IS  - 
+SP  - 109843
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Compatible electric vehicle charging service: Blessing or curse?
+AU  - Chen, Feng
+AU  - Xu, Su Xiu
+AU  - Ning, Yu
+AU  - Ji, Xiang
+AU  - Ren, Yaping
+T2  - JOURNAL OF RETAILING AND CONSUMER SERVICES
+AB  - Driven by technology and the demand for charging, consumers will consider the vehicle quality and the number of charging stations when purchasing electric vehicles (EVs). This paper investigates the effects of the vehicle quality gap and the compatibility ratio of charging stations under a competitive strategy and a coopetition strategy. We develop the Hotelling model that captures manufacturers' decisions. Interestingly, we find that a coopetition strategy is chosen when the vehicle quality gap is smaller, or when the quality gap is medium and the compatibility ratio of charging stations is larger for the high-end vehicles manufacturer. Manufacturers and the government can achieve a win-win situation in a coopetition strategy, but consumer surplus is always the lowest in this strategy. In the extension model, we find a larger upgrade cost leads to a decrease in the number of charging stations and an increase in revenue for both manufacturers. The charging service fee affects only the EV price under a competitive strategy and affects both the EV price and the manufacturers' profits under a coopetition strategy over a certain time. The coopetition relationship between manufacturers changes the supply chain structure, guiding the development of EVs and charging stations.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jretconser.2024.103830
+VL  - 79
+IS  - 
+SP  - 103830
+J2  - JOURNAL OF RETAILING AND CONSUMER SERVICES
+ER  - 
+
+
+TY  - JOUR
+TI  - Purchasing new for remanufacturing: Sourcing co-opetition, tax-planning and data validation
+AU  - Niu, Baozhuang
+AU  - Ruan, Yiyuan
+AU  - Yu, Xinhu
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In practice, to guarantee remanufactured products to be the same as new, many remanufacturers purchase the core component and then assemble it with the remanufactured non-core components. Doing so enables the remanufacturer to keep the high product quality and achieve an overall cost saving, but the core component supplier like LG usually has the self-brand business that competes with the remanufacturer. We refer to their relationship as sourcing co-opetition in this study, under which the core component supplier determines its production location: overseas production for tax-planning benefit vs. domestic production for centralized supply efficiency. We reveal that the core component supplier's inclination towards overseas/domestic production is non-monotonic, depending on both the cost disadvantage and the corporate income tax disparity between the production and sales countries/regions. When the new product's cost disadvantage is not significant, overseas production is preferred under either limited or very large tax disparity. Interestingly, we find that overseas production can lead to a higher system profit and better environmental performance, indicating a win-win situation for the Pareto improvement of profitability and environmental sustainability.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijpe.2024.109279
+VL  - 273
+IS  - 
+SP  - 109279
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Exploring the dark side of inter-firm coopetition: The harmful effect on customer satisfaction
+AU  - Bimmermann, Carolin
+AU  - Greven, Andrea
+AU  - Fischer-Kreer, Denise
+AU  - Brettel, Malte
+T2  - INDUSTRIAL MARKETING MANAGEMENT
+AB  - Inter-firm coopetition, the simultaneous presence of competition and cooperation between firms, has gained increasing attention in strategic management research. While scholars have focused on its effect on selected firm outcomes, the impact of coopetition on customer satisfaction remains underexplored. Our study addresses this gap and leverages recent advancements in coopetition research by examining how coopetition, and the intensities of competition and cooperation in alliances, affect customer satisfaction. Analyzing a unique dataset of 1893 alliances across 143 U.S. firms from 1994 to 2021, we uncover three key insights: First, the intensity of competition in alliances is negatively related to customer satisfaction. Second, the occurrence of coopetition is negatively related to customer satisfaction. Third, contrary to our hypothesis, the intensity of cooperation in alliances does not have a positive influence on customer satisfaction. Our findings substantially contribute to coopetition research by shedding light on the rarely studied 'dark side' of coopetition and emphasizing the importance of considering customer perspectives in coopetition research. Besides, we provide managerial implications and suggest future research avenues.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.indmarman.2024.07.009
+VL  - 122
+IS  - 
+SP  - 13-25
+J2  - INDUSTRIAL MARKETING MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Evolution of cooperation in a mixed cooperative-competitive structured population
+AU  - Lyu, Ding
+AU  - Liu, Hanxiao
+AU  - Wang, Lin
+AU  - Wang, Xiaofan
+T2  - PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+AB  - Cooperation and competition are two pivotal topics in the literature on the evolutionary dynamics of individual behavior on social networks. This study provides a perspective of joint analysis of social dilemmas within groups and inter-group competition in a mixed cooperative- competitive structured population. Although specific mechanisms for interpreting the emergence and promotion of cooperation have been proposed, including reward, punishment, reputation, and environmental factors, little is known about how inter-group competition affects the cooperation level of groups, especially the intensity and structures of competitive games. Based on multi-games, a mixed cooperative-competitive game model is proposed that individuals within a group engage in a donation game and those from different groups participate in competitive games. The results of numerical simulations suggest that the reward of intergroup competition serves as an external incentive, fostering cooperation within groups. As the intensity of competitive games increases, cooperation within groups is prompted. Additionally, strategic inter-group connections based on degree heterogeneity significantly enhance within- group cooperation, particularly when hubs from one group engage in competitive games with marginal nodes from another group. This research contributes valuable insights into the dynamics of cooperation within groups considering the impact of inter-group competition on within-group cooperation.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.physa.2024.130035
+VL  - 652
+IS  - 
+SP  - 130035
+J2  - PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - The slipstream strategy: How high-status OEMs coopete with platforms to maintain their digital extensions' edge
+AU  - Reischauer, Georg
+AU  - Engelmann, Alexander
+AU  - Gawer, Annabelle
+AU  - Hoffmann, Werner H.
+T2  - RESEARCH POLICY
+AB  - There is a growing trend for high -status original equipment manufacturers (OEMs) such as premium electronics manufacturers and premium carmakers to create and capture value through digital extensions of their products. However, these incumbents face disruptive threats from platforms offering substitutes for these digital extensions. The literature suggests that coopetition-the interplay of cooperation and competition-is a viable strategic response to this threat. However, we have a limited understanding of how high -status OEMs coopete with platforms to maintain their digital extensions' edge over time. We address this gap through a longitudinal case study of InnoCar, a premium European carmaker whose digital extensions-car-specific digital services that enhance the driving experience, such as real-time navigation and infotainment-were challenged by Google and Apple. In response, InnoCar pursued what we call the slipstream strategy, which consists of two phases with varying intensities of cooperation and competition. A high -status OEM first increases its cooperation with platforms at the expense of competition in order to establish shared demand -related complementary assets. Second, it focuses on competing with platforms on the quality of its digital extensions while keeping cooperation to a minimum. We develop a conceptual framework that specifies the slipstream strategy and provide boundary conditions for its application. Our paper contributes to research on coopetition with platforms.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.respol.2024.105032
+VL  - 53
+IS  - 7
+SP  - 105032
+J2  - RESEARCH POLICY
+ER  - 
+
+
+TY  - JOUR
+TI  - Spatial coopetition and peer-to-peer accommodation price
+AU  - Lee, Hanna
+AU  - Jang, Seongsoo
+AU  - Kim, Jinwon
+T2  - ANNALS OF TOURISM RESEARCH
+AB  - Peer-to-peer accommodation prices can be derived from individual accommodation and destination characteristics. This study focuses on spatially coopetitive pricing among peer-to-peer accommodations at both individual and clustered levels. Applying spatial analytical techniques to 2090 Airbnb properties across 275 census tracts in Miami-Dade County, Florida, we model peer-to-peer accommodation prices based on three coopetition antecedents: market commonality, resource similarity, and supply commonality. The results reveal the presence of three clusters of spatially coopetitive pricing dynamics, namely, cooperation-dominant, competition-dominant, and balanced coopetition, across coopetition precursors. This study offers practical guidance for accommodation rental platforms, hosts, and policymakers regarding the role of coopetitive pricing strategies shaped by tourism demand, supply, and resources within and across tourism destinations. (c) 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.annals.2024.103826
+VL  - 109
+IS  - 
+SP  - 103826
+J2  - ANNALS OF TOURISM RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Enhancing customer satisfaction through IIoT-Enabled coopetition: Strategic insights and impacts
+AU  - da Silva, Agostinho
+AU  - Cardoso, Antonio J. Marques
+T2  - INTERNET OF THINGS
+AB  - This research investigates the significant role of Industrial Internet of Things (IIoT) to enable Coopetition Network Practices (CNPs) in enhancing the performance of Small and Medium Enterprises (SMEs) within the context of global digital supply chains. Employing a quantitative approach, our study reveals that CNPs contribute to a noTable 51.0 % improvement in factors determining customer satisfaction. This underscores the strategic importance of blending competition with collaboration to refine production processes and align with consumer expectations. Additionally, the research presents a remarkable 69.1 % boost in operational consistency and reports substantial progress in manufacturing flexibility and the value-to-weight ratio, witnessing increases of 125.8 % and 33.2 %, respectively. These improvements are pivotal in optimizing production resources, which in turn, have led to a 29.3 % decrease in customer complaints and a 15.6 % rise in on-time delivery rates. Conversely, a slight decline in the consistency of the value-to-weight ratio was observed, pointing to potential areas for future research. The findings decisively show that CNPs offer concrete advantages by enhancing customer satisfaction determinants and operational efficiency in SMEs. The paper advocates for future studies to directly measure customer satisfaction and to formulate actionable guidelines for the effective implementation of coopetition strategies. This proposed research direction aims to provide solutions to the manufacturing sector's emerging challenges, thereby promoting competitive advantage and growth in the digital era.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.iot.2024.101408
+VL  - 28
+IS  - 
+SP  - 101408
+J2  - INTERNET OF THINGS
+ER  - 
+
+
+TY  - JOUR
+TI  - How would co-opetition with dry ports affect seaports' adaptation to disasters?
+AU  - Wu, Xiangru
+AU  - Wang, Kun
+AU  - Fu, Xiaowen
+AU  - Jiang, Changmin
+AU  - Zheng, Shiyuan
+T2  - TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+AB  - The development of dry ports has reshaped the international freight shipping market, introducing both competition pressure (i.e., the common hinterland) and cooperation opportunities (sea-rail intermodal) for seaports. This is more evident in China with the development of the China Railway Express. Unlike dry ports, seaports are more vulnerable to climate change-related disasters, calling for investment in adaptation measures. This paper examines how co-opetition with the dry port affects seaport adaptation investment using a two-stage game-theoretical economic model. Results indicate that cooperation leads to more seaport adaptation investment, while competition results in reduced investment. When compared to the social optimal level of adaptation investment, the seaport tends to under-invest (over-invest) when the cooperation (competition) market size is larger. We also analyze how government subsidies in the seaport's adaptation help achieve optimal social adaptation and how the Knightian uncertainty of the disaster occurrence affects seaport adaptation investments. The relevant policy implications are also discussed.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.trd.2024.104194
+VL  - 130
+IS  - 
+SP  - 104194
+J2  - TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Strategic coopetition among transportation service providers considering supply-demand congestion effects and asymmetric
+AU  - Huang, Wentao
+AU  - Ding, Yanyan
+AU  - Jian, Sisi
+T2  - TRANSPORTATION RESEARCH PART B-METHODOLOGICAL
+AB  - The phenomenon of transportation service providers (TSPs) engaging in both competition and cooperation, commonly referred to as coopetition, has become increasingly prevalent in the transportation market. This is driven by the rapid advancements in information technology and sharing economy. In practice, competitive TSPs can engage in a resource exchange scheme to share their resources to improve their service quality. However, such a resource exchange scheme may not be sustained since the service prices and profits will be further changed due to the competition in the end market. This study proposes a two-stage sequential-move game to characterize the coopetition problem between TSPs, wherein the first-stage resource exchange problem is modeled with a Nash bargaining game, and the second-stage pricing problem is modeled with a non-cooperative Nash game. Different from prior studies, our model incorporates the supply-demand congestion effects and the asymmetric bargaining power of TSPs. The subsequent impacts on social welfare, TSPs, and end users are investigated. Analytical results show that only when the unit price of the exchanged resources decreases in the exchanged resource quantity will the resource-exchange scheme succeed. Furthermore, we find that TSPs prefer to leave some buffer zone in between to avoid fierce competition with price wars.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.trb.2024.103043
+VL  - 188
+IS  - 
+SP  - 103043
+J2  - TRANSPORTATION RESEARCH PART B-METHODOLOGICAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Coopetition relations, suppliers' effectuation, and manufacturers' green management: Evidence from China
+AU  - Wu, Liang
+AU  - Liu, Heng
+AU  - Liu, Sheng
+T2  - CORPORATE SOCIAL RESPONSIBILITY AND ENVIRONMENTAL MANAGEMENT
+AB  - The coopetition perspective proposes that a firm's value creation relies on its ability to manage both cooperation and competition in supply chains. Recent theorizing in green supply chain management suggests that critical sustainability management practices may be affected by the coopetition relations between manufacturers and suppliers. We extend to study the coopetition perspective by verifying whether coopetition relations between manufacturers and suppliers, such as coopetition, cognitive, and affective conflict caused by competition, and the combination between cooperation and cognitive/affective conflict, impact a firm's ability and motivation to implement green management (GM). Furthermore, the coopetition perspective suggests that the effects of coopetition relations between two parties are enhanced when the coopetition relations match the salient partner's characteristics, a phenomenon regarded as coopetition fit. As a test of this idea, we prove how the role of coopetition relations is differently influenced by one such partner's characteristics, that is, the supplier's decision-making logic. Our findings indicate that coopetition relations between manufacturers and suppliers have different effects on manufacturing firms' GM. We also have evidence that these relationships are moderated by effectuation.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1002/csr.2634
+VL  - 31
+IS  - 2
+SP  - 1303-1322
+J2  - CORPORATE SOCIAL RESPONSIBILITY AND ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Influence of standards alliance coopetition relationship on enterprises' technology innovation performance - A dual-path perspective of knowledge acquisition and routine updating
+AU  - Jiang, Hong
+AU  - Gai, Jinlong
+AU  - Chen, Chen
+AU  - Yang, Jingxuan
+T2  - TECHNOLOGY IN SOCIETY
+AB  - Technology standardisation is becoming a strategic initiative for globalised enterprises committed to innovation and development. However, the role of Technical Standards Alliance (TSA) as the primary method of participating in technology standardisation and the relationship between alliance enterprises for innovation benefits remains unclear, which leads to the partial failure of enterprise standardisation and innovation. This study constructs a research model based on coopetition theory to explore the mediating mechanism and boundary conditions of the Standards Alliance Coopetition Relationship (SCR) affecting enterprises' Technology Innovation Performance (TIP). The researchers conducted a questionnaire survey involving 542 standards alliance participating enterprises in China. The results of the regression analysis and self-help test reveal that (1) SCR positively affects enterprises' TIP; (2) Knowledge Acquisition (KA) and Routine Updating (RU) act as both a twopath mediator and a chain mediator between SCR and the enterprises' TIP; and (3) Cognitive Proximity (CP) among alliance enterprises positively moderates the relationship between SCR and KA, and SCR and RU. These findings contribute theoretically to the literature on technology standardisation and address the research gap on how enterprises can effectively enhance their TIP through participation in standardisation. Finally, the study provides significant managerial implications for enterprises to construct robust standard alliance coopetition relationships, strengthen knowledge acquisition, and enhance routine updating.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.techsoc.2024.102683
+VL  - 78
+IS  - 
+SP  - 102683
+J2  - TECHNOLOGY IN SOCIETY
+ER  - 
+
+
+TY  - JOUR
+TI  - Financial support to a supplier for quality improvement in a dual-channel chain
+AU  - Niu, Wenju
+AU  - Chao, Xuan
+AU  - Liu, Li
+AU  - Zhang, Lianmin
+AU  - Luo, Min
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Outsourcing the production process to suppliers often places product quality beyond the direct control of buyers. While providing financial support to these suppliers can assist in overcoming working capital constraints in quality investments, there remains uncertainty regarding the reliability of suppliers in utilizing such investments for quality improvement. In theory, few papers have examined how effective the financial support is in encouraging quality investments by unreliable suppliers in a coopetitive context. This paper addresses the research gap by exploring whether a buyer will provide financial support to an unreliable supplier for quality improvement in a dual -channel supply chain. We develop models for cases where the buyer refrains from providing financial support, employs an advance payment scheme, or adopts an investment costsharing arrangement. Analysis of the equilibrium outcomes reveals that if the supplier has low working capital, the advance payment scheme benefits both parties; if the working capital is medium, no financial support is provided; otherwise, the investment cost -sharing scheme leads to a mutually beneficial outcome. Moreover, the advance payment (cost -sharing) scheme is more likely to be used when the supplier is perceived as more (less) reliable, the interest rate (cost -sharing ratio) decreases, or channel competition is lessened (intensified). Furthermore, we extend the base model to encompass scenarios where the retail prices are set simultaneously and where the supplier consistently leverages the investment to enhance product quality. We validate that the key findings remain valid in either case. Overall, our findings provide insights for buyers seeking to incentivize capital -constrained suppliers to enhance product quality through financial support under coopetition.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.109975
+VL  - 189
+IS  - 
+SP  - 109975
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Supply chain coopetition: A review of structures, mechanisms and dynamics
+AU  - Katsaliaki, Korina
+AU  - Kumar, Sameer
+AU  - Loulos, Vasilis
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - This research performs a Systematic Literature Review (SLR) through the PRISMA framework of the existing works in Supply Chain Coopetition (SCC), conducts a content analysis on SCC, and examines the theory of coopetition and organizational relationships on intra-firm and inter-firm supply chains. The focus is on the collaboration between rival manufacturers to leverage supply chain capabilities and functions. The research is based on the concept of synergy and the role of supply chain operations reference (SCOR) model. The content analysis is based on a literature review of 156 papers, published from 1997 to 2022, recognized by the Web of Science (WoS) database. The SLR synthesized existing information about SCC and developed a thematic framework for classifying the reviewed papers in terms of SCC structures, mechanisms and dynamics identified in the literature. In particular, the identified structures of coopetition are in buyer-supplier coopetition, supply networks coopetition, production, and distribution/logistics coopetition. In addition, a set of operational mechanisms are analyzed such as capacity sharing and network optimization. There is little existing advice and direction regarding SCC, and this study addresses that by providing a holistic approach to the management practices of SCC. This is the first content analysis of SCC through an SLR; therefore, it serves as a guide for academics and practitioners to perform further research.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijpe.2023.109057
+VL  - 267
+IS  - 
+SP  - 109057
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Flight scheduling and pricing with high-speed rail coopetition and delay uncertainty
+AU  - Lee, Enoch
+AU  - Huai, Yue
+AU  - Lo, Hong K.
+AU  - Zhang, Anming
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - This paper explores flight scheduling and pricing strategies for airlines under coopetition with high-speed rail (HSR) in intercity travel markets, considering the impact of potential delays and missed connections on passenger choices. A stochastic user equilibrium model is developed to account for the passenger route choices under travel time variability, security control delays, and competition with HSR and other airlines. The model investigates coopetition between airlines and HSR operators to enhance profitability. Additionally, to address the capacity constraint, the model incorporates overbooking costs, accounting for passenger no-shows, the probability of exceeding flight capacity, and compensation costs by the operator. The proposed solution method employs decomposition, a variable neighborhood search method, and linearization techniques to address probabilistic terms and equilibrium conditions. A numerical case study focusing on the Europe-China market, considering demand from both long-haul and short-haul travel, evaluates the impact of changes in HSR travel times and fares on passenger choices. Our results show that reduced HSR travel times shift passenger demand away from flights and lead flight operators to terminate some short-haul services, while increased HSR fares boost flight demand, particularly on long-haul routes. The study further illustrates the policy of reducing flights in response to a more severe competition due to shorter flight transit time. The optimal pricing strategy produces similar fares for the connecting itinerary through a local transfer hub and direct itinerary to the transfer hub.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.tre.2025.104219
+VL  - 200
+IS  - 
+SP  - 104219
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative financing mode in a capital constrained supply chain
+AU  - Ma, Chenglin
+AU  - Li, Xiang
+AU  - Zhao, Ruiqing
+AU  - Song, Zhendong
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - The increased financing demand on retailers and the risk aversion from banks have brought extensive attention on group lending (GL), the emerging bank loan mode in addition to credit financing (CF), which requires the retailers to apply for a group loan with joint liability and the bank to set uniform interest rates. In order to investigate how GL impacts the operational decisions and profits in the supply chain, we consider two capital-constrained retailers who source from one supplier via the CF or GL loan from a risk-averse bank. We demonstrate that compared with CF, GL enables the retailers to cooperate on financing and compete on product sale, which induces a co-opetition that motivates the retailers to either increase order and loan amounts due to the reduction of financing cost or reduce the order and loan amounts due to the constraint of cooperation. Moreover, GL may benefit or hurt the supply chain members, contingent on the wholesale price and the retailers' future revenue. Surprisingly, a higher bank risk aversion that widens the financing cost gap between CF and GL may enable the retailers to prefer CF that induces higher financing costs than GL. We also reveal that when wholesale price is endogenous, GL might deteriorate or alleviate the double marginalization issue, and it could be Pareto-improved by partial joint liability. Our research provides managerial insights for the retailers' financing mode choices and the market managers' supply chain management.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.tre.2025.104132
+VL  - 199
+IS  - 
+SP  - 104132
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Strategic peril of sustainable logistics innovations under channel co-opetition
+AU  - Dai, Zhipeng
+AU  - Jin, Yong (Jimmy)
+AU  - Cheng, T. C. Edwin
+AU  - Zhu, Xingchen
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Developing sustainable technology innovations has been widely regarded as a promising solution for reducing environmental pollution and emissions in the logistics service supply chain. As consumers become more sustainability-minded, they increasingly prefer sustainable logistics services, prompting logistics service providers (LSPs) to put more effort into developing sustainable logistics. Sustainable logistics strategy enhances LSPs' competitive advantages, especially when competing against a powerful logistics service integrator (LSI) in the service market. However, this pursuit might introduce a strategic peril, where the simultaneous goals of improving economic and environmental performance may be at odds, potentially undermining the profits of LSPs in co-opetitive supply chains. In this paper, we consider a Cournot competition model to study a logistics service provider's (LSP's) decision to develop sustainable logistics while competing with a logistics service integrator (LSI) in logistics service and collaborating with the LSI in cargo canvassing. The LSP's costly effort to develop sustainable logistics can enhance its market competitiveness and reduce pollution per unit of its logistics service. We find that while sustainable logistics can benefit the LSP, its impact on the LSI's profit depends on the canvassing service price charged by the LSI. Notably, if this price is set strategically by the LSI rather than fixed exogenously, the LSI can also benefit from the LSP's sustainable logistics by optimally balancing its logistics and canvassing profits. We show that sustainable logistics may still fail to reduce environmental impact, even under endogenous service pricing. However, we also identify conditions under which economic and environmental sustainability can be coordinated.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.ijpe.2025.109643
+VL  - 286
+IS  - 
+SP  - 109643
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+

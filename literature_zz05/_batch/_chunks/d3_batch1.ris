@@ -1,0 +1,382 @@
+TY  - JOUR
+TI  - Sell the plant? The impact of contract manufacturing on innovation, capacity, and profitability
+AU  - Plambeck, EL
+AU  - Taylor, TA
+T2  - MANAGEMENT SCIENCE
+AB  - In the electronics industry and others, original equipment manufacturers (OEMs) are selling their production facilities to contract manufacturers (CMs). The CMs achieve high capacity utilization through pooling (supplying many different OEMs). Meanwhile, the OEMs focus on innovation: research and development, product design, and marketing. We examine how this change in industry structure affects investment in innovation and capacity, and thus profitability. In particular, innovation is noncontractible, so OEMs will invest less in innovation than is ideal for the industry as a whole. Hence, although contract manufacturing improves capacity utilization, it may reduce the profitability of the industry as a whole by weakening the incentives for innovation. Contract manufacturing is not the only means to achieve capacity pooling. Alternatively, the OEMs can pool capacity with one another through supply contracts or a joint venture. This may result in underinvestment or overinvestment in innovation and capacity, but always increases profitability. We find that the sale of production facilities to a CM improves profitability for the industry as a whole if and only if OEMs are subsequently in a strong bargaining position vis-a-vis the CM. If the OEMs are indeed very strong, the gain from pooling capacity via contract manufacturing is maximized in industries with moderate cost of capacity.
+DA  - 2005
+PY  - 2005
+DO  - https://doi.org/10.1287/mnsc.1040.0212
+VL  - 51
+IS  - 1
+SP  - 133-150
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Biform games
+AU  - Brandenburger, Adam
+AU  - Stuart, Harborne
+T2  - MANAGEMENT SCIENCE
+AB  - Both noncooperative and cooperative game theory have been applied to business strategy. We propose a hybrid noncooperative-cooperative game model, which we call a biform game. This is designed to formalize the notion of business strategy as making moves to try to shape the competitive environment in a favorable way. (The noncooperative component of a biform game models the strategic moves. The cooperative component models the resulting competitive environment.) We give biform models of various well-known business strategies. We prove general results on when a business strategy, modelled as a biform game, will be efficient.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1287/mnsc.1060.0591
+VL  - 53
+IS  - 4
+SP  - 537-549
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - The shapley value of a patent licensing game: The asymptotic equivalence to non-cooperative results
+AU  - Tauman, Yair
+AU  - Watanabe, Naoki
+T2  - ECONOMIC THEORY
+AB  - We consider a game in characteristic form played by firms and an outside patent holder of a cost-reducing innovation. The worth of a coalition of players is the total Cournot profit the coalition can guarantee to obtain when it operates an optimal number of its firms while the complement operates any number of its firms as to minimize the profit of the coalition. Only firms in a coalition with the patent holder are allowed to use the efficient technology. We prove that when the number of firms is large, the Shapley value of the patent holder approximates the payoff he obtains in the non-cooperative auction game traditionally studied in the literature.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1007/s00199-005-0047-5
+VL  - 30
+IS  - 1
+SP  - 135-149
+J2  - ECONOMIC THEORY
+ER  - 
+
+
+TY  - JOUR
+TI  - The horizontal scope of the firm: Organizational tradeoffs vs. buyer-supplier relationships
+AU  - Chatain, Olivier
+AU  - Zemsky, Peter
+T2  - MANAGEMENT SCIENCE
+AB  - Horizontal scope-the set of products and services offered-is an important dimension of firm strategy and a potentially significant source of competitive advantage. On one hand, the ability to build close buyer-supplier relationships over multiple transactions can give an advantage to broad firms that offer buyers one-stop shopping. On the other hand, the existence of organizational tradeoffs can give an advantage to firms that specialize in a narrower range of products or services. We develop a biform game that incorporates this tension and show how the use of three generic scope strategies-specialist, generalist, and hybrid-depends on organizational tradeoffs, client-specific scope economies, barriers to entry heterogeneity in buyer task requirements, and the bargaining power of suppliers relative to buyers. We then use the model to study a variety of issues in supply chain management, including the gains to coordinating suppliers, the optimal level of buyer power, and the desirability of subsidizing suppliers. One of our objectives is to show how biform games, which introduce unstructured negotiations into game theory analysis, can be used to develop applied theory relevant to strategy. Generalizing from our stylized model, we identify a class of biform games involving buyers and suppliers that is useful for strategy analysis. Games in this class have the attractive property of each supplier's share of industry total surplus being the product of its added value and its relative bargaining power.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1287/mnsc.1060.0680
+VL  - 53
+IS  - 4
+SP  - 550-565
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Implications of renegotiation for optimal contract flexibility and investment
+AU  - Plambeck, Erica L.
+AU  - Taylor, Terry A.
+T2  - MANAGEMENT SCIENCE
+AB  - In a stylized model of biopharmaceutical. contract manufacturing, this paper shows how the potential for renegotiation influences the optimal structure of supply contracts, investments in innovation and capacity; the way scarce capacity is allocated, and firms' resulting profits. Two buyers contract for capacity with a common manufacturer. Then, the buyers invest in innovation (product development and marketing) and the manufacturer builds capacity. Finally, the firms may renegotiate to allow a buyer facing poor market conditions to purchase less than the contractual commitment and a buyer facing favorable conditions to purchase more. We show that renegotiation can greatly increase the firms' investments and profits, provided that the contracts are designed correctly. Failing to anticipate renegotiation leads to contracts that allow too much flexibility in the buyer's order quantity, and perform poorly relative to contracts designed to anticipate renegotiation. We provide clear conditions under which quantity flexibility contracts with renegotiation coordinate the system. Where quantity flexibility contracts fail, employing tradable options improves performance.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1287/mnsc.1070.0731
+VL  - 53
+IS  - 12
+SP  - 1872-1886
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Creating monopoly power
+AU  - Stuart, Harborne W., Jr.
+T2  - INTERNATIONAL JOURNAL OF INDUSTRIAL ORGANIZATION
+AB  - The standard analysis of monopoly assumes that the seller has price-setting power. Without this assumption, it is not clear what monopoly power is or whether it exists. To address this question, this paper uses the core of a TU game in place of price-setting. The core provides a model of competition in which outcomes can be interpreted as the consequences of free-form bargaining or negotiations. This paper shows that if a core analysis is embedded in a capacity choice context, monopoly power can be created with credible undersupply. But in monopoly, a core analysis also shows that competition only partially determines the outcomes. Using a biform game analysis, this paper shows that the monopolist's view of this indeterminacy directly affects its capacity choice. A moderate view of the indeterminacy generates outcomes that are more socially beneficial than setting a uniform price. The two extreme views of the indeterminacy are shown to generate results consistent with uniform pricing and perfect price-discrimination. (C) 2007 Elsevier B.V. All rights reserved.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1016/j.ijindorg.2007.05.001
+VL  - 25
+IS  - 5
+SP  - 1011-1025
+J2  - INTERNATIONAL JOURNAL OF INDUSTRIAL ORGANIZATION
+ER  - 
+
+
+TY  - JOUR
+TI  - Lateral capacity exchange and its impact on capacity investment decisions
+AU  - Chakravarty, Amiya K.
+AU  - Zhang, Jun
+T2  - NAVAL RESEARCH LOGISTICS
+AB  - We study the problem of capacity exchange between two firms in anticipation of the mismatch between demand and capacity, and its impact on firm's capacity investment decisions. For given capacity investment levels of the two firms, we demonstrate how capacity price may be determined and how much capacity should be exchanged when either manufacturer acts as a Stackelberg leader in the capacity exchange game. By benchmarking against the centralized system, we show that a side payment may be used to coordinate the capacity exchange decisions. We then study the firms' capacity investment decisions using a biform game framework in which capacity investment decisions are made individually and exchange decisions are made as in a centralized system. We demonstrate the existence and uniqueness of the Nash equilibrium capacity investment levels and study the impact of firms' share of the capacity exchange surplus on their capacity investment levels. (c) 2007 Wiley Periodicals, Inc.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1002/nav.20235
+VL  - 54
+IS  - 6
+SP  - 632-644
+J2  - NAVAL RESEARCH LOGISTICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Brokers and competitive advantage
+AU  - Ryall, Michael D.
+AU  - Sorenson, Olav
+T2  - MANAGEMENT SCIENCE
+AB  - The broker profits by intermediating between two (or more) parties. Using a biform game, we examine whether such a position can confer a competitive advantage, as well as whether any such advantage could persist if actors formed relations strategically. Our analysis reveals that, if one considers exogenous the relations between actors, brokers can enjoy an advantage but only if (1) they do not face substitutes either for the connections they offer or the value they can create, (2) they intermediate more than two parties, and (3) interdependence does not lock them into a particular pattern of exchange. If, on the other hand, one allows actors to form relations on the basis of their expectations of the future value of those relations, then profitable positions of intermediation only arise under strict assumptions of unilateral action. We discuss the implications of our analysis for firm strategy and empirical research.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1287/mnsc.1060.0675
+VL  - 53
+IS  - 4
+SP  - 566-583
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - The non-cooperative game theory for trades in B2B electronic market
+AU  - Tarokh, Mohammad Jafar
+AU  - Sohrabi, Sahar
+AU  - Khoshalhan, Farid
+T2  - INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+AB  - B2B electronic market facilitates the transactions among businesses. It consists of buyers, sellers, and the market owner. But most of these markets could not generate the expected profits for all market participants. In this paper, expected profit for each market participant has been considered in a neutral market with double auction. Based on these profit functions, optimal quantities of bids and offers are determined for buyers and sellers. Then, a model based on game theory is proposed that leads to recognize optimal strategies for game players that include buyers, sellers, and the market owner. Using the optimal strategies will satisfy the game participants and maximize their benefits. Additionally, a numerical example is illustrated to better describe the proposed model.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1007/s00170-009-2319-x
+VL  - 48
+IS  - 5-8
+SP  - 823-828
+J2  - INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Game-theoretic analyses of decentralized assembly supply chains: Non-cooperative equilibria vs. coordination with cost-sharing contracts
+AU  - Leng, Mingming
+AU  - Parlar, Mahmut
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - This paper considers a multiple-supplier, single manufacturer assembly supply chain where the suppliers produce components of a short life-cycle product which is assembled by the manufacturer. In this single-period problem the suppliers determine their production quantities and the manufacturer chooses the retail price. We assume that the manufacturer faces a random price-dependent demand in either additive or multiplicative form. For each case, we analyze both simultaneous-move and leader-follower games to respectively determine the Nash and Stackelberg equilibria, and find the globally-optimal solution that maximizes the system-wide expected profit. Then, we introduce appropriate buy-back and lost-sales cost-sharing contracts to coordinate this assembly supply chain, so that when all the suppliers and the manufacturer adopt their equilibrium solutions, the system-wide expected profit is maximized. (C) 2009 Elsevier B.V. All rights reserved.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1016/j.ejor.2009.10.011
+VL  - 204
+IS  - 1
+SP  - 96-104
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - VALUE CREATION AND VALUE CAPTURE WITH FRICTIONS
+AU  - Chatain, Olivier
+AU  - Zemsky, Peter
+T2  - STRATEGIC MANAGEMENT JOURNAL
+AB  - We use a formal value-based model to study how frictions-incomplete linkages in the industry value chain that keep some parties from meeting and transacting-affect value creation and value capture. Frictions arise from search and switching costs and moderate the intensity of industry rivalry and the efficiency of the market. We find that firms with a competitive advantage prefer industries with less, but not zero, frictions. We show that rivalry interacts nontrivially with other competitive forces to affect industry attractiveness. Firm heterogeneity emerges naturally when we introduce resource development. Heterogeneity falls with frictions, but the sustainability of competitive advantage increases. Overall, we show that introducing frictions makes value-based models very effective at integrating analyses at the industry, firm, and resource levels. Copyright (C) 2011 John Wiley & Sons, Ltd.
+DA  - 2011
+PY  - 2011
+DO  - https://doi.org/10.1002/smj.939
+VL  - 32
+IS  - 11
+SP  - 1206-1231
+J2  - STRATEGIC MANAGEMENT JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Biform Game Based Cognitive Radio Scheme for Smart Grid Communications
+AU  - Kim, Sungwook
+T2  - JOURNAL OF COMMUNICATIONS AND NETWORKS
+AB  - Smart grid is widely considered to be a next generation power grid, which will be integrated with information feedback communications. However, smart grid communication technologies are subject to inefficient spectrum allocation problems. Cognitive radio networks can solve the problem of spectrum scarcity by opening the under-utilized licensed bands to secondary users. In this paper, adaptive cognitive radio spectrum sensing and sharing algorithms are developed for smart grid environments. Simulation results are presented to demonstrate the effectiveness of the proposed scheme in comparison with other existing schemes.
+DA  - 2012
+PY  - 2012
+DO  - https://doi.org/10.1109/JCN.2012.00027
+VL  - 14
+IS  - 6
+SP  - 614-618
+J2  - JOURNAL OF COMMUNICATIONS AND NETWORKS
+ER  - 
+
+
+TY  - JOUR
+TI  - Biform game: Reflection as a stochastic programming problem
+AU  - Summerfield, Nichalin S.
+AU  - Dror, Moshe
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In this paper we examine the biform games modeling framework. More specifically, we recast biform games as two-stage stochastic programming with recourse. The two-stage stochastic programming view of biform games is demonstrated in this paper on an example from Brandenburger and Stuart (2007) regarding a coordination game. We claim that our stochastic programming format for biform games allows for a well established mathematical methodology to enrich the modeling options when applied to biform competitive and cooperative game options. Published by Elsevier B.V.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1016/j.ijpe.2012.10.021
+VL  - 142
+IS  - 1
+SP  - 124-129
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Research on coordination mechanism in three-level green supply chain under non-cooperative game
+AU  - Zhang, Cheng-Tang
+AU  - Liu, Li-Ping
+T2  - APPLIED MATHEMATICAL MODELLING
+AB  - In view of the three-level green supply chain system in which market demand correlates with product green degree, game theory is applied to study four models, namely cooperative decision-making, three-level leader-follower game, Stackelberg game I and Stackelberg game II. Theoretical analysis shows that the profits of both the supply chain system and participating members reach the optimal level under cooperative decision-making, while the decision results of participating members as well as the channel profit are far from satisfactory under the non-cooperative game. By building a revenue sharing mechanism, Shapley value method coordination mechanism and asymmetric Nash negotiation mechanism, supply chain members are motivated to respond positively to the cooperation in producing and marketing green products, the optimal income distribution coefficient of participating members is given, and the income of each member is increased substantially as is compared with that under the non-cooperative game. Also, by determining the cooperative parameter, green supply chain managers may effectively get involved in the aforementioned coordination mechanisms to intervene and regulate the green channel so as to promote the smooth operation of green supply chain. (C) 2012 Elsevier Inc. All rights reserved.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1016/j.apm.2012.08.006
+VL  - 37
+IS  - 5
+SP  - 3369-3379
+J2  - APPLIED MATHEMATICAL MODELLING
+ER  - 
+
+
+TY  - JOUR
+TI  - COMPETITION, GOVERNANCE, AND RELATIONSHIP-SPECIFIC INVESTMENTS: THEORY AND IMPLICATIONS FOR STRATEGY
+AU  - Jia, Nan
+T2  - STRATEGIC MANAGEMENT JOURNAL
+AB  - This paper uses biform games to examine the endogenous decision to invest in relationship-specific assets. It addresses the questions of how competition affects suppliers' decisions to produce a general-purpose product or a relationship-specific product for a buyer and under what circumstances a governance arrangement designed to share investment costs between the transacting parties increases the investment in relationship-specific assets. We offer a balanced perspective that emphasizes both the superior transaction value of relationship-specific products and their high transaction costs while considering the competition effects generated by alternative investment plans. The model and its extensions generate new insights into investment decisions regarding relationship-specific assets. Copyright (C) 2013 John Wiley & Sons, Ltd.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1002/smj.2077
+VL  - 34
+IS  - 13
+SP  - 1551-1567
+J2  - STRATEGIC MANAGEMENT JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Organization and Bargaining: Sales Process Choice at Auto Dealerships
+AU  - Bennett, Victor Manuel
+T2  - MANAGEMENT SCIENCE
+AB  - This paper examines how firms' organizational form affects prices negotiated. Negotiated prices are one factor determining whether a vendor or customer captures the value from a transaction. Firms that systematically negotiate more effectively capture more value. Research has investigated individual- and market-level determinants of negotiation outcomes, but little has been done on the firm-level determinants of negotiated prices. I present a first look at one feature, sales process: whether salespeople handle the entire sale in parallel or customers begin with less experienced salespeople who can escalate difficult assignments. I model firms' choice of sales process as a biform game and test predictions of the model using a combination of transaction-level data on new car purchases in the United States and a unique survey of dealership management practices. I find that a serial process has implications consistent with improving firms' bargaining power and reducing customers' outside options.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1287/mnsc.1120.1691
+VL  - 59
+IS  - 9
+SP  - 2003-2018
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Manufacturers' coalition under a price elastic market - a quadratic production game approach
+AU  - Mahjoub, Sonia
+AU  - Hennet, Jean-Claude
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - The paper addresses a supply network design problem in which a set of enterprises decides to organise itself as a multi-stage supply network by resource sharing and production coordination. A biform game theory formulation of the problem is obtained by combining the cooperative sub-game in the manufacturing network with the strategic sub-game of the Stackelberg type between the retailer and the manufacturers' network. As a result of the interaction between these two sub-games, a new type of cooperative game, the quadratic production game, is formulated to describe the supply network design problem under anticipated price elastic demands from the market. The key problem of coalitional stability is addressed through the properties of rationality and fairness of the profit sharing agreement. We prove that the game is non-convex in general and thus, the fair solution given by the Shapley value allocation is not always rational. It is proposed to reinforce the coalition stability by selecting a minimal set of partner enterprises achieving the maximal expected profit and applying a profit sharing policy with guaranteed fairness restricted to the member enterprises.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1080/00207543.2013.874605
+VL  - 52
+IS  - 12
+SP  - 3568-3582
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Surplus division and investment incentives in supply chains: A biform-game analysis
+AU  - Feess, Eberhard
+AU  - Thun, Joern-Henrik
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper, we use a biform-game approach for analyzing the impact of surplus division in supply chains on investment incentives. In the first stage of the game, firms decide non-cooperatively on investments. In the second stage, the surplus is shared according to the Shapley value. We find that all firms have inefficiently low investment incentives which, however, depend on their position in the supply chain. Cross-subsidies for investment costs can mitigate, but not eliminate the underinvestment problem. Vertical integration between at least some firms.yields efficient investments, but may nevertheless reduce the aggregated payoff of the firms. We show how the size of our effects depends on the structure of the supply chain and the efficiency of the investment technology. Various extensions demonstrate that our results are qualitatively robust. (C) 2013 Elsevier B.V. All rights reserved.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1016/j.ejor.2013.09.039
+VL  - 234
+IS  - 3
+SP  - 763-773
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Non-cooperative and cooperative game-theoretic models for usage-based lease contracts
+AU  - Hamidi, Maryam
+AU  - Liao, Haitao
+AU  - Szidarovszky, Ferenc
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper, we study game-theoretic models for lease contracts, by which the owner (lessor) rents a piece of equipment to a user (lessee). The lessee decides on the optimal lease period and usage rate, and the lessor is responsible for developing a maintenance policy for the equipment Two non-cooperative game-theoretic models and a cooperative model are developed to describe the relationships between the two decision makers. In the non-cooperative simultaneous move game, the lessee and the lessor act simultaneously and independently to make their decisions. In the leader follower non-cooperative game, the lessor is the leader who specifies the maintenance policy first, and the lessee, as the follower, decides on the lease period and usage rate accordingly. For these two games, the Nash and Stackelberg equilibria are obtained respectively. For the cooperative game, we derive the solution targeting on total profit maximization and show that this solution can be implemented as an equilibrium using a nonlinear transfer-payment contract. Besides, we compare the Nash equilibrium, Stackelberg equilibrium, and the total maximum solution to each other, and our results show that the lessee and lessor can gain more profit from the cooperative contract than from the non-cooperative alternatives. Numerical examples are provided to demonstrate the different solution methodologies and the value of cooperation. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.ejor.2016.04.064
+VL  - 255
+IS  - 1
+SP  - 163-174
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Non-cooperative game of a duopoly under asymmetric information on consumer location
+AU  - Herbon, Avi
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - We consider a single inventoried product that is sold by two competing firms (i.e. a duopoly). The two firms are located at both endpoints of a straight line. We assume the firms are unequal in their access to information on consumer locations, that is, only one of the two firms has full information about consumer location. By modelling the profit maximisation problem as a non-cooperative game, we obtain the best response function of the firm who does not have access to accurate consumer information. We show that this response function is translated into a unique, global solution. Through an extensive numerical example, we conclude that asymmetric information on consumer location has a significant effect on the profit gap between the competing firms and on the market share that each firm is able to attract. We conclude that when one firm inaccurately estimates consumer information about location, this can cause a significant deterioration in the profits of both firms and the consumers are the ones who gain from this information asymmetry. This conclusion encourages information sharing with the uninformed firm. Surprisingly, it also emerges from our computation that the higher the travelling costs the higher profits both firms obtain.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1080/00207543.2016.1278482
+VL  - 55
+IS  - 18
+SP  - 5185-5201
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - A non-cooperative game model for managing a multiple-aged expiring inventory under consumers' heterogeneity to price and time
+AU  - Herbon, Avi
+T2  - APPLIED MATHEMATICAL MODELLING
+AB  - The considered inventory system includes the coexistence of old and new types belonging to an identical product. A non-cooperative game approach between the retailer and the market, where the retailer aims to increase her profit, is developed. The market, on the other hand, may seek different objectives. In particular, the objectives of price minimization, freshness maximization, and maximization of the quantity on shelf are analyzed. The main objectives are to develop a model of a multiple-aged inventory system and to specify the conditions under which multiple types on the shelf are not beneficial to either the retailer or the market. Using an analytic optimization approach, the optimal response functions of the two players are derived, while with the aid of numerical iterations, the non-cooperative game Nash equilibrium is obtained. The main theoretical result indicates that selling an inventory that simultaneously holds multiple ages is not optimal; that is, both the retailer and consumers lose out from such a situation. This conclusion is general enough to be valid for a market that is heterogeneous with respect to both price sensitivity and sensitivity to the remaining time until expiration. A numerical example and a sensitivity analysis of the key parameters support the conclusions and highlight their importance. (C) 2017 Elsevier Inc. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.apm.2017.06.006
+VL  - 51
+IS  - 
+SP  - 38-57
+J2  - APPLIED MATHEMATICAL MODELLING
+ER  - 
+
+
+TY  - JOUR
+TI  - Design Incentives Under Collective Extended Producer Responsibility: A Network Perspective
+AU  - Gui, Luyi
+AU  - Atasu, Atalay
+AU  - Ergun, Ozlem
+AU  - Toktay, L. Beril
+T2  - MANAGEMENT SCIENCE
+AB  - A key goal of Extended Producer Responsibility (EPR) legislation is to provide incentives for producers to design their products for recyclability. EPR is typically implemented in a collective system, where a network of recycling resources are coordinated to fulfill the EPR obligations of a set of producers, and the resulting system cost is allocated among these producers. Collective EPR is prevalent because of its cost efficiency advantages. However, it is considered to provide inferior design incentives compared to an individual implementation (where producers fulfill their EPR obligations individually). In this paper, we revisit this assertion and investigate its fundamental underpinnings in a network setting. To this end, we develop a new biform game framework that captures producers' independent design choices (noncooperative stage) and recognizes the need to maintain the voluntary participation of producers for the collective system to be stable (cooperative stage). This biform game subsumes the network-based operations of a collective system and captures the interdependence between producers' product design and participation decisions. We then characterize the manner in which design improvement may compromise stability and vice versa. We establish that a stable collective EPR implementation can match and even surpass an individual implementation with respect to product design outcomes. In particular, we show that when the processing technology efficiency and product recyclability are substitutes (complements), a recycling network where processor capacity pooling leads to sufficiently low (high) cost reduction will lead to superior designs in the collective system and maintain its stability, and we propose cost allocation mechanisms to achieve this dual purpose.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1287/mnsc.2017.2897
+VL  - 64
+IS  - 11
+SP  - 5083-5104
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Losing by winning: The danger zone of adverse competitor replacement
+AU  - Makadok, Richard
+AU  - Ross, David Gaddis
+T2  - STRATEGIC MANAGEMENT JOURNAL
+AB  - Research Summary: We use a formal model, motivated by a case study from the airline industry, to consider an industry structure wherein a firm may find that improving its competitiveness hurts its performance. Specifically, we examine the possibility that a superior incumbent may, by getting stronger, drive a weak rival from the market, and thereby allow a stronger rival to enter in its place. Such adverse competitor replacement reduces the profit of the superior incumbent and may even, in an extreme case, cause the superior incumbent to be driven from the market as well. We show that adverse competitor replacement can arise under a rational equilibrium and may become more likely if a firm improves its capability for self-improvement. Managerial Summary: Managers are consistently advised to improve the competitiveness of their firms and beat the competition. We examine the possibility that beating out the competition may have adverse consequences. Specifically, a strong incumbent may, by getting stronger, outcompete a weaker rival to such an extent that the weaker rival exits the market, thereby creating an open market niche for a stronger rival to enter, in effect, a form of adverse competitor replacement. Competing with this stronger rival may in turn reduce the strong incumbent's profits below what they had been before driving the weak rival out. We illustrate adverse competitor replacement with a case study from the airline industry and discuss implications for a firm's investment in its own competitiveness.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1002/smj.2910
+VL  - 39
+IS  - 7
+SP  - 1990-2013
+J2  - STRATEGIC MANAGEMENT JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Modelling pricing, vertical co-op advertising and quality improvement in a non-cooperative three-echelon supply chain using game theory approach
+AU  - Shoeleh, Razieh
+AU  - Seifbarghy, Mehdi
+AU  - Pishva, Davar
+T2  - RAIRO-OPERATIONS RESEARCH
+AB  - Vertical cooperative (co-op) advertising is one of the well-known mechanisms for coordination of supply chains. Vertical co-op advertising is a financial agreement in which a member of the chain pays certain percentage (i.e. cooperation rate) of a subsequent member's advertisement cost. Since increasing the number of echelons and decision variables in supply chain problems increase the modelling and computational complexity, most researchers study vertical co-op advertising in a two-level supply chain including a manufacturer and a retailer. This paper investigates the problem by considering price and quality levels as additional decision variables in a three-echelon supply chain consisting of one supplier, one manufacturer, and one retailer. The ultimate goal is to show supply chain managers the importance of product quality as well the role of local advertisement in positively influencing market demand on top of the traditional approach of speed and efficiency optimization. Using game theory approach, power of the manufacturer is assumed to be higher than or equal to those of others in the chain. Five different relationships between players are considered in five non-cooperative games (named as G1-G5) and equilibrium solutions are extracted for each. The results show that the manufacturer prefers to play Stackelberg with the retailer and the supplier rather than be in conflict with them in Nash game. Such preference can lead manufacturer towards high quality and cost-efficient product/service via efficient advertisement in our complex network of business firms.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1051/ro/2018109
+VL  - 53
+IS  - 5
+SP  - 1937-1965
+J2  - RAIRO-OPERATIONS RESEARCH
+ER  - 
+

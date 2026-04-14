@@ -1,0 +1,864 @@
+TY  - JOUR
+TI  - Trading reliability targets within a supply chain using Shapley's value
+AU  - Quigley, John
+AU  - Walls, Lesley
+T2  - RELIABILITY ENGINEERING & SYSTEM SAFETY
+AB  - The development of complex systems involves a multi-tier supply chain, with each organisation allocated a reliability target for their sub-system or component part apportioned from system requirements. Agreements about targets are made early in the system lifecycle when considerable uncertainty exists about the design detail and potential failure modes. Hence resources required to achieve reliability are unpredictable. Some types of contracts provide incentives for organisations to negotiate targets so that system reliability requirements are met, but at minimum cost to the supply chain. This paper proposes a mechanism for deriving a fair price for trading reliability targets between suppliers using information gained about potential failure modes through development and the costs of activities required to generate such information. The approach is based upon Shapley's value and is illustrated through examples for a particular reliability growth model, and associated empirical cost model, developed for problems motivated by the aerospace industry. The paper aims to demonstrate the feasibility of the method and discuss how it could be extended to other reliability allocation models. (C) 2006 Elsevier Ltd. All rights reserved.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1016/j.ress.2006.09.019
+VL  - 92
+IS  - 10
+SP  - 1448-1457
+J2  - RELIABILITY ENGINEERING & SYSTEM SAFETY
+ER  - 
+
+
+TY  - JOUR
+TI  - A game-theoretic approach to transfer pricing in a vertically integrated supply chain
+AU  - Rosenthal, Edward C.
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - We study the problem of setting transfer prices in a vertically integrated supply chain, in which the divisions share technology and transactions costs. We develop a cooperative game that provides transfer prices for the intermediate products in the supply chain. This model is applied both when the market prices for these products are known and also when their valuations differ. We provide a solution that is fair and acceptable to all divisions. In the perfect information case, the Shapley value generates the transfer prices, while in the asymmetric case we obtain transfer prices from the solution to a linear program. (C) 2008 Elsevier B.V. All rights reserved.
+DA  - 2008
+PY  - 2008
+DO  - https://doi.org/10.1016/j.ijpe.2008.05.018
+VL  - 115
+IS  - 2
+SP  - 542-552
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Side-payment contracts in two-person nonzero-sum supply chain games: Review, discussion and applications
+AU  - Leng, Mingming
+AU  - Zhu, An
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - This paper investigates supply chain coordination with side-payment contracts. We first summarize specific side-payment contracts and present our review on the literature that developed general side-payment schemes to coordinate supply chains. Following our review, we discuss two criteria that a proper side-payment contract must satisfy, and accordingly introduce a decision-dependent transfer payment function and a constant transfer term. We present the condition that the transfer function must satisfy, and use Nash arbitration scheme and Shapley value to compute the constant transfer term and derive its closed-form solution. Next, we provide a five-step procedure for the development of side-payment contract, and apply it to four supply chain games: Cournot and Bertrand games, a two-retailer supply chain game with substitutable products and a one-supplier, one-retailer supply chain. More specifically, for the Cournot game, we construct a linear transfer function and a constant side-payment to coordinate two producers. For the Bertrand game, we build a nonlinear transfer function which is equivalent to a revenue-sharing contract, and show that the constant term is zero and two firms in the game equally share the system-wide profit. For a supply chain with substitutable products, we present a side-payment contract to coordinate two retailers. For a two-echelon supply chain, we develop a proper side-payment scheme that can coordinate the supply chain and also help reduce the impact of forward buying on supply chain performance. (C) 2008 Elsevier B.V. All rights reserved.
+DA  - 2009
+PY  - 2009
+DO  - https://doi.org/10.1016/j.ejor.2008.03.029
+VL  - 196
+IS  - 2
+SP  - 600-618
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost allocation in collaborative forest transportation
+AU  - Frisk, M.
+AU  - Gothe-Lundgren, M.
+AU  - Jornsten, K.
+AU  - Ronnqvist, M.
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Transportation planning is an important part of the supply chain or wood flow chain in forestry. There are often several forest companies operating in the same region and collaboration between two or more companies is rare. However, there is an increasing interest in collaborative planning as the potential savings are large, often in the range 5-15%. There are several issues to agree on before such collaborative planning can be used in practice. A key question is how the total cost or savings should be distributed among the participants. In this paper, we study a large application in southern Sweden with eight forest companies involved in a collaboration. We investigate a number of sharing mechanisms based on economic models including Shapley value, the nucleolus, separable and non-separable costs, shadow prices and volume weights. We also propose a new allocation method, with the aim that the participants relative profits are as equal as possible. We use two planning models, the first is based on direct flows between supply and demand points and the second includes backhauling. We also study how several time periods and geographical distribution of the supply and demand nodes affect the solutions. Better planning within each company can save about 5% and collaboration can increase this about another 9% to a total of 14%. The proposed allocation method is shown to be a practical approach to share the overall cost/savings. (C) 2010 Elsevier B.V. All rights reserved.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1016/j.ejor.2010.01.015
+VL  - 205
+IS  - 2
+SP  - 448-458
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation among liquefied natural gas suppliers: Is rationalization the sole objective?
+AU  - Massol, Olivier
+AU  - Tchung-Ming, Stephane
+T2  - ENERGY ECONOMICS
+AB  - This paper examines the development of cooperative strategies between countries exporting Liquefied Natural Gas (LNG) and members of the Gas Exporting Countries Forum (GECF). This economic study focuses specifically on an often-raised scenario: the emergence of a cooperative approach designed with the sole aim of logistic rationalization, and which would not have any effect on LNG prices. We first assess the annual gains that may result from this market-power-free cooperative approach using a simple static transportation model. The numerical results obtained suggest that, in the absence of a gain redistribution policy, this cooperative strategy will probably not be adopted because cooperation would not be a rational move for some exporters. The problem of gain sharing is then formulated using cooperative game theory concepts. Several gain-sharing methods have been studied, including the Shapley value and various nucleolus-inspired concepts. Our results suggest that the choice of a redistribution policy appears relatively restricted. Out of the methods studied, only one - per capita nucleolus - satisfies two key requirements: core belonging and monotonicity (in the aggregate). Lastly, we look at how cooperation may give rise to a coordination cost and try to determine the maximum amount of this cost. In view of the low level of this amount and the relative complexity of the sharing method implemented, we consider that the credibility of a logistic cooperation scenario exempt from market power should be reappraised. (C) 2010 Elsevier B.V. All rights reserved.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1016/j.eneco.2010.02.008
+VL  - 32
+IS  - 4
+SP  - 933-947
+J2  - ENERGY ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Profit allocation mechanisms for carrier collaboration in pickup and delivery service
+AU  - Dai, Bo
+AU  - Chen, Haoxun
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - In collaborative logistics, multiple carriers may form an alliance by sharing their transportation requests and vehicle capacities in order to increase vehicle utilization rates and reduce empty back hauls. In this paper, a carrier collaboration problem in pickup and delivery service (CCPPD) is studied. CCPPD has two important issues which are the optimal reallocation of transportation requests among the carriers to maximize a total profit of the alliance and a fair allocation of the profit among the carriers so as to maintain the stability of the alliance. In this study, the profit allocation among carriers is addressed under a centralized collaboration framework. We propose three profit allocation mechanisms which are based on Shapley value, the proportional allocation concept, and the contribution of each carrier in offering and serving requests, respectively. All the mechanisms ensure that the allocation is in the core lithe latter is not empty. They are evaluated and compared with numerical experiments on randomly generated instances. (C) 2011 Elsevier Ltd. All rights reserved.
+DA  - 2012
+PY  - 2012
+DO  - https://doi.org/10.1016/j.cie.2011.11.029
+VL  - 62
+IS  - 2
+SP  - 633-643
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Research on coordination mechanism in three-level green supply chain under non-cooperative game
+AU  - Zhang, Cheng-Tang
+AU  - Liu, Li-Ping
+T2  - APPLIED MATHEMATICAL MODELLING
+AB  - In view of the three-level green supply chain system in which market demand correlates with product green degree, game theory is applied to study four models, namely cooperative decision-making, three-level leader-follower game, Stackelberg game I and Stackelberg game II. Theoretical analysis shows that the profits of both the supply chain system and participating members reach the optimal level under cooperative decision-making, while the decision results of participating members as well as the channel profit are far from satisfactory under the non-cooperative game. By building a revenue sharing mechanism, Shapley value method coordination mechanism and asymmetric Nash negotiation mechanism, supply chain members are motivated to respond positively to the cooperation in producing and marketing green products, the optimal income distribution coefficient of participating members is given, and the income of each member is increased substantially as is compared with that under the non-cooperative game. Also, by determining the cooperative parameter, green supply chain managers may effectively get involved in the aforementioned coordination mechanisms to intervene and regulate the green channel so as to promote the smooth operation of green supply chain. (C) 2012 Elsevier Inc. All rights reserved.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1016/j.apm.2012.08.006
+VL  - 37
+IS  - 5
+SP  - 3369-3379
+J2  - APPLIED MATHEMATICAL MODELLING
+ER  - 
+
+
+TY  - JOUR
+TI  - Individually rational buyback contracts with inventory level dependent demand
+AU  - Devangan, Lokendra
+AU  - Amit, R. K.
+AU  - Mehta, Peeyush
+AU  - Swami, Sanjeev
+AU  - Shanker, Kripa
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In this paper, we consider a supply chain coordination problem when demand faced by a retailer is influenced by the amount of inventory displayed on the retail shelf. We assume that shelf space inventory is used as one of the levers to stimulate demand. Our objective in this research is to design individually rational contracts that coordinate the supply chain when the retailer faces inventory-level-dependent demand. We consider a buyback contract where any leftover inventory at the retailer can be returned to the supplier at a pre-specified terms of the buyback contract. The existing buyback contracts in the supply chain coordination literature do not guarantee the satisfaction of individual rationality constraint. A continuum of buyback contracts coordinate the supply chain. The contracts may differ on the basis of division of profits resulting in contracts that may not be individually rational. This motivates us to use the Shapley value from the cooperative game theory which ensures fairness and individual rationality in the buyback contract. We also provide managerial insights into the design of the contracts and analyze the impact of shelf space inventory on the contract parameters. (C) 2012 Elsevier B.V. All rights reserved.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1016/j.ijpe.2012.12.014
+VL  - 142
+IS  - 2
+SP  - 381-387
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation and game-theoretic cost allocation in stochastic inventory models with continuous review
+AU  - Timmer, Judith
+AU  - Chessa, Michela
+AU  - Boucherie, Richard J.
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - We study cooperation strategies for companies that continuously review their inventories and face Poisson demand. Our main goal is to analyze stable cost allocations of the joint costs. These are such that any group of companies has lower costs than the individual companies. If such allocations exist they provide an incentive for the companies to cooperate. We consider two natural cooperation strategies: (i) the companies jointly place an order for replenishment if their joint inventory position reaches a certain reorder level, and (ii) the companies reorder as soon as one of them reaches its reorder level. Numerical experiments for two companies show that the second strategy has the lowest joint costs. Under this strategy, the game-theoretical Shapley value and the distribution rule-a cost allocation in which the companies share the procurement cost and each pays its own holding cost-are shown to be stable cost allocations. These results also hold for situations with three companies. (c) 2013 Elsevier B.V. All rights reserved.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1016/j.ejor.2013.05.051
+VL  - 231
+IS  - 3
+SP  - 567-576
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Coordination of transportation and quantity discount decisions, with coalition formation
+AU  - Ke, Ginger Y.
+AU  - Bookbinder, James H.
+AU  - Kilgour, D. Marc
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - Although it is an essential link in any supply chain, transportation is often neglected in inventory decisions. In reordering decisions, for example, this omission may well result in unexpected losses, as transportation and quantity discounts can be tricky. In this paper, we study the problem of optimal coordination of these discounts from the perspectives of the parties who offer them, rather than of those who take them. Using a non-cooperative model of a three-party supply chain, we show that cooperation can benefit each member individually, and the supply chain overall. In fact, cooperation can generate a non-empty core - that is, there may be a surplus that can be allocated so that all parties and all coalitions of parties, are induced to continue to cooperate. We provide a detailed algorithm, based on the Shapley value, to allocate the surplus fairly and illustrate it with numerical examples.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1080/00207543.2014.899716
+VL  - 52
+IS  - 17
+SP  - 5115-5130
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Surplus division and investment incentives in supply chains: A biform-game analysis
+AU  - Feess, Eberhard
+AU  - Thun, Joern-Henrik
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper, we use a biform-game approach for analyzing the impact of surplus division in supply chains on investment incentives. In the first stage of the game, firms decide non-cooperatively on investments. In the second stage, the surplus is shared according to the Shapley value. We find that all firms have inefficiently low investment incentives which, however, depend on their position in the supply chain. Cross-subsidies for investment costs can mitigate, but not eliminate the underinvestment problem. Vertical integration between at least some firms.yields efficient investments, but may nevertheless reduce the aggregated payoff of the firms. We show how the size of our effects depends on the structure of the supply chain and the efficiency of the investment technology. Various extensions demonstrate that our results are qualitatively robust. (C) 2013 Elsevier B.V. All rights reserved.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1016/j.ejor.2013.09.039
+VL  - 234
+IS  - 3
+SP  - 763-773
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Manufacturers' coalition under a price elastic market - a quadratic production game approach
+AU  - Mahjoub, Sonia
+AU  - Hennet, Jean-Claude
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - The paper addresses a supply network design problem in which a set of enterprises decides to organise itself as a multi-stage supply network by resource sharing and production coordination. A biform game theory formulation of the problem is obtained by combining the cooperative sub-game in the manufacturing network with the strategic sub-game of the Stackelberg type between the retailer and the manufacturers' network. As a result of the interaction between these two sub-games, a new type of cooperative game, the quadratic production game, is formulated to describe the supply network design problem under anticipated price elastic demands from the market. The key problem of coalitional stability is addressed through the properties of rationality and fairness of the profit sharing agreement. We prove that the game is non-convex in general and thus, the fair solution given by the Shapley value allocation is not always rational. It is proposed to reinforce the coalition stability by selecting a minimal set of partner enterprises achieving the maximal expected profit and applying a profit sharing policy with guaranteed fairness restricted to the member enterprises.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1080/00207543.2013.874605
+VL  - 52
+IS  - 12
+SP  - 3568-3582
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative interconnection settlement among ISPs through NAP
+AU  - Zhou, Weihua
+AU  - Pu, Yaqi
+AU  - Dai, Hongyan
+AU  - Jin, Qingwei
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - This paper studies the settlement problem among Internet Service Providers (ISPs) who interconnect with each other through Network Access Point (NAP). A cooperative game framework is adopted for the analysis. Two commonly adopted allocations, i.e., the non-settlement profit allocation and the Shapley-value based profit allocation, are analyzed and compared. We check whether these two allocations can encourage ISPs to interconnect with each other (i.e., in the core of the game) and, at the same time, demonstrate fairness in settlement. Our results show that the non-settlement allocation is not in the core and does not preserve fairness, and the Shapley-value based profit allocation is in the core and demonstrates fairness. However, the complex structure of Shapley-value makes it difficult to understand for ISPs and hard to be implemented at NAP especially when ISPs can only make their pricing decisions independently. Therefore, we propose a Characterized Profit Allocation (CPA) which is in the core, preserves fairness and is easy to interpret. We further propose a settlement rule based on CPA which enables the ISPs to act independently but achieve global optimality. We also extend our basic model to incorporate interconnection quality decisions and market competition, and show that the proposed settlement rule and its extended form work well in these scenarios. Numerical experiments confirm that CPA and its corresponding settlement rule can effectively encourage interconnection among ISPs and motivate ISPs to expand their networks. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2016.06.061
+VL  - 256
+IS  - 3
+SP  - 991-1003
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Profit distribution in collaborative multiple centers vehicle routing problem
+AU  - Wang, Yong
+AU  - Ma, Xiaolei
+AU  - Li, Zhibin
+AU  - Liu, Yong
+AU  - Xu, Maozeng
+AU  - Wang, Yinhai
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - A collaborative multiple-center vehicle routing problem (CMCVRP) is a multi-constraint combinatorial and game optimization issue containing both vehicle routing optimization and profit distribution procedures. The CMCVRP is generally used to study the logistics network structure adjustment from a non optimal network structure to a collaborative multiple DCs network optimization structure. The optimization of CMCVR can effectively improve vehicle loading rate and reduce the crisscross transportation phenomenon. Designing a reasonable profit distribution mechanism is a critical step of CMCVR optimization. Collaboration can be organized through a negotiation process by a logistics service provider. This paper establishes an integer-programming model that contains transportation costs among distribution centers (DCs) and vehicle routing costs in each DC to minimize the total costs of CMCVRP. A multi-phase hybrid approach with clustering, dynamic programming, and heuristic algorithm is presented to solve the model formulation. The clustering procedure increases the likelihood that the solution will converge to an optimal value, between-route operations (relocate, 2-opt* exchange, and swap move) in the heuristic algorithm will improve the initial solution, and the within-route (dynamic programming) procedure will calculate a good feasible solution for each vehicle route. Both between- and within-route operations are recursively executed to find the best solution. Profit distribution plans are then established using the improved Shapley value model. Optimal sequential coalitions are selected based on strictly monotonic path, cost reduction model, and best strategy of sequential coalition selection in cooperative game theory. An empirical study in Chongqing, China suggests that the proposed approach outperforms other algorithms, and the best sequential coalition can be selected and adjusted to increase the negotiation power for network optimization of logistics distribution. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2017.01.001
+VL  - 144
+IS  - 
+SP  - 203-219
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Uncertain Shapley value of coalitional game with application to supply chain alliance
+AU  - Gao, Jinwu
+AU  - Yang, Xiangfeng
+AU  - Liu, Di
+T2  - APPLIED SOFT COMPUTING
+AB  - Uncertain coalitional game deals with situations in which the transferable payoffs are uncertain variables. The uncertain core has been proposed as the solution of uncertain coalitional game. This paper goes further by presenting two definitions of uncertain Shapley value: expected Shapley value and alpha-optimistic Shapley value. Meanwhile, some characterizations of the uncertain Shapley value are investigated. Finally, as an application, uncertain Shapley value is used to solve a profit allocation problem of supply chain alliance. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.asoc.2016.06.018
+VL  - 56
+IS  - 
+SP  - 551-556
+J2  - APPLIED SOFT COMPUTING
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative replenishment in the presence of intermediaries
+AU  - Hezarkhani, Behzad
+AU  - Slikker, Marco
+AU  - Van Woensel, Tom
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In complex supply chains, downstream buyers would often replenish individually from intermediaries instead of directly dealing with original manufacturers. Although collaborative replenishment from intermediaries might generate benefits, significant cost reductions could be achieved when direct replenishments from manufacturers are considered. This paper constructs a general model to study collaborative replenishment in multi-product chains with alternative sources of supply-i.e., manufacturers and intermediaries. A collaborative organization determines the optimal choices of replenishment sources on behalf of its members to minimize collective costs. We introduce a class of cooperative games associated with these situations and give sufficient conditions for their concavity. We investigate the choice of allocation rule and its effect on supply chain efficiency when buyers strategically participate in the collaborative organization. We prove that the Shapley value coordinates the supply chain, i.e., it makes complete participation the best strategy for buyers even under asymmetric information. This setting is compared with an alternative structure where buyers can only collaborate in source-specific replenishment organizations that purchase all requested products either from intermediaries or manufacturers. Although there are always participation strategies that result in minimum collective cost, it is impossible to find allocation rules for source-specific replenishment organizations that always motivate the buyers to choose such strategies. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ejor.2017.09.033
+VL  - 266
+IS  - 1
+SP  - 135-146
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Designing an eco-efficient biomass-based supply chain using a multi-actor optimisation model
+AU  - Jonkman, Jochem
+AU  - Kanellopoulos, Argyris
+AU  - Bloemhof, Jacqueline M.
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Sustainability concerns emphasise the importance of identifying eco-efficient supply chain configurations which balance economic and environmental chain objectives. The applied modelling approaches for this purpose often assume the availability of raw materials and full coordination within the supply chain studied. Some or all actors in the chain can however pursue individual objectives, making the obtained solutions unfeasible in practice. Economic incentives support aligning the objectives of the different supply chain actors. This paper explores the design of eco-efficient biomass supply chains and economic gain allocation between the supply chain partners. A case study is developed for the sugar beet processing chain in the Netherlands, in which farmers can also choose to produce other competing crops. We observe that higher yields often lead to lower carbon emissions per ton of produce. Hence, eco-efficient solutions are found to have production and processing locations in the most productive regions. Additionally, margin sharing above the minimum sugar beet price is necessary to ensure the production of the desired quantity of sugar beet. Realistic sugar beet prices are determined using a Shapley-value approach, leading to a fair distribution of margin among the farmers and processor in the supply chain. (C) 2018 Elsevier Ltd. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.jclepro.2018.10.351
+VL  - 210
+IS  - 
+SP  - 1065-1075
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Coordinating a closed-loop supply chain with fairness concerns through variable-weighted Shapley values
+AU  - Zheng, Xiao-Xue
+AU  - Li, Deng-Feng
+AU  - Liu, Zhi
+AU  - Jia, Fu
+AU  - Sheu, Jiuh-Biing
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - This paper considers a closed-loop supply chain (CLSC) structure in which a manufacturer allows a retailer and a third-party remanufacturer to sell and remanufacture his products, respectively. Given the retailer's distributional fairness concerns, we investigate the optimal/equilibrium decisions and profits under five non-cooperative and cooperative game models, and focus on how to allocate maximum profit in a centralized setting. Based on the classic Shapley value, we propose an innovative weighted allocation approach-namely, the variable-weighted Shapley value-to coordinate this CLSC. Numerical studies demonstrate that when remanufactured products are lowly accepted by consumers, our model outperforms the classic Shapley value.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.tre.2019.04.006
+VL  - 126
+IS  - 
+SP  - 227-253
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Fair gain allocation in eco-efficient vendor-managed inventory cooperation
+AU  - Stellingwerf, H. M.
+AU  - Kanellopoulos, A.
+AU  - Cruijssen, F. C. A. M.
+AU  - Bloemhof, J. M.
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Transportation is not always organised efficiently, which causes unnecessary costs and CO2 emissions. Vendor-managed inventory (VMI) has been suggested as a form of cooperation that can reduce economic and environmental impacts of transportation and consequently improve eco-efficiency of the supply chain. Establishing viable forms of VMI cooperation requires a fair distribution of the cooperation's economic benefits. Cooperative game theory (CGT) research is used to fairly allocate both benefits and costs. However, the environmental contribution of partners has often been ignored in the benefit allocation. In this study, the Shapley value (a commonly used CGT method) is used to share the monetary gains in a way that reflects the partners' contributions to cost and emissions savings. The method is applied to evaluate the allocation of economic and environmental benefits of vendor-managed inventory between cooperating supermarket chains in the Netherlands. The findings show that there is a set of eco-efficient solutions resulting in lower costs and CO2 emissions compared to the current situation. For each of the eco-efficient solutions, the relative importance of saving costs and of saving emissions was quantified, and based on the importance weights, a cost allocation was found. For all partners that contribute to saving both cost and CO2 emissions, this approach results in cost savings, and therefore, the approach can be considered fair. Also, this approach helps to stimulate long-term eco-efficient forms of cooperation. (C) 2019 Elsevier Ltd. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.jclepro.2019.05.232
+VL  - 231
+IS  - 
+SP  - 746-755
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A stochastic joint replenishment problem considering transportation and warehouse constraints with gainsharing by Shapley Value allocation
+AU  - Otero-Palencia, Carlos
+AU  - Amaya-Mier, Rene
+AU  - Yie-Pinedo, Ruben
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - The purpose of this paper is to introduce a heuristic approach that uses a capacitated inventory model as means for identifying a collaborative agreement between different buyers jointly replenishing multiple items from multiple vendors, thus attaining economies of scale while reducing by sharing fixed procurement and operational costs. The proposed approach is denominated Stochastic Collaborative Joint Replenishment Problem (S-CJRP) and consists of two stages. The first stage determines a cost-efficient replenishment frequency for each collaborating company in all possible coalition arrangements. To accomplish the former, an extension of the known Joint Replenishment Problem (JRP) considering real-life capacity constraints, such as stochastic demand assuming normal distribution, finite storage and transport, is solved via genetic algorithms delivering a suitable coalition. In a second stage, the Shapley Value function is established to assess and allocate the potential gains achieved by colluding in the first stage, determining a fair share distribution among players that increases the viability of such coalition. Several scenarios from a simulated numerical study illustrate average cost savings of 32.3%. 28.2% and 32.7% for 3, 4 and 5 players, respectively, considering up to 30 items for the proposed collaboration, in all cases consistently exhibiting cost reduction and increasing the proposal feasibility.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1080/00207543.2018.1526418
+VL  - 57
+IS  - 10
+SP  - 3036-3059
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Allocating Cost to Shippers in Pickup and Delivery Service
+AU  - Liu, Ning
+AU  - Cheng, Yaorong
+T2  - MATHEMATICAL PROBLEMS IN ENGINEERING
+AB  - This paper is going to study the shipper collaboration cost allocation problem in pickup and delivery (SCAPPD), which includes two crucial aspects, namely, the optimal redistribution of transport requests for minimization of the total cost of the alliance and equitable allocation of the shippers cost for keeping the stability of the alliance. We focus on the second issue and use core concept from cooperative game theory to develop an allocation methods, called Location Cost Allocation Model (LCAM), which take geographical location factor into account. As the goal of this study is to design an allocation tool that will be accepted in practice, we use the criteria of stability, consistency, and robustness to evaluate the LCAM, Shapley, Nucleolus, and the equal profit method (EPM). All four allocation methods are applied to both a case study and randomly generated instances. Our computational results show that the stability of the LCAM is as good as the nucleolus and EPM. In terms of consistency the LCAM performs best. LCAM also performs well in terms of robustness.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1155/2019/1283539
+VL  - 2019
+IS  - 
+SP  - 1283539
+J2  - MATHEMATICAL PROBLEMS IN ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Resource sharing and payoff allocation in a three-stage system: Integrating network DEA with the Shapley value method
+AU  - An, Qingxian
+AU  - Wen, Yao
+AU  - Ding, Tao
+AU  - Li, Yongli
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - Resource sharing exists not only among multiple entities but also among various stages of a single network structure system. Previous studies focused on how to allocate total given sharable resources to stages to maximize the efficiency of the network structure system, and a few discussed the fair allocation of potential gains obtained from resource sharing. In this study, we explore a new case in which the common inputs (or shared resources) of all stages are known. By constructing a game that regards each stage as a player, we integrate cooperative game theory with network data envelopment analysis (DEA) to explore the payoff allocation problem in a three-stage system. We build network DEA models to calculate the optimal profits of the system before and after resource sharing (i.e., pre- and post-collaboration optimal profits), and then apply the Shapley value method to allocate the increased profits of the system to its stages. Results indicate that the game among stages in a three-stage system is superadditive. A numerical example is provided to illustrate our method. (C) 2018 Elsevier Ltd. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.omega.2018.05.008
+VL  - 85
+IS  - 
+SP  - 16-25
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Further insights into the allocation of greenhouse gas emissions to shipments in road freight transportation: The pollution routing game
+AU  - Kellner, Florian
+AU  - Schneiderbauer, Miriam
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - At present, there is no globally accepted standard for the allocation of greenhouse gas (GHG) emissions to shipments in road freight transportation. The only official international standard for emission calculation of transport operations is the European Norm EN-16258. However, even this norm still allows choosing from several alternative emission allocation schemes. This research aims to harmonize the process of GHG declarations for supply chains by identifying among all allocation units specified by EN-16258 the one that describes a shipment's contribution to GHG emissions best. For this purpose, concepts of the cooperative game theory are used. First, we develop three transport scenarios that allow studying a shipment's effect on GHG: a vehicle routing problem, a network flow model, and a mixed scenario. Our approach extends previous research projects because we take into account that shipment characteristics in terms of origin, destination, weight, and volume consume transport capacities to different degrees, impact the routing of the commercial vehicles and, thus, determine GHG. Second, we present the results of a computational study that bases on the introduced transport scenarios and that compares the allocation vectors resulting from the EN-16258 allocation rules with the Shapley value, which serves as a benchmark for a shipment's contribution to GHG. Furthermore, we show how often the EN-16258 allocation principles are in line with a set of game theoretical fairness criteria. The results indicate that the allocation unit 'distance' is the closest to the game theory benchmark and most often in line with game theoretical fairness criteria. (C) 2019 Elsevier B.V. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.ejor.2019.04.007
+VL  - 278
+IS  - 1
+SP  - 296-313
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative game approaches to coordinating a three-echelon closed-loop supply chain with fairness concerns
+AU  - Zheng, Xiao-Xue
+AU  - Liu, Zhi
+AU  - Li, Kevin W.
+AU  - Huang, Jun
+AU  - Chen, Ji
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - This paper investigates a three-echelon closed-loop supply chain (CLSC) consisting of a manufacturer, a distributor, and a retailer, where the retailer exhibits fairness concerns. Cooperative and non-cooperative game theoretic analyses are employed to characterize interactions among different parties. Analytical results confirm the conventional wisdom: with the retailer's fairness concerns, the channel profits under the decentralized and partial-coalition models underperform that under the centralized model. To find an appropriate profit allocation scheme to coordinate the supply chain system with fairness concerns, we resort to the cooperative game theory. To this end, we first derive the characteristic function form of the cooperative game based on the equilibrium profits under centralized, decentralized and different partial-coalition models. Subsequently, we propose three coordination mechanisms based on the Shapley value, nucleolus solution, and equal satisfaction to allocate surplus profit. The three mechanisms are then evaluated by using numerical experiments. We further examine how the retailer's fairness concerns affect profit allocation under the three mechanisms. The key innovation is to incorporate the retailer's fairness concerns into the coordination of a three-echelon CLSC. Our contributions are twofold: First, cooperative game-theoretic mechanisms are put forward to coordinate the three-echelon CLSC with a fairness-minded retailer. Second, we investigate how the retailer's fairness concerns affect the CLSC members' pricing decision and surplus profit allocation. Our studies confirm that the resulting profit allocation schemes satisfy both individual and collective rationality and fall in the core of the cooperative game, thereby making the grand coalition stable and suggesting viable options to coordinate the CLSC system. Further analyses reveal that different coordination mechanisms benefit the three CLSC members differently. These research findings help CLSC managers to understand what options are available and identify possible pathways for them to foster cooperation and achieve equitable allocation of surplus profit.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.ijpe.2019.01.011
+VL  - 212
+IS  - 
+SP  - 92-110
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Price and profit structuring for single manufacturer multi-buyer integrated inventory supply chain under price-sensitive demand condition
+AU  - Agrawal, Anil Kumar
+AU  - Yadav, Susheel
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - This paper undertakes the study of an integrated production-inventory and pricing decision problem for a single manufacturer-multiple buyers supply chain where each buyer faces price-dependent demand. The item manufactured at a finite production rate is shipped to the buyers in multiple equal-sized shipments. Earlier researchers have not studied this problem for maximizing the overall supply chain profit and its allocation among the chain partners. For the allocation of the maximized profit, four different schemes are being proposed, each for a different level of understanding and faith among the partners. Demand, taken as price-sensitive, affects the costs to the manufacturer as the same is dependent upon the sales volume. Since the manufacturer fixes its sales price depending upon the sales volume affected cost, the volume will affect the buyer in terms of its unit purchase cost, and the holding cost which is charged as a percentage of the unit cost. This reality is attempted in this paper in addition to maximization of the chain profit and its allocation among the chain partners for integrated inventory management. Associated problems, formulated as mixed-integer non-linear programming problems, are computationally very hard, and thus evolutionary heuristics as Genetic Algorithm and Teaching-Learning Based Optimization are proposed. The strength of various proposed schemes for profit distributions has been analyzed using numerical experimentation. It is found that a forward contract between manufacturer and buyers will help to generate the maximum profit. It has also been shown that the distribution of profit based on Shapley function values is most fair and logical.
+DA  - 2020
+PY  - 2020
+DO  - https://doi.org/10.1016/j.cie.2019.106208
+VL  - 139
+IS  - 
+SP  - 106208
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Profit maximizing coalitions with shared capacities in distribution networks
+AU  - Ben Jouida, Sihem
+AU  - Guajardo, Mario
+AU  - Klibi, Walid
+AU  - Krichen, Saoussen
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - We study the distribution network structure of multiple firms in the context of demand sensitivity to market offers. The problem consists in determining the profitability of horizontal collaboration between firms in a collaborative distribution schema. It considers the case of a set of regional distribution centers (DCs) where each DC is initially dedicated solely to one firm's distribution activities and studies when it is beneficial that the DC owners collaborate through sharing their storage-throughput capacity. Such strategic decisions are made in order to improve the distribution capabilities of firms in terms of response time and cost-efficiency compared to the stand-alone situation. The problem is modeled as a coalition formation game in a cooperative framework, and we propose a collaborative distribution game with profit maximization. Three sharing mechanisms are modeled and tested: egalitarian allocation, proportional allocation, and Shapley value. The collaboration decision conditions for a given firm are analytically derived according to the sharing method considered and used to enhance the solution approach. Our numerical results clearly highlight the impact of this innovative collaboration opportunity on the firms' performance in terms of distribution cost savings and revenue increases. An observed behavior is that the formation of several sub-coalitions prevails over the formation of a grand coalition, and that different cost sharing methods can lead to different sub-coalitions. We also provide managerial insights on the appropriate size of a coalition in various business instances tested, and on the key drivers that foster horizontal collaborative behavior among firms. (C) 2020 Elsevier B.V. All rights reserved.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.ejor.2020.06.005
+VL  - 288
+IS  - 2
+SP  - 480-495
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Benefit Allocation in Shared Water-Saving Management Contract Projects Based on Modified Expected Shapley Value
+AU  - Liu, Xinxin
+AU  - Wang, Xiaosheng
+AU  - Guo, Haiying
+AU  - An, Xiaojie
+T2  - WATER RESOURCES MANAGEMENT
+AB  - Water-Saving Management Contract (WSMC) is an innovative business model to reduce water consumption and improve water-use efficiency. The Shared Water-Saving Model, as a primary operating model in WSMC projects, is relatively widely used compared with other patterns. However, the lack of a water-saving benefit allocation scheme is one of the critical obstacles frustrating the implementation and promotion of the Shared Water-Saving Model. To correct this deficiency, a modified expected Shapley value method is developed, in which alliance revenues are characterized as uncertain variables due to the lack of historical data. Firstly, risk, input and effort are identified as key influencing factors to improve the deficiencies in the distribution of benefits based on the contribution. Secondly, equity criteria, including symmetry, efficiency and additivity, are redefined based on correction factors to measure the fairness of the allocation scheme. Thirdly, we prove that the allocation result obtained by the proposed method satisfies the equity criteria and is unique. Finally, a water-saving project launched by Handan City located in North China is studied to illustrate the applicability of the proposed method. The result shows that the modified expected Shapley value method significantly enhances the cooperative relationship and can therefore be used as an effective tool for the fair and reasonable distribution of benefits in Shared WSMC projects.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1007/s11269-020-02705-2
+VL  - 35
+IS  - 1
+SP  - 39-62
+J2  - WATER RESOURCES MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative profit allocation schemes for logistics enterprise coalitions with incomplete information * , **
+AU  - Liu, Jia-Cai
+AU  - Sheu, Jiuh-Biing
+AU  - Li, Deng-Feng
+AU  - Dai, Yong-Wu
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - The issue of collaborative profit allocation in a coalition of enterprises appears important in cooperative games, and arises frequently in the logistics service industry. However, incomplete information usually exists in logistics enterprise coalitions. Therefore, some eminent point-valued solutions of cooperative games appear powerless, such as the Shapley value and the Banzhaf value. They just apply to the cooperative games where all coalitional values could be estimated in advance. This work concerns the issue of profit allocation for collaborative coalitions with incomplete information and develops several profit allocation schemes for logistics enterprise coalitions. First, based on the own profits of the collaborative logistics enterprises and their contributions to the collaborative coalition, a quadratic programming model is developed as a baseline model. Next, the baseline model is extended by taking account of the weights of the collaborative logistics enterprises. Some important properties of the solutions proposed in this paper, such as the efficiency, existence, symmetry, and anonymity, are apparent. One algorithm, if necessary, is described to make them satisfy the property of individual rationality. Through three numerical scenarios and an actual case in the logistics service industry, the advantages of the solutions proposed in this paper are demonstrated. (c) 2020 Elsevier Ltd. All rights reserved.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.omega.2020.102237
+VL  - 101
+IS  - 
+SP  - 
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimization and profit distribution in a two-echelon collaborative waste collection routing problem from economic and environmental perspective
+AU  - Liu, Lin
+AU  - Liao, Wenzhu
+T2  - WASTE MANAGEMENT
+AB  - In order to reduce waste collection costs and realize sustainable urban development, this paper investigates a two-echelon collaborative waste collection vehicle routing problem (2E-CWCVRP), considering the cooperation and profit distribution between participants in the collection network. An optimization model for 2E-CWCVRP with the aim to minimize total costs and carbon emissions is constructed. Then, a three-stage solution approach is developed to solve this model, including a k-means clustering for simplifying the problem, and a hybrid heuristic for searching the optimal vehicle routes based on Clarke & Wright algorithm and an adaptive large neighborhood search algorithm (CW-ALNS). Finally, an improved Shapley value model is constructed for determining the costs and carbon emissions reduction amount and the best alliance sequence of each participant. The experiment results indicate that: (1) the effectiveness of CW-ALNS algorithm is verified through the benchmark instances; (2) the costs and carbon emissions of the collection network could be reduced simultaneously after the implementation of cooperation; (3) constructing a large collection and transfer network is more efficient than dividing the network into several individual parts. Finally, different alliance sequences are analyzed from the economics and environment perspective and the best alliance sequences are determined. (C) 2020 Elsevier Ltd. All rights reserved.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.wasman.2020.09.045
+VL  - 120
+IS  - 
+SP  - 400-414
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Conceptual Profit Allocation Framework for Construction Joint Ventures: Shapley Value Approach
+AU  - Eissa, Radwa
+AU  - Eid, Mohamed S.
+AU  - Elbeltagi, Emad
+T2  - JOURNAL OF MANAGEMENT IN ENGINEERING
+AB  - Construction joint ventures (CJVs) execute business by pooling diverse technical and financial contributions from collaborating entities. Traditional CJV profit-allocation approaches account only for investment shares, and do not address the marginal contribution of the participating parties. Therefore, disagreements may arise between stakeholders. This research aims to reduce profit-share-related disagreements among multiple CJV members by allocating profit based on the marginal contribution of each party. The authors developed a conceptual framework using the Shapley value as an alternative to the traditional investment-based approach. Three illustrative examples demonstrated the possible use of the developed conceptual framework. Results of the study highlighted the potential of Shapley value as an alternative profit allocation scheme. The stability of the generated results was validated mathematically, and decision makers' perception of fairness was addressed following the methods of prior experimental cooperative game theory research. This paper contributes to the body of knowledge by proposing an axiomatically fair methodology for profit-sharing negotiations among multiple collaborating parties in a project. This approach can be utilized in other engineering domains where the management needs to foster stable and fair collaborations among its stakeholders. (C) 2021 American Society of Civil Engineers.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1061/(ASCE)ME.1943-5479.0000911
+VL  - 37
+IS  - 3
+SP  - 4021016
+J2  - JOURNAL OF MANAGEMENT IN ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Transforming Hong Kong's warehousing industry with a novel business model: A game-theory analysis
+AU  - Yang, Chen
+AU  - Lan, Shulin
+AU  - Lin, Tingyu
+AU  - Wang, Lihui
+AU  - Zhuang, Zilong
+AU  - Huang, George Q.
+T2  - ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+AB  - The booming e-commerce and intense regional competition are pushing the transformation of Hong Kong's warehousing industry towards more automated and efficient. However, this falls into a dilemma when stakeholders do not have enough technical and operational capability (to use advanced facility and systems) or strong motivation (due to high investment and risk). To resolve this, we first propose a new business model in which a third party - the warehousing equipment supplier (WES) is introduced to the current business between the warehouse owner (WO) and the user. The WO and WES own different advantages, complement each other and have the potential to make the pie bigger and promote the transformation. Then we utilize cooperative game-theory approaches (the Cournot game and the Shapley value) to explore the possible equilibrium in the new business model on profit distribution, the essential conditions for this new model to succeed and what factors that determine and affect the efficiency of the game. The experiments using the real data set show that market demand and its sensitivity to service quality, service price, price elasticity, etc. can exert impacts on the co-operative surplus and lead to the feasibility/infeasibility of the business model.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.rcim.2020.102073
+VL  - 68
+IS  - 
+SP  - 102073
+J2  - ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+ER  - 
+
+
+TY  - JOUR
+TI  - Incentives and Emission Responsibility Allocation in Supply Chains
+AU  - Gopalakrishnan, Sanjith
+AU  - Granot, Daniel
+AU  - Granot, Frieda
+AU  - Sosic, Greys
+AU  - Cui, Hailong
+T2  - MANAGEMENT SCIENCE
+AB  - Because greenhouse-gas (GHG) emissions from the supply chains of just the 2,500 largest global corporations account for more than 20% of global emissions, rationalizing emissions in supply chains could make an important contribution toward meeting the global CO2 emission-reduction targets agreed upon in the 2015 Paris Climate Agreement. Accordingly, in this paper, we consider supply chains with joint production of GHG emissions, operating under either a carbon-tax regime, wherein a regulator levies a penalty on the emissions generated by the firms in the supply chain, or an internal carbon pricing scheme. Supply chain leaders, such as Walmart, are assumed to be environmentally motivated to induce their suppliers to abate their emissions. We adopt a cooperative game theory methodology to derive a footprint-balanced scheme for reapportioning the total carbon emissions amongst the firms in the supply chain. This emission responsibility allocation scheme, which is the Shapley value of an associated cooperative game, is shown to have several desirable characteristics. In particular, (i) it is transparent and easy to compute; (ii) when the abatement-cost functions of the firms are private information, it incentivizes suppliers to exert pollution-abatement efforts that, among all footprint balanced allocation schemes, minimize the maximum deviation from the socially optimal pollution level; and (iii) the Shapley value is the unique allocation mechanism satisfying certain contextually desirable properties.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1287/mnsc.2020.3724
+VL  - 67
+IS  - 7
+SP  - 4172-4190
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative game for coordination of a green closed-loop supply chain
+AU  - Asghari, Tooba
+AU  - Taleizadeh, Ata Allah
+AU  - Jolai, Fariborz
+AU  - Moshtagh, Mohammad Sadegh
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This research examines a single-stage green closed-loop supply chain (GCLSC) in which the green manufacturer, retailer, and collector try to reform the environmental effects of their operations, products, and services across the value chain according to their environmental responsibilities. The collector is responsible for performing the take-back program of used green products, recycling, and trading second-hand products. In this paper, the environmental responsibility of all three supply chain members is considered. The demand function of ecofriendly products is defined as a function of retail price, environmental efforts of the green manufacturer and retailer, the sensitivity of environmentally conscious consumers to their efforts, and the worth of off voucher given to the consumer for returning used product. For coordinating this GCLSC, first, the mathematical model of the decentralized model and all possible coalition forms are examined. Then, the cooperative game theory, including Nucleolus solution mechanism (NSM) and Shapley value mechanism (SVM), and different contracting structures, including cost-sharing (CS), revenue sharing (RS), and two-part tariff (TPT) contract, are utilized. Major goal of this research is to compare these two classes of coordination models in terms of economic and environmental dimensions to choose the best strategy for channel coordination. Eventually, computational and practical investigations reveal that forming the grand coalition yields better results than contracts in terms of achieving environmental goals and total profit. Also, the economic advantages are different for each coordination model. Besides coordination mechanisms explored in this research, as a future study, one can incorporate the effect of competition between green and traditional manufacturers on supply chain performance. Finally, managerial insights of this research guide the managers towards desirable practices to promote coordination and achieve a fair allocation of profit.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jclepro.2022.132371
+VL  - 363
+IS  - 
+SP  - 132371
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A benefit allocation model for the joint prevention and control of air pollution in China: In view of environmental justice
+AU  - Du, Juan
+AU  - Sun, Liwen
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - The benefit allocation of fair and justice is an inevitable guarantee for the long-term operation of the joint prevention and control of air pollution (JPCAP). The ignorance of interest demands of various governance subjects in the existing benefit allocation mechanism results in the widespread free rider  behavior in the joint control and unsatisfactory effects of JPCAP. Given this, it is imperative to build a reasonable benefit allocation model. The innovation of this paper is proposing a benefit allocation model of JPCAP to achieve the symmetry between control costs and benefits based on environmental justice. The control objectives and total benefits of JPCAP are calculated through the adjustment of optimal removal rates. The interest demands of various control subjects and benefit compensation scheme are clarified by adopting an improved Shapley method, which comprehensively considers factors affecting environmental justice. An empirical analysis is conducted on SO2 governance in Beijing-Tianjin-Hebei (BTH) and its surrounding areas. The results show that the benefit allocation model based on environmental justice can not only accurately evaluate the benefits of joint control, but also effectively achieve the symmetry between control costs and benefits. This study provides a scientific and reasonable theoretical basis for the benefit allocation of SO2 control and can be extended to the researches and practices of other air pollutants control.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jenvman.2022.115132
+VL  - 315
+IS  - 
+SP  - 115132
+J2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Core, shapley value, nucleolus and nash bargaining solution: A Survey of recent developments and applications in operations management
+AU  - Luo, Chunlin
+AU  - Zhou, Xiaoyang
+AU  - Lev, Benjamin
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - The core, Shapley value, nucleolus and Nash bargaining solution are the most widely used solution concepts in cooperative game theory. This paper surveys the literature on recent developments of these solution concepts and applications in operations management. Firstly, we briefly introduce the basic concepts and recent theoretical developments of the four solution concepts. Secondly, we review the applications in operations management in the past decade. Based on the problem properties, we classify the literature into deterministic and stochastic models, horizontal cooperation and vertical cooperation modes. Lastly, we discuss the future research directions with applications in operations management, which are hoped to contribute to the literature by enhancing the applications of cooperative game theory in operations management. (C) 2022 Published by Elsevier Ltd.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.omega.2022.102638
+VL  - 110
+IS  - 
+SP  - 102638
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Profit allocation on a four-echelon supply chain in perspective of cooperative games on augmenting systems
+AU  - Meng, Fanyong
+AU  - Li, Zijun
+AU  - Dong, Qing
+AU  - Fu, Lingxian
+AU  - Zhang, Yueqiu
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Profit allocation is an important research topic in supply chain enterprises, where the rationality of allocation determines the stability of their cooperative relationships. This paper focuses on the profit allocation of the supply chain dominated by upstream enterprises. To achieve this goal, a general four-echelon supply chain is constructed. By analyzing the drawbacks of the existing profit allocation methods, we propose three new Shapley values to deal with the different risk attitudes of players. Through theoretical discussions, we can see that the proposed new Shapley values endow upstream participants with profit priority. It shows that the new profit distribution mechanisms suit supply chains dominated by upstream enterprises. We also provide an application example to check the concrete distribution results of the proposed new Shapley values and to compare the experimental results of the proposed new Shapley values with the existing Shapley values to deal with Profit allocation on a four-echelon supply chain. As a result, the proposed new Shapley values outperform the previous Shapley values to deal with the profit allocation on a four-echelon supply chain from the perspective of cooperative games on augmenting systems.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.eswa.2023.119639
+VL  - 219
+IS  - 
+SP  - 119639
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Risk allocation and benefit distribution of PPP projects for construction waste recycling: a case study of China
+AU  - Wang, Zhenshuang
+AU  - Zhou, Yanxin
+AU  - Jin, Xiaohua
+AU  - Zhao, Ning
+AU  - Sun, Jianshu
+T2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+AB  - Purpose Public-private partnership (PPP) projects for construction waste recycling have become the main approach to construction waste treatment in China. Risk sharing and income distribution of PPP projects play a vital role in achieving project success. This paper is aimed at building a practical and effective risk sharing and income distribution model to achieve win-win situation among different stakeholders, thereby providing a systematic framework for governments to promote construction waste recycling. Design/methodology/approach Stakeholders of construction waste recycling PPP projects were reclassified according to the stakeholder theory. Best-worst multi-criteria decision-making method and comprehensive fuzzy evaluation method (BWM-FCE) risk assessment model was constructed to optimize the risk assessment of core stakeholders in construction waste recycling PPP projects. Based on the proposed risk evaluation model for construction waste recycling PPP projects, the Shapley value income distribution model was modified in combination with capital investment, contribution and project participation to obtain a more equitable and reasonable income distribution system. Findings The income distribution model showed that PPP Project Companies gained more transaction benefits, which proved that PPP Project Companies played an important role in the actual operation of PPP projects. The policy change risk, investment and financing risk and income risk were the most important risks and key factors for project success. Therefore, it is of great significance to strengthen the management of PPP Project Companies, and in the process of PPP implementation, the government should focus on preventing the risk of policy changes, investment and financing risks and income risks. Practical implications The findings from this study have advanced the application methods of risk sharing and income distribution for PPP projects and further improved PPP project-related theories. It helps to promote and rationalize fairness in construction waste recycling PPP projects and to achieve mutual benefits and win-win situation in risk sharing. It has also provided a reference for resource management of construction waste and laid a solid foundation for long-term development of construction waste resources. Originality/value PPP mode is an effective tool for construction waste recycling. How to allocate risks and distribute benefits has become the most important issue of waste recycling PPP projects, and also the key to project success. The originality of this study resides in its provision of a holistic approach of risk allocation and benefit distribution on construction waste PPP projects in China as a developing country. Accordingly, this study adds its value by promoting resource development of construction waste, extending an innovative risk allocation and benefit distribution method in PPP projects, and providing a valuable reference for policymakers and private investors who are planning to invest in PPP projects in China.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1108/ECAM-10-2021-0855
+VL  - 30
+IS  - 9
+SP  - 3927-3956
+J2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - A new biform game-based investment incentive mechanism for eco-efficient innovation in supply chain
+AU  - Zheng, Xiao-Xue
+AU  - Li, Deng-Feng
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In supply chain, when a visionary focal firm makes direct investment in his partners' upfront cost of eco-efficient innovation, he would want more innovation efforts without sacrificing too many self-interests. To this end, we use a new biform-game model to develop an investment incentive mechanism for eco-efficient innovation in a supply chain consisting of two competing manufactures who are accountable for their respective eco-efficient innovations and a supplier who provides them with investments. Our proposed biform-game model can be regarded as a nested combination of noncooperative and cooperative games: In the noncooperative part, we construct a noncooperative game between the two manufacturers under their profit maximizing strategies, defining the competitive environment in the cooperative part. For three players in the cooperative part, we use Minimax and Maximin principles to construct their cooperative game of the investment cooperation strategy, which is proven to be convex. Subsequently, Shapley value is employed to derive the solution (profits) of the cooperative game, which is used to deduce the pay-off functions of the noncooperative part, thereby obtaining the optimal profit-maximizing strategies and investment cooperation strategies of the biform game. Next, we conduct analytical and numerical studies to verify the validity of our developed model by comparing with the model without applying the biform coordination mechanism.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijpe.2023.108795
+VL  - 258
+IS  - 
+SP  - 108795
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Efficient effort equilibrium in cooperation with pairwise cost reduction
+AU  - Garcia-Martinez, Jose A.
+AU  - Mayor-Serra, Antonio J.
+AU  - Meca, Ana
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - There are multiple situations in which bilateral interaction between agents results in considerable cost reductions. The cost reduction that an agent obtains depends on the effort made by other agents. We model this situation as a bi-form game with two states. In the first stage, agents decide how much effort to exert. We model this first stage as a non-cooperative game, in which these effort s will reduce the cost of their partners in the second stage. This second stage is modeled as a cooperative game in which agents reduce each other's costs as a result of cooperation, so that the total reduction in the cost of each agent in a coalition is the sum of the reductions generated by the rest of the members of that coalition. The proposed cost allocation for the cooperative game in the second stage determines the payoff function of the non-cooperative game in the first stage. Based on this model, we explore the costs, benefits, and challenges associated with setting up a pairwise effort situation. We identify a family of cost allocations with weighted pairwise reductions which are always feasible in the cooperative game and contain the Shapley value. We also identify the cost allocation with weighted pairwise reductions that generate an efficient equilibrium effort level.& COPY; 2023 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ )
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.omega.2023.102920
+VL  - 121
+IS  - 
+SP  - 102920
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Closed-loop supply chain coalitional cooperation and coordination under differentiated carbon tax regulation
+AU  - Yu, Zhongwei
+AU  - Lin, Yang
+AU  - Wang, Yingming
+AU  - Goh, Mark
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This paper presents a systematic two-stage analysis to improve a three-echelon closed-loop supply chain coop-eration and coordination under differentiated carbon tax regulation, which enriches non-cooperative and cooperative game theory applications in remanufacturing circular economies. Firstly, we utilize non-cooperative games to explore the optimal operations of new and remanufactured products across five coalitional models. Then, we adopt cooperative games to achieve profit coordination. Specifically, Shapley values are employed for allocating a grand coalition profit in a centralized setting. In order to alleviate carbon taxpayers' fairness con-cerns, we proposed a novel revised Shapley value algorithm incorporating differentiated carbon tax costs to improve their utility. The results show that regulators can reduce emissions by adjusting carbon tax rates on different products more effectively. The optimal environmental and economic performance can also be achieved by forming a grand coalition. Shapley value algorithms achieve the supply chain system Pareto improvement. Moreover, carbon taxpayers' (i.e., manufacturer and remanufacturer) utilities in our revised Shapley are improved by 20.15% and 77.71%, respectively, compared with the classical Shapley value under certain con-ditions. These results benefit regulators' carbon tax policy formulation and industrial managers' remanufacturing practices.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.jclepro.2023.136239
+VL  - 392
+IS  - 
+SP  - 136239
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Game of banks- biform game theoretical framework for ATM network cost sharing
+AU  - Nguyen, Tri-Dung
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Automated teller machines (ATM) play a major role in the world economy as they enable financial transactions and hence good exchanges and consumption. ATM transaction fees are incurred to cover the cost of running the network and these are often settled among the members including banks and cash machine operators. In this paper, we develop a novel biform game theoretic model for members to optimally invest in the ATM network and to share the cost. This biform game includes both a cooperative game theory mechanism for interchange fee sharing and a non -cooperative counterpart to model the fact that members also wish to maximize their utilities. While the proposed coopetition framework is applicable to general ATM networks, we focus the case study on the UK ATM network thanks to the accessibility of the data in addition to the notable stability issues that the network is currently experiencing as has been widely featured by the mainstream media. On the technical side, we prove the existence of a pure Nash equilibrium, which can be computed efficiently. We also show that, under some settings, the Shapley allocation belongs to the core and hence it is not only fair to all members but also leads to a stable ATM network. In addition, we show that the Shapley value allocation dominates the current mechanism in terms of social welfare. Finally, we provide numerical analysis and managerial insights using real data on the complete UK ATM network.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ejor.2024.02.036
+VL  - 316
+IS  - 3
+SP  - 1158-1178
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - A business model design for hydrogen refueling stations: A multi-level game approach
+AU  - Zhao, Tian
+AU  - Liu, Zhixin
+AU  - Jamasb, Tooraj
+T2  - INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+AB  - There is currently a mother-daughter model for hydrogen refueling stations (HRS). On site mother stations produce hydrogen from city natural gas or water electrolysis, and off-site daughter stations are supplied with hydrogen from nearby on-site stations. This HRS system is a micro hydrogen supply chain that includes hydrogen suppliers, retailers, and end consumers characterized via demand functions. The present paper designs an optimal business model for this distributed HRS system using a multi-level game model, given that on-site and off-site HRS can operate individually or as a coalition to supply hydrogen. Stackelberg game and Shapley value models are constructed to explore how cooperative operation is superior by generating more profits than separate operation. Accordingly, in order to promote cooperation between on-site and off-site operators of HRS, an evolutionary game model is developed to investigate the allocation of profits and coordinated costs on the equilibrium of cooperative operation. The authors conclude that boosting the initial probabilities of actors to choose cooperative strategies and decreasing the coordinated cost can lead the game system to the ideal consequence. The present paper offers recommendations including establishing regulation standards for HRS operation, and advancing the information technology to design a more effective cooperative mechanism.(c) 2023 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijhydene.2023.01.319
+VL  - 52
+IS  - 
+SP  - 577-588
+J2  - INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative logistics for agricultural products of 'farmer plus consumer integration purchase' under platform empowerment
+AU  - Zhou, Lichen
+AU  - Hou, Guisheng
+AU  - Rao, Weizhen
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - The platform is a comprehensive digital technology carrier that can facilitate the digitization of sales and make it possible to directly connect farmers and consumers. Multi-owner collaboration in logistics may considerably improve efficiency and sustainability, which is crucial for agricultural logistics. This paper introduces a logistics collaboration mechanism for agricultural products of 'Farmer + Consumer Integration Purchase' based on platform information openness and resource sharing. First, the Multi-owner Collaborative Vehicle Routing Problem with Heterogeneous Fleets and Time Windows (MOHFCVRPTW) model was designed. Second, the developed solution is the Adaptive Large Neighborhood Search Heuristic Algorithm (ALNS), which can solve 2n-1 (n is the number of enterprises) sub-alliances corresponding to the collaborative problem at once and produce the scheme and cost. Third, the Shapley value method is used to design a scientific and reasonable cost-sharing mechanism to allocate the total cost of the alliance to each logistics enterprise. Finally, the validity of the mechanism and the model are verified in the context of real logistics networks in Qingdao and Shanghai, and the profit of farmers is quantified by considering the cost of loss of agricultural products. The research found that the logistics collaboration mechanism has achieved cost savings for logistics enterprises, reduced carbon emissions, and improved transportation timeliness. At the same time, losses on agricultural products have been significantly reduced, and farmers' profits have increased. In addition, with the expansion of the scale of the alliance, the increase in the diversity of transport vehicles, and the improvement in the distribution aggregation degree of farmers, the benefits of the collaborative operation mode are more significant. The platform enables the exchange matching and collaborative transportation of agricultural products rapidly and has significant sustainable benefits, which has guiding significance for the practical development of 'Farmer + Consumer Integration Purchase'.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.eswa.2024.124521
+VL  - 255
+IS  - 
+SP  - 124521
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Environmental footprint allocation in driving plastic avoidance and sustainable recycling: Game-theoretic model
+AU  - Si, Chunyan
+AU  - Van Fan, Yee
+AU  - Woon, Kok Sin
+AU  - Cucek, Lidija
+AU  - Dokl, Monika
+AU  - Varbanov, Petar Sabev
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Life Cycle Assessment is the primary approach to quantify the environmental impacts of plastics. However, it encounters challenges in allocating the impacts of respective stages to stakeholders, especially for systems involving multi-cycles and end-of-life stages. This study proposes a framework integrating Cooperative Game Theory to assess and allocate the greenhouse gas footprint among stakeholders. The applied concepts are the Shapley Value, Nucleolus and Core. The applicability is demonstrated by a case study of polyethylene terephthalate (PET) with four recycling and landfill scenarios. The Shapley Value, which highlights fair allocation, suggests - 792-1164 kg of unburdening CO2eq/t PET (- 47 % net recycling credits) assigned to material producers, 844.5-1216.5 kgCO2eq/t PET to product manufacturers, and the remaining - 2-3 % to users. The Nucleolus stresses satisfactory results in 1531.5-2275.5 kgCO2eq/t PET to material producers, constituting - 90 % of the total credits. The allocation does not change the total footprints; however, it is essential for the stakeholders' cooperation in environmental initiatives.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.resconrec.2024.107443
+VL  - 203
+IS  - 
+SP  - 107443
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - A cooperative vehicle routing problem with delivery options for simultaneous pickup and delivery services in rural areas
+AU  - Zhang, Ruijuan
+AU  - Dai, Ying
+AU  - Yang, Fei
+AU  - Ma, Zujun
+T2  - SOCIO-ECONOMIC PLANNING SCIENCES
+AB  - The booming e -commerce is challenging express companies by requiring higher logistics service efficiency in rural China. This study investigates a cooperative vehicle routing problem for simultaneous pickup and delivery requests, in which the delivery orders can be fulfilled either by home delivery or customer pickup. The delivery option for each order is complex due to the optional cooperative relationships among express companies, the inter -dependence between self -pickup site selection and the overall online vehicle routing scheme, and the distance -dependent compensation to self -pickup customers. The problem is formulated as a mixed integer linear programming model and solved by a tailored adaptive large neighborhood search algorithm. A cost -saving allocation mechanism based on the core guaranteed Shapley value is applied to carrier collaboration. The numerical results show that the newly introduced cooperative distribution system can significantly reduce operational costs. Such improvements are robust even if the total demand changes or under different rural logistics network topologies.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.seps.2024.101871
+VL  - 93
+IS  - 
+SP  - 101871
+J2  - SOCIO-ECONOMIC PLANNING SCIENCES
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative recycling strategy for electric vehicle batteries considering blockchain technology
+AU  - Xiao, Lu
+AU  - Ouyang, Yu
+AU  - Lin, Qiang
+AU  - Guo, Yujuan
+T2  - ENERGY
+AB  - The rapid growth of new energy vehicle has led to an urgent need for efficiently recycling used power batteries. In addition, battery suppliers can adopt blockchain technology to enhance efficiency in recycling. This article constructs a closed-loop supply chain (CLSC) consisting of a power battery supplier, a new energy vehicle manufacturer, and a third-party recycler, and studies the optimal collaborative recycling mode considering blockchain adoption and recycling competition. Firstly, we identify five alliance recycling models and derive the equilibrium results for each model. Secondly, we use the Shapley value mechanism in cooperative game to allocate alliance profits reasonably. Some interesting conclusions are obtained. (1) The supplier-manufacturer alliance is the optimal recycling strategy under moderate recycling competition, which challenges the common assumption that the major-alliance dominates others in CLSC. (2) Alliances, especially manufacturer-3rd party alliance, are not always beneficial to the CLSC, but are beneficial under low recycling competition and blockchain cost. (3) The proposed four stable profit allocation cases can coordinate the CLSC, where all alliance members achieve higher profits than the decentralized model, with the supplier gaining the largest profit share and the manufacturer obtaining the most profit increment.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.energy.2024.134062
+VL  - 313
+IS  - 
+SP  - 134062
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Two-Echelon Collaborative Location Routing Problem With Intuitionistic Fuzzy Multi-Demands for Sorted-Waste Collection and Transportation
+AU  - Shang, Chunjian
+AU  - Ma, Liang
+AU  - Gao, Yan
+T2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+AB  - This paper explores a novel model for sorted-waste transportation, defined as the two-echelon collaborative location routing problem with intuitionistic fuzzy multi-demands. It considers a reverse logistics network organized in two capacitated echelons: the first echelon aims to build routes for trucks visiting every node for different strains of pick-up requests under intuitionistic fuzzy multi-demands, and the objective of the second echelon is to ascertain the number and position of cooperation clusters from waste transfer stations to treatment facilities. Due to the complexity of the proposed model, the instances that can be solved to optimality are usually small to medium-sized and face computational difficulties in solving larger instances. To overcome this problem, we fashion a distributed heuristic based on fuzzy bi-means and adaptive large neighborhood segmented search to address this novel model. A refined Shapley model for profit allocation and the best coalition combination is constructed for each participant. Extensive computational findings and a practical case study are conducted to show the efficiency of the proposed model and approach. Several relevant managerial insights are also derived to aid decision-making in waste sorting management.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1109/TITS.2024.3520577
+VL  - 26
+IS  - 3
+SP  - 3671-3683
+J2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - The responsibilities of freight carriers and other agents in the generation of freight externalities: Implications for addressing climate change
+AU  - Holguin-Veras, Jose
+AU  - Ramirez-Rios, Diana
+AU  - Encarnacion, Trilce
+T2  - TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+AB  - This research sheds light into an important and overlooked aspect of urban freight management and planning: the impacts of the decisions made by shippers, receivers, transportation and land use agencies, the real-estate sector, and other agents-referred to as non-carrier agents, or NCAs-on the generation of freight externalities. The paper is based on the insight that, since freight carriers must meet the constraints set by these agents, NCAs' decisions could force the carriers to create externalities above and beyond those that the carriers would generate if they had complete control over their operations. As part of the research, the paper: identifies key NCAs' decisions that could negatively affect the operational performance and the externalities produced by freight carriers; analyses the interactions between carriers and NCAs to formally characterize their interactions; uses standard game theory to define a new game-the Supply Chain Game-that describes the interactions among the agents involved in supply chains; identifies the equilibrium solutions for the various interactions associated with key decisions that affect freight carrier operations; computes Shapley Values to allocate the responsibilities for the freight externalities using test cases based on real-life supply chains; and builds on the research findings to identify actions to dramatically mitigate freight emissions. The research makes three important contributions spanning three different dimensions: (1) the empirical quantification of the responsibilities, (2) the formulation of the Supply Chain Game (methodology), and (3) the definition of the priority actions to reduce freight emissions (policy). Taken together, these contributions establish the necessity of using holistic approaches to mitigate freight externalities, including emissions in the era of climate change.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.tra.2025.104573
+VL  - 199
+IS  - 
+SP  - 104573
+J2  - TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimized cooperative vehicle routing in multi-depot collection systems for circular economy: Model development and case study
+AU  - Xu, Yiyi
+AU  - Ben Abdelaziz, Fouad
+AU  - Sahnoun, M'hammed
+AU  - Louis, Anne
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Manufactured products and used raw materials should be reprocessed and reutilized to ensure sustainability in the context of the circular economy. Optimized waste collection and management playa crucial role in establishing effective circular economy practices. A collaborative waste collection system is one of the pillars for optimizing the entire waste collection process. Collaborative waste collection involves a cooperative transportation system. This paper explores the integration of operational planning and profit-sharing in a cooperative collection and transportation system, considering three scenarios: non-cooperative, centralized, and decentralized planning. To address routing problems, two heuristic methods and a dynamic programming approach are proposed. Additionally, the study employs a Shapley-value-based mechanism to distribute profits among collection service providers and a proportional method to allocate cost savings among customers. Areal- world case study of a bio-waste collection system in Normandy, France, is included. The findings demonstrate that centralized planning can yield cost savings of up to 23%, underscoring the effectiveness of information sharing in transportation planning. This paper highlights the impact of collaboration practices on promoting a circular economy.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jclepro.2024.144417
+VL  - 486
+IS  - 
+SP  - 144417
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimistic and pessimistic approaches for cooperative games
+AU  - Atay, Ata
+AU  - Trudeau, Christian
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Cooperative game theory explores how to fairly allocate the joint value generated by a group of decision-makers, but its application is compromised by the large number of counterfactuals needed to compute the value of all coalitions, a problem made even more complicated when externalities are present. We provide a theoretical foundation for a simplification used in many applications, in which the value of a coalition is computed assuming that they either select before or after the complement set of agents, providing optimistic and pessimistic values on what a coalition should receive. In a vast set of problems exhibiting what we call feasibility externalities, we show that ensuring a coalition does not receive more than its optimistic value is always at least as difficult as ensuring it receives its pessimistic value. Furthermore, under the presence of negative externalities, we establish the existence of stable allocations that respect these bounds. Finally, we examine well-known optimization-based applications and their corresponding cooperative games to show how our results lead to new insights and allow the derivation of further results from the existing literature.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.ejor.2025.09.002
+VL  - 328
+IS  - 2
+SP  - 725-733
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+

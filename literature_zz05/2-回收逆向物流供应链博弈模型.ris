@@ -1,0 +1,962 @@
+TY  - JOUR
+TI  - Closed-loop supply chain models with product remanufacturing
+AU  - Savaskan, RC
+AU  - Bhattacharya, S
+AU  - Van Wassenhove, LN
+T2  - MANAGEMENT SCIENCE
+AB  - The importance of remanufacturing used products into new ones has been widely recognized in the literature and in practice. In this paper, we address the problem of choosing the appropriate reverse channel structure for the collection of used products from customers. Specifically, we consider a manufacturer who has three options for collecting such products: (1) she can collect them herself directly from the customers, (2) she can provide suitable incentives to an existing retailer (who already has a distribution channel) to induce the collection, or (3) she can subcontract the collection activity to a third party. Based on our observations in the industry, we model the three options described above as decentralized decision-making systems with the manufacturer being the Stackelberg leader. When considering decentralized channels, we find that ceteris paribus, the agent, who is closer to the customer (i.e., the retailer), is the most effective undertaker of product collection activity for the manufacturer. In addition, we show that simple coordination mechanisms can be designed such that the collection effort of the retailer and the supply chain profits are attained at the same level as in a centrally coordinated system.
+DA  - 2004
+PY  - 2004
+DO  - https://doi.org/10.1287/mnsc.1030.0186
+VL  - 50
+IS  - 2
+SP  - 239-252
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Decentralized decision-making and protocol design for recycled material flows
+AU  - Hong, I-Hsuan
+AU  - Ammons, Jane C.
+AU  - Realff, Matthew J.
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Reverse logistics networks often consist of several tiers with independent members competing at each tier. This paper develops a methodology to examine the individual entity behavior in reverse production systems. We consider two tiers in the network, collectors and processors. The collectors determine individual flow functions that relate the flow they provide each processor to the overall vector of prices that the processors determine. Because the exact final prices are unknown, each collector solves a robust optimization formulation where the prices paid by the processors are assumed to be within given ranges. The processors compete for the flow from the collectors until the Nash equilibrium is reached in this competitive tier, which sets the vector of prices to be offered to the collectors. To demonstrate the approach, a numerical example is given for a prototypical recycling network. (C) 2008 Elsevier B.V. All rights reserved.
+DA  - 2008
+PY  - 2008
+DO  - https://doi.org/10.1016/j.ijpe.2008.08.052
+VL  - 116
+IS  - 2
+SP  - 325-337
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Competition for cores in remanufacturing
+AU  - Bulmus, Serra Caner
+AU  - Zhu, Stuart X.
+AU  - Teunter, Ruud
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - We study competition between an original equipment manufacturer (OEM) and an independently operating remanufacturer (IO). Different from the existing literature, the OEM and IO compete not only for selling their products but also for collecting returned products (cores) through their acquisition prices. We consider a two-period model with manufacturing by the OEM in the first period, and manufacturing as well as remanufacturing in the second period. We find the optimal policies for both players by establishing a Nash equilibrium in the second period, and then determine the optimal manufacturing decision for the OEM in the first period. This leads to a number of managerial insights. One interesting result is that the acquisition price of the OEM only depends on its own cost structure, and not on the acquisition price of the IO. Further insights are obtained from a numerical investigation. We find that when the cost benefits of remanufacturing diminishes and the IO has more chance to collect the available cores, the OEM manufactures less in the first period as the market in the second period gets larger to protect its market share. Finally, we consider the case where consumers have lower willingness to pay for the remanufactured products and find that in that case remanufacturing becomes less profitable overall. (C) 2013 Elsevier B.V. All rights reserved.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1016/j.ejor.2013.08.025
+VL  - 233
+IS  - 1
+SP  - 105-113
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal collection and remanufacturing decisions in reverse supply chains with collector's imperfect sorting
+AU  - Gu, Qiaolun
+AU  - Tagaras, George
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - We consider a reverse supply chain comprising two independent companies: the collector and the remanufacturer. The collector is responsible for sorting the collected used products and then transporting the 'remanufacturable' items to the remanufacturer. As sorting is not perfectly accurate, the misclassification errors affect the optimal decisions in the reverse supply chain. We focus on the optimal collection quantity for the collector and the optimal order quantity for the remanufacturer using game theory under both deterministic and uncertain demand. We characterise the optimal solution and show that under certain conditions, the remanufacturer should allow the collector to transport more 'remanufacturables' than the order quantity. We then examine the case where both the collector and the remanufacturer belong to a single company with centralised decision-making and compare the optimal collection quantities under both structures of the reverse supply chain.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1080/00207543.2014.899720
+VL  - 52
+IS  - 17
+SP  - 5155-5170
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - On the cooperation of recycling operations
+AU  - Lu, Liang
+AU  - Qi, Xiangtong
+AU  - Liu, Zhixin
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - This paper addresses two important issues that may affect the operations efficiency in the recycling industry. First, the industry contains many small-scale and inefficient recycling firms, especially in developing countries. Second, the output from recycling a waste product often yields multiple recycled products that cannot all be sold efficiently by a single firm. To address these two issues, this paper examines how different firms can cooperate in their recycling and pricing decisions using cooperative game theory. Recycling operations under both joint and individual productions with different cost structures are considered. Decisions include the quantity of waste product to recycle and the price at which to sell each recycled product on each firm's market. These decisions can be made jointly by multiple cooperating firms to maximize total profit. We design allocation schemes for maximized total profit to encourage cooperation among all firms. Managerial insights are provided from both environmental and economic perspectives. (C) 2013 Elsevier B.V. All rights reserved.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1016/j.ejor.2013.04.022
+VL  - 233
+IS  - 2
+SP  - 349-358
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Managing channel profits of different cooperative models in closed-loop supply chains
+AU  - Ma, Zu-Jun
+AU  - Zhang, Nian
+AU  - Dai, Ying
+AU  - Hu, Shu
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - The importance of closed-loop supply chains has been widely recognized in literature arid in practice. The paper investigates interactions among the different parties in a three-echelon closed-loop supply chain consisting of a single manufacturer, a single retailer and two recyclers and focuses on how cooperative strategies affect closed-loop supply chain decision-making. Various cooperative models are considered by observing recent research and current cases, and the optimal decisions and supply chain profits of these models are discussed. By comparing various coalition structures, we discover that cooperative strategies can lead to win-win outcomes and increase an alliance's profit and can be effective ways of achieving greater efficiency from the point of view of the overall supply chain. Finally, the paper presents a detailed comparative analysis of these models and provides insights into the management of closed-loop supply chains. (c) 2015 Elsevier Ltd. All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.omega.2015.06.013
+VL  - 59
+IS  - 
+SP  - 251-262
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Competitive advantage of qualified WEEE recyclers through EPR legislation
+AU  - Zhou, Wenhui
+AU  - Zheng, Yanfang
+AU  - Huang, Weixiang
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Most of waste appliances in China are handled by unqualified recyclers, rather than by qualified ones equipped with advanced but costly technology. To address this problem, China implements a series of take-back legislations in the framework of Extended Producer Responsibility (EPR) with a self-financing subsidy scheme. To analyze the performance of the legislations, we develop a two-period model with a selling period run by a manufacturer and a recycling period conducted by two recyclers. We show that the self-financing condition gives an upper limit for the subsidy. We also show that this limit is not monotone in the recyclers' competitiveness difference, and there may be a gap between the upper limit and the optimal subsidy that maximizes the social welfare, i.e., a larger subsidy does not necessarily render a larger welfare. Further, we numerically show that the legislations improve the environment performance, but decrease the total profits of the manufacturer and recyclers. Interestingly, the legislations may or may not decrease the consumer surplus. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2016.07.050
+VL  - 257
+IS  - 2
+SP  - 641-655
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing, collecting and contract design in a reverse supply chain with incomplete information
+AU  - Zheng, Benrong
+AU  - Yang, Chao
+AU  - Yang, Jun
+AU  - Zhang, Min
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The significance of the reverse supply chain management and remanufacturing operations has been gaining increased attention in the literature and in practice. In this paper, we address the problem of how to make pricing, collecting and contract design decisions in a reverse supply chain, which consists of a collector and a remanufacturer. Two non-cooperative game models are established under complete and incomplete information scenarios, respectively. To begin with, we obtain the equilibrium pricing and effort decisions under complete information case. Then, the first-order conditions that the optimal acquisition price, optimal collection effort, optimal wholesale price and optimal retailing price satisfy are given under incomplete information. The result shows that the incomplete information structure might lead to an efficiency loss in the reverse supply chain. Hence, we then introduce a two-part tariff contract for the remanufacturer to motivate the collector to reveal private information, which can effectively improve the channel performance. Finally, we conduct numerical examples to compare the equilibrium solutions under different models and make the sensitivity analysis for some model parameters. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.cie.2017.07.004
+VL  - 111
+IS  - 
+SP  - 109-122
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - The impact of third-party remanufacturing on the forward supply chain: a blessing or a curse?
+AU  - Jin, Minyue
+AU  - Nie, Jiajia
+AU  - Yang, Feng
+AU  - Zhou, Yu
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - It is widely agreed that the entry of third-party remanufacturers (TPRs) hurts original equipment manufacturers (OEMs) because remanufacturing cannibalises the new product sales. In this paper, motivated by the practice of mobile phone remanufacturing, we develop a game theoretical model to revisit the impact of third-party remanufacturing on a forward supply chain in which one OEM purchases critical components from one dominant supplier. The OEM may operate the remanufacturing business as cost-efficient as the TPR. Our analytical results show that regardless of the OEM's remanufacturing capability, third-party remanufacturing could be beneficial to the OEM in that the supplier would lower the wholesale price as a response to the entry of the TPR; in addition, compared with the case without remanufacturing, third-party remanufacturing is always detrimental to the supplier, but the supplier should not always attempt to deter the entry of the TPR because third-party remanufacturing could be less detrimental than the OEM's in-house remanufacturing. Under certain conditions, the two players in the forward supply chain both prefer third-party remanufacturing over in-house remanufacturing. The key intuition driving this finding is that third-party remanufacturing makes the OEM and the supplier allied; while in-house remanufacturing makes them against each other.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1080/00207543.2017.1357860
+VL  - 55
+IS  - 22
+SP  - 6871-6882
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Sustainable development by waste recycling under a three-echelon supply chain: A game-theoretic approach
+AU  - Jafari, Hamed
+AU  - Hejazi, Seyed Reza
+AU  - Rasti-Barzoki, Morteza
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - In this study, the economic and environmental aspects of sustainability are considered on the waste recycling process under a three-echelon dual-channel supply chain containing one collector, one recycler, and one manufacturer. To our knowledge, this study is the first one focused on the recyclables under a dual-channel structure. Under the considered structure, the customers' demand for the finished product is specified. Then, the manufacturer procures the product from a recyclable waste with a specific recyclability degree. The collector collects the waste while the recycler recycles it. The manufacturer is also capable to recycle the waste. Thus, he can purchase the recycled materials from the recycler or gets the non-recycled waste from the collector and then recycles it. Under the various power structures, the game-theoretic models are established among the members. Then, the equilibrium strategies are obtained and various managerial insights are revealed. It is found that under the various games, the manufacturer selects the collector when some thresholds are met. When the collector and recycler have similar decision powers, the manufacturer gets higher profit than the situation that they make decisions with different decision powers. Moreover, more the recyclability degree of the waste leads to higher profits for the members. (C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2016.11.051
+VL  - 142
+IS  - 
+SP  - 2252-2261
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Two-echelon reverse supply chain in collecting waste electrical and electronic equipment: A game theory model
+AU  - Guo, Lingling
+AU  - Qu, Ying
+AU  - Tseng, Ming-Lang
+AU  - Wu, Chunyou
+AU  - Wang, Xiuyan
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - This study contributes to the literature by proposing coordination strategies between recyclers and processors in the collection of waste electrical and electronic equipment. Due to the increase in e-waste and its serious environmental consequences, much attention has been paid to recycling and remanufacturing. This study proposes a two-echelon reverse supply chain and deals with the differential game model by introducing recycling publicity. Illustrative examples are used to examine the differences and changes in recovery price, quantity, and publicity effort among three case studies. The results indicate that, when a processor undertakes publicity costs, the recovery quantity can be increased by improving recovery publicity efforts, rather than raising the recovery price, but when publicity expenses are paid by the recycler, the recovery quantity may be enhanced by bringing up the unit direct recovery price while the degree of recovery publicity efforts is minimal. A centralized decision is made, and recovery price, recovery quantity, and publicity efforts are maximized. These results can help achieve an optimal approach to the recycling of waste electrical and electronic equipment in a reverse supply chain.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.cie.2018.09.036
+VL  - 126
+IS  - 
+SP  - 187-195
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Reverse channel selection decisions with a joint third-party recycler
+AU  - Chu, Xiang
+AU  - Zhong, Qiuyan
+AU  - Li, Xue
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - In recent years, Internet-based firms have been increasingly engaged in recycling used products, taking advantage of economies of scale by serving a number of manufacturers. However, most studies on the recycling channel of remanufacturing to date only consider the case of a single manufacturer in a closed-loop supply chain. To address this gap, we develop a Stackelberg game model and show that the joint third-party (J3P) collection mode serving multiple manufacturers may outperform individual retailer- and manufacturer-managed modes, as opposed to existing findings considering a single manufacturer. It is optimal for manufacturers to authorise a large-scale J3P to collect used products. In addition, we show that the J3P can design a two-part tariff contract for the manufacturers to overcome the double marginalisation and collective action problems in decentralised supply chains. Our results provide guidance for enterprises and the government on recycling decisions in the era of a network economy.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1080/00207543.2018.1442944
+VL  - 56
+IS  - 18
+SP  - 5969-5981
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation. regarding technology development in a closed-loop supply chain
+AU  - Wu, Cheng-Han
+AU  - Kao, Yi-Jhe
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Remanufacturing is the process by which used products are recovered and rebuilt to meet like-new quality conditions. The quality level of the original equipment manufacturer (OEM) affects not only OEM production costs but also the recovery costs of the independent remanufacturer (IR). Thus, many IRs aim to lower their costs by cooperating with OEMs through technology licensing or R&D joint venture mechanisms. In this study, we investigate competitive and cooperative interactions in a closed-loop supply chain that includes an OEM and an IR First, the OEM determines its quality level; according to which the OEM and the IR then choose their respective production quantities. Thus, the OEM's choice of quality level is essential to the subsequent quantity competition between the OEM and the IR. Moreover, two cooperative mechanisms between the OEM and the IR are developed: technology licensing with a licensing royalty and an R&D joint venture for technology co-development. We also investigate firm equilibrium decisions and profits in different models; consider the endogenous settings of cooperation schemes; and compare performance between the cooperative models. Furthermore, we extend our models to a dynamic setting to examine the effects of period and planning horizons on the equilibrium results. We provide insights that will help managers achieve better outcomes beyond the firm boundary. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ejor.2017.11.068
+VL  - 267
+IS  - 2
+SP  - 523-539
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Reverse logistics pricing strategy for a green supply chain: A view of customers' environmental awareness
+AU  - Chen, Daqiang
+AU  - Ignatius, Joshua
+AU  - Sun, Danzhi
+AU  - Zhan, Shalei
+AU  - Zhou, Chenyu
+AU  - Marra, Marianna
+AU  - Demirbag, Mehmet
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - The effectiveness of a reverse logistics strategy is contingent upon the successful execution of activities related to materials and product reuse. Green supply chain (GSC) in reverse logistics aims to minimize byproducts from ending up in landfills. This paper considers a retailer responsible for recycling and a manufacturer responsible for remanufacturing. Customer environmental awareness (CEA) is operationalized as customer word-of-mouth effect. We form three game theoretic models for two different scenarios with different pricing strategies, i.e. a non-cooperative pricing scenario based on Stackelberg equilibrium and Nash equilibrium, and a joint pricing scenario within a cooperative game model. The paper suggests that stakeholders are better off making their pricing and manufacturing decision in cooperation.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.ijpe.2018.08.031
+VL  - 217
+IS  - 
+SP  - 197-210
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Coordinating a closed-loop supply chain with fairness concerns through variable-weighted Shapley values
+AU  - Zheng, Xiao-Xue
+AU  - Li, Deng-Feng
+AU  - Liu, Zhi
+AU  - Jia, Fu
+AU  - Sheu, Jiuh-Biing
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - This paper considers a closed-loop supply chain (CLSC) structure in which a manufacturer allows a retailer and a third-party remanufacturer to sell and remanufacture his products, respectively. Given the retailer's distributional fairness concerns, we investigate the optimal/equilibrium decisions and profits under five non-cooperative and cooperative game models, and focus on how to allocate maximum profit in a centralized setting. Based on the classic Shapley value, we propose an innovative weighted allocation approach-namely, the variable-weighted Shapley value-to coordinate this CLSC. Numerical studies demonstrate that when remanufactured products are lowly accepted by consumers, our model outperforms the classic Shapley value.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.tre.2019.04.006
+VL  - 126
+IS  - 
+SP  - 227-253
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Coordinating and pricing decisions in two competitive reverse supply chains with different channel structures
+AU  - Sadeghi, Razieh
+AU  - Taleizadeh, Ata Allah
+AU  - Chan, Felix T. S.
+AU  - Heydari, Jafar
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - This paper addresses coordination and competition problem in two reverse supply chains each having its own exclusive retailer and manufacturer. The chains have various collecting channel structures so that one of them uses the advantages of dual channels, where the consumer can return their e-waste through direct or traditional channels, while its competitor collects obsolete products only through its traditional channel. The willingness to return in each channel is a function of self- and cross-discounts of the competitors. Four decision scenarios are investigated; the first and second chain respectively select, Decentralised-Decentralised, Centralised-Centralised, Centralised-Decentralised or Decentralised-Centralised scenario. The closed-form optimal solution of each channel is derived based on the Stackelberg game when the second chain acts as a leader. The most economical scenario is determined by using a Non-Zero-Sum game when each chain plays as a single player in the game. To coordinate the members' decisions and to convince unsatisfied members, two coordination contracts are offered. Numerical investigations reveal that direct channel suggests more discount and obtains more share of market. The results show that Centralised-Centralised scenario is the best decision from the SCs' perspective which proposing contracts are able to persuade members to change their strategy to a global decision.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1080/00207543.2018.1551637
+VL  - 57
+IS  - 9
+SP  - 2601-2625
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing models in a sustainable supply chain with capacity constraint
+AU  - Wang, Jian
+AU  - Zhou, Zhuang
+AU  - Yu, Mingzhu
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - In this paper, we investigate a closed-loop supply chain with one supplier and one third-party collector who compete with each other and have more pricing power than the manufacturer with production capacity constraints. The optimal pricing, recycling and remanufacturing strategies are derived. Three pricing models are proposed to discuss strategies under different scenarios: the supplier-led Stackelberg game model, the third-party collector-led Stackelberg game model and the Nash game model. Through theoretical analysis and numerical studies, it is found that (1) strategies such as advertising and promotion can gain more market preference for managers yet cause a dilemma for the supplier who must balance between profit and supply chain sustainability when choosing these strategies; (2) the supplier or the third-party collector gain more profit when they act as the follower and the supplier-led game scenario is the best scenario for the recycling and remanufacturing activities in the supply chain; (3) it is also a dilemma for the supplier to balance between profit and supply chain sustainability when choosing a decision sequence. (C) 2019 Elsevier Ltd. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.jclepro.2019.01.319
+VL  - 222
+IS  - 
+SP  - 57-76
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Hybrid closed-loop supply chains with competition in recycling and product markets
+AU  - Wang, Nengmin
+AU  - He, Qidong
+AU  - Jiang, Bin
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - This paper considers a closed-loop supply chain (CLSC) with competitive recycling-market (competitive collectors) and product-market (new and remanufactured products). Three competition scenarios chosen by the manufacturer are studied in this paper. First, the manufacturer does not establish a complete CLSC, and the remanufacturer takes the entire recycling business instead. Second, the manufacturer chooses to establish its own collecting networks, and the manufacturer and remanufacturer compete in the recycling market. Third, the manufacturer chooses to outsource the collecting business to the retailer, and the retailer and remanufacturer compete in the recycling market. We use Stackelberg gaming models to study the optimal pricing strategies for all three individuals and their attitudes toward different scenarios. Finally, numerical analysis is presented. We generate our findings from three aspects, as follows: the manufacturer's recycling choice, supply chain control-lability, and influence on retailers and remanufacturers. We find that the manufacturer will always choose to recycle and remanufacture used products, and the collecting channel depends on the unit cost of self-collecting and the compensation from outsourcing-collecting. The collecting-outsourcing strategy causes the retailer to be more willing to reduce the price, but the remanufacturer would like the manufacturer to choose collecting self-implementation, and considering the controllability and predictability of pricing strategies, the manufacturer is also willing to recycle itself.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.ijpe.2018.01.002
+VL  - 217
+IS  - 
+SP  - 246-258
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative game approaches to coordinating a three-echelon closed-loop supply chain with fairness concerns
+AU  - Zheng, Xiao-Xue
+AU  - Liu, Zhi
+AU  - Li, Kevin W.
+AU  - Huang, Jun
+AU  - Chen, Ji
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - This paper investigates a three-echelon closed-loop supply chain (CLSC) consisting of a manufacturer, a distributor, and a retailer, where the retailer exhibits fairness concerns. Cooperative and non-cooperative game theoretic analyses are employed to characterize interactions among different parties. Analytical results confirm the conventional wisdom: with the retailer's fairness concerns, the channel profits under the decentralized and partial-coalition models underperform that under the centralized model. To find an appropriate profit allocation scheme to coordinate the supply chain system with fairness concerns, we resort to the cooperative game theory. To this end, we first derive the characteristic function form of the cooperative game based on the equilibrium profits under centralized, decentralized and different partial-coalition models. Subsequently, we propose three coordination mechanisms based on the Shapley value, nucleolus solution, and equal satisfaction to allocate surplus profit. The three mechanisms are then evaluated by using numerical experiments. We further examine how the retailer's fairness concerns affect profit allocation under the three mechanisms. The key innovation is to incorporate the retailer's fairness concerns into the coordination of a three-echelon CLSC. Our contributions are twofold: First, cooperative game-theoretic mechanisms are put forward to coordinate the three-echelon CLSC with a fairness-minded retailer. Second, we investigate how the retailer's fairness concerns affect the CLSC members' pricing decision and surplus profit allocation. Our studies confirm that the resulting profit allocation schemes satisfy both individual and collective rationality and fall in the core of the cooperative game, thereby making the grand coalition stable and suggesting viable options to coordinate the CLSC system. Further analyses reveal that different coordination mechanisms benefit the three CLSC members differently. These research findings help CLSC managers to understand what options are available and identify possible pathways for them to foster cooperation and achieve equitable allocation of surplus profit.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.ijpe.2019.01.011
+VL  - 212
+IS  - 
+SP  - 92-110
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Investigation of construction waste recycling decisions by considering consumers' quality perceptions
+AU  - He, Lingling
+AU  - Yuan, Hongping
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Building material enterprises (BMEs) and waste recycling enterprises (WREs) are two critical stakeholders in construction waste recycling, and their decisions toward waste recycling are influential to development of waste recycling market. However, the present literature fails to consider consumers' quality perceptions of recycled materials when investigating stakeholder decisions in the market, which significantly affects understanding of stakeholder decisions on waste recycling. To address the research gap, this study investigates from a theoretical perspective the optimal strategies of the BME and the WRE by considering consumers' quality perceptions toward recycled materials. The game theory is employed to develop models and analyze stakeholder decisions in the context of different construction waste (CW) recycling scenarios. It is found that the consideration of consumers' quality perceptions toward recycled materials shapes three CW recycling scenarios (i.e., business stripping mode, business monopoly mode, and business cooperation mode) in the waste recycling markets. When there is a demand for recycled materials, the BME should take good use of its labor and capital advantages to actively develop the waste recycling market for higher profits. However, when there are already independent WREs, the BME should perform waste recycling business jointly with the WRE. In addition, there exists stable competitive market equilibrium, depending on low consumer quality perception of recycled materials produced by the BME and small consumer quality perception disparity between recycled materials provided by the two enterprise groups. Under the circumstance, the BME and the WRE can achieve a win-win situation for gaining profits. This theoretical study contributes to a new perspective (i.e., consumers' quality perceptions) for better understanding decisions of major stakeholders (i.e., the BME and the WRE) on CW recycling. In addition, the study for the first time introduces the game theory into explaining CW recycling, which may enhance the effectiveness of policies aiming at promoting CW recycling practices. (C) 2020 Elsevier Ltd. All rights reserved.
+DA  - 2020
+PY  - 2020
+DO  - https://doi.org/10.1016/j.jclepro.2020.120928
+VL  - 259
+IS  - 
+SP  - 120928
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Collusion or Not: The optimal choice of competing retailers in a closed-loop supply chain
+AU  - Wang, Qifei
+AU  - Hong, Xianpei
+AU  - Gong, Yeming (Yale)
+AU  - Chen, Wanying (Amanda)
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - While previous studies overlook the collusive behavior of retailers under bidirectional competition, we study a closed-loop supply chain (CLSC) consisting of one manufacturer and two competing retailers whose competition exists in the forward and reverse channels. Considering the retailers' potential collusive behavior and the upstream manufacturer's interactive decisions, we build three two-tier game models: Stackelberg-collusion model, Stackelberg-Nash model, and Stackelberg-Stackelberg model. We first obtain the equilibrium decisions of the manufacturer and the retailers in the three models. Furthermore, we investigate whether collusion is beneficial to the two retailers. We find that the retailers' collusion always brings remarkable profit improvement to them as a whole, while the smaller retailers may suffer severe profit loss. A profit-sharing contract is, therefore, designed to guarantee that each retailer can gain more profit by collusion. We also compare the environmental benefit and social welfare among the three models and find that collusion may do harm to the environment or social welfare compared with other models.
+DA  - 2020
+PY  - 2020
+DO  - https://doi.org/10.1016/j.ijpe.2019.107580
+VL  - 225
+IS  - 
+SP  - 107580
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A review of factors affecting closed-loop supply chain models
+AU  - Shekarian, Ehsan
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Closed-loop supply chain (CLSC) as one of the important configurations of the circular economy (CE) has received considerable attention in sustainability matters. It is composed of characteristics that, when identified, studied, and categorized, help not only to a better understanding of the current contributions in the literature but also lead to formulating new models. This research presents one of the first in-depth studies to investigate factors influencing CLSCs. It concerns the investigation of the models which are designed based on the game theory (GT). Therefore, the reviewed works focused on cooperation and competition among the game participants. A systematic literature review is implemented as a four-step process consisting of material collection, a descriptive analysis, category selection, and evaluation stage to review and discuss the works that focus on CLSC and use GT simultaneously. A content-based analysis is carried for the final works, which include 215 papers. The identified characteristics of these papers are classified into 12 main categories. Moreover, they are divided into subcategories to highlight the contribution of each paper. Accordingly, results are derived, and gaps are explained. (C) 2020 The Author. Published by Elsevier Ltd.
+DA  - 2020
+PY  - 2020
+DO  - https://doi.org/10.1016/j.jclepro.2019.119823
+VL  - 253
+IS  - 
+SP  - 119823
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A competitive dual recycling channel in a three-level closed loop supply chain under different power structures: Pricing and collecting decisions
+AU  - Ranjbar, Yahya
+AU  - Sahebi, Hadi
+AU  - Ashayeri, Jalal
+AU  - Teymouri, Ashkan
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The past two decades witnessed the raise of closed-loop supply chain due to huge attention to the environment and business social responsibility. Both academia and industry have examined recycling and remanufacturing of the used products, due to these concerns complicated by resource scarcity, and government regulations. In this paper, a three-level closed-loop supply chain consisting of a manufacturer, retailer, and third-party collector are considered. The manufacturer builds simultaneously new products from raw materials and remanufactures the returning products. The main idea of the study is to evaluate optimal pricing and collection decisions under channel leadership with two competitive recycling channels including retailer collecting and third-party collector collecting. Based on game theory, four different scenarios are developed - a centralized model and three decentralized models based on the Stackelberg game including Manufacturer Stackelberg, Retailer Stackelberg, and third-party collector Stackelberg. To verify the model, the real case of a TV set producer is studied and then the optimal decisions compared and analyzed in different scenarios. The effect of competition between the retailer and the third-party collector recycling channel has been examined on decision variables, member profits and total profit. A comprehensive sensitivity analysis has been carried out considering the base market size parameter and the sensitivity of demand to retail prices. The examination of the results from the environmental and consumer welfare aspects shows that the retailer leadership decentralized model is often the most effective scenario in closed-loop supply chain, and considering the overall benefit of the supply chain between decentralized models, the retailer leadership model is the best and closest model to the centralized model. (C) 2020 The Author(s). Published by Elsevier Ltd.
+DA  - 2020
+PY  - 2020
+DO  - https://doi.org/10.1016/j.jclepro.2020.122623
+VL  - 272
+IS  - 
+SP  - 122623
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Interactive decisions of the waste producer and the recycler in construction waste recycling
+AU  - Liu, Jing
+AU  - Nie, Jiajia
+AU  - Yuan, Hongping
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Implementing construction and demolition waste (C&D waste) recycling is identified as significant for waste minimization and natural resources conservation. However, previous studies have not distinguished two typical waste recycling market scenarios (i.e., being shortage or glut of C&D waste recycling processing capacity) when investigating waste recycling issues; in the meanwhile, very limited studies have focused on examining stakeholders' decision interactions and their impacts on waste recycling. This study thus aims to address these research gaps through investigating the profits of two stakeholders (i.e., the waste producer and the recycler) in C&D waste recycling under different market scenarios by considering the two stakeholders' interactive decisions. In each of the waste recycling market scenarios, environmental impacts regarding C&D waste recycling are examined considering the foremost incentive for the government to enhance C&D waste recycling is minimization of environmental impacts. Game theory is utilized to investigate the interplay between the waste producer and the recycler in C&D waste recycling, as well as to examine the profits of the two stakeholders under the two market scenarios. We find that in both of the waste recycling market scenarios, the profits of the recycler always decrease in the rate of disposed waste and the investment cost coefficient; in the meanwhile, the recycler can always obtain more profits when its waste processing capacity is insufficient to handle the generated C&D waste. If the investment cost coefficient is relatively higher, a win-win situation for obtaining benefits can be achieved for both the waste producer and the recycler. The comparison of environmental impacts in the two waste recycling market scenarios reveals the optimal market scenario having more environmentally friendly advantages. To our best knowledge, this study is the first attempt to analyze the dynamic interactions of the waste producer and the recycler in C&D waste by differentiating the market scenarios. It is anticipated that the research outcomes could be valuable by not only contributing to existing C&D waste management body of knowledge, but also providing managerial insights about how stakeholders can be encouraged to promote C&D waste recycling. (C) 2020 Elsevier Ltd. All rights reserved.
+DA  - 2020
+PY  - 2020
+DO  - https://doi.org/10.1016/j.jclepro.2020.120403
+VL  - 256
+IS  - 
+SP  - 120403
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Selection of best buyback strategy for original equipment manufacturer and independent remanufacturer - game theoretic approach
+AU  - Ray, Ankita
+AU  - De, Arijit
+AU  - Mondal, Sandeep
+AU  - Wang, Junwei
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - The study considers two supply chain members, an original equipment manufacturer (OEM) producing new and remanufactured products and an independent remanufacturer (IR) collecting used products of OEM and producing remanufactured products. Furthermore, OEM and IR are involved in competition to collect the used products by providing various exciting offers to the customers. A two period analytical model is developed to investigate the profitable buyback strategy for OEM and IR under low and high pricing strategy. In first period, OEM performs remanufacturing and considers a strategy to collect the product cores from end users under a certain pricing strategy. Under extensive game format, IR joins in the remanufacturing business to compete with OEM and based on OEM's attractive buyback strategy, IR adopts a profitable pricing strategy. The research addresses oligopoly market where OEM is not the single seller of new product and other sellers are interested in remanufacturing. In such scenario, OEM has less control over used products collection of other brand and OEM cannot restrict independent remanufacturer to venture within remanufacturing business. The findings of the study depicted that low pricing strategy exchange offer is profitable buyback decision for OEM and incentive offer is profitable buyback decision for independent remanufacturer.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1080/00207543.2020.1784486
+VL  - 59
+IS  - 18
+SP  - 5495-5524
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Dynamic game strategies for construction and demolition waste recycling with learning and reference effects
+AU  - Hu, Qidan
+AU  - Su, Peiyang
+AU  - Xiong, Feng
+T2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+AB  - Construction and demolition waste (C&DW) recycling can effectively reduce the environmental impacts caused by the massive amounts of untreated C&DW, and can promote the sustainable development of the construction industry. This study aims to provide relevant insights for the implementation of C&DW recycling, and can be practically used to guide participants' dynamic strategies in the presence of both the reference price effect and cost learning effect. Based on game theory, a static model is developed as a benchmark, including a construction materials manufacturer and a C&DW recycler under a government subsidy. Then, a dual-period dynamic model combining the learning and reference effects is established to broaden the understanding of C&DW recycling management. On this basis, the decisions and revenues of players are compared and analysed, and managerial insights are obtained through numerical analysis. It is found that both the learning and reference effects affect the manufacturer's decisions and revenues, and that the reference effect has a much greater impact on profit than the learning effect. In addition, only the learning effect has a positive influence on the recycler's recycling efforts and profits, thereby promoting C&DW recycling and reducing environmental impacts. Moreover, government subsidies always benefit the environment and recycler, and as the learning ability becomes stronger, the subsidy becomes more efficient in reducing the environmental impacts and improving the recycler's profit. Comparatively, the impact of subsidy on the manufacturer's profits depends on the learning ability. When the learning ability is relatively high, a higher subsidy is detrimental to the manufacturer in the short term but benefits it in the long term.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.eiar.2021.106592
+VL  - 89
+IS  - 
+SP  - 106592
+J2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost-based subsidy and performance-based subsidy in a manufacturing-recycling system considering product eco-design
+AU  - Yu, Hong
+AU  - Chang, Xiangyun
+AU  - Liu, Wenjie
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Using the Stackelberg game theory, this paper evaluates the effectiveness of four subsidy schemes on the product eco-design and recycling rate in a manufacturing-recycling system that comprises a government, a manufacturer and a recycler. The principal results are: 1) For the cost-based subsidies, a fixed-cost subsidy to recyclers always yields higher recycling rate and social welfare. For the performance-based subsidies, the effects are closely related to market demand and the fixed cost coefficients of eco-design and recycling. Governments should select subsidy schemes according to the specific goals and market conditions. 2) Four subsidy schemes are the effective forces to promote product eco-design and recycling. Higher subsidy intensity brings better supply chain profits and better environment performance, but it does not always bring better social welfare. 3) Eco-design can increase waste recycling rates effectively, and recycling rates are more sensitive to eco-design when the government subsidizes the fixed costs of recyclers.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.jclepro.2021.129391
+VL  - 327
+IS  - 
+SP  - 129391
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A comparative analysis of express packaging waste recycling models based on the differential game theory
+AU  - Yang, Jiahui
+AU  - Long, Ruyin
+AU  - Chen, Hong
+AU  - Sun, Qingqing
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Waste recycling is a globally significant issue that can alleviate environmental pollution and resource shortages. However, due to the lack of effective incentive measures and recycling models, the recycling rate is low in China. Analyzing the behavior choices of relevant stakeholders and comparing the effective of different recycling models has become a practical problem. A multi-agent express packaging waste recycling system that includes governments, individuals and enterprises was constructed. Further, based on the differential game theory, this study explores the behavioral characteristics of individuals, optimal strategies of government and enterprises under market-driven recycling model, government-driven recycling model, and cooperation-driven recycling models. The analysis derives the following findings. (1) Under the market-driven recycling model and government-driven recycling model, both the government and enterprise take the maximization of their own interests as behavior principle, whereas under the cooperation-driven recycling model, they are both more concerned about improved benefits. (2) Compared with the market-driven recycling model, the governmentdriven recycling model has achieved Pareto improvement. (3) The cooperation-driven recycling model has the highest revenue. (4) Subsidies are conducive to improving the optimal effort levels of enterprises. This study can provide new ideas for related research and offer a theoretical basis to formulate efficient recycling policy.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.resconrec.2021.105449
+VL  - 168
+IS  - 
+SP  - 105449
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal timing of acquisition price announcement for used products in a dual-recycling channel reverse supply chain
+AU  - Matsui, Kenji
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - The rapid development of information technologies enables recycling companies to purchase and collect used products from consumers through both traditional and Internet-based online channels. Because an online channel transmits price information instantly to consumers, choosing the best time to announce the recycling price (i.e., acquisition price) of used products to consumers has become a critical problem for recycling companies. This paper seeks to solve this problem by developing a game-theoretic model describing a dual-channel reverse supply chain consisting of a recycling company and a third-party collector in which the recycling company purchases products not only through a third-party collector, but also directly from consumers online. We derive two major results by solving the model. The first is that first-mover advantage arises, which indicates that each firm constituting a dual-channel reverse supply chain should announce its own recycling price before the other. This first result is notable because it is exactly opposite to conventional wisdom that the second-mover advantage of pricing usually emerges when price competition occurs among firms in a horizontal relationship, which is well known in noncooperative game theory. The second result is that the recycling company can maximize its own profit and consumers' surplus by announcing its recycling price in the online channel before or upon, but not after, determining the transfer price paid to the collector for products collected in the offline channel. Both results can be used as practical decision-making guidelines in dual-recycling channel reverse supply chain management. (C) 2021The Author(s). Published by Elsevier B.V.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.ejor.2021.08.010
+VL  - 300
+IS  - 2
+SP  - 615-632
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Closed-loop supply chain models with coopetition options
+AU  - Jalali, Hamed
+AU  - Ansaripoor, Amir
+AU  - Ramani, Vinay
+AU  - De Giovanni, Pietro
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - This paper proposes a Closed-loop Supply Chain game-theoretic model that mimics the DellReconnect Supply Chain. Within this framework, we characterise a game between an Original Equipment Manufacturer (OEM) and a social collector, who work together to recover electronics. The market comprises three segments: consumers purchasing only new goods, consumers purchasing only used goods, and indifferent consumers. The social collector decides whether the returns will be used to serve the used-market segment or the indifferent market segment first, thereby establishing the market structure and deciding whether to opt for competition or coopetition. We find that, whereas the social collector is indifferent when it comes to a choice between coopetition and competition, the OEM strictly prefers coopetition.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1080/00207543.2021.1910871
+VL  - 60
+IS  - 10
+SP  - 3078-3106
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Central robust decision-making structure for reverse supply chain: a real pharmaceutical case
+AU  - Nami, Nazanin
+AU  - Hosseini-Motlagh, Seyyed-Mahdi
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Tons of hazardous pharmaceutical waste is introduced to the environment each year, showing the significance of medicines reverse channels. Meanwhile, establishing a pharmaceutical reverse channel is complex and costly, and therefore misestimation of uncertainty in waste collection operations can lead to severe financial losses. As conventional methods for uncertainty often fail to mitigate the risk and protect the system, we propose a central robust approach, inspired by scenario-based robust optimization and supply chain coordination concepts, which can significantly reduce waste management costs in the face of uncertainty. We study the profitability in a two -layer reverse channel, where the initial number of unwanted medications is subject to discrete uncertainty. Then, we extend our problem, assuming that the customer willingness to return the items is subject to random un-certainty. A non-linear programming model, a flexible transfer price agreement, and the Nash-bargaining game model are developed to optimize and coordinate the system performance. The analytical results provide reliable insights for industry owners to manage uncertainty in the collection process. We illustrate that implementing the proposed model boosts the return quantity, leads to a remarkable improvement in the profitability of the entire chain, and improves the system adaptability with respect to changing significant market parameters or revenue fluctuations.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.cie.2022.108726
+VL  - 173
+IS  - 
+SP  - 108726
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Impacts of tax refund on enterprise's decisions on recycled materials production: A cross-regional perspective
+AU  - He, Lingling
+AU  - Yuan, Hongping
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Recently along with the development of waste recycling markets, a distinct management scenario which extends the traditional municipality-level management scenario to a cross-regional management scenario emerges. Under the cross-regional management scenario, on the one hand, disparities in value-added tax refund policy aggravate imbalanced development of construction and demolition waste recycling markets between regions. On the other hand, how preferential taxation policies would influence decisions of waste recycling enterprises are unclear. To fill the research gap, this paper investigates impacts of value-added tax refund policies on enterprise's cross regional recycling decisions by establishing game models that involve two recycling enterprises and two transportation enterprises. Through developing and analyzing game theory based models, the optimal decisions of involved enterprises are obtained. The findings reveal that (i) when the disparities in transportation costs and market capacities between two regions are moderate, recycling enterprises should choose cross-regional production rather than local production; (ii) enlarging market capacities after cross-regional recycling could simultaneously increase recycling quantities of waste in original region. But moderate market capacities and high value-added tax refund rate promote both recycling enterprises being better off in cross-regional production scenario; and (iii) raising value-added tax refund rate is not always necessary under certain conditions, where higher value-added tax refund rate reversely decrease recycling enterprise profits in current region. To enhance the effectiveness of value-added tax refund policy, reducing cross-regional transportation costs and balancing regional market capacities should be applied by the local government. The findings are valuable in expanding the research scope of traditional construction and demolition waste recycling markets and increasing the efficiency of applying tax policies in promoting waste recycling. There are two research limitations; one is that we did not consider the illegal waste dumping (i.e., dumping waste into unauthorized areas) frequently occurring in the process of waste transportation, and the other is that we considered unified preferential taxation for both of the recycling enterprises.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.cie.2022.108035
+VL  - 167
+IS  - 
+SP  - 108035
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative game for coordination of a green closed-loop supply chain
+AU  - Asghari, Tooba
+AU  - Taleizadeh, Ata Allah
+AU  - Jolai, Fariborz
+AU  - Moshtagh, Mohammad Sadegh
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This research examines a single-stage green closed-loop supply chain (GCLSC) in which the green manufacturer, retailer, and collector try to reform the environmental effects of their operations, products, and services across the value chain according to their environmental responsibilities. The collector is responsible for performing the take-back program of used green products, recycling, and trading second-hand products. In this paper, the environmental responsibility of all three supply chain members is considered. The demand function of ecofriendly products is defined as a function of retail price, environmental efforts of the green manufacturer and retailer, the sensitivity of environmentally conscious consumers to their efforts, and the worth of off voucher given to the consumer for returning used product. For coordinating this GCLSC, first, the mathematical model of the decentralized model and all possible coalition forms are examined. Then, the cooperative game theory, including Nucleolus solution mechanism (NSM) and Shapley value mechanism (SVM), and different contracting structures, including cost-sharing (CS), revenue sharing (RS), and two-part tariff (TPT) contract, are utilized. Major goal of this research is to compare these two classes of coordination models in terms of economic and environmental dimensions to choose the best strategy for channel coordination. Eventually, computational and practical investigations reveal that forming the grand coalition yields better results than contracts in terms of achieving environmental goals and total profit. Also, the economic advantages are different for each coordination model. Besides coordination mechanisms explored in this research, as a future study, one can incorporate the effect of competition between green and traditional manufacturers on supply chain performance. Finally, managerial insights of this research guide the managers towards desirable practices to promote coordination and achieve a fair allocation of profit.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jclepro.2022.132371
+VL  - 363
+IS  - 
+SP  - 132371
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Closed-loop supply chain coalitional cooperation and coordination under differentiated carbon tax regulation
+AU  - Yu, Zhongwei
+AU  - Lin, Yang
+AU  - Wang, Yingming
+AU  - Goh, Mark
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This paper presents a systematic two-stage analysis to improve a three-echelon closed-loop supply chain coop-eration and coordination under differentiated carbon tax regulation, which enriches non-cooperative and cooperative game theory applications in remanufacturing circular economies. Firstly, we utilize non-cooperative games to explore the optimal operations of new and remanufactured products across five coalitional models. Then, we adopt cooperative games to achieve profit coordination. Specifically, Shapley values are employed for allocating a grand coalition profit in a centralized setting. In order to alleviate carbon taxpayers' fairness con-cerns, we proposed a novel revised Shapley value algorithm incorporating differentiated carbon tax costs to improve their utility. The results show that regulators can reduce emissions by adjusting carbon tax rates on different products more effectively. The optimal environmental and economic performance can also be achieved by forming a grand coalition. Shapley value algorithms achieve the supply chain system Pareto improvement. Moreover, carbon taxpayers' (i.e., manufacturer and remanufacturer) utilities in our revised Shapley are improved by 20.15% and 77.71%, respectively, compared with the classical Shapley value under certain con-ditions. These results benefit regulators' carbon tax policy formulation and industrial managers' remanufacturing practices.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.jclepro.2023.136239
+VL  - 392
+IS  - 
+SP  - 136239
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Differentiated subsidy mechanism for promoting construction and demolition waste recycling
+AU  - Yuan, Hongping
+AU  - He, Lingling
+AU  - Wu, Huanyu
+AU  - Zuo, Jian
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Low acceptance of recycled materials and inefficient government policies remain to be great challenges to promote construction and demolition (C&D) waste recycling. However, limited efforts have been devoted to evaluating the effectiveness of government subsidies in improving enterprises profits based on varying consumer quality perceptions. A differentiated subsidy mechanism is therefore developed through game models by investigating the decisions of three parties (i.e., the building materials enterprise, BME; the waste recycling enterprise, WRE; and the government). The results reveal that as consumers show diverse quality perceptions on recycled materials produced by different enterprises, differentiated subsidies should be accordingly imposed between enterprises to increase subsidy efficiency in the cooperation market. Moreover, higher consumer perception could be a partial substitute for government subsidies to promote C&D waste recycling. Although a win-win situation could hardly be achieved to simultaneously maximize the profits of BME and WRE under government subsidies, the enterprise producing higher quality materials (i.e., BME) would profit more from C&D waste recycling all the time. Consequently, when the target quantity of recycled materials is relatively low and consumers show a small disparity of quality perceptions, raising consumer quality perceptions rather than blindly increasing production quantities is a critical approach for BME to increase its profits in the cooperation market. The findings advance existing literature by establishing a differentiated subsidy mechanism that would vary based on consumer quality perceptions. Also, this paper reveals the importance of higher consumer per-ceptions and the impacts of differentiated subsidies on promoting waste recycling and subsidizing efficiency.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.jclepro.2023.137051
+VL  - 405
+IS  - 
+SP  - 137051
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Channel leadership and performance for a closed-loop supply chain
+AU  - Zhou, Yongyi
+AU  - Zhang, Yulin
+AU  - Wahab, M. I. M.
+AU  - Goh, Mark
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - This paper investigates channel leadership and performance in a closed-loop supply chain (CLSC) that involves the competition among an electric vehicle manufacturer (EVM), an electric vehicle recycler (EVR), and a third-party recycler (3PR). We develop a game-theoretic model to obtain the CLSC's equilibrium outcomes for the EVM-led and EVR-led recycling channels and examine the impact of competition on these results. We then compare the equilibrium outcomes and discover that the EVM, EVR, and 3PR have difficulty aligning their preferences for recycling leadership mode, necessitating technological advancements in remanufacturing and governmental intervention. Our research highlights the significance of environmental responsibility awareness in the recycling process and discusses environmental damage and social welfare. Our findings indicate that in situations where the total recycling rate of the CLSC is low, the EVR may offer a higher price to prevent excessive new battery flow into the market. We suggest that the government should encourage more local EVRs to participate in the recycling system to reduce pollution. Finally, we extend our analysis to the cost-savings in remanufacturing and heterogeneous buyback prices.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.tre.2023.103151
+VL  - 175
+IS  - 
+SP  - 103151
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Firms' cooperation on recycling investments in a three-echelon reverse supply chain
+AU  - Kong, Junjun
+AU  - Chua, Geoffrey A.
+AU  - Yang, Feng
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Design-for-recycling and recycling technology choices are significant to improve the environmental and economic benefits of recycling systems. Consider a three-echelon reverse supply chain consisting of one collector, one producer, and one recycler, wherein the collector collects used products from consumers, and the producer and recycler invest in design-for-recycling and recycling technology, respectively. Using stylized game-theoretic methods, we investigate firms' cooperation behavior regarding recycling investment. With noncooperative mode as the benchmark, we discuss four cooperative modes: Collector-Producer cooperation mode (Mode CP), Collector-Recycler cooperation mode (Mode CR), Producer-Recycler cooperation mode (Mode PR), and Integrated mode (Mode I). We find that cooperation improves the optimal design-for-recycling level, recycling technology level, and collection quantities, and cooperation always benefits the chain and the collector but may be detrimental to the producer or recycler. We also analyze cooperation mode preferences from the perspective of the chain and each firm and find that Mode I is always optimal for the chain and the collector; Modes CR, PR, or I can be the producer's favorable mode, depending on the recycler's recycling investment efficiency; Modes CP, PR, or I can be the recycler's best mode, contingent on the producer's recycling investment efficiency. Additionally, counter-intuitive results are found that under cooperative modes the profit of the producer or recycler may decline with the enhancement of their recycling investment efficiency, rather than always increasing as it does under the non-cooperative mode. Finally, we extend our model and uncover that the main derived conclusion remains true.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijpe.2023.108959
+VL  - 263
+IS  - 
+SP  - 108959
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A game theoretic framework for post-consumer recycled and new packaging industries
+AU  - Zafarani, Elham
+AU  - Ghandehari, Mahsa
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - This paper presents a game-theoretic framework of competition for two packaging companies. The first one is a traditional packaging firm that employs new raw materials in its packaging and invests in innovative packaging solutions. In contrast, the other takes advantage of a combination of new and post-consumer-recycled (PCR) material based on a cost saving strategy. The model incorporates the price and quality of the product as well as its packaging and is implemented on packaging firms with the same source of manufacturer/importer. Two different scenarios are considered with the potential to push companies towards sustainable solutions; namely the existence of eco-conscious consumers and government tax on the new raw material packaging. The problem is established as a two-stage game, and the optimal level of investment in packaging innovation, the optimal ratio of PCR material and the optimal retail prices are derived, all in equilibrium. A real-world example and also parametric and sensitivity analysis are provided and valuable insights are derived. The results indicate that current proposed virgin tax plans do not provide a strong incentive towards sustainable packaging, whereas eco-conscious customers give this impetus. It was also observed that the imposed virgin tax does not impede innovation investment in virgin packaging companies.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.cie.2023.109305
+VL  - 181
+IS  - 
+SP  - 109305
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Dual-recycling channel reverse supply chain design of recycling platforms under acquisition price competition
+AU  - Matsui, Kenji
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - The rapid development of information and communication technology has enabled companies establishing recycling platforms to purchase used products from end-consumers using the combination of an online collection with the Internet and a conventional offline channel, usually termed a dual-recycling channel reverse supply chain. By constructing a game-theoretic model, this paper explores which of the following three collection channels each of two recycling companies under acquisition price competition should use to purchase products: (i) an indirect offline channel only; (ii) a direct online channel only; or (iii) both channels. We assume that consumers perceive differentiation between the online and offline channels, but not between the recycling companies to which they sell the products. We first show that the following combinations of channel choices arise in equi-librium: (i) both recycling companies use both online and offline channels, and (ii) one recycling company uses only the online channel whereas the other recycling company uses only the offline channel. Based on this equilibrium result, we provide the central finding that the profits resulting from the first (symmetric channel) equilibrium are always Pareto-dominated by the second (asymmetric channel) equilibrium, implying that the dual-channel choice of collecting products via both offline and online channels will lead to the typical prisoners' dilemma. Consequently, the conventional result that a recycling company should employ both online and offline collection channels in a dual-recycling channel reverse supply chain is completely reversed when considering competition between recycling companies, some of which exit real-world recycling markets owing to excessively fierce collection competition.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijpe.2023.108769
+VL  - 259
+IS  - 
+SP  - 108769
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A novel coordination mechanism to coordinate the multi-agent reverse supply chain with fairness concerns
+AU  - Jia, Fu
+AU  - Zhang, Shiyuan
+AU  - Zheng, Xiao-Xue
+AU  - Choi, Tsan-Ming
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In the recycling industry, reverse supply chain (RSC) management with used and end-of-life product collection and remanufacturing has an important role to play with respect to improving environmental sustainability. Such a RSC is generally composed of more than two heterogenous agents such that the existing contracts in the literature fail to coordinate it. Besides, as long as one of these agents makes profit comparisons and exhibits fairness concerns, it would further complicate this coordination problem. In this paper, we develop a biform game-based coordination mechanism, combining the non-cooperative and cooperative games, to coordinate a multi-agent RSC with one remanufacturer and two competition collectors, where one of the collectors has distributional fairness concerns. Applying the game-theoretic and numerical analyses, we obtain the following results: (1) Our proposed methods accomplish the coordination in the sense that all the RSC agents are better off than in the case of the non-cooperative game. (2) We identify the conditions under which the fairness-minded collector would achieve fair outcomes in the biform game, as is the case for the non-cooperative game. (3) In contrast to the non-cooperative game case, the biform game mechanism resolves the impact of fairness concerns on the recycling channel to a certain extent, as both the coalition externalities and biform game-based contracts make it more compatible across all RSC agents. Our main contributions are the adoption of novel biform games combined with behavioral economics factors to study the coordination challenge of multi-agent RSC with collector's fairness concerns.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijpe.2023.108973
+VL  - 265
+IS  - 
+SP  - 108973
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Recycling, pricing decisions, and coordination in the dual-channel closed-loop supply chain: A dynamic perspective
+AU  - Yu, Hui
+AU  - Mi, Jiajing
+AU  - Xu, Na
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - As the Internet+ mode promotes transforming and upgrading the traditional recycling industry, dual-channel recycling has become the focus of commercial activities. Based on such background, this paper constructs the differential game models of the dual-channel closed-loop supply chain (DCCLSC) system in the complete non-cooperation (DN), incomplete cooperation (D), and complete cooperation (C) scenarios by applying game theory. The novelty is that recycling and pricing decision problems are investigated for the DCCLSC system from a dynamic perspective. A cost sharing-transfer payment contract is designed to realize the perfect coordination of the DCCLSC system. Moreover, the extended models with government intervention and inventory management are proposed. Finally, the numerical examples are used to verify the feasibility and validity of the addressed results. The results show that 1) online retail price is higher than offline retail price when mu > mu N; 2) The retail price in the DN model is always lower than the D model, and their comparative relationship with the C model is closely related to the ratio of recoverability rate; 3) The recoverability rate and the profit of DCCLSC system are highest in the C model; 4) Competition and government intervention can create a win-win situation with improving environmental and economic benefits.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jclepro.2024.142297
+VL  - 456
+IS  - 
+SP  - 142297
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Stakeholder interactions of government intervention in construction and demolition waste recycling market: A game theory approach
+AU  - Su, Yangyue
+AU  - Xu, Yabing
+AU  - Bao, Zhikang
+AU  - Ng, S. Thomas
+AU  - Gao, Qun
+T2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+AB  - To acquire an in-depth understanding on how government intervention affects C&DW recycling market, this study develops four game models consisting of three main categories of stakeholders, e.g., the government, contractors, and C&DW receivers (recycling enterprises and landfills) to reveal stakeholder interactions of government intervention. Taking China's C&DW recycling market as an example, four different scenarios are established to examine and compare the effects of government intervention policies on C&DW recycling, illegal dumping, and stakeholder profits. Finally, numerical simulations are performed to gain further insights into the impact of government intervention on stakeholders' behaviors with a case study from Shenzhen, China. Results indicate: (1) government intervention policies can always lead to an increased amount of C&DW recycled and a reduced amount of C&DW illegally dumped compared to no any measure; (2) government subsidy can improve the market competitiveness of recycling enterprises and weaken the competitiveness of landfills. Both subsidyonly and subsidy-plus-penalty policies help reduce economic burden on contractors compared to no interventions, but penalty policy increases contractors' expenditures. Finally, penalty policy can significantly reduce the amount of illegally dumped C&DW, while subsidy policy can significantly increase the amount of recycled C&DW. This study provides valuable theoretical support and practical guidance for decision-making of governments in developing economies to develop C&DW recycling by formulating targeted intervention policies.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.dibe.2024.100391
+VL  - 18
+IS  - 
+SP  - 100391
+J2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Navigating the recycling intention of electronics manufacturers in collaborating with a third-party collector: A Stackelberg game analysis
+AU  - Feng, Zhangwei
+AU  - Luo, Na
+AU  - Wu, Sihong
+AU  - Yan, Zheng Joseph
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Despite recycling being perceived as essential for sustainable development in the electronics industry, two critical issues have yet to be thoroughly investigated: the role of government intervention and contract design on improving recycling intentions of manufactures. This study employs game -theoretic models to examine the impact of government intervention and various contractual arrangements on the strategic decision -making of electronics manufacturers regarding recycling. Our findings reveal that: 1) the manufacturers ' recycling intentions increase when tax rate is within certain range, as their recycling effort, under such a circumstance, contributes to improvements in their profitability; 2) when collaborating with a third -party collector (3 PR), the 3 PR may exhibit passive resistance by reducing recycling efforts upon detecting manufacturers ' insufficient incentives for recycling. Intriguingly, the 3 PR will increase the price offered to consumers for recycled materials in order to stimulate greater quantities of recycling; (3) the different designs of recycling contracts can incentivize manufacturers to engage in recycling activities in various ways. Overall, the findings presented herein provide new insights into examining the incentive mechanisms of manufacturers ' recycling intentions and identifying potential challenges and opportunities for policy implementation. This study also offers managerial implications for decision -makers to enhance the efficiency of their recycling efforts and contribute to a more sustainable production system.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jclepro.2024.142460
+VL  - 457
+IS  - 
+SP  - 142460
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Outsourcing vs. authorization remanufacturing and differential vs. uniform pricing: A supply chain perspective
+AU  - Ding, Junfei
+AU  - Pu, Xujin
+AU  - Zhang, Wen
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - We study a three-tier closed-loop supply chain in which a supplier sells un-remanufacturable key components to an original equipment manufacturer (OEM) and a third-party remanufacturer (TPR). The supplier has two options to price the key components: the uniform pricing policy and the differential pricing policy. Additionally, the OEM has the choice to either outsource or authorize the remanufacturing business to the TPR. Using a game-theoretic framework, we analyze the equilibria of multiple games that the two pricing policies and the two remanufacturing modes are available. Among other findings, we show that compared with the authorization remanufacturing mode, the outsourcing remanufacturing mode is a win-win solution for the supplier, the OEM, the consumers, and the society, but it may be detrimental to the TPR. Compared with the uniform pricing policy, the differential pricing policy may lead to win-win situation for the supplier, the TPR, and the consumers, but it hurts the OEM and the society. We also show that price discrimination can motivate remanufacturing and improve environmental benefits under certain conditions. The analysis of social welfare and environmental impacts provides timely managerial insights for governments considering relaxing anti-price discrimination laws. To check the robustness of our results, we extend our models to incorporate the production cost of key components, the remanufacturing cost, and a two-period framework. The results indicate that all core insights remain valid and the un-remanufacturability of key components hinders remanufacturing.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.tre.2024.103777
+VL  - 192
+IS  - 
+SP  - 103777
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Hybrid closed-loop supply chain with different collection competition in reverse channel
+AU  - He, Qidong
+AU  - Wang, Nengmin
+AU  - Jiang, Bin
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In the hybrid closed-loop supply chain (CLSC) with diverse collectors, customers increasingly prioritize the convenience in returning end-of-life (EOL) products. This trend necessitates supply chain entities to enhance their collection service to address the intensifying competition for EOL products collection. To devise appropriate convenience and pricing strategies, we construct a hybrid game-theoretic CLSC model encompassing a manufacturer, a retailer, and a third-party collector, and we propose new collection functions that cater to varying levels of collection competition, spanning monopoly, duopoly, and hybrid competitive scenarios. Furthermore, we delve into the influence of customers' preferences or distrust towards a specific collector on the collection competition, which is caused by factors such as more convenient offline stores or unqualified recycling process. Our study first reveals that collection competition is affected by all collectors' convenience strategies, while the total collection rate is dominated by the most preferred collectors' convenience strategy. Second, both customer's preference and distrust negatively affect pricing and convenience strategies, albeit with differing effects on collection rates across various competition levels. Notably, channel distrust exerts a more substantial influence on manufacturers' and third-party collectors' strategies. Third, we also examine how competitive collection and customer behavior shape the proportion of collected products destined for different recovery options, i.e., remanufacturing and recycling, as well as the overall efficiency of recovering collected products across the entire supply chain. And channel preference plays a more positive role in enhancing the overall collection rate for the supply chain.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijpe.2024.109371
+VL  - 276
+IS  - 
+SP  - 109371
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Price distortion forced by recycling competition under trade-in collaboration
+AU  - Zhao, Bowen
+AU  - Tang, Wansheng
+AU  - Wei, Liqun
+AU  - Zhang, Jianxiong
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - Renowned brands and recycling agencies tacitly integrate their business flows together in the current trade-in industry. The collaborative trade-in programme breaks the hierarchy of closed-loop supply chains and provides seamless services for consumers. In this study, we develop a stylised model to capture the change in supply chain structure and scrutinise trade-in collaboration and recycling competition between sellers and recyclers. We find that, under intensive recycling competition, price targeting new consumers is downward distorted by the seller to occupy more trade-in demands in the old consumer segment. Meanwhile, the rebate of the recycler is suppressed by the collaboration constraint. By distorting the price, the seller obtains the predominance in recycling competition while sacrificing part of profits from new consumers. The price distortion indicates the competition spill-over from the old consumer segment to the new consumer segment. Furthermore, the establishment of autonomous recycling reaches a Pareto improvement for the whole system when the competition is mild; otherwise, these two entities fall into a zero-sum scenario. Our study offers insights into recycling value allocation and trade-in partner choice and, theoretically, contributes to the economic literature that price distortion can even be forced by competition with the absence of information asymmetry.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1080/00207543.2024.2324059
+VL  - 62
+IS  - 21
+SP  - 7687-7703
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation dilemmas in construction and demolition waste recycling: From understanding to navigating
+AU  - Lin, Weize
+AU  - Zhang, Jing
+AU  - Yu, Minjiu
+AU  - Tan, Ruwen
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - High-quality recycling is considered the optimal practice for managing the significant volume of construction and demolition waste (C&DW). However, the lack of coordinated cooperation among stakeholders poses challenges in sustaining and advancing the recycling supply chain. However, the previous research on the decisionmaking of partnerships among companies is limited despite its importance. Hence, our research framework seeks to address the gap, unfolding from understanding to navigating. Initially, to understand the status quo, we model a partnership decision game where companies face a choice: either commit to in-depth cooperation benefiting from coordination contracts, or opt for surface-level cooperation via straightforward wholesale transactions. Our findings reveal the transfer effect that relation-specific investments of low-power companies may undermine the vested interests of high-power companies, which leads to a prisoner's dilemma dominated by surface-level cooperation. Subsequently, we propose two remedies, a subsidy scheme and a policy of strategic information revelation, to address the dilemma. Specifically, we suggest a Cooperation Subsidy to motivate the remanufacturer and the collector to choose in-depth cooperation, which proves more efficient than conventional economic regulations. Moreover, we design a signal structure based on Bayesian Persuasion to persuade the remanufacturer to opt for in-depth cooperation. This study seeks to provide theoretical support for government policy development.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.ijpe.2025.109580
+VL  - 283
+IS  - 
+SP  - 109580
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - To Cooperate or Not: Evaluating process innovation strategies in battery recycling and product innovation
+AU  - Qian, Zhifeng
+AU  - Ignatius, Joshua
+AU  - Chai, Junwu
+AU  - Valiyaveettil, Krishna Mohan Thazhathu
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Emerging technology products like retired electric vehicle (EV) batteries encounter technical challenges during the collecting and remanufacturing phase. Process innovation for recycling (PIR) presents an opportunity to improve the efficiency of these product recycling processes. To investigate how upstream and downstream firms formulate optimal PIR strategies under the interaction of product innovation and PIR, and to analyze the impact of this interaction on operational decisions, we construct Stackelberg game models comprising a battery supplier and an EV manufacturer, both of which have the potential to assume leadership roles. The supplier engages in recycling and makes PIR investment decisions: invest independently, outsource it to the manufacturer, or cooperate with the manufacturer. The manufacturer performs product innovation and decides whether to participate in PIR. Our results indicate that cooperation is not always the preferred strategy for both firms and tends to be favored only when PIR investment efficiency is relatively low. Although the supplier engages in remanufacturing, the manufacturer may exert higher PIR efforts. When product innovation and PIR are carried out separately by upstream and downstream firms, the two innovations maintain a complementary relationship, which provides the possibility for manufacturers to offer higher-quality products at lower prices. Furthermore, firms are more inclined to invest in PIR when acting as the supply chain leader. However, the first-mover advantage may turn into a disadvantage under collaboration model, which provides insights for firms not to blindly pursue the leader. The sequential innovation decisions and two-period model settings are further explored as model extensions.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.ijpe.2025.109559
+VL  - 283
+IS  - 
+SP  - 109559
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Exploring sustainable models for green express packaging recycling with third-party involvement
+AU  - Chen, Wei
+AU  - Kang, Zengrui
+AU  - Zhang, Dongqing
+AU  - Zheng, Kaiming
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The rapid growth of e-commerce has intensified environmental concerns related to express packaging waste, particularly due to the challenges of designing effective recycling systems involving third-party recyclers. While their participation enhances recycling capacity, it also introduces complexity in aligning stakeholder incentives and responsibilities. This study develops a game-theoretic model to evaluate three governance structures- direct third-party recycling (T), manufacturer-delegated recycling (LT), and logistics-delegated recycling (MT)-and examines their impact on green investment, recycling performance, and profit distribution. Results show that differentiated pricing is more effective when remanufacturing savings are high, favoring Model LT; in contrast, Model MT performs better under low savings. Model T yields the highest profits for third-party recyclers, while LT benefits manufacturers and logistics providers. Cost-sharing structures also play a decisive role in shaping both environmental outcomes and stakeholder incentives. These findings offer practical insights for designing efficient and sustainable recycling systems under decentralized governance.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.cie.2025.111499
+VL  - 210
+IS  - 
+SP  - 111499
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Game-theoretic analysis of recycling integration modes in a power battery supply chain under carbon trading and deposit-return mechanisms
+AU  - Liu, Bin
+AU  - Liu, Hao
+AU  - Gao, Anqi
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This study aims to identify the optimal recycling integration modes in a power battery supply chain-comprising a battery manufacturer, an EV manufacturer, and a third-party recycler-under a carbon trading mechanism. Four distinct modes are proposed: the non-integration mode(NA), the integration mode between battery manufacturers and third-party recyclers (PT), the integration mode between battery manufacturers and automobile manufacturers (PM), and a fully integrated mode that involves all three parties (AL). Game theory is employed to analyze the pricing decisions of supply chain stakeholders across each mode. Results reveal increased recycling competition intensity leads to lower supply chain profits in all modes except Mode AL. Mode PM achieves the highest overall supply chain profit at lower competition intensity, while Mode AL becomes more profitable under high competition intensity. From the perspective of individual participants, Mode PM is more beneficial for battery and automobile manufacturers at low competition intensity. In contrast, Mode AL fosters a win-win situation for all parties under high competition intensity. Additionally, rising carbon trading prices result in higher battery prices across all modes, with Mode AL achieving the highest battery recycling rate in scenarios of intense competition. This suggests that Mode PM and Mode AL are optimal for low and high-competition intensity environments, offering strategic guidance for integration mode selection and designing more sustainable, coordinated battery supply chains under evolving market and policy pressures.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jclepro.2025.146540
+VL  - 525
+IS  - 
+SP  - 146540
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - AI quality control in competitive recycling facing material contamination
+AU  - Niu, Baozhuang
+AU  - Lai, Chengwei
+AU  - Zheng, Zebin
+AU  - Qi, Zhiyuan
+AU  - Dai, Zhipeng
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In a typical material recycling supply chain, material recovery facilities (MRFs) are generally classified as dirty MRFs(dMRFs) whose material faces contamination and clean MRFs(cMRFs) whose material is of high clarity. As the downstream manufacturer, purchasing from dMRFs or cMRFs faces the trade-off between material purchasing price (dMRF's material is cheaper) and the waste disposal cost (dMRF's contaminated material will be wasted and disposed of). This also motivates dMRFs to adopt an AI quality control system to eliminate contamination. We build a game-theoretic model to analyze the decision-makers' incentive of AI adoption and interesting findings include: (1) Even AI quality control pushes the purchasing price upward, dMRF's supply quantity can be surprisingly reduced, indicating inefficient use of AI; (2) AI quality control cost and the manufacturer's waste disposal cost exhibit a substitutable relationship in promoting the dMRF's AI adoption. These findings provide important insights for managers in formulating purchasing strategies, investment decisions, and AI adoption. They are suggested to pay attention to win-win-win situations regarding the dMRF's profit, the manufacturer's profit, and the system's environmental sustainability with the dMRF's AI quality control. Since all-win situations for the stakeholders will not sustain as the equilibrium, subsidy schemes should be designed to improve the cMRF's profit.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.ijpe.2025.109541
+VL  - 282
+IS  - 
+SP  - 109541
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimising resource recovery from construction waste material reverse supply chain coordination games
+AU  - Tan, Kangye
+AU  - Xu, Fang
+AU  - Yi, Zelong
+AU  - Li, Chunsheng
+T2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+AB  - The inefficiency of government, recycling, and recovery companies in managing construction waste, especially after an earthquake, highlights the operational challenges of reverse supply chain (RSC) in effectively recycling materials. This study aims to address these inefficiencies by proposing a decision-making supply chain model that enhances coordination within the RSC, and focusing on optimising the management of post-disaster construction waste. Grounded in market demand functions, the model explores three subsidy models to examine their impact on recycling efficiency, the recycling ratio, retail pricing of materials from recycled waste, and overall profit. The study uses manufacturing enterprises-leadership and subsidy-specific Stackelberg game models to find optimal strategies for minimising waste and maximising supply chain profit. The results show that government subsidies significantly influence recycling and pricing strategies within RSC operations, and governments should offer subsidies according to waste dispersion prioritisation and quantity of recoverable construction debris. Based on the study findings, the proposed RSC model substantially enhances recycling efficiency and profitability for both recycling and manufacturing firms. These findings validate the effectiveness of the model and emphasise the prospects for future research on an RSC framework for construction waste material.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1080/23302674.2025.2458176
+VL  - 12
+IS  - 1
+SP  - 2458176
+J2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Supply chain cooperative strategies for electric vehicle battery recycling under joint environmental policies
+AU  - Lin, Yang
+AU  - Yu, Zhong-Wei
+AU  - Lin, Hui-Ting
+AU  - Wang, Ying-Ming
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The proliferation of retired electric vehicle batteries presents a significant threat to environmental and resource sustainability, necessitating collaborative efforts among supply and recycling chain actors. This study examines how coalition cooperation among actors can enhance the recycling of electric vehicle batteries, thereby improving both economic and environmental performance. Specifically, we utilize non-cooperative game theory to analyse five cooperative strategies in a tripartite closed-loop supply chain involving an electric vehicle manufacturer, a retailer, and a third-party recycler. We also scrutinize the effects of joint recycling regulation and carbon policy, i.e., reward-penalty and cap-and-trade mechanisms, on supply chain operations. The findings indicate that augmented external environmental pressures, in addition to enhancing collection rates, may bolster the supply chain's economic yield under specific scenarios. While cooperative strategies led by an electric vehicle manufacturer exhibit potential for superior economic viability or heightened environmental sustainability, the formation of partial coalitions within the supply chain could result in an unequal distribution of profits. We employ cooperative game theory, specifically the Shapley value, to implement a fair profit allocation mechanism aimed at fostering cooperation and coordination within the supply chain.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.cie.2025.111528
+VL  - 211
+IS  - 
+SP  - 111528
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - With whom to ally? Alliance strategy for EV battery supplier considering echelon utilization and disassembly recycling
+AU  - Fang, Zhangzhen
+AU  - Guo, Yuhan
+AU  - Lou, Gaoxiang
+AU  - Lai, Zhixuan
+AU  - Ma, Haicheng
+AU  - Zhou, Li
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - The rapid expansion of the electric vehicle (EV) industry has heightened the need for sustainable and efficient closed-loop supply chains (CLSC) that can simultaneously improve economic returns and mitigate environmental impacts. To address this challenge, this study develops a game-theoretic model from the perspective of the power battery supplier and examines four inter-firm alliance modes: Non-alliance (N), supplier-manufacturer alliance (SM), supplier-recycler alliance (SR), and comprehensive alliance (SMR). The results reveal that (1) in the forward supply chain, suppliers under the SM and SMR modes consistently achieve higher battery capacity and EV sales. In the reverse supply chain, suppliers in alliance modes (SM, SR, SMR) are able to pay lower recycling prices while securing higher recycling quantities. (2) When recycling competition is weak, alliance with the manufacturer improves economic performance, whereas that with the recycler enhances environmental outcomes; however, the two benefits cannot be achieved simultaneously. By contrast, under intense recycling competition, forming a comprehensive alliance allows suppliers to improve both environmental and economic performance. (3) When extending the analysis to include suppliers' investment in echelon utilization technology innovation, increased recycling competition intensity leads to a decline in the supplier's echelon utilization performance, thereby amplifying the advantage of the comprehensive alliance.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.tre.2025.104656
+VL  - 208
+IS  - 
+SP  - 104656
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Integration strategies for a reverse supply chain with horizontal competitive recycling
+AU  - Wang, Yong
+AU  - Jiang, Qiong
+AU  - Cai, Jianhu
+AU  - Cao, Zhengang
+AU  - Chen, Qingqing
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - In this study, we investigate a dual-recycling reverse supply chain comprising a manufacturer, a collector, and a recycling company. The collector operates exclusively through an offline recycling channel, whereas the recycling company adopts a hybrid strategy that combines online and offline channels. Five game models are constructed to represent different recycling scenarios. Profit distribution within cooperative settings is analysed using the Shapley value and average tree value methods. The results show that cooperation between the manufacturer and collector generally yields a higher joint profit than that between the manufacturer and recycling company. A coalition between the collector and recycling company increases their joint profit but reduces the manufacturer's profit relative to the non-cooperative case. Full cooperation among all three parties consistently maximises the total profit of the reverse supply chain. Both allocation methods ensure effective profit sharing: the Shapley value provides the greatest benefit to the collector, whereas the average tree value favours the manufacturer and recycling company.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1080/00207543.2025.2549139
+VL  - 64
+IS  - 1
+SP  - 220-249
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+

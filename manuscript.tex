@@ -1,0 +1,614 @@
+% !TEX program = pdflatex
+% 这行告诉LaTeX编辑器使用pdfLaTeX引擎编译
+
+% Elsarticle文档类声明：review格式，10pt字体（5号字），author-year引用风格
+\documentclass[authoryear,preprint,review,times,10pt]{elsarticle}
+
+% ===== 宏包导入部分 =====
+% 数学相关宏包（必备！工程管理论文经常用到数学公式）
+\usepackage{amsmath}      % 强大的数学环境，如align、equation等
+\usepackage{amssymb}      % 数学符号，如∈、⊆、∀、∃等
+\usepackage{amsfonts}     % 数学字体，如粗体向量、花体字母等
+\usepackage{bm}           % 加粗数学符号
+
+% 基础功能宏包（elsarticle已包含graphicx）
+\usepackage{booktabs}     % 制作专业表格（\toprule、\midrule、\bottomrule）
+\usepackage{multirow}     % 表格跨行合并
+\usepackage{longtable}    % 跨页长表格
+\usepackage{threeparttable} % 支持表格注释
+\usepackage{tabularx}     % 自动分配列宽的表格
+\usepackage{caption}      % caption格式控制
+\usepackage{adjustbox}    % 自动调整表格大小
+\usepackage{pdflscape}    % 横向页面（PDF阅读器中自动旋转）
+\usepackage{enumitem}     % 增强列表功能（itemize、enumerate）
+\usepackage{lineno}       % 行号宏包（review格式需要）
+\usepackage{setspace}     % 行距控制
+\doublespacing            % 全文双倍行距
+
+% 图表支持
+\usepackage{graphicx}
+\graphicspath{{simulation/figures/}}
+\usepackage{tikz}
+\usetikzlibrary{positioning, shapes.geometric, arrows}
+
+% 页边距调整（草稿阶段使用，投稿时可注释掉）
+\usepackage{geometry}
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm,
+}
+
+\usepackage{hyperref}     % 超链接和PDF书签（应该放在最后导入）
+
+% 移除frontmatter后的双横线
+\makeatletter
+\def\ps@pprintTitle{%
+  \let\@oddhead\@empty
+  \let\@evenhead\@empty
+  \def\@oddfoot{\hfil\thepage\hfil}%  % 页脚居中显示页码
+  \let\@evenfoot\@oddfoot}
+% 重新定义pprintMaketitle，移除横线但保留Email显示
+\def\pprintMaketitle{\clearpage
+  \iflongmktitle\if@twocolumn\let\columnwidth=\textwidth\fi\fi
+  \resetTitleCounters
+  \def\baselinestretch{1}%
+  \printFirstPageNotes  % 恢复脚注显示（包含Email和通讯作者信息）
+  \begin{center}%
+   \thispagestyle{pprintTitle}%
+   \def\baselinestretch{1}%
+    \Large\@title\par\vskip18pt
+    \normalsize\elsauthors\par\vskip10pt
+    \normalsize\itshape\elsaddress\par\vskip12pt
+    \ifvoid\absbox\else\unvbox\absbox\par\vskip10pt\fi
+    \ifvoid\keybox\else\unvbox\keybox\par\vskip10pt\fi
+  \end{center}%
+  \gdef\thefootnote{\arabic{footnote}}%
+  }
+\makeatother
+
+% 指定目标期刊（根据实际投稿期刊修改）
+\journal{}
+
+\begin{document}
+
+% 行号设置（审稿格式）
+\modulolinenumbers[1]
+\runninglinenumbers
+\begin{frontmatter}
+
+% 论文标题
+\title{Competition and cooperation strategies in two-stage waste concrete recycling considering cap-and-trade mechanisms}
+
+% === AUTHOR INFO (uncomment and fill in before submission) ===
+% \author[labela]{First Author}
+% \ead{first.author@example.com}
+% \author[labelb]{Second Author\corref{cor1}}
+% \ead{second.author@example.com}
+% \author[labelc]{Third Author}
+% \ead{third.author@example.com}
+%
+% \cortext[cor1]{Corresponding author.}
+%
+% \affiliation[labela]{organization={School/Department, University},
+%             city={City},
+%             postcode={000000},
+%             country={Country}}
+%
+% \affiliation[labelb]{organization={School/Department, University},
+%             city={City},
+%             postcode={000000},
+%             country={Country}}
+%
+% \affiliation[labelc]{organization={School/Department, University},
+%             city={City},
+%             postcode={000000},
+%             country={Country}}
+% === END AUTHOR INFO ===
+
+\begin{abstract}
+% TODO: Write abstract here
+\end{abstract}
+
+\begin{keyword}
+% TODO: Keyword1 \sep Keyword2 \sep Keyword3
+\end{keyword}
+
+\end{frontmatter}
+
+% ===== 正文各章节 =====
+
+\section{Introduction}
+Rapid development of the construction industry in recent decades has led to a sharp increase in construction and demolition (C\&D) waste generation, with waste concrete accounting for more than half of total C\&D waste \cite{zhao2020Use}. Given the environmental and social damage caused by this waste, urgent management of its recycling is required \cite{wu2019Offsite}. Waste concrete recycling has demonstrated potential to alleviate environmental pressures and shortages of construction raw materials due to its regenerative and utilization value. Many countries, particularly developed nations with limited natural resources, have widely adopted recycled concrete. However, promotion of waste concrete recycling management faces obstacles including immature technologies, unclear economic benefits, and incomplete policies, resulting in low enterprise participation \cite{liu2021Explore,ma2020Challenges}. Confronted with high technical costs and market uncertainties, concrete manufacturers and recyclers often lack the capacity to independently overcome these barriers and require inter-enterprise coordination to achieve complementary advantages, risk sharing, and maximum economic benefits from waste concrete recycling. Therefore, how to effectively coordinate the waste concrete recycling management process has become a critical management challenge constraining the development of the waste concrete recycling industry.
+
+Although waste concrete recycling offers significant advantages in conserving virgin resources, the treatment process itself is often accompanied by substantial carbon emissions. Current mainstream waste concrete recycling technologies primarily rely on crushing, separation, and calcination-based thermal treatment, which still generate considerable carbon dioxide. Against the backdrop of global efforts to advance decarbonization goals, the "secondary carbon footprint" of the recycling industry represents an urgent regulatory challenge. To address high industrial carbon emissions, governments worldwide have introduced various environmental policies, among which the cap-and-trade mechanism has emerged as a representative market-based policy tool. This mechanism sets a carbon emission cap while allowing enterprises to freely trade emission allowances, incentivizing enterprises to pursue lower-cost emission reduction pathways while providing a flexible balance between economic benefits and environmental protection. Multiple countries, including China and the United States, have widely implemented this policy, confirming its effectiveness in curbing carbon emissions \citep{yenipazarli2019Incentives}. For the waste concrete recycling industry, carbon quota constraints and fluctuations in trading prices directly reshape the cost structures and profit margins of participating entities, compelling them to consider the economic implications of carbon emissions when making economic decisions. Therefore, incorporating the cap-and-trade mechanism into the research framework to investigate how it influences the economic benefits of waste concrete recycling and the decision-making behavior of micro-level actors is necessary.
+
+The waste concrete recycling process involves two major participants: concrete manufacturers and recyclers. Concrete manufacturers, considering their channel advantages and the high technical costs of recycling treatment, typically entrust specialized recyclers to process the waste concrete collected at the front end, forming a "delegated treatment model." Meanwhile, these parties exhibit complex "co-opetition" dynamics in this vertical interaction. On one hand, in the front-end collection stage, both parties engage in non-cooperative competition over recycling pricing to compete for limited waste concrete resources in the market. On the other hand, in the back-end treatment stage, to overcome technological bottlenecks and enhance overall system profits, they may choose horizontal cooperation by sharing technical investments to improve the conversion rate of waste concrete into recycled aggregates. This results in front-end recycling pricing strategies that must account for both parties' capacity to amortize cooperative investment costs, while improvements in conversion rates from cooperative technical investments further influence profit margins and market advantages in pricing competition. With the introduction of cap-and-trade policies, tightening carbon emission quotas and fluctuations in carbon trading prices impact the economic returns of recyclers during waste concrete treatment. This uncertainty arising from the intersection of policy environment and market competition creates profit distribution conflicts between the two parties, causing manufacturers and recyclers to fall into "strategic hesitation" when advancing industrial upgrading and critical technical investments. Therefore, there is an urgent need to construct a systematic theoretical framework to analyze this complex co-opetition mechanism.
+
+However, existing models—whether based on non-cooperative or cooperative game theory—are insufficient to address this co-opetition mechanism where competition and cooperation interact to influence decision-making. Therefore, this study proposes a two-stage game-theoretic framework for waste concrete recycling that incorporates both non-cooperative and cooperative games to analyze the co-opetition strategies of concrete manufacturers and recyclers in parallel. Non-cooperative strategies represent recycling competition between manufacturers and recyclers, which do not yield final equilibrium solutions but rather establish a competitive context for their cooperative investment decisions. Simultaneously, cooperative strategies are jointly determined by both parties. The profit distribution resulting from these cooperative strategies subsequently becomes the critical profit function for resolving the final non-cooperative strategies. Furthermore, we compare this co-opetition strategy with a pure non-cooperative scenario. Specifically, this study addresses the following research questions:
+
+\begin{itemize}
+\item \textbf{RQ1:} What are the impacts of the cap-and-trade mechanism on the economic decisions of concrete manufacturers and recyclers in waste concrete recycling under non-cooperative strategies and co-opetition strategies based on the two-type game framework?
+\item \textbf{RQ2:} In waste concrete recycling, under what market and policy boundary conditions does adopting co-opetition strategies based on the two-type game framework achieve Pareto improvement in economic benefits for both the system and individual actors compared to the pure non-cooperative mode?
+\end{itemize}
+
+This two-stage game framework simultaneously examines the non-cooperative stage of waste concrete recycling pricing competition, as well as the cooperative stage of investment sharing and carbon emission reduction benefit considerations, based on the delegated treatment model of waste concrete recycling. The framework also considers the influence of government subsidies and the complexity of interactions arising from differences in logistics costs and technological capabilities between manufacturers and recyclers. Unlike \cite{hu2021Dynamic} study on single-stage competition and cooperation in construction waste and \cite{yuan2023Differentiated} study on differences in government subsidy mechanisms in construction waste recycling, we reveal the endogenous coupling mechanism between "horizontal technological cooperation" and "vertical pricing competition" among micro-level enterprises under the impact of macro-level carbon cap policies. We not only quantify the influence of policy factors in multi-stage interactions but also provide theoretical insights and managerial implications for the design of profit distribution contracts, decision-making on critical technology investments, and dynamic adjustment of supporting government subsidy policies in the waste concrete industry under dual carbon goals.
+
+The remainder of this paper is organized as follows. Section 2 reviews the relevant literature. Section 3 presents the model formulation, including problem description, assumptions, and profit functions. Section 4 derives the equilibrium analysis under non-cooperative and cooperative game scenarios. Section 5 conducts numerical simulations to verify the theoretical results and analyze the effects of key parameters. Section 6 discusses the findings and implications. Section 7 concludes the paper with recommendations for future research.
+
+\section{Literature review}
+\subsection{Waste concrete recycling management and economic decision-making}
+The management and economic decision-making of construction and demolition (C\&D) waste, particularly waste concrete recycling, have received increasing attention from researchers in recent years due to its significant environmental and economic implications. In the waste concrete recycling supply chain, two distinctive stakeholders play critical roles: traditional concrete manufacturers and specialized recyclers. Concrete manufacturers control logistics channels through their delivery infrastructure and can leverage returning vehicles from construction sites to collect waste concrete (the backhaul logistics advantage). However, they typically lack deep-processing environmental equipment or technical capabilities for producing high-quality recycled concrete aggregate (RCA). Specialized recyclers possess processing technologies and equipment for crushing, screening, and enhancement, enabling RCA production, but must dispatch dedicated vehicles for collection, incurring higher transportation costs. This resource asymmetry naturally gives rise to multiple concurrent relationships: collection competition, outsourced processing, and potential technology investment cooperation.
+
+Existing literature on waste concrete recycling management and economic decision-making can be categorized into three main research themes:
+
+\begin{table}[!htbp]
+\centering
+\captionsetup{font=normalsize, labelsep=period}
+\caption{Summary of literature on waste concrete recycling management and economic decision-making}
+\label{tab:lit_summary1}
+\small
+\begin{threeparttable}
+\begin{tabular*}{0.95\textwidth}{@{\extracolsep{\fill}}p{2.8cm}cccc}
+\toprule
+\textbf{Research Theme} & \textbf{Representative Literature} & \textbf{Focus} \\
+\midrule
+Reverse logistics network design and operation management & Rahimi et al. (2018); Xu (2019); Liu (2019) & Multi-period MILP optimization, capacity expansion pricing, network cost analysis \\
+Government subsidy and incentive mechanism design & Yuan et al. (2023); Su et al. (2024); Zheng (2024) & Differentiated subsidies, quota trading, government intervention impact analysis \\
+Manufacturer-recycler competition and cooperation dynamics & He et al. (2020); Lin et al. (2025); Li (2025) & Competition-cooperation game analysis, cooperation dilemma, evolutionary dynamics \\
+\bottomrule
+\end{tabular*}
+\begin{tablenotes}[flushleft]
+\small\linespread{1}\selectfont
+\item \textit{Note}: Literature summary by research theme with representative studies.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+\vspace{-15pt}
+
+The first theme focuses on reverse logistics network design and operation management. Rahimi et al. (2018) developed a multi-period mixed integer linear programming (MILP) model to optimize the network design for C\&D waste recycling, considering collection, transportation, and processing facilities. Xu (2019) proposed a capacity expansion pricing mechanism for recycling networks under demand uncertainty. Liu (2019) conducted a comprehensive network cost analysis to identify key cost drivers in waste concrete recycling operations.
+
+The second theme examines government subsidy and incentive mechanism design. Yuan et al. (2023) investigated differentiated subsidy schemes under heterogeneous consumer quality perceptions, revealing that uniform subsidies often fail to achieve optimal recycling outcomes. Su et al. (2024) analyzed the impact of government intervention through quota trading mechanisms on recycling rates. Zheng (2024) examined how various incentive combinations affect stakeholder participation in waste concrete recycling.
+
+The third theme investigates manufacturer-recycler competition and cooperation dynamics. He et al. (2020) analyzed optimal decisions between concrete manufacturers and recyclers under different market scenarios, identifying conditions under which cooperation dominates pure competition. Lin et al. (2025) revealed the cooperation dilemma (prisoner's dilemma) in C\&D waste recycling, showing that unilateral strategies often lead to suboptimal industry outcomes. Li (2025) employed evolutionary game theory to study the long-term dynamics of manufacturer-recycler relationships.
+
+However, these studies predominantly focus on single-scenario analysis or separate scenario comparisons. Each theme either assumes symmetric cost structures or treats manufacturers and recyclers as pure competitors or principal-agent relationships. The distinctive resource asymmetry between manufacturers (backhaul logistics advantage) and recyclers (processing technology advantage), which fundamentally shapes the competition-cooperation dynamics, remains underexplored. Such complex multi-interaction patterns, including collection competition coexisting with outsourced processing and technology investment cooperation, have not been adequately captured in existing literature. Without an integrated analytical framework, existing unilateral strategies often lead to low recycling efficiency or insufficient investment incentives, potentially resulting in a prisoner's dilemma. This study aims to address this gap by developing a biform game model that simultaneously captures collection competition and technology investment cooperation in waste concrete recycling.
+
+\subsection{Non-cooperative and cooperative biform game theory and applications}
+The biform game framework, originally proposed by Brandenburger and Stuart (2007), provides a theoretical lens for analyzing situations where firms simultaneously engage in competition and cooperation. This framework integrates non-cooperative game in the first stage (where firms make strategic moves to shape the competitive environment) with cooperative game in the second stage (where firms allocate surplus through bargaining). This framework has proven effective in addressing co-opetition dynamics in various business contexts.
+
+Existing literature has extensively applied biform games to supply chain management and recycling contexts. For example, Feess et al. (2014) developed a supply chain biform game model where firms make non-cooperative investment decisions in the first stage and divide surplus via the Shapley value in the second stage. Fiala et al. (2022) applied biform games to model co-opetition in network industries. Jia et al. (2023) employed a biform game to coordinate a multi-agent reverse supply chain with fairness concerns. Gui et al. (2018) analyzed design incentives under collective extended producer responsibility in recycling networks. Zheng et al. (2023) proposed a biform game-based investment incentive mechanism for eco-efficient innovation in supply chains.
+
+However, these applications predominantly assume symmetric resource endowments or focus on different industry contexts (e.g., electronics recycling, carbon supply chains). The specific application to waste concrete recycling remains underexplored. Moreover, existing studies on waste concrete recycling either employ pure optimization models or single-scenario game-theoretic analyses, lacking an integrated framework that simultaneously addresses collection competition and processing cooperation. The distinctive engineering management characteristics of waste concrete recycling, including the backhaul logistics advantage and capability asymmetry between manufacturers and recyclers, have not been adequately captured in existing biform game models. This study addresses this gap by developing a biform game model tailored to the waste concrete recycling context.
+
+\section{Model formulation}
+\subsection{Problem description}
+We consider a waste concrete recycling supply chain consisting of a traditional concrete manufacturer $M$ and a specialized construction waste recycler $R$. Both $M$ and $R$ participate in the collection of waste concrete from waste generators (e.g., construction companies or demolition contractors). Recycler $R$ possesses specialized waste processing technologies and equipment, responsible for crushing, screening, decontamination, and enhancement of collected waste concrete to produce recycled concrete aggregate (RCA). 
+
+This section establishes a non-cooperative and cooperative game model to investigate the competition in collection and cooperation in processing technology cost sharing between manufacturer $M$ and recycler $R$ in concrete waste recycling. First, in the non-cooperative game, manufacturer $M$ and recycler $R$ determine their respective collection prices to form a competitive situation $(p_M, p_R)$. Second, in the cooperative game, under any competitive situation, manufacturer $M$ and recycler $R$ determine the strategy of the cooperative game, i.e., the proportion of investment cost sharing $n$ and the corresponding conversion rate $k$, to obtain the characteristic values of each coalition. The Shapley value method is used to calculate the profit distribution values $V_M$ and $V_R$ for manufacturer $M$ and recycler $R$, respectively. Third, using the obtained profit distribution values as the payoff function for the non-cooperative game, the optimal collection prices $(p_M^*, p_R^*)$ are derived. Finally, substituting the optimal collection prices $(p_M^*, p_R^*)$ into the cooperative game yields the optimal strategies $n^*$ and $k^*$, as well as the corresponding optimal profit allocations $(\Pi_M^*, \Pi_R^*)$ and optimal collection quantities $(q_M^*, q_R^*)$.
+
+The following assumptions are made:
+
+\textbf{Assumption 1.} Manufacturer $M$ and recycler $R$ set collection prices $(p_M, p_R)$ for waste concrete generators. Since both parties participate in collection, there exists competitive pressure in the recycling market. Let $\beta$ denote the competition intensity between $M$ and $R$. Additionally, the collection quantity depends on the collection price, with $\alpha$ representing the sensitivity of waste generators to collection prices. We assume sufficient waste concrete available in the market and $R$ has sufficient capacity to process all collected quantity. The collection quantity function follows:
+\begin{equation}
+q_i = \alpha p_i - \beta p_j \quad (i,j \in \{M, R\}, i \neq j)
+\end{equation}
+where $\alpha > \beta > 0$ ensures positive collection quantities. A larger $\alpha$ indicates higher sensitivity to prices and thus greater collection quantity, and a larger $\beta$ indicates more intense competition between $M$ and $R$.
+
+\textbf{Assumption 2.} The recycling processing capability of recycler $R$ is characterized by the RCA conversion rate $k \in [0,1]$. Improving this conversion rate (e.g., through enhanced mortar removal technology or multi-stage air separation) requires fixed investment in technology and equipment upgrades. The investment cost function is:
+\begin{equation}
+C(k) = \frac{1}{2} c k^2
+\end{equation}
+where $c$ is the investment cost coefficient. This quadratic function indicates that investment costs increase with the conversion rate.
+
+\textbf{Assumption 3.} In practice, traditional concrete manufacturers often lack deep-processing environmental equipment or are constrained by site and environmental qualifications. Therefore, manufacturer $M$ outsources the collected waste concrete to recycler $R$ for centralized processing. Manufacturer $M$ pays a unit outsourcing fee $w$ to recycler $R$, while recycler $R$ incurs actual operational costs $m$ (e.g., utilities, equipment depreciation, labor) per unit of waste concrete processed.
+
+\textbf{Assumption 4.} Assume $\theta$ is the market price per unit of recycled concrete aggregate (RCA) when perfectly converted from waste concrete. Under the actual RCA conversion rate $k$ achieved by recycler $R$, the actual extracted value per unit of waste concrete is $\theta k$. For manufacturer $M$, this value represents the cost saving from substituting natural aggregates with RCA; for recycler $R$, it represents the selling price of processed RCA. To encourage construction waste recycling under the zero-waste city initiative, the government provides a subsidy $s$ per unit of waste concrete collected, which is distributed to the respective collector based on their collection quantity.
+
+\textbf{Assumption 5.} To obtain high-quality recycled aggregate and maintain stable outsourcing cooperation, manufacturer $M$ is willing to share the investment cost for improving the RCA conversion rate with recycler $R$. Let manufacturer $M$ share a proportion $(1-n)$ and recycler $R$ bear a proportion $n$, where $n \in [0,1]$. When $n=1$, all investment costs are borne solely by recycler $R$.
+
+\textbf{Assumption 6.} Both manufacturer $M$ and recycler $R$ incur unit transportation costs for collecting waste concrete from generators. Due to the distinctive backhaul logistics advantage in the construction industry, manufacturer $M$'s concrete delivery trucks can collect waste concrete on return trips from construction sites, resulting in a lower transportation cost $\mu_M$. In contrast, recycler $R$ must dispatch dedicated vehicles for collection, incurring a higher transportation cost $\mu_R$. We assume $\mu_M < \mu_R$. This cost asymmetry reflects a key engineering management characteristic of waste concrete recycling: the physical properties of waste concrete (heavy, large volume, low value density) make transportation costs a significant component of total recycling costs.
+
+\begin{table}[!htbp]
+\centering
+\captionsetup{font=normalsize, labelsep=period}
+\caption{Notation and definitions}
+\label{tab:notation}
+\small
+\begin{threeparttable}
+\begin{tabular*}{0.9\textwidth}{@{\extracolsep{\fill}}lc}
+\toprule
+\textbf{Symbol} & \textbf{Definition} \\
+\midrule
+$\theta$ & Unit potential value of waste concrete converted to highest-quality RCA \\
+$\alpha$ & Sensitivity of waste generators to collection price \\
+$\beta$ & Competition intensity between manufacturer and recycler, $\beta \in [0,1]$ \\
+$\mu_M$ & Unit transportation cost of manufacturer $M$ \\
+$\mu_R$ & Unit transportation cost of recycler $R$ \\
+$p_M$ & Unit collection price paid by manufacturer $M$ to waste generators \\
+$p_R$ & Unit collection price paid by recycler $R$ to waste generators \\
+$q_M$ & Waste concrete collection quantity of manufacturer $M$ \\
+$q_R$ & Waste concrete collection quantity of recycler $R$ \\
+$n$ & Proportion of investment cost borne by recycler $R$, $n \in [0,1]$ \\
+$k$ & RCA conversion rate of recycler $R$, $k \in [0,1]$ \\
+$c$ & Investment cost coefficient \\
+$m$ & Actual operational cost of recycler $R$ per unit waste concrete \\
+$s$ & Government subsidy per unit waste concrete processed \\
+$w$ & Unit outsourcing fee paid by manufacturer $M$ to recycler $R$ \\
+$\Pi_i$ & Profit function of participant $i$, $i \in \{M,R\}$ \\
+\bottomrule
+\end{tabular*}
+\begin{tablenotes}[flushleft]
+\small\linespread{1}\selectfont
+\item \textit{Note}: All decision variables and parameters are non-negative unless otherwise specified.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+\vspace{10pt}
+\normalsize
+
+Based on the above assumptions, the profit functions are expressed as:
+\begin{equation}
+\Pi_M = (\theta k - p_M - w - \mu_M + s)(\alpha p_M - \beta p_R) - (1 - n)\frac{c k^2}{2}
+\end{equation}
+\begin{equation}
+\Pi_R = (\theta k - p_R - m - \mu_R + s)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - n\frac{c k^2}{2}
+\end{equation}
+
+\subsection{Cooperative game: characteristic function construction and profit allocation}
+Based on the game sequence of the non-cooperative and cooperative biform game, we construct the cooperative game model under any given competitive situation $(p_M, p_R)$. We calculate the characteristic values $V_{p_M,p_R}(S)$ for all possible coalitions, where $S \in \{\emptyset, \{M\}, \{R\}, \{M, R\}\}$. Here, $\{M, R\}$ denotes the grand coalition composed of manufacturer $M$ and recycler $R$. If the coalition is empty, we assume $V_{p_M,p_R}\{\varnothing\} = 0$. Under any competitive situation, the characteristic functions of the coalitions are determined using the maximin theorem.
+
+(1) For coalition $\{M\}$, based on the profit function $\Pi_M$ in Equation (3), the characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{M\}) = \max_{n \in [0,1]} \min_{k \in [0,1]} \{\Pi_M\} = \max_{n \in [0,1]} \min_{k \in [0,1]} \{(\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) - (1 - n)\frac{ck^2}{2}\}
+\end{equation}
+Since $n \in [0,1]$, the term $(1 - n)\frac{ck^2}{2}$ is minimized when $n^* = 1$, which yields the maximum value. Substituting $n^* = 1$ into the above equation, we have:
+\begin{equation}
+V_{p_M,p_R}(\{M\}) = \min_{k \in [0,1]} \{(\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)\}
+\end{equation}
+Since $(\alpha p_M - \beta p_R) \geq 0$, the minimum is achieved when $k = 0$. Therefore, the characteristic function of coalition $\{M\}$ is:
+\begin{equation}
+V_{p_M,p_R}(\{M\}) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)
+\end{equation}
+
+(2) For coalition $\{R\}$, based on the profit function $\Pi_R$ in Equation (4), the characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{R\}) = \max_{k \in [0,1]} \min_{n \in [0,1]} \{\Pi_R\} = \max_{k \in [0,1]} \min_{n \in [0,1]} \{(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - n\frac{ck^2}{2}\}
+\end{equation}
+Since $n \in [0,1]$, the investment cost term $n\frac{ck^2}{2}$ is minimized when $n^* = 1$, which yields the maximum profit. Setting $n^* = 1$, we have:
+\begin{equation}
+V_{p_M,p_R}(\{R\}) = \max_{k \in [0,1]} \{(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - \frac{ck^2}{2}\}
+\end{equation}
+Taking the first derivative of the above equation with respect to $k$ and setting it to zero, we obtain:
+\begin{equation}
+\frac{\partial \Pi_R}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving for $k$, we have:
+\begin{equation}
+k^* = \frac{\theta(\alpha p_R - \beta p_M)}{c}
+\end{equation}
+Substituting $k^*$ into the characteristic function, we obtain:
+\begin{equation}
+V_{p_M,p_R}(\{R\}) = \left(s - p_R - m - \mu_R\right)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c}
+\end{equation}
+
+(3) When manufacturer $M$ cooperates with recycler $R$, they form the grand coalition $\{M,R\}$. Based on the profit functions in Equations (3) and (4), the characteristic function of the grand coalition is:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) = \max_{k \in [0,1]} \{(\theta k + s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) - \frac{ck^2}{2}\}
+\end{equation}
+Taking the first derivative of the above equation with respect to $k$ and setting it to zero, we obtain:
+\begin{equation}
+\frac{\partial (\Pi_M + \Pi_R)}{\partial k} = \theta(\alpha p_M - \beta p_R) + \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving for $k$, we have:
+\begin{equation}
+k^* = \frac{\theta\alpha(p_M + p_R) - \theta\beta(p_M + p_R)}{c} = \frac{\theta(\alpha - \beta)(p_M + p_R)}{c}
+\end{equation}
+Substituting $k^*$ into the characteristic function, we obtain:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) = (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c}
+\end{equation}
+
+Based on Equations (7), (13) and (16), we can derive:
+\begin{equation}
+\begin{aligned}
+V_{p_M,p_R}(\{M,R\}) - V_{p_M,p_R}(\{M\}) - V_{p_M,p_R}(\{R\})
+&= \frac{\theta^2}{2c}(\alpha p_M - \beta p_R)[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)]
+\end{aligned}
+\end{equation}
+In Equation (17), $(\alpha p_M - \beta p_R)$ and $(\alpha p_R - \beta p_M)$ represent the collection quantities of manufacturer $M$ and recycler $R$, respectively, which are both non-negative. Additionally, $\theta$, $c$, $\mu_M$, and $\mu_R$ are all positive. Therefore, Equation (17) is always greater than or equal to 0. This indicates that for any competitive situation $(p_M, p_R)$, the characteristic functions of the cooperative game satisfy:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})
+\end{equation}
+
+Equation (17) shows that the characteristic functions satisfy superadditivity and convexity, and the cooperative game is a convex game. Therefore, the Shapley value of the cooperative game belongs to the core and satisfies individual rationality. The Shapley value can be used to solve the cooperative game and calculate the specific profit allocation values. Shapley allocates the coalition profit using the following formula:
+\begin{equation}
+\varphi_i = \sum_{S \subseteq N \setminus \{i\}} \frac{|S|! (n - |S| - 1)!}{n!} [V(S \cup \{i\}) - V(S)]
+\end{equation}
+
+The profit allocation functions for $M$ and $R$ are respectively:
+\begin{equation}
+\varphi_M = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big]}{4c}
+\end{equation}
+\begin{equation}
+\varphi_R = (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) + \frac{\theta^2 \big[ (\alpha p_R - \beta p_M)^2 + (\alpha p_M - \beta p_R + \alpha p_R - \beta p_M)^2 \big]}{4c}
+\end{equation}
+
+Combining with Equations (7) and (13), we can obtain:
+\begin{equation}
+\varphi_M - V_{p_M,p_R}(\{M\}) = \frac{\theta^2(\alpha p_M - \beta p_R) \big[ (\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M) \big]}{4c} \geq 0
+\end{equation}
+\begin{equation}
+\varphi_R - V_{p_M,p_R}(\{R\}) = \frac{\theta^2 \big[ (\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M) \big] (\alpha p_M - \beta p_R)}{4c} \geq 0
+\end{equation}
+
+Therefore, for any competitive situation $(p_M, p_R)$, the profit allocations for manufacturer $M$ and recycler $R$ satisfy $\varphi_M(p_M, p_R) \geq V_{p_M,p_R}(\{M\})$ and $\varphi_R(p_M, p_R) \geq V_{p_M,p_R}(\{R\})$. This indicates that under any competitive situation $(p_M, p_R)$, when manufacturer $M$ and recycler $R$ cooperate, the allocated profit is no less than the profit when not cooperating, which helps achieve a stable cooperative alliance.
+
+\subsection{Non-cooperative game: optimal pricing for manufacturer and recycler}
+The above analysis solves the profit allocation values $\varphi_M$ and $\varphi_R$ in the cooperative game stage. Using these profit allocation values as the payoff functions for manufacturer $M$ and recycler $R$ in the non-cooperative game, we derive the reaction functions by taking first-order partial derivatives with respect to the collection prices $p_M$ and $p_R$, respectively. By simultaneously solving these reaction functions, we obtain the equilibrium strategies $(p_M^*, p_R^*)$. The solution procedure is as follows:
+
+Taking the second-order partial derivatives of the profit allocation functions $\varphi_M$ and $\varphi_R$ with respect to $p_M$ and $p_R$, we obtain:
+\begin{equation}
+\frac{\partial^2 \varphi_M}{\partial p_M^2} = \frac{\theta^2(\alpha^2 - 2\alpha\beta) - 4c\alpha}{2c}
+\end{equation}
+\begin{equation}
+\frac{\partial^2 \varphi_R}{\partial p_R^2} = \frac{\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2) - 4c\alpha}{2c}
+\end{equation}
+When $\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2) - 4c\alpha \leq 0$, we have $\frac{\partial^2 \varphi_M}{\partial p_M^2} < 0$ and $\frac{\partial^2 \varphi_R}{\partial p_R^2} < 0$. This indicates that the profit allocation functions are strictly concave with respect to the collection prices. Therefore, there exist optimal collection prices that maximize the profits of manufacturer $M$ and recycler $R$. To find the profit maximization, we take the first-order partial derivatives of $\varphi_M$ and $\varphi_R$ with respect to $p_M$ and $p_R$ and set them equal to 0, resulting in the system of reaction function equations:
+\begin{equation}
+\begin{cases}
+\frac{\partial \varphi_M}{\partial p_M} = [\theta^2(\alpha^2 - 2\alpha\beta) - 4c\alpha]p_M + [\theta^2(\alpha^2 - \alpha\beta + \beta^2) + 2c\beta]p_R + 2c\alpha(s - w - \mu_M) = 0 \\
+\frac{\partial \varphi_R}{\partial p_R} = [\theta^2(\alpha^2 - 3\alpha\beta + \beta^2) + 2c\beta]p_M + [\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2) - 4c\alpha]p_R + 2c[\alpha(s - m - \mu_R) - \beta(w - m)] = 0
+\end{cases}
+\end{equation}
+From this, we can obtain the optimal collection price $p_M^*$ for manufacturer $M$:
+\begin{equation}
+p_M^* = \frac{
+\stackrel{}{\begin{aligned}
+&4c^2 \left[ 2\alpha^2(s - w - \mu_M) + \alpha\beta(s - m - \mu_R) - \beta^2(w - m) \right] \\
+&\quad - 2c\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha^2(s - w - \mu_M) - (\alpha^2 - \alpha\beta + \beta^2)(w - m) \right] \\
+&\qquad - \alpha(\alpha^2 - \alpha\beta + \beta^2)(\mu_M - \mu_R) \Big\}
+\end{aligned}}
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\end{equation}
+And the optimal collection price $p_R^*$ for recycler $R$:
+\begin{equation}
+p_R^* = \frac{
+\stackrel{}{\begin{aligned}
+&4c^2\alpha \left[ 2\alpha(s - m - \mu_R) + \beta(s - 3w + 2m - \mu_M) \right] \\
+&\quad - 2c\alpha\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha(w - m) + \beta(s - 3w + 2m - \mu_M) \right] \\
+&\qquad + \alpha(\alpha - 2\beta)(\mu_M - \mu_R) \Big\}
+\end{aligned}}
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\end{equation}
+
+Substituting Equations (27) and (28) into Equation (15), we can obtain the optimal conversion rate:
+\begin{equation}
+k^* = \frac{
+\stackrel{}{\begin{aligned}
+&2\theta(\alpha-\beta) \Big\{ \alpha(s - w - \mu_M) \big[ 2c(2\alpha+\beta) - \theta^2\alpha(\alpha+\beta) \big] \\
+&\quad + \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c(2\alpha+\beta) + \theta^2\beta(\alpha+\beta) \big] \Big\}
+\end{aligned}}
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\end{equation}
+
+By combining the optimal profits with the profit functions, we can obtain the optimal proportion:
+\begin{equation}
+n^* = \frac{2(\alpha p_R^* - \beta p_M^*)^2 + 2(\alpha p_M^* - \beta p_R^*)(\alpha p_R^* - \beta p_M^*) - (\alpha p_M^* - \beta p_R^*)^2}{2 \big[ (\alpha-\beta)(p_M^* + p_R^*) \big]^2}
+\end{equation}
+
+Therefore, the optimal profits are:
+\begin{equation}
+\varphi_M^* = (s - p_M^* - w - \mu_M)(\alpha p_M^* - \beta p_R^*) + \frac{\theta^2(\alpha p_M^* - \beta p_R^*)\big[(\alpha p_M^* - \beta p_R^*) + 2(\alpha p_R^* - \beta p_M^*)\big]}{4c}
+\end{equation}
+\begin{equation}
+\varphi_R^* = (s - p_R^* - m - \mu_R)(\alpha p_R^* - \beta p_M^*) + (w - m)(\alpha p_M^* - \beta p_R^*) + \frac{\theta^2 \big[ (\alpha p_R^* - \beta p_M^*)^2 + (\alpha p_M^* - \beta p_R^* + \alpha p_R^* - \beta p_M^*)^2 \big]}{4c}
+\end{equation}
+
+The optimal collection quantities are:
+\begin{equation}
+q_M^* = \frac{
+\stackrel{}{\begin{aligned}
+&2c \Big\{ \alpha(s - w - \mu_M) \big[ 2c(2\alpha^2 - \beta^2) - \theta^2(2\alpha-\beta)(\alpha^2-\beta^2) \big] \\
+&\quad - \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c\alpha\beta - \theta^2\alpha(\alpha^2-\beta^2) \big] \Big\}
+\end{aligned}}
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\end{equation}
+\begin{equation}
+q_R^* = \frac{
+\stackrel{}{\begin{aligned}
+&2c \Big\{ \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c(2\alpha^2 - \beta^2) - \theta^2(\alpha-\beta)(\alpha^2-\beta^2) \big] \\
+&\quad - \alpha(s - w - \mu_M) \big[ 2c\alpha\beta - \theta^2(\alpha-\beta)(\alpha^2-\beta^2) \big] \Big\}
+\end{aligned}}
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\end{equation}
+\begin{equation}
+q_{total}^* = \frac{
+\stackrel{}{\begin{aligned}
+&2c(\alpha-\beta) \Big\{ \alpha(s - w - \mu_M) \big[ 2c(2\alpha+\beta) - \theta^2\alpha(\alpha+\beta) \big] \\
+&\quad + \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c(2\alpha+\beta) + \theta^2\beta(\alpha+\beta) \big] \Big\}
+\end{aligned}}
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\end{equation}
+
+The above expressions are relatively complex, making it difficult to conduct theoretical analysis on the impacts of parameters such as competition intensity and R\&D cost coefficients on the equilibrium solutions. Therefore, the following numerical simulation analysis will be conducted with specific parameter values.
+
+\section{Equilibrium analysis}
+\subsection{Subsection title}
+% TODO: Write content here
+
+\subsection{Subsection title}
+% TODO: Write content here
+
+\subsection{Subsection title}
+% TODO: Write content here
+
+\subsection{Subsection title}
+% TODO: Write content here
+
+\section{Numerical simulation}
+To illustrate the equilibrium outcomes more intuitively and investigate the impacts of key parameters (including price sensitivity coefficient, competition intensity, recycling value, and transportation costs) on collection prices, collection quantities, cost-sharing ratios, and technology improvement levels, we conduct numerical simulations using MATLAB 2023b.
+
+\subsection{Parameter settings}
+Waste concrete recycling represents a global challenge, and parameter values vary across different countries and contexts. To ensure the numerical simulation aligns with practical scenarios, we situate our analysis in the Chinese context. This selection is justified by two considerations: First, China has demonstrated strong policy commitment to waste concrete recycling, exemplified by initiatives such as the ``14th Five-Year Plan'' for solid waste pollution prevention and control, which explicitly mandates construction waste resource utilization rates to reach 60\% in large and medium-sized cities by 2025 (Ministry of Housing and Urban-Rural Development, 2021). Second, China's waste concrete recycling industry is at an early stage of development, with firms actively pursuing technological upgrades and seeking R\&D collaborations, which parallels the non-cooperative and cooperative game framework in this study. Accordingly, this context provides valuable insights for firm decision-making and government policy guidance.
+
+Based on China's official policies, industry reports, project disclosures, expert interviews, and relevant literature, we calibrate the parameters as follows:
+
+Price sensitivity coefficient ($\alpha$) measures the responsiveness of collection quantity to price fluctuations. Drawing upon Liu's survey report on construction waste resource utilization in Shanghai, the collection price for waste concrete typically ranges from 10 to 15 yuan per ton. Following the parameter specification in Chen et al., we set $\alpha = 1.5$.
+
+Competition intensity ($\beta$) reflects the degree of market competition. According to the China Construction Waste Recycling Industry Overview, the compound annual growth rate of construction waste (including waste concrete) is approximately 13.4\%. Given the substantial capital requirements and technical barriers in concrete manufacturing and recycling, the number of major firms remains relatively stable, with channel resources well-established. We therefore interpret the annual incremental waste concrete resources as the competition intensity, setting $\beta = 0.134$.
+
+Recycler's processing cost ($m$) refers to the cost incurred by the recycler for processing waste concrete. Based on Xiao's report in \textit{World Environment}, processing 100,000 cubic meters of waste concrete costs approximately 8 million yuan, yielding $m = 32$ yuan/m$^3$.
+
+Transfer price ($w$) denotes the price at which the recycler transfers processed materials to the manufacturer. Drawing from annual reports of A-share listed firms specializing in waste concrete recycling (e.g., Sinoma Resources, China Tianying, Shanghai Environment), the gross profit margins range from 7.88\% to 13.04\%. Taking the average margin of 9.84\%, we calculate $w = m \times (1 + 9.84\%) = 35$ yuan/m$^3$.
+
+Government subsidy ($s$) represents financial incentives provided by the government to promote waste concrete recycling. The Chinese government has implemented various subsidy programs, including value-added tax exemptions and transportation cost reimbursements. According to the 2025 project disclosure for the Fuzhou (Jiangxi Province) construction waste treatment franchise, the government provides a subsidy of 35 yuan per ton based on collection volume, equivalent to $s = 87.5$ yuan/m$^3$ after unit conversion.
+
+Transportation costs ($\mu_M, \mu_R$) represent the logistics expenses for collecting and transporting waste concrete. We conducted market research by requesting quotes from multiple logistics providers and interviewing construction cost professionals. The results yield $\mu_M = 25$ yuan/m$^3$ and $\mu_R = 44$ yuan/m$^3$.
+
+Investment cost coefficient ($c$) captures the cost associated with R\&D investments in recycling technology improvement. Based on equipment pricing data from the China Construction Waste Recycling Industry Overview (including crushers, vibrating feeders, and magnetic separators), we calculated the weighted average cost coefficient, setting $c = 135,000$.
+
+Baseline technology parameter ($\theta$) represents the intrinsic technology level that determines the marginal value of recycled materials. According to Liu's survey report, the selling price of recycled concrete aggregate (RCA) from waste concrete ranges from 50 to 60 yuan per ton. Taking the median value and converting units, we set $\theta = 137.5$ yuan/m$^3$.
+
+% Table of parameter values will be added here
+
+\subsection{Simulation results and analysis}
+\label{sec:simulation_analysis}
+
+To investigate the impacts of key parameters on equilibrium outcomes, we conduct a comprehensive numerical simulation analysis. Based on the baseline parameter values specified in Section 5.1, we vary each parameter within a reasonable range while holding other parameters constant. The simulation results are presented in Figs. 1-8, and the corresponding numerical data are summarized in Table 2.
+
+\subsubsection{Impact of price sensitivity coefficient ($\alpha$) on recycling strategies}
+\label{sec:alpha_impact}
+
+Fig. 1 illustrates the impact of price sensitivity coefficient ($\alpha$) on recycling strategies. As shown in Fig. 1(a), both the manufacturer's optimal collection price ($p_M^*$) and the recycler's optimal collection price ($p_R^*$) exhibit a monotonically increasing relationship with $\alpha$. This positive correlation can be attributed to the intensified profit-seeking incentive under high price sensitivity. When waste generators become highly responsive to price changes, even a marginal increase in unit collection price can unlock substantially more waste concrete supply. This market characteristic strongly motivates both the manufacturer and recycler to adopt pricing strategies that prioritize market share expansion through price competition. Throughout the entire parameter range, $p_M^*$ consistently exceeds $p_R^*$, reflecting the manufacturer's dominant competitive position. This advantage stems from its unique engineering management capability: the manufacturer leverages return-trip logistics of concrete delivery trucks for waste collection (i.e., ``reverse logistics''), resulting in substantially lower transportation costs ($\mu_M < \mu_R$). In contrast, the recycler requires dedicated vehicle dispatching for collection. This cost asymmetry grants the manufacturer greater pricing flexibility, enabling it to outcompete the recycler in the market.
+
+Fig. 1(b) demonstrates the corresponding impact on collection quantities. The manufacturer's collection quantity ($q_M^*$), the recycler's collection quantity ($q_R^*$), and the total collection quantity ($q_{total}^*$) all increase monotonically with $\alpha$. The underlying mechanism follows a causal chain: higher $\alpha$ induces both firms to raise their collection prices $\rightarrow$ stronger price incentives attract greater waste concrete supply from generators $\rightarrow$ both firms secure larger collection quantities. Quantitatively, when $\alpha$ increases from 0.889 to 3.0, the total collection quantity grows from 16.69 m$^3$ to 74.35 m$^3$, representing a 4.5-fold expansion. The manufacturer's collection quantity consistently surpasses the recycler's, confirming its competitive advantage translates into superior market share acquisition.
+
+As depicted in Fig. 1(c), both the conversion rate ($k^*$) and the recycler's cost-sharing ratio ($n^*$) increase with $\alpha$. The increase in $\alpha$ fundamentally represents the rapid expansion of the recycling market. Facing a broader market outlook and an influx of waste concrete, the recycler ($R$) develops stronger incentives for technology upgrading. To process the expanded volume and extract higher-value recycled aggregate, the recycler must invest in advanced processing equipment, such as multi-stage air separation and enhanced mortar removal systems, thereby driving up $k^*$. Simultaneously, since the recycler is the primary beneficiary of technology improvement (as enhanced processing capacity directly translates into increased profitability), it becomes increasingly willing to bear a larger---or even dominant---share of equipment investment costs ($n^*$) under highly optimistic market expectations.
+
+Fig. 1(d) reveals that both firms' profits ($\Pi_M^*$ and $\Pi_R^*$) increase substantially with $\alpha$, achieving a ``win-win'' outcome. However, the manufacturer achieves both higher profit levels and steeper growth rates. Although firms must offer higher collection prices (increasing costs) in price-sensitive markets, the explosive growth in collection volume (economies of scale) and improvements in processing technology (enhanced value of recycled aggregate) generate returns that far exceed the incremental collection costs. The manufacturer's profit leadership can be attributed to its exploitation of the ``outsourcing + reverse logistics'' business model: it enjoys minimal logistics costs through return-trip collection, while simultaneously transferring the substantial burden of technology equipment investment to the recycler in the cooperative game (with $n^*$ remaining high).
+
+\subsubsection{Impact of competition intensity ($\beta$) on recycling strategies}
+\label{sec:beta_impact}
+
+Fig. 2 illustrates the impact of competition intensity ($\beta$) on recycling strategies.
+
+As shown in Fig. 2(a), both $p_M^*$ and $p_R^*$ exhibit a slight increasing trend as $\beta$ rises. However, Fig. 2(b) reveals that collection quantities ($q_M^*$, $q_R^*$, and $Q^*$) actually decline with increasing competition intensity. This counterintuitive pattern---where prices rise while quantities fall---reflects the classic ``prisoner's dilemma'' in the recycling market. When competition intensifies, firms are compelled to adopt defensive pricing strategies to maintain or seize market share. However, this vicious price competition severely compresses profit margins, prompting firms to scale back their overall ``collection efforts'' in practice---such as reducing logistics dispatch to remote areas and cutting channel maintenance expenses---to avoid substantial losses from price wars. The ultimate outcome is that intense competition fails to enlarge the market ``pie''; instead, it constrains market development.
+
+As depicted in Fig. 2(c), both the conversion rate ($k^*$) and the recycler's cost-sharing ratio ($n^*$) decline significantly with increasing $\beta$. The decline in $n^*$ is particularly steep. Under intense competitive pressure, firms prioritize ``short-term survival'' over ``long-term innovation.'' With deteriorating market profitability and highly uncertain future prospects, firms hesitate to make heavy-asset investments. Specifically, for the specialized recycler, which should theoretically have strong incentives for technology upgrading, profit compression drives it to preserve cash flow for price competition, leading to strong reluctance to bear technology investment costs (resulting in a sharp drop in $n^*$). The stagnation in R\&D investment ultimately prevents the conversion rate of recycled aggregate ($k^*$) from improving. Fig. 2(d) demonstrates that both firms' profits ($\Pi_M^*$ and $\Pi_R^*$) decline continuously as $\beta$ increases. This further confirms the negative impact of excessive competition on firm profitability and industry sustainability. Therefore, from a strategic perspective, excessive reliance on price competition is unsustainable; firms should shift their competitive focus toward technology upgrading and R\&D investment.
+
+\subsubsection{Impact of government subsidy ($s$) on recycling strategies}
+\label{sec:s_subsidy_impact}
+
+Fig. 3 illustrates the impact of government subsidy ($s$) on equilibrium outcomes. The parameter $s$ represents the financial incentives provided by the government per unit of waste concrete collected.
+
+As shown in Figs. 3(a) and 3(b), both collection prices ($p_M^*$, $p_R^*$) and collection quantities increase substantially as $s$ increases. Notably, at higher subsidy levels, the total collection quantity exhibits explosive multiplicative growth. The recycler's price response to subsidies is more pronounced than the manufacturer's, yet the manufacturer's growth rate in collection quantity exceeds the recycler's. Government subsidies inject additional profit margins into the entire recycling supply chain, enhancing the effective revenue from recycling operations. With subsidies in place, firms dare to offer higher collection prices to waste generators, creating strong price incentives that activate the upstream supply market. The recycler's stronger price responsiveness to subsidies stems from its relatively vulnerable market position and high dependence on policy support to enhance pricing capability. However, due to the manufacturer's inherent competitive advantages in reverse logistics and distribution channels, it can absorb the expanded market share at lower marginal costs, thereby becoming the primary beneficiary of the subsidy policy in terms of ``quantity'' and capturing the market expansion gains first.
+
+As depicted in Fig. 3(c), both the conversion rate ($k^*$) and the recycler's cost-sharing ratio ($n^*$) increase substantially with $s$. The parameter $n^*$ rises extremely rapidly during the initial stage of subsidies and then plateaus. In the unsubsidized free market, the high costs of environmental equipment upgrades face substantial downside risks. The intervention of government subsidies effectively reduces such investment risks and greatly enhances firms' confidence in future returns. When market expectations become highly clear and profitable, the specialized recycler, as the core player in deep processing, experiences a complete surge in investment willingness. To capture the expanded market share driven by subsidies, the recycler not only strives to enhance processing technology ($k^*$ increases) but also voluntarily assumes the majority---or even the entirety---of technology equipment investment costs ($n^*$ increases). Fig. 3(d) also reflects this, showing that higher levels of subsidies generate greater marginal benefits.
+
+\subsubsection{Impact of potential recycled value ($\theta$) on recycling strategies}
+\label{sec:theta_impact}
+
+Fig. 4 illustrates the impact of potential recycled value ($\theta$) on recycling strategies. 
+
+As shown in Figs. 4(a) and 4(b), both collection prices ($p_M^*$, $p_R^*$) and collection quantities ($q_M^*$, $q_R^*$) increase significantly as $\theta$ increases. Moreover, the recycler's growth rates in both price and quantity exceed the manufacturer's as $\theta$ rises. The enhancement of $\theta$ implies that high-quality RCA commands greater value in downstream markets, thereby widening the profit margins across the entire industry chain. Both parties are motivated to raise their upstream collection prices to secure waste concrete resources. The recycler exhibits stronger price-increase responsiveness, as it is the direct executor responsible for transforming waste into high-value products and is most sensitive to the appreciation of end-product value. When $\theta$ reaches sufficiently high levels, the recycler's bargaining power and market initiative will strengthen, enabling it to offer more competitive prices in the collection market.
+
+As depicted in Fig. 4(c), both the actual conversion rate ($k^*$) and the recycler's cost-sharing ratio ($n^*$) increase substantially with $\theta$. Since the actual extracted value equals $\theta \times k$, when the potential maximum value ($\theta$) is low, firms lack incentives to improve the conversion rate ($k$); however, when $\theta$ is extremely high, enhancing $k$ yields substantial economic returns. This drives the recycler to willingly assume a greater proportion of R\&D and deep-processing equipment upgrade costs, aiming to maximize returns in the high-quality RCA market.
+
+Fig. 4(d) reveals that both firms' profits increase with $\theta$. Notably, while the manufacturer enjoys profit dominance at low $\theta$ levels, the recycler's profit growth trajectory catches up with the manufacturer's as $\theta$ continues to rise. In the low-value stage, the manufacturer capitalizes on its inherent advantages in channels and logistics costs to capture the lion's share of profits. However, when the industry moves toward high-quality applications, the recycler's ``deep-processing capability'' becomes the truly core asset in the value chain, enhancing its bargaining power vis-a-vis the manufacturer. This finding suggests that the optimal path for industry players to escape low-end ``rat race'' competition is to ascend toward the high-value end of the industry chain, pursuing equal partnerships and more lucrative profits by producing higher-quality recycled aggregate.
+
+\subsubsection{Impact of outsourcing fee ($w$) and operational cost ($m$) on recycling strategies}
+\label{sec:outsourcing_cost_impact}
+
+Observing Figs. 5(a) and 5(b), when the actual operational cost $m$ increases, the recycler's collection price ($p_R^*$) and collection quantity ($q_R^*$) decline significantly, while the manufacturer's corresponding decision variables ($p_M^*$ and $q_M^*$) remain relatively stable. Comparing with Figs. 6(a) and 6(b), when the outsourcing fee $w$ increases, the manufacturer's collection price ($p_M^*$) and collection quantity ($q_M^*$) exhibit pronounced downward trends, whereas the recycler's quantity decline is relatively modest.
+
+The fluctuations in actual operational cost $m$ are primarily absorbed internally by the recycler at the production stage, directly compressing its marginal profit and forcing it to reduce upstream collection efforts. In contrast, the manufacturer mitigates this risk through fixed outsourcing contracts. However, as an internal transfer price, the outsourcing fee $w$ directly constitutes the manufacturer's unit procurement cost. An increase in $w$ weakens the manufacturer's pricing power in the waste collection market, leading to substantial reduction in its collection quantity.
+
+Regarding technology cooperation decisions, Fig. 5(c) shows that as $m$ rises, the recycler's cost-sharing ratio $n^*$ exhibits a declining trend; whereas Fig. 6(c) reveals that as $w$ increases, $n^*$ demonstrates a significant upward trajectory. Simultaneously, under increases in both cost parameters, the system's overall conversion rate $k^*$ exhibits slight declines.
+
+When the recycler's processing cost $m$ is excessively high, its profitability suffers, leaving insufficient capital and willingness for fixed-asset investment. Conversely, a higher outsourcing fee $w$ improves the recycler's unit marginal revenue, positioning it more favorably in the profit allocation game with the manufacturer. To sustain this high-revenue cooperative relationship, the recycler tends to proactively assume a higher proportion of technology upgrade costs (i.e., higher $n^*$) as a form of cooperative compensation.
+
+However, increases in either $m$ or $w$ fundamentally increase the total cost friction in the system, suppressing the total collection scale and lacking sufficient scale effects to support in-depth technology R\&D; consequently, $k^*$ exhibits slight decline.
+
+Figs. 5(d) and 6(d) reveal the heterogeneous impacts of cost parameters on upstream and downstream profits. In Fig. 5(d), an increase in $m$ directly causes the recycler's profit ($\Pi_R^*$) to plummet, while the manufacturer's profit ($\Pi_M^*$) remains stable. In Fig. 6(d), as $w$ increases, $\Pi_M^*$ continuously declines, whereas $\Pi_R^*$ exhibits an inverted-U trajectory: first rising and then falling. Moderately increasing $w$ can transfer a portion of supply chain surplus to the recycler, enhancing its processing revenue. However, when $w$ exceeds a certain threshold (approximately $w \approx 47$ in the figure), excessively high transfer pricing severely dampens the manufacturer's collection enthusiasm (corresponding to the substantial decline in $q_M^*$ in Fig. 6(b)). Since the recycler's capacity utilization and profit generation partially depend on waste collected and transferred by the manufacturer, the excessive contraction of total collection scale ultimately rebounds against the recycler's profit, forming an inverted-U turning point.
+
+These findings carry important implications for supply chain coordination and firm strategy. An optimal transfer price should balance the recycler's profitability requirement with the manufacturer's cost considerations. Supply chain coordination mechanisms (e.g., revenue sharing contracts, cost renegotiation clauses) may help align firm incentives and ensure sustainable supply chain operations.
+
+\subsection{Impact of transportation costs ($\mu_M$ and $\mu_R$) on recycling strategies}
+\label{sec:transportation_cost_impact}
+
+Figs. 7 and 8 illustrate the impacts of transportation costs for the manufacturer ($\mu_M$) and the recycler ($\mu_R$) on equilibrium outcomes, respectively. Overall, this simulation result aligns highly with engineering practice: increases in transportation costs exert significant suppressive effects on the recycling businesses of both the manufacturer and the recycler itself. When an enterprise faces higher transportation costs, to avoid profit inversion or losses in waste collection, it is forced to reduce the collection prices offered to waste generators ($p_M^*$ or $p_R^*$). This loss of price attractiveness directly leads to reduced collection quantities. Regarding technology investment decisions, elevated logistics costs similarly diminish investment willingness from both parties. This decline in investment willingness caused by rising logistics costs ultimately results in the system's actual conversion rate ($k^*$) remaining consistently low, with profits declining for both firms.
+
+\section{Conclusion and implications}
+\subsection{Conclusions}
+This study constructs a non-cooperative and cooperative game model for waste concrete recycling involving manufacturers and recyclers. It investigates the collection price competition, technology cooperation, and R\&D cost sharing issues in the process of waste concrete recycling, as well as analyzes the impacts of external factors on recycling strategies. The conclusions of this study are as follows:
+
+First, the manufacturer and the recycler tend to form a cooperative alliance to conduct the collection and processing of waste concrete. Within the optimal strategy portfolio across various scenarios in the coopetition relationship, the manufacturer's optimal pricing and collection quantity consistently exceed those of the recycler; meanwhile, the specialized recycler is required to bear a higher proportion of the investment costs for technological upgrading. This arrangement can effectively enhance the conversion rate of waste concrete into recycled aggregate and achieve a ``win-win'' outcome for the profits of both the manufacturer and the recycler.
+
+Second, external engineering and market parameters exert significant heterogeneous impacts on the equilibrium decisions and profit distribution landscape of the manufacturer and the recycler. The results indicate that: the enhancement of the government subsidy $s$, price sensitivity $\alpha$, and potential recycled value $\theta$ can all significantly increase both parties' collection pricing, collection quantities, waste concrete conversion rates, and their respective profits; in particular, an increase in the potential recycled value $\theta$ drives the recycler's profit growth rate to be significantly higher than that of the manufacturer. Although the intensification of competition leads both parties to raise collection prices, the overall collection scale, conversion rate, and profits of both parties significantly decline as a result. An increase in the processing cost $m$ primarily leads to a unilateral decline in the recycler's collection quantity and profit; conversely, an increase in the outsourcing fee $w$ suppresses the manufacturer's collection quantity and causes the recycler's profit to exhibit an inverted-U trajectory, initially rising and then falling. Furthermore, an increase in transportation costs exerts a suppressive effect on a firm's own collection strategy. High unilateral transportation costs not only trigger a precipitous drop in the affected firm's collection quantity and profit but also diminish the overall willingness to invest in technology, leaving the system's actual technology conversion rate at a depressed level.
+
+\subsection{Theoretical implications}
+
+% TODO: Write content here
+
+\subsection{Practical implications}
+
+% TODO: Write content here
+
+\section{Limitations and future research directions}
+There are certain limitations that highlight avenues for future research. First, this study primarily focuses on a basic dual-channel supply chain consisting of a single traditional manufacturer and a single specialized recycler. However, the actual waste concrete recycling ecosystem often involves more complex interactions among multiple stakeholders. Future research could expand the current modeling framework to incorporate multiple competing recyclers, third-party logistics providers, or explicitly consider the downstream demand market's acceptance of recycled materials, thereby more comprehensively revealing the operational mechanisms of a closed-loop supply chain network with multi-party participation.
+
+Second, this research employs a static game framework to analyze the equilibrium decisions and profit distribution of supply chain members. Future research could integrate differential games or evolutionary game theory to explore the dynamic evolutionary trajectories of enterprises' technology R\&D investments over multiple periods, as well as the long-term stability conditions of the outsourcing cooperation.
+
+\section*{Data availability statement}
+% TODO: Write data availability statement here
+
+\section*{Declaration of competing interest}
+% TODO: Write declaration here
+
+% ===== 参考文献 =====
+\bibliographystyle{elsarticle-harv}
+\bibliography{zz05}
+
+% ===== 表格模板（复制使用） =====
+
+% \begin{table}[!htbp]
+% \centering
+% \captionsetup{font=normalsize, labelsep=period}
+% \setlength{\abovecaptionskip}{5pt}
+% \setlength{\belowcaptionskip}{0pt}
+% \caption{Table title here}
+% \label{tab:label_name}
+% \small
+% \begin{threeparttable}
+% \begin{tabular*}{0.9\textwidth}{@{\extracolsep{\fill}}lccccccc}
+% \toprule
+% \textbf{Column 1} & \textbf{Column 2} & \textbf{Column 3} & \textbf{Column 4} \\
+% \midrule
+% \textit{Row 1} & Data & Data & Data \\
+% \textit{Row 2} & Data & Data & Data \\
+% \textit{Row 3} & Data & Data & Data \\
+% \bottomrule
+% \end{tabular*}
+% \begin{tablenotes}[flushleft]
+% \small\linespread{1}\selectfont
+% \item \textit{Note}: Table notes here.
+% \end{tablenotes}
+% \end{threeparttable}
+% \end{table}
+% \vspace{-15pt}
+
+\end{document}

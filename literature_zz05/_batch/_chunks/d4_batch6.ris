@@ -1,0 +1,496 @@
+TY  - JOUR
+TI  - Baking and slicing the pie: An application to the airline alliance's profit-sharing based on cooperative game theory
+AU  - Yea, Minyoung
+AU  - Kim, Daeki
+AU  - Cheong, Taesu
+AU  - Moon, Joon
+AU  - Kang, Sungho
+T2  - JOURNAL OF AIR TRANSPORT MANAGEMENT
+AB  - Cooperating with competitors can be a mutually beneficial strategy for companies. To achieve continuous gains from the partnership, profit-sharing rules for the collective benefits are critical. This paper proposes a new allocation scheme that focuses on sustainable relationships based on cooperative game theory. Our min-variance solution deploys joint profits by minimizing the intent to form sub-groups, thus ensuring the alliance's stability. The min-variance is reasonable in a network collaboration where the preservation of the network itself is essential. By application to a numerical example of an airline joint venture, we examine the validity of the proposed distribution rule in the cooperation-allocation problem. The collective surplus of logistics collaboration is suggested by a mixed-integer programming model to solve the optimal value of combinations of the multi commodity flow problem under the network shared. In addition, the results are interpreted by comparison with other solutions in cooperation game theory, such as the Shapley value, the tau-value, and the nucleolus. We offer further insights into changes in profit-sharing using a sensitivity analysis considering efficiency abatement.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jairtraman.2022.102219
+VL  - 102
+IS  - 
+SP  - 102219
+J2  - JOURNAL OF AIR TRANSPORT MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Which operating mode is the best? Consider different combinations of sales contracts and service methods
+AU  - Liu, Hao
+AU  - Kou, Xiaofei
+AU  - Liu, Haibin
+AU  - Gao, Honghu
+AU  - Zhao, Xinyue
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - According to the different sales contracts and service methods, we propose four supply chain operating modes, that is, the manufacturer provides the service and adopts the wholesale price contract (MW mode); the retailer provides service and adopts the wholesale price contract (RW mode); the manufacturer provides service and adopts the consignment contract (MS mode); the retailer provides service and adopts the consignment contract (RS mode). In this paper, we develop a dual-channel supply chain consisting of a manufacturer and a retailer to explore the best operating mode for the firms, in which the manufacturer sells products through both online and offline channels. Our analysis shows that there are two thresholds for the deduction rate r(1), r(2), and r(1) < r(2). If the manufacturer/retailer has absolute power: when r < r(2)/r < r(1), the best mode for the manufacturer/retailer is MS/MW; when r > r(2)/r > r(1), the best mode for the manufacturer/retailer is MW/MS. In addition, if the manufacturer/retailer decides the service method and the retailer/manufacturer decides the sales contract, when r < r1/r < r(2), the best mode for both parties is MW/MS; when r > r(1)/r > r(2), the best mode for both parties is MS/ MW. Furthermore, the Shapley contract and revenue sharing contract are designed to achieve the coordination of the supply chain under the best mode.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.cie.2022.108069
+VL  - 168
+IS  - 
+SP  - 108069
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - An Innovative Coalitional Trading Model for a Biomass Power Plant Paired With Green Energy Resources
+AU  - Khaloie, Hooman
+AU  - Toubeau, Jean-Francois
+AU  - Vallee, Francois
+AU  - Lai, Chun Sing
+AU  - Lai, Loi Lei
+T2  - IEEE TRANSACTIONS ON SUSTAINABLE ENERGY
+AB  - The role of biomass resources to diminish the dependency on fossil fuels is steadily increasing worldwide. More importantly, governments set goals to boost the share of renewable energy resources in the power sector to face up to global warming issues. In this paper, a coalitional game model for the trading of a Biomass Power Plant (BPP) paired with a concentrating solar power facility and a wind park is proposed. In the proposed coalitional trading architecture, the physical coupling between biomass and concentrating solar power facilities is embedded, while cost sources related to operation and maintenance of all units as well as harvesting and transportation of forestry residue are taken into account to represent a more pragmatic trading approach. The suggested coalitional trading model is formulated as a stochastic model with three sequential stages. Moreover, game theory concepts, i.e., r-value, nucleolus, and Shapley-value, are exploited and compared for profit allocation to the coalition members. A cost-benefit analysis is also conducted to investigate the effect of cooperative and non-cooperative trading models on the BPP's investment feasibility. The results highlight the lucrativeness of the proposed coalitional trading model and remarkable reduction in the payback period of the BPP under a cooperative game framework.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1109/TSTE.2021.3138777
+VL  - 13
+IS  - 2
+SP  - 892-904
+J2  - IEEE TRANSACTIONS ON SUSTAINABLE ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - A benefit allocation model for the joint prevention and control of air pollution in China: In view of environmental justice
+AU  - Du, Juan
+AU  - Sun, Liwen
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - The benefit allocation of fair and justice is an inevitable guarantee for the long-term operation of the joint prevention and control of air pollution (JPCAP). The ignorance of interest demands of various governance subjects in the existing benefit allocation mechanism results in the widespread free rider  behavior in the joint control and unsatisfactory effects of JPCAP. Given this, it is imperative to build a reasonable benefit allocation model. The innovation of this paper is proposing a benefit allocation model of JPCAP to achieve the symmetry between control costs and benefits based on environmental justice. The control objectives and total benefits of JPCAP are calculated through the adjustment of optimal removal rates. The interest demands of various control subjects and benefit compensation scheme are clarified by adopting an improved Shapley method, which comprehensively considers factors affecting environmental justice. An empirical analysis is conducted on SO2 governance in Beijing-Tianjin-Hebei (BTH) and its surrounding areas. The results show that the benefit allocation model based on environmental justice can not only accurately evaluate the benefits of joint control, but also effectively achieve the symmetry between control costs and benefits. This study provides a scientific and reasonable theoretical basis for the benefit allocation of SO2 control and can be extended to the researches and practices of other air pollutants control.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jenvman.2022.115132
+VL  - 315
+IS  - 
+SP  - 115132
+J2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - A multi-weight fuzzy Methodological Framework for Allocating Coalition Payoffs of Joint Water Environment Governance in Transboundary River Basins
+AU  - Yuan, Liang
+AU  - Wu, Xia
+AU  - He, Weijun
+AU  - Kong, Yang
+AU  - Ramsey, Thomas Stephen
+AU  - Degefu, Dagmawi Mulugeta
+T2  - WATER RESOURCES MANAGEMENT
+AB  - To ensure transboundary river basins are protected as a system, forming water environment governance coalitions is important. However, accurate determination and allocation of the payoffs of joint environment governance under uncertain conditions is a challenging task. This study used a triangular fuzzy number to describe the payoff and solve the fuzzy allocation problem. The article also considered the importance of different coalitions and the effectiveness of the distribution. In addition, the authors constructed a multi-weight fuzzy allocation quadratic programming model and proposed an analytical solution to determine the triangular fuzzy allocation payoffs. These contributions were used to allocate the coalition payoff of basin-wide environment governance, and the Zhanghe River Basin is used as a case study. The results showed that the model produces outputs comparable with the Shapley value allocation method. Therefore, the proposed methodological framework can be used as an alternative allocation scheme that provides a reasonable solution during uncertainty.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1007/s11269-022-03206-0
+VL  - 36
+IS  - 9
+SP  - 3367-3384
+J2  - WATER RESOURCES MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal design of trigeneration systems for buildings considering cooperative game theory for allocating production cost to energy services
+AU  - Lozano, Miguel A.
+AU  - Serra, Luis M.
+AU  - Pina, Eduardo A.
+T2  - ENERGY
+AB  - In the design of trigeneration plants for buildings, two fundamental issues must be addressed: the synthesis of the plant configuration (installed technologies and capacity, etc.) and the operational planning. Given the variety of technology options available and great diurnal and annual fluctuations in energy demands, finding the optimal supply system of energy services is a complex task. Cost allocation in multi-product systems requires special attention because the way in which allocation is made will affect the prices of the final products and, consequently, the consumers' behaviour. When a poly-generation plant is designed to serve different products, it is possible to achieve a lower total cost. However, if potential consumers are free to participate, the system's management should ensure that every participant shares the benefit of joint production. In trigeneration systems this implies that all consumers should achieve, at least, a lower cost for their demanded energy services than operating separately. The present work proposes a Mixed Integer Linear Programming model to determine the optimal configuration of trigeneration systems that must cover the energy demands of electricity, heating and cooling of a residential complex located in Zaragoza, Spain. The model considers the possibility of using a set of proposed alternative technologies within a superstructure and considers the optimal operation throughout a typical meteorological year. The objective function to be minimized is the total annual cost. The results indicate that compared to consumers standing alone, the optimal trigeneration system can achieve 10.6% cost saving. Ten different cost assessment methods to the three final energy products of the analyzed trigeneration system are rigorously compared. Cooperative game theory shows that all consumers benefit. Using the Shapley values as the distribution criterion, the savings for electricity, heating and cooling consumers are 4.8%, 20.9% and 11.1%, respectively.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.energy.2022.125299
+VL  - 261
+IS  - 
+SP  - 125299
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Implementing Environmental and Social Responsibility Programs in Supply Networks Through Multiunit Bilateral Negotiation
+AU  - Feng, Qi
+AU  - Li, Chengzhang
+AU  - Lu, Mengshi
+AU  - Shanthikumar, J. George
+T2  - MANAGEMENT SCIENCE
+AB  - Involving suppliers deep in the supply chain is critical for the success of environmental and social responsibility (ESR) initiatives. Administering ESR programs throughout a complex supply network, however, is challenging. In this paper, we apply a multiunit bilateral bargaining framework to coordinate ESR investments in a general supply network and analyze to what extent an ESR initiator should directly engage the higher-tier suppliers as opposed to delegating that responsibility to the first-tier suppliers. Our bargaining framework not only generalizes the conventional Shapley value approach by allowing the flexibility of modeling imbalanced power distribution among the firms but also provides an explicit way of implementing the resulting gain sharing among the firms through negotiated contract terms. We show that the eventual structure of ESR negotiation relationships can be derived by finding a shortest path tree in the supply network with the arc cost defined as the logarithm of the negotiating parties' relative bargaining power. These developments allow us to analyze ESR implementation in generally extended supply networks. We find that the ESR initiator tends to delegate ESR negotiations to a supplier that is strong in negotiations with higher-tier suppliers. When the supply network is complex (i.e., wide and deep), directly engaging all suppliers can lead to a larger gain by the initiator than fully delegating the negotiations with higher-tier suppliers to the first-tier ones. However, as the network gets increasingly complex, the ESR initiator tends to directly engage a reduced percentage of higher-tier suppliers. We further extend our analysis to situations where the ESR relationships are sequentially formed in a decentralized manner, where the benefit of ESR depends on the collective choice of the firms' investment levels, where multiple ESR programs are implemented in the network, and where ESR investments depend on the negotiation relationships.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1287/mnsc.2021.4034
+VL  - 68
+IS  - 4
+SP  - 2579-2599
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Multi-plant direct heat integration based on the risk-based Shapley value and Alopex-based evolutionary algorithm
+AU  - Tian, Yitong
+AU  - Li, Shaojun
+T2  - CHEMICAL ENGINEERING SCIENCE
+AB  - Current heat exchanger network (HEN) synthesis is mainly focused on minimizing the total annual cost (TAC), and then allocating the minimized TAC among plants. However, the obtained HENs usually have complex inter-plant heat matches, and if unplanned shutdowns occur, connected plants will suffer huge economic losses. Consequently, some plants may be unsatisfied with their allocated costs and prefer not to join this multi-plant coalition. In this study, a natural risk-based Shapley value curve is used to represent the variation of cost allocation under shutdown risks between 0% and 100%. Alopex-based optimization strategies are proposed to optimize the modified HEN model with core constraints that can restrict the Shapley value curve to the core range as feasible cost allocation solutions. Therefore, HEN configurations and acceptable cost allocation plans under any shutdown risks are determined simultaneously. Two cases demonstrate that the proposed methodology can reduce shutdown-induced economic losses and facilitate multi-plant cooperation. (c) 2021 Elsevier Ltd. All rights reserved.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.ces.2021.117222
+VL  - 248
+IS  - 
+SP  - 117222
+J2  - CHEMICAL ENGINEERING SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - A concept of nucleolus for uncertain coalitional game with application to profit allocation
+AU  - Yang, Xiangfeng
+AU  - Gao, Jinwu
+AU  - Luo, Sha
+AU  - Loia, Vincenzo
+T2  - INFORMATION SCIENCES
+AB  - Uncertain coalitional game is a type of coalitional games where the transferable payoffs are assumed to be uncertain variables. As solutions of uncertain coalitional game, uncertain core, uncertain Shapley value, and uncertain stable set have been offered. This article further presents a new thought of uncertain nucleolus as another solution to the uncertain coalitional game. Meantime, this paper proves that uncertain nucleolus is nonempty and singleton and proves that uncertain nucleolus is a subset of the uncertain core if the uncertain core is nonempty. Finally, an uncertain nucleolus is applied to resolve a profit allocation problem. (c) 2022 Elsevier Inc. All rights reserved.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.ins.2022.03.052
+VL  - 597
+IS  - 
+SP  - 244-252
+J2  - INFORMATION SCIENCES
+ER  - 
+
+
+TY  - JOUR
+TI  - Core, shapley value, nucleolus and nash bargaining solution: A Survey of recent developments and applications in operations management
+AU  - Luo, Chunlin
+AU  - Zhou, Xiaoyang
+AU  - Lev, Benjamin
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - The core, Shapley value, nucleolus and Nash bargaining solution are the most widely used solution concepts in cooperative game theory. This paper surveys the literature on recent developments of these solution concepts and applications in operations management. Firstly, we briefly introduce the basic concepts and recent theoretical developments of the four solution concepts. Secondly, we review the applications in operations management in the past decade. Based on the problem properties, we classify the literature into deterministic and stochastic models, horizontal cooperation and vertical cooperation modes. Lastly, we discuss the future research directions with applications in operations management, which are hoped to contribute to the literature by enhancing the applications of cooperative game theory in operations management. (C) 2022 Published by Elsevier Ltd.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.omega.2022.102638
+VL  - 110
+IS  - 
+SP  - 102638
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Profit allocation on a four-echelon supply chain in perspective of cooperative games on augmenting systems
+AU  - Meng, Fanyong
+AU  - Li, Zijun
+AU  - Dong, Qing
+AU  - Fu, Lingxian
+AU  - Zhang, Yueqiu
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Profit allocation is an important research topic in supply chain enterprises, where the rationality of allocation determines the stability of their cooperative relationships. This paper focuses on the profit allocation of the supply chain dominated by upstream enterprises. To achieve this goal, a general four-echelon supply chain is constructed. By analyzing the drawbacks of the existing profit allocation methods, we propose three new Shapley values to deal with the different risk attitudes of players. Through theoretical discussions, we can see that the proposed new Shapley values endow upstream participants with profit priority. It shows that the new profit distribution mechanisms suit supply chains dominated by upstream enterprises. We also provide an application example to check the concrete distribution results of the proposed new Shapley values and to compare the experimental results of the proposed new Shapley values with the existing Shapley values to deal with Profit allocation on a four-echelon supply chain. As a result, the proposed new Shapley values outperform the previous Shapley values to deal with the profit allocation on a four-echelon supply chain from the perspective of cooperative games on augmenting systems.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.eswa.2023.119639
+VL  - 219
+IS  - 
+SP  - 119639
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Risk allocation and benefit distribution of PPP projects for construction waste recycling: a case study of China
+AU  - Wang, Zhenshuang
+AU  - Zhou, Yanxin
+AU  - Jin, Xiaohua
+AU  - Zhao, Ning
+AU  - Sun, Jianshu
+T2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+AB  - Purpose Public-private partnership (PPP) projects for construction waste recycling have become the main approach to construction waste treatment in China. Risk sharing and income distribution of PPP projects play a vital role in achieving project success. This paper is aimed at building a practical and effective risk sharing and income distribution model to achieve win-win situation among different stakeholders, thereby providing a systematic framework for governments to promote construction waste recycling. Design/methodology/approach Stakeholders of construction waste recycling PPP projects were reclassified according to the stakeholder theory. Best-worst multi-criteria decision-making method and comprehensive fuzzy evaluation method (BWM-FCE) risk assessment model was constructed to optimize the risk assessment of core stakeholders in construction waste recycling PPP projects. Based on the proposed risk evaluation model for construction waste recycling PPP projects, the Shapley value income distribution model was modified in combination with capital investment, contribution and project participation to obtain a more equitable and reasonable income distribution system. Findings The income distribution model showed that PPP Project Companies gained more transaction benefits, which proved that PPP Project Companies played an important role in the actual operation of PPP projects. The policy change risk, investment and financing risk and income risk were the most important risks and key factors for project success. Therefore, it is of great significance to strengthen the management of PPP Project Companies, and in the process of PPP implementation, the government should focus on preventing the risk of policy changes, investment and financing risks and income risks. Practical implications The findings from this study have advanced the application methods of risk sharing and income distribution for PPP projects and further improved PPP project-related theories. It helps to promote and rationalize fairness in construction waste recycling PPP projects and to achieve mutual benefits and win-win situation in risk sharing. It has also provided a reference for resource management of construction waste and laid a solid foundation for long-term development of construction waste resources. Originality/value PPP mode is an effective tool for construction waste recycling. How to allocate risks and distribute benefits has become the most important issue of waste recycling PPP projects, and also the key to project success. The originality of this study resides in its provision of a holistic approach of risk allocation and benefit distribution on construction waste PPP projects in China as a developing country. Accordingly, this study adds its value by promoting resource development of construction waste, extending an innovative risk allocation and benefit distribution method in PPP projects, and providing a valuable reference for policymakers and private investors who are planning to invest in PPP projects in China.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1108/ECAM-10-2021-0855
+VL  - 30
+IS  - 9
+SP  - 3927-3956
+J2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Calculation Model and Allocation Strategy of Network Usage Charge for Peer-to-peer and Community-based Energy Transaction Market
+AU  - Han, Dong
+AU  - Wu, Lei
+AU  - Ren, Xijun
+AU  - Xia, Shiwei
+T2  - JOURNAL OF MODERN POWER SYSTEMS AND CLEAN ENERGY
+AB  - The emergence of prosumers in distribution systems has enabled competitive electricity markets to transition from traditional hierarchical structures to more decentralized models such as peer-to-peer (P2P) and community-based (CB) energy transaction markets. However, the network usage charge (NUC) that prosumers pay to the electric power utility for network services is not adjusted to suit these energy transactions, which causes a reduction in revenue streams of the utility. In this study, we propose an NUC calculation method for P2P and CB transactions to address holistically economic and technical issues in transactive energy markets and distribution system operations, respectively. Based on the Nash bargaining (NB) theory, we formulate an NB problem for P2P and CB transactions to solve the conflicts of interest among prosumers, where the problem is further decomposed into two convex subproblems of social welfare maximization and payment bargaining. We then build the NUC calculation model by coupling the NB model and AC optimal power flow model. We also employ the Shapley value to allocate the NUC to consumers fairly for the NUC model of CB transactions. Finally, numerical studies on IEEE 15-bus and 123-bus distribution systems demonstrate the effectiveness of the proposed NUC calculation method for P2P and CB transactions.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.35833/MPCE.2022.000349
+VL  - 11
+IS  - 1
+SP  - 144-155
+J2  - JOURNAL OF MODERN POWER SYSTEMS AND CLEAN ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative multidepot electric vehicle routing problem with time windows and shared charging stations
+AU  - Wang, Yong
+AU  - Zhou, Jingxin
+AU  - Sun, Yaoyao
+AU  - Fan, Jianxin
+AU  - Wang, Zheng
+AU  - Wang, Haizhong
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Logistics distribution using electric vehicles (EVs) is gradually becoming popular in urban logistics networks with the promise of carbon peak and carbon neutrality. A collaborative mechanism among multiple depots can effectively increase the efficiency and sustainability of a logistics network. Sharing charging stations (CSs) is presented as a critical strategy to improve the efficiency of logistics networks and facilitate collaboration further. Solving a collaborative multidepot EV routing problem with time windows and shared charging stations (CMEVRPTW-SCS) involves centralized transportation services among multiple depots, coordinated delivery services among multiple depots and the charging needs of EVs. A bi-objective nonlinear programming model for CMEVRPTW-SCS is formulated to minimize the total operating cost and number of EVs, wherein the operating cost contains transportation costs among depots and vehicle routing costs in each depot. Gaussian mixture clustering algorithm is developed to cluster customers and assign them to depots probabilistically to reduce the computational complexity, and an improved multi-objective genetic algorithm with tabu search (IMOGA-TS) is designed to optimize the EV routes and charging locations in CMEVRPTW-SCS. With the combination of local and global searches and the improvement of solutions at each iteration by TS, the proposed hybrid algorithm can significantly accelerate the efficient exploration of optimal solutions. The comparative results of the IMOGA-TS with multi-objective genetic algorithm, non-dominated sorting genetic algorithm-II and multi-objective harmony search algorithm show the superiority of the proposed algorithm in solving CMEVRPTW-SCS. Then, a Shapley value model based on game theoretical methods is proposed to find the best profit allocation scheme. A real -world case study of CMEVRPTW-SCS in Chongqing City, China is conducted, and three scenarios of various collaborative alliances and 11 schemes with and without shared CSs are further discussed. The experimental results show that the proposed methods are of practical significance in reducing operating costs, improving transportation efficiency, and achieving sustainable operation in EV-based logistics distribution networks.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.eswa.2023.119654
+VL  - 219
+IS  - 
+SP  - 119654
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - A new biform game-based investment incentive mechanism for eco-efficient innovation in supply chain
+AU  - Zheng, Xiao-Xue
+AU  - Li, Deng-Feng
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In supply chain, when a visionary focal firm makes direct investment in his partners' upfront cost of eco-efficient innovation, he would want more innovation efforts without sacrificing too many self-interests. To this end, we use a new biform-game model to develop an investment incentive mechanism for eco-efficient innovation in a supply chain consisting of two competing manufactures who are accountable for their respective eco-efficient innovations and a supplier who provides them with investments. Our proposed biform-game model can be regarded as a nested combination of noncooperative and cooperative games: In the noncooperative part, we construct a noncooperative game between the two manufacturers under their profit maximizing strategies, defining the competitive environment in the cooperative part. For three players in the cooperative part, we use Minimax and Maximin principles to construct their cooperative game of the investment cooperation strategy, which is proven to be convex. Subsequently, Shapley value is employed to derive the solution (profits) of the cooperative game, which is used to deduce the pay-off functions of the noncooperative part, thereby obtaining the optimal profit-maximizing strategies and investment cooperation strategies of the biform game. Next, we conduct analytical and numerical studies to verify the validity of our developed model by comparing with the model without applying the biform coordination mechanism.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijpe.2023.108795
+VL  - 258
+IS  - 
+SP  - 108795
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach
+AU  - Mak, Stephen
+AU  - Xu, Liming
+AU  - Pearce, Tim
+AU  - Ostroumov, Michael
+AU  - Brintrup, Alexandra
+T2  - TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+AB  - Collaborative vehicle routing occurs when carriers collaborate through sharing their transporta-tion requests and performing transportation requests on behalf of each other. This achieves economies of scale, thus reducing cost, greenhouse gas emissions and road congestion. But which carrier should partner with whom, and how much should each carrier be compensated? Traditional game theoretic solution concepts are expensive to calculate as the characteristic function scales exponentially with the number of agents. This would require solving the vehicle routing problem (NP-hard) an exponential number of times. We therefore propose to model this problem as a coalitional bargaining game solved using deep multi-agent reinforcement learning, where - crucially - agents are not given access to the characteristic function. Instead, we implicitly reason about the characteristic function; thus, when deployed in production, we only need to evaluate the expensive post-collaboration vehicle routing problem once. Our contribution is that we are the first to consider both the route allocation problem and gain sharing problem simultaneously - without access to the expensive characteristic function. Through decentralised machine learning, our agents bargain with each other and agree to outcomes that correlate well with the Shapley value - a fair profit allocation mechanism. Importantly, we are able to achieve a reduction in run-time of 88%.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.trc.2023.104376
+VL  - 157
+IS  - 
+SP  - 104376
+J2  - TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal scheduling strategy and benefit allocation of multiple virtual power plants based on general nash bargaining theory
+AU  - Yan, Xingyu
+AU  - Gao, Ciwei
+AU  - Ming, Hao
+AU  - Abbes, Dhaker
+AU  - Francois, Bruno
+T2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+AB  - The benefits of small-scale renewable energy resources are restricted by a feed-in-tariff strategy that works with distribution grids only. Virtual Power Plant (VPP) aggregates diverse distributed energy resources on the demand side for efficient control, which can improve their revenue and encourage the growth of renewable energy. Based on the general Nash bargaining theory, this paper proposes a multi-VPP energy-sharing mechanism. This approach enables VPPs to increase their revenue by engaging in peer-to-peer energy transactions. First, a general Nash bargaining-based model is proposed for multi-VPPs energy sharing considering peer-to-peer energy transactions. The model is then decomposed into two subproblems: minimizing the total cost of the VPP energysharing alliance, and the cost allocation of peer-to-peer energy transactions. Considering the privacy protection of VPPs, the first subproblem is solved by a distributed algorithm based on the alternating direction multiplier method. In the second subproblem, due to the introduction of a bargaining factor that is positively related to each VPP's contribution to energy sharing alliance, the cost allocation better reflects their contribution. The numerical test demonstrates the proposed energy-sharing mechanism, with little computational complexity, delivers a cost distribution result that is comparable to the classical Shapley value while promoting the development of renewable energy resources.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijepes.2023.109218
+VL  - 152
+IS  - 
+SP  - 109218
+J2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - An inter-provincial cooperation model under Renewable Portfolio Standard policy
+AU  - Zeng, Lijun
+AU  - Du, Wenjing
+AU  - Zhang, Wencheng
+AU  - Zhao, Laijun
+AU  - Wang, Zhaohua
+T2  - ENERGY
+AB  - The Renewable Portfolio Standard (RPS) has been implemented by a number of the world's most economically developed nations, to address the great challenges faced regarding energy problems and climate change. However, the current non-cooperation model (NCM) of the RPS in China cannot effectively overcome the bottleneck of renewable energy development due to the disparity between renewable energy-rich regions and high energyconsuming regions. To resolve this dilemma, this study proposes an inter-provincial cooperation model (ICM) under the RPS in China. The ICM consists of two parts: (1) an optimization model to obtain the lowest RPS target realization cost and ensure efficiency, and (2) cost allocation models based on the Shapley value, core, and nucleolus methods, to ensure fairness in different situations. The cases of Beijing, Shandong, Shanxi, and Inner Mongolia show that the total cost of the four provincial regions covered by the ICM will be reduced by 57.07 x 108 CNY, or 8.25% compared with the NCM. Sensitivity analysis was conducted to test the impact of different parameter values on the ICM results. Based on these results, we propose policy recommendations to promote implementation of the ICM.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.energy.2023.126771
+VL  - 269
+IS  - 
+SP  - 126771
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Efficient effort equilibrium in cooperation with pairwise cost reduction
+AU  - Garcia-Martinez, Jose A.
+AU  - Mayor-Serra, Antonio J.
+AU  - Meca, Ana
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - There are multiple situations in which bilateral interaction between agents results in considerable cost reductions. The cost reduction that an agent obtains depends on the effort made by other agents. We model this situation as a bi-form game with two states. In the first stage, agents decide how much effort to exert. We model this first stage as a non-cooperative game, in which these effort s will reduce the cost of their partners in the second stage. This second stage is modeled as a cooperative game in which agents reduce each other's costs as a result of cooperation, so that the total reduction in the cost of each agent in a coalition is the sum of the reductions generated by the rest of the members of that coalition. The proposed cost allocation for the cooperative game in the second stage determines the payoff function of the non-cooperative game in the first stage. Based on this model, we explore the costs, benefits, and challenges associated with setting up a pairwise effort situation. We identify a family of cost allocations with weighted pairwise reductions which are always feasible in the cooperative game and contain the Shapley value. We also identify the cost allocation with weighted pairwise reductions that generate an efficient equilibrium effort level.& COPY; 2023 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ )
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.omega.2023.102920
+VL  - 121
+IS  - 
+SP  - 102920
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Balanced externalities and the proportional allocation of nonseparable contributions
+AU  - van den Brink, Rene
+AU  - Chun, Youngsub
+AU  - Funaki, Yukihiko
+AU  - Zou, Zhengxing
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - This paper provides axiomatic characterizations of the proportional allocation of nonseparable contribu-tions (PANSC) value for TU games, being the solution which allocates the total worth proportional to the separable contributions of the players. First, we show that the PANSC value is the only one satisfying efficiency and weak balanced externalities, the last axiom requiring that every player's payoff is the same fraction of the total externality inflicted on the other players with her presence. This is a weakening of balanced externalities studied in the context of queueing problems to characterize the Shapley value. Our second characterization is obtained by investigating the dual relation between the PANSC value and the proportional division value, showing that the PANSC value is the only one satisfying complement consis-tency and dual proportional standardness. In addition, we discuss the relation between the PANSC value and two methods widely used in cost allocation problems: the separable costs remaining benefits method and the alternative cost avoided method. (c) 2022 The Authors. Published by Elsevier B.V.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ejor.2022.10.017
+VL  - 307
+IS  - 2
+SP  - 975-983
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Benefit allocation for combined heat and power dispatch considering mutual trust
+AU  - Zhao, Leilei
+AU  - Xue, Yixun
+AU  - Sun, Hongbin
+AU  - Du, Yuan
+AU  - Chang, Xinyue
+AU  - Su, Jia
+AU  - Li, Zening
+T2  - APPLIED ENERGY
+AB  - Combined heat and power dispatch (CHPD) has attracted wide attention recently, which exploits the potential flexibility in the district heating system (DHS) and provides an economic-effective solution for better wind accommodation. However, DHS operators bear extra operation cost in CHPD, which is proved theoretically in this paper, so that they have insufficient incentive to coordinate with electrical power system. To cope with this issue, a cost allocation strategy based on the Aumann-Shapley value method is proposed, which can rationally allocate the benefit among multiple agents. And a new solution scheme with the Gauss-Legendre quadrature formula is developed to enhance computation efficiency. Also, considering the potential malicious behavior of dishonest agents in the process of allocation, the blockchain framework with Proof of Solution consensus mechanism is introduced to ensure mutual trust among multiple agents. Numerical simulations based on different cases demonstrate the effectiveness of the proposed method of benefit allocation among multiple agents. In addition, the validity of the proposed blockchain framework in preventing malicious behavior when CHPD is verified.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.apenergy.2023.121279
+VL  - 345
+IS  - 
+SP  - 121279
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal bidding strategy and profit allocation method for shared energy storage-assisted VPP in joint energy and regulation markets
+AU  - Zhang, Tianhan
+AU  - Qiu, Weiqiang
+AU  - Zhang, Zhi
+AU  - Lin, Zhenzhi
+AU  - Ding, Yi
+AU  - Wang, Yiting
+AU  - Wang, Lianfang
+AU  - Yang, Li
+T2  - APPLIED ENERGY
+AB  - Renewable energy sources (RES) generating units such as wind power and photovoltaic (PV) units can be aggregated with controllable loads as virtual power plants (VPPs) to jointly participate in energy and regulation markets for extra market revenue. However, the uncertainty of RES limits the market performance of the VPP, which can be solved by energy storage. Due to the flexibility of the energy storage sharing mode, a two-part price-based leasing mechanism of shared energy storage (SES) considering market prices and battery degrada-tion is proposed to provide the short-term use rights of energy storage for the VPP in a new pattern. Then, an SES-assisted real-time output cooperation scheme for the VPP in joint energy and regulation markets is designed to improve the VPP market performance and a joint optimal market bidding model of the VPP with the assistance of the SES is developed to maximize the expected daily profit. Moreover, a profit allocation approach for the SES-assisted VPP based on the improved Shapley value method and the minimizing deviation algorithm (ISV-MDA) is proposed to reflect the real contributions and balance the interests of its participants. Simulations based on data from PJM and NREL Dataset illustrate that RES can significantly improve their profits by participating in the VPP to jointly lease the use rights of SES and participate in joint energy and regulation markets through the coop-eration and bidding strategies. In addition, the proposed profit allocation method is more reasonable and more targeted for allocating the cooperation profit than the cooperative game-based methods.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.apenergy.2022.120158
+VL  - 329
+IS  - 
+SP  - 120158
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal coalition formation and maximum profit allocation for distributed energy resources in smart grids based on cooperative game theory
+AU  - Moafi, Milad
+AU  - Ardeshiri, Reza Rouhi
+AU  - Mudiyanselage, Manthila Wijesooriya
+AU  - Marzband, Mousa
+AU  - Abusorrah, Abdullah
+AU  - Rawa, Muhyaddin
+AU  - Guerrero, Josep M.
+T2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+AB  - Over the past decades, significant revolutions have occurred on electricity market to reduce the electricity cost and increase profits. In particular, the novel structures facilitate the electricity manufacturers to participate in the market and earn more profit by cooperate with other producers. This paper presents a three-level gameplay-based intelligent structure to evaluate individual and collaborative strategies of electricity manufacturers, considering network and physical constraints. At the Level I, the particle swarm optimization (PSO) algorithm is implemented to determine the optimum power of distributed energy resources (DERs) in the power grid, to maximize the profits. Further, the fuzzy logic algorithm is applied to model the intermittent nature of the renewable sources and implement load demand in the power grid. At the Level II, DERs are classified into two different fuzzy logic groups to secure the fairness between every participant. Finally, at the Level III, the DERs in each group are combined each other by cooperative game theory-based algorithms to increase the coalition profits. Thereafter, Shapley, Nucleolus, and merge/split methods are applied to allocate a fair profit allocation by coalition formation. Ultimately, the results verify the proposed model influence electric players to find effective collaborative strategies under different conditions and environments.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijepes.2022.108492
+VL  - 144
+IS  - 
+SP  - 108492
+J2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - A Bi-level programming for union battery swapping stations location-routing problem under joint distribution and cost allocation
+AU  - Zhang, Junxia
+AU  - Li, Xingmei
+AU  - Jia, Dongqing
+AU  - Zhou, Yuexin
+T2  - ENERGY
+AB  - In logistics field, considering high cost of self-built battery swapping stations and limited public battery swap-ping, some investors start to establish union battery swapping stations for logistics companies, which has received positive response. In this case, station location and logistics distribution routes are key decisions, which determine investors' and logistics companies' interests. But meanwhile, the mutual influence between location and routes brings difficulty to decision. However, there is no specific research on this issue. Therefore, based on Bi-level programming, this paper firstly proposes a location-routing decision scheme that considers the mutual influence, and genetic algorithm and linear technology are combined to solve it. Moreover, to ensure each lo-gistics company's interest, this paper proposes to introduce joint distribution among logistics companies and use Shapley value to allocate total cost. And by the comparison of three different scenarios, the study finds, Bi-level programming can solve location-routing problem, and make logistics companies spend less cost than self-built method. Further, when logistics group carry out joint distribution, the total distribution cost can fall by 4%, and correspondingly, allocation strategy can reduce each logistics company' cost. Meanwhile, the benefits of the investor of the union battery swapping station will also increase by 4%.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.energy.2023.127152
+VL  - 272
+IS  - 
+SP  - 127152
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost allocation evaluation of a multi-plant flexible heat exchanger network design based on fuzzy game
+AU  - Tian, Yitong
+AU  - Li, Shaojun
+T2  - COMPUTERS & CHEMICAL ENGINEERING
+AB  - A multi-plant heat exchanger network (HEN) can recover waste heat across plant boundaries and reduce utility consumption in industrial parks. Conventional multi-plant heat integration using nominal conditions cannot handle uncertainties from the environment or plant operations that affect stream properties; therefore, a flexible HEN design is more practical. This study is focused on the evaluation of an already designed flexible HEN with a fixed network structure and the provided heat exchanger areas to maintain operability under disturbances. Although the capital cost is determined, utility consumption is uncertain to meet possible target temperatures. Consequently, the total annual cost (TAC) varies and forms a distribution that can give plant operators more information about possible costs as well as extreme parameter values. To provide the TAC distribution, a mathematical model is established to calculate utility costs after inputting different stream parameters into the designed HEN configuration. In addition, an interval Shapley value from the fuzzy game, which considers the contribution of each plant when the decision environment is uncertain, is used to generate a cost allocation interval. For example, the potential costs paid for Plant 1 and Plant 2 in Case study 1 ranged from $18,195.95 to $25,897.80 and $14,778.05 to $19,921.20, respectively. These results demonstrate that the proposed approach can be used to evaluate a provided flexible HEN design before construction.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.compchemeng.2023.108262
+VL  - 175
+IS  - 
+SP  - 108262
+J2  - COMPUTERS & CHEMICAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Closed-loop supply chain coalitional cooperation and coordination under differentiated carbon tax regulation
+AU  - Yu, Zhongwei
+AU  - Lin, Yang
+AU  - Wang, Yingming
+AU  - Goh, Mark
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This paper presents a systematic two-stage analysis to improve a three-echelon closed-loop supply chain coop-eration and coordination under differentiated carbon tax regulation, which enriches non-cooperative and cooperative game theory applications in remanufacturing circular economies. Firstly, we utilize non-cooperative games to explore the optimal operations of new and remanufactured products across five coalitional models. Then, we adopt cooperative games to achieve profit coordination. Specifically, Shapley values are employed for allocating a grand coalition profit in a centralized setting. In order to alleviate carbon taxpayers' fairness con-cerns, we proposed a novel revised Shapley value algorithm incorporating differentiated carbon tax costs to improve their utility. The results show that regulators can reduce emissions by adjusting carbon tax rates on different products more effectively. The optimal environmental and economic performance can also be achieved by forming a grand coalition. Shapley value algorithms achieve the supply chain system Pareto improvement. Moreover, carbon taxpayers' (i.e., manufacturer and remanufacturer) utilities in our revised Shapley are improved by 20.15% and 77.71%, respectively, compared with the classical Shapley value under certain con-ditions. These results benefit regulators' carbon tax policy formulation and industrial managers' remanufacturing practices.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.jclepro.2023.136239
+VL  - 392
+IS  - 
+SP  - 136239
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - The Shapley value based on hesitant fuzzy linguistic comprehensive entropy and its application in noncooperative-cooperative biform game
+AU  - Yang, Jie
+AU  - Cai, Zhikun
+AU  - Fu, Qingxia
+AU  - Xu, Zeshui
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Profit allocation is a decision-making process, and noncooperative-cooperative biform game can effectively depict the real competitive-cooperative relationship. This paper aims to construct an effective Shapley function of biform game in hesitant fuzzy linguistic environment, which can reasonably analyze the formation and the distribution of profits by taking into account the individual hesitation and information fuzziness. Firstly, we propose a new construction method of an entropy for hesitant fuzzy linguistic term sets (HFLTSs). This entropy measure can describe the linguistic information from the aspects of fuzziness and hesitation, which improves the flaws of the existing entropy for HFLTSs. After that, a function for calculating confidence level is defined based on comprehensive entropy. Then in order to study the profit allocation in a competitive-cooperative environ-ment, we define hesitant fuzzy linguistic biform game and its characteristic function, and the effectiveness of the proposed Shapley value function according to an axiomatic system is proved. Finally, the feasibility of this approach is indicated by an example of profit allocation of cooperation in watershed management considering information asymmetry.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.eswa.2023.120516
+VL  - 230
+IS  - 
+SP  - 120516
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+

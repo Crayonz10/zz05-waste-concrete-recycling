@@ -1,0 +1,444 @@
+TY  - JOUR
+TI  - AN ALGORITHM FOR SHARING COSTS OF OPERATING A COMPUTER NETWORK
+AU  - LIGHTFOOT, JM
+AU  - SPINETTO, RD
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - The managers of computer networks are frequently faced with an important administrative problem-how to share the common cost of operating the network among its users. The traditional methods to solve this problem are examined and shown to be inadequate for the task. The Shapley value and three derived simplifications are introduced as a new technique for this purpose. The approach is explained and then demonstrated on data collected from an actual computer network. The solution provided by the method is discussed and appraised.
+DA  - 1993
+PY  - 1993
+DO  - https://doi.org/10.1016/0305-0483(93)90027-I
+VL  - 21
+IS  - 5
+SP  - 585-592
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Mechanisms for allocation of environmental control cost: Empirical tests of acceptability and stability
+AU  - Dinar, A
+AU  - Howitt, RE
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - This paper evaluates schemes for allocation of joint environmental control cost among polluters using, as an example, the drainage pollution problem of the San Joaquin Valley of California. The analysis is conducted by comparing cost allocation schemes' performance in a regional context. Different schemes (proportional allocation, Nash-Harsanyi, allocation according to marginal cost, Shapley, the nucleolus and the Separable Cost Remaining Benefit principle) are used to allocate regional joint environmental control costs under two extreme states of nature scenarios, resulting in different pollution flows. The results provide clear empirical evidence that regional arrangements may vary with state of nature. Another important result is that the different allocation schemes have different outcomes in terms of their acceptability to the players, and in terms of their derived stability, as measured by the Shapley-Shubik Power Index, and by the Propensity to Disrupt. Therefore, implementation of environmental policy should also be examined based on its long-term sustainability, and taking into consideration only the cost recovery aspect. (C) 1997 Academic Press Limited.
+DA  - 1997
+PY  - 1997
+DO  - https://doi.org/10.1006/jema.1995.0088
+VL  - 49
+IS  - 2
+SP  - 183-203
+J2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Multi-agent approach to the planning of power transmission expansion
+AU  - Yen, J
+AU  - Yan, YH
+AU  - Contreras, J
+AU  - Ma, PC
+AU  - Wu, FF
+T2  - DECISION SUPPORT SYSTEMS
+AB  - Deregulation and restructuring have become unavoidable trends to the power industry recently in order to increase its efficiency, to reduce operation costs, or to provide customers better services. The once centralized system planning and management must be remodeled to reflect the changes in the market environment. We have proposed and developed a multi-agent-based system to assist players, such as owners of power generation stations, owners of transmission lines, and groups of consumers, in the same market to select partners to form coalitions. The system provides users with a cooperation plan and its associated cost allocation plan for the users to support their decision-making process. Bilateral Shapley Value (BSV) was selected as the theoretical foundation to develop the system. The multi-agent system was developed by the combination of IDEAS [M. Klusch, Utilitarian coalition formation between autonomous agents for cooperative information gathering, in: S. Krin, G. O'hare (Eds.), Cooperative Knowledge Processing. Springer, London, 1996] and Tcl/Tk. (C) 2000 Elsevier Science B.V. All rights reserved.
+DA  - 2000
+PY  - 2000
+DO  - https://doi.org/10.1016/S0167-9236(99)00092-5
+VL  - 28
+IS  - 3
+SP  - 279-290
+J2  - DECISION SUPPORT SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Reactive power planning incorporating voltage stability
+AU  - Chattopadhyay, D
+AU  - Chakrabarti, BB
+T2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+AB  - This paper addresses some of the modeling and economic issues pertaining to reactive power planning. We present a new VAR planning model, propose an efficient solution algorithm, and discuss the economic issues. A contingency constrained OPF-based model incorporating (static) voltage stability constraints is developed to analyze VAR support decisions. DICOPT++, a state-of-the-art non-linear mixed integer programming (MINLP) algorithm, is proposed to solve the model efficiently. The sensitivity information elicited from the optimization model may also provide useful aid to network planning that are discussed. The VAR support cost allocation issue is addressed next. The Shapley value criterion of cooperative gaming is proposed to allocate VAR support costs among the loads contributing to voltage instability. The VAR planning model is implemented for the AEP 14-bus test system. The implications of the sensitivity information are discussed using the test system results. The result of the optimization approach is compared with two existing methods viz., Eigen Value (Modal) and Singular Value Decomposition (SVD) methods. Further, we discuss how the outcome of the Modal analysis could be integrated in the optimization model to form a hybrid approach. A numerical example of calculation of Shapley value is provided and, we also compare it with the conventional method of proportional allocation to gain better insight about this criterion. (C) 2002 Elsevier Science Ltd. All rights reserved.
+DA  - 2002
+PY  - 2002
+DO  - https://doi.org/10.1016/S0142-0615(01)00025-4
+VL  - 24
+IS  - 3
+SP  - 185-200
+J2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost assignment model for electrical transmission system expansion: An approach through the Kernel theory
+AU  - Evans, F
+AU  - Zolezzi, JM
+AU  - Rudnick, H
+T2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+AB  - A cost assignment model is proposed for the expansion of electrical transmission systems, based on the cooperation and interaction principles that are the foundation of the cooperative game theory. A solution algorithm is proposed that considers the development of independent cooperative games for each expansion\ segment and whose final assignment can be obtained by any game theory solution method (Kernel, Nucleolus, Shapley Value, etc.). The Kernel method was chosen because it has both equilibrium and transparency characteristics in the computation of final assignments. The model accepts both the technical (load nature, generation levels, etc.) and economic (power station marginal. costs, etc.) vari ables that characterize the network. to be analyzed. Cost assignment will depend both on the capacity economic use and the non-coincident maximum use of the expansion lines, made by individual and group agents.
+DA  - 2003
+PY  - 2003
+DO  - https://doi.org/10.1109/TPWRS.2003.810903
+VL  - 18
+IS  - 2
+SP  - 625-632
+J2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Impact of demand correlation on the value of and incentives for information sharing in a supply chain
+AU  - Raghunathan, S
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Research on information sharing partnerships between manufacturers and retailers in a supply chain is relatively recent. The research has generally focused on models involving a single retailer or multiple retailers with independent demands. We analyze the value of demand information sharing in a one manufacturer-N retailer model in which demands at the retailers during a time period may be correlated. We use the well known Shapley value concept from game theory to analyze the expected manufacturer and retailer shares of the surplus generated from information sharing. We find that demand correlation affects the magnitude and shape of the surplus function, which, in turn, impacts the relative incentives of the manufacturer and retailers to form such partnerships. Higher correlation increases (reduces) the manufacturer (retailer) surplus. However, the declining marginal manufacturer surplus under high correlation condition may induce the manufacturer to limit the number of retailer partners. The impact of correlation among retailer demands on the value of and incentives for information sharing can be explained using the substitutable and complementary nature of demand information when they are highly and weakly correlated respectively. (C) 2003 Elsevier Science B.V. All rights reserved.
+DA  - 2003
+PY  - 2003
+DO  - https://doi.org/10.1016/S0377-2217(02)00365-X
+VL  - 146
+IS  - 3
+SP  - 634-649
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - On the discrete version of the Aumann-Shapley cost-sharing method
+AU  - Sprumont, Y
+T2  - ECONOMETRICA
+AB  - Each agent in a finite set requests an integer quantity of an idiosyncratic good; the resulting total cost must be shared among the participating agents. The Aumann-Shapley prices are given by the Shapley value of the game where each unit of each good is regarded as a distinct player. The Aumann-Shapley cost-sharing method charges to an agent the sum of the prices attached to the units she consumes. We show that this method is characterized by the two standard axioms of Additivity and Dummy, and the property of No Merging or Splitting: agents never find it profitable to split or to merge their consumptions. We offer a variant of this result using the No Reshuffling condition: the total cost share paid by a group of agents who consume perfectly substitutable goods depends only on their aggregate consumption. We extend this characterization to the case where agents are allowed to consume bundles of goods.
+DA  - 2005
+PY  - 2005
+DO  - https://doi.org/10.1111/j.1468-0262.2005.00633.x
+VL  - 73
+IS  - 5
+SP  - 1693-1712
+J2  - ECONOMETRICA
+ER  - 
+
+
+TY  - JOUR
+TI  - Logistics networks: A game theory application for solving the transshipment problem
+AU  - Reyes, PM
+T2  - APPLIED MATHEMATICS AND COMPUTATION
+AB  - As competition from emerging economies such as China and India puts pressure on global supply chains and as new constraints emerge, it presents opportunities for approaches such as game theory for solving the transshipment problem. In this paper we use the well-known Shapley value concept from cooperative game theory as an approach to solve the transshipment problem for maintaining stable conditions in the logistics network. A numerical example is presented to show the usefulness of this approach. (c) 2004 Elsevier Inc. All rights reserved.
+DA  - 2005
+PY  - 2005
+DO  - https://doi.org/10.1016/j.amc.2004.10.030
+VL  - 168
+IS  - 2
+SP  - 1419-1431
+J2  - APPLIED MATHEMATICS AND COMPUTATION
+ER  - 
+
+
+TY  - JOUR
+TI  - Coastal watershed management across an international border in the Tijuana River watershed - art. no. W05003
+AU  - Fernandez, L
+T2  - WATER RESOURCES RESEARCH
+AB  - [1] The paper develops and applies a game theoretic model of upstream and downstream countries to examine cooperative and noncooperative strategies of a common watershed. The application to the Tijuana River watershed shared by the United States and Mexico provides quantification of the strategies for internalizing water quality externalities to upstream and downstream originating from sedimentation. Results show that different transfer payments, such as the Chander/Tulkens cost sharing rule and the Shapley value, imply the size of the existing transfer from downstream to upstream could increase the amount currently allocated.
+DA  - 2005
+PY  - 2005
+DO  - https://doi.org/10.1029/2004WR003209
+VL  - 41
+IS  - 5
+SP  - W05003
+J2  - WATER RESOURCES RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Allocation of unit start-up costs using cooperative game theory
+AU  - Hu, ZY
+AU  - Chen, L
+AU  - Gan, DQ
+AU  - Chattopadhyay, D
+T2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+AB  - This paper discusses a three-part generation offer strategy that enables generators to put in unbundled variable operating costs and fixed start-up/no-load costs. We then propose methods based on cost sharing axioms to allocate fixed start-up/no-load costs among electricity consumers/load/retailers that take into account equity and rationality considerations. We focus on the single period cost allocation first. We apply three well-known game theoretic axioms: the core, the nucleolus, and the Shapley value. We discuss the relative merits and demerits of each criterion and also explore certain theoretical conditions for the existence of the core and the Shapley value lying inside the core. Finally, the multiperiod start-up cost allocation problem is studied. Allocations based on individual periods vis-a-vis composite allocation for all periods are compared and contrasted. Numerical examples are used to illustrate all theoretical concepts.
+DA  - 2006
+PY  - 2006
+DO  - https://doi.org/10.1109/TPWRS.2006.873046
+VL  - 21
+IS  - 2
+SP  - 653-662
+J2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - A game theory approach for solving the transshipment problem: a supply chain management strategy teaching tool
+AU  - Reyes, Pedro M.
+T2  - SUPPLY CHAIN MANAGEMENT-AN INTERNATIONAL JOURNAL
+AB  - Purpose - To describe how the well-known Shapley Value concept from cooperative game theory can be used as an approach to solve the transshipment problem. Design/methodology/approach - This paper provides a numerical example for a three-person game in a non-cooperative environment, a selected cooperative environment, and a fully cooperative environment. The well-known Shapely Value concept from cooperative game theory is used as an approach to solve the transshipment problem and show how the pooling coalitions should be formed. The appurtenance of the Shapley Value is verified to ensure that a stable solution exists. Findings - The primary focus of this paper is to describe how the well-known Shapley Value concept from cooperative game theory can be used as an approach to solve the transshipment problem and show how the pooling coalitions should be formed. Research limitations/implications - While pooling coalitions are presented, this paper does not discuss revenue sharing. Practical implications - This paper helps students understand how to make the right decisions about where they want to position themselves with respect to supply chain strategies. Originality/value - The principal contribution of this approach is for establishing a pooling coalition in order to provide a more stable and cooperative solution. This paper also presents application to recent supply chain management business scenarios found in industry.
+DA  - 2006
+PY  - 2006
+DO  - https://doi.org/10.1108/13598540610671734
+VL  - 11
+IS  - 4
+SP  - 288-293
+J2  - SUPPLY CHAIN MANAGEMENT-AN INTERNATIONAL JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Definition of an efficient transmission system using cooperative games theory
+AU  - Sore, Franko
+AU  - Rudnick, Hugh
+AU  - Zolezzi, Juan
+T2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+AB  - Under a context of transmission open access, a methodology to define a common transmission trunk system using economic and technical criteria is proposed. A transmission trunk system is defined as a unique and common system constituted by electrical lines and substations that are economically efficient and necessary to allow the development of an electrical market and the supply of demand in the respective electrical system at a minimum cost and in an efficient manner. The principles of cooperation and interaction between agents that are the base for the cooperative games theory are used. Simple games and the Shapley value approach are used. The proposal responds to the need to identify a common main system, common to supply and demand agents, needed in system open access schemes in electricity markets.
+DA  - 2006
+PY  - 2006
+DO  - https://doi.org/10.1109/TPWRS.2006.884124
+VL  - 21
+IS  - 4
+SP  - 1484-1492
+J2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Dynamically stable corporate joint ventures
+AU  - Yeung, DWK
+AU  - Petrosyan, L
+T2  - AUTOMATICA
+AB  - As markets continue to become global and firms become more international, corporate joint ventures provide firms with opportunities to rapidly create economies of scale and learn new skills and technologies that would be very difficult for them to obtain on their own. However, it is often observed that after a certain time of cooperation, some firms may gain sufficient skills and technology that they would do better by breaking up from the joint venture. This is the well-known problem of time inconsistency. In this paper, we consider a dynamic joint venture which adopts the shapley value as its profit allocation scheme. A compensation mechanism distributing payments to participating firms at each instant of time is devised to ensure the realization of the shapley value imputation throughout the venture duration. Hence time-consistency is attained, and a dynamically stable joint venture results. Extension of the analysis to a stochastic environment is also made. It is the first time that stable joint venture is analyzed both deterministically and stochastically in a dynamic environment. (C) 2005 Elsevier Ltd. All rights reserved.
+DA  - 2006
+PY  - 2006
+DO  - https://doi.org/10.1016/j.automatica.2005.10.010
+VL  - 42
+IS  - 3
+SP  - 365-370
+J2  - AUTOMATICA
+ER  - 
+
+
+TY  - JOUR
+TI  - An aumann-shapley approach to allocate transmission service cost among network users in electricity markets
+AU  - Junqueira, Max
+AU  - da Costa, Luiz Carlos, Jr.
+AU  - Barroso, Lulz Augusto
+AU  - Oliveira, Gerson C.
+AU  - Thome, Luiz Mauricio
+AU  - Pereira, Mario Veiga
+T2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+AB  - This work presents a new methodology for the allocation of transmission service cost among network users in energy markets. The proposed method is based on an optimization/game -theoretic framework (Aumann-Shapley) that retains the desirable properties of other existing methodologies such as the Average Participations Factors (APF) and Long Run Marginal Costs (LRMC). The approach is shown to be computationally feasible and presents desirable characteristics in terms of economic coherence and isonomy. Computational results are presented for the Brazilian power system and compared with those obtained by three other methodologies: LRMC, APF, and the current method adopted in Brazil.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1109/TPWRS.2007.907133
+VL  - 22
+IS  - 4
+SP  - 1532-1546
+J2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Allocating the CO2 emissions of an oil refinery with Aumann-Shapley prices
+AU  - Pierru, Axel
+T2  - ENERGY ECONOMICS
+AB  - Linear programming is widely used by multiproduct oil-refining firms, which minimize a refinery's variable cost under a set of constraints. In addition to operating costs, this variable cost can include the cost associated with the refinery's CO2 emissions. We suggest a quite general approach combining use of Aumann-Shapley cost-sharing method and breakdown of the objective function of the linear program. This approach determines an appropriate rule for the allocation of the refinery's CO2 emissions (or, in general, variable costs) among the various finished products, which can be used for purposes of Life Cycle Assessment. A numerical application to a simplified refining model is presented. (C) 2006 Elsevier B.V. All rights reserved.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1016/j.eneco.2006.02.002
+VL  - 29
+IS  - 3
+SP  - 563-577
+J2  - ENERGY ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Trading reliability targets within a supply chain using Shapley's value
+AU  - Quigley, John
+AU  - Walls, Lesley
+T2  - RELIABILITY ENGINEERING & SYSTEM SAFETY
+AB  - The development of complex systems involves a multi-tier supply chain, with each organisation allocated a reliability target for their sub-system or component part apportioned from system requirements. Agreements about targets are made early in the system lifecycle when considerable uncertainty exists about the design detail and potential failure modes. Hence resources required to achieve reliability are unpredictable. Some types of contracts provide incentives for organisations to negotiate targets so that system reliability requirements are met, but at minimum cost to the supply chain. This paper proposes a mechanism for deriving a fair price for trading reliability targets between suppliers using information gained about potential failure modes through development and the costs of activities required to generate such information. The approach is based upon Shapley's value and is illustrated through examples for a particular reliability growth model, and associated empirical cost model, developed for problems motivated by the aerospace industry. The paper aims to demonstrate the feasibility of the method and discuss how it could be extended to other reliability allocation models. (C) 2006 Elsevier Ltd. All rights reserved.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1016/j.ress.2006.09.019
+VL  - 92
+IS  - 10
+SP  - 1448-1457
+J2  - RELIABILITY ENGINEERING & SYSTEM SAFETY
+ER  - 
+
+
+TY  - JOUR
+TI  - A polynomial rule for the problem of sharing delay costs in PERT networks
+AU  - Castro, Javier
+AU  - Gomez, Daniel
+AU  - Tejada, Juan
+T2  - COMPUTERS & OPERATIONS RESEARCH
+AB  - In this paper we define the weighted serial cost sharing rule for the cost allocation problem. We apply this new rule to the problem of sharing delay costs in a PERT network. This rule belongs to the Core and is the Weighted Shapley Value for a particular game. Furthermore, we present a characterization of this rule and a polynomial algorithm for its calculation. (C) 2006 Elsevier Ltd. All rights reserved.
+DA  - 2008
+PY  - 2008
+DO  - https://doi.org/10.1016/j.cor.2006.11.003
+VL  - 35
+IS  - 7
+SP  - 2376-2387
+J2  - COMPUTERS & OPERATIONS RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - A game-theoretic approach to transfer pricing in a vertically integrated supply chain
+AU  - Rosenthal, Edward C.
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - We study the problem of setting transfer prices in a vertically integrated supply chain, in which the divisions share technology and transactions costs. We develop a cooperative game that provides transfer prices for the intermediate products in the supply chain. This model is applied both when the market prices for these products are known and also when their valuations differ. We provide a solution that is fair and acceptable to all divisions. In the perfect information case, the Shapley value generates the transfer prices, while in the asymmetric case we obtain transfer prices from the solution to a linear program. (C) 2008 Elsevier B.V. All rights reserved.
+DA  - 2008
+PY  - 2008
+DO  - https://doi.org/10.1016/j.ijpe.2008.05.018
+VL  - 115
+IS  - 2
+SP  - 542-552
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A Faithful Distributed Mechanism for Sharing the Cost of Multicast Transmissions
+AU  - Garg, Nandan
+AU  - Grosu, Daniel
+T2  - IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS
+AB  - The problem of sharing the cost of multicast transmissions was studied in the past, and two mechanisms, Marginal Cost (MC) and Shapley Value (SH), were proposed to solve it. Although both of them are strategyproof mechanisms, the distributed protocols implementing them are susceptible to manipulation by autonomous nodes. We propose a distributed Shapley Value mechanism in which the participating nodes do not have incentives to deviate from the mechanism specifications. We show that the proposed mechanism is a faithful implementation of the Shapley Value mechanism. We experimentally investigate the performance of the existing and the proposed cost-sharing mechanisms by implementing and deploying them on PlanetLab. We compare the execution time of MC and SH mechanisms for the Tamper-Proof and Autonomous Node models. We also study the convergence and scalability of the mechanisms by varying the number of nodes and the number of users per node. We show that the MC mechanisms generate a smaller revenue compared to the SH mechanisms, and thus, they are not attractive to the content provider. We also show that increasing the number of users per node is beneficial for the systems implementing the SH mechanisms from both computational and economic perspectives.
+DA  - 2009
+PY  - 2009
+DO  - https://doi.org/10.1109/TPDS.2008.221
+VL  - 20
+IS  - 8
+SP  - 1089-1101
+J2  - IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Side-payment contracts in two-person nonzero-sum supply chain games: Review, discussion and applications
+AU  - Leng, Mingming
+AU  - Zhu, An
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - This paper investigates supply chain coordination with side-payment contracts. We first summarize specific side-payment contracts and present our review on the literature that developed general side-payment schemes to coordinate supply chains. Following our review, we discuss two criteria that a proper side-payment contract must satisfy, and accordingly introduce a decision-dependent transfer payment function and a constant transfer term. We present the condition that the transfer function must satisfy, and use Nash arbitration scheme and Shapley value to compute the constant transfer term and derive its closed-form solution. Next, we provide a five-step procedure for the development of side-payment contract, and apply it to four supply chain games: Cournot and Bertrand games, a two-retailer supply chain game with substitutable products and a one-supplier, one-retailer supply chain. More specifically, for the Cournot game, we construct a linear transfer function and a constant side-payment to coordinate two producers. For the Bertrand game, we build a nonlinear transfer function which is equivalent to a revenue-sharing contract, and show that the constant term is zero and two firms in the game equally share the system-wide profit. For a supply chain with substitutable products, we present a side-payment contract to coordinate two retailers. For a two-echelon supply chain, we develop a proper side-payment scheme that can coordinate the supply chain and also help reduce the impact of forward buying on supply chain performance. (C) 2008 Elsevier B.V. All rights reserved.
+DA  - 2009
+PY  - 2009
+DO  - https://doi.org/10.1016/j.ejor.2008.03.029
+VL  - 196
+IS  - 2
+SP  - 600-618
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Allocation of Firm-Energy Rights Among Hydro Plants: An Aumann-Shapley Approach
+AU  - Faria, Eduardo
+AU  - Barroso, Luiz Augusto
+AU  - Kelman, Rafael
+AU  - Granville, Sergio
+AU  - Pereira, Mario Veiga
+T2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+AB  - The firm energy of generation plants is a critical component in some electricity markets. It is usually calculated by the regulator and sets a cap to the amount a plant can trade in capacity markets (or auctions), in order to avoid free-riding behaviors. Firm energy is a systemic property and, in case of hydro plants, a synergy is observed whenever a cooperative operation occurs, i.e., the firm energy of a system is greater than the sum of the individual plants. This immediately raises the question of how to divide the system's firm energy among the individual hydro plants. The objective of this work is to investigate the application of different allocation methods of firm energy rights among hydro plants using a game-theoretic framework. It is shown that there is not an optimal and unique approach to make this allocation. The paper investigates the advantages and disadvantages of different methods, such as marginal allocation, average production during the critical period, incremental allocation, finally recommending the Aumann-Shapley as the allocation method. This method is tested for the Brazilian power system, which has around 100 hydro plants. The results obtained are compared with the current allocation adopted by the electricity regulatory agency of Brazil.
+DA  - 2009
+PY  - 2009
+DO  - https://doi.org/10.1109/TPWRS.2009.2016376
+VL  - 24
+IS  - 2
+SP  - 541-551
+J2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost allocation in collaborative forest transportation
+AU  - Frisk, M.
+AU  - Gothe-Lundgren, M.
+AU  - Jornsten, K.
+AU  - Ronnqvist, M.
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Transportation planning is an important part of the supply chain or wood flow chain in forestry. There are often several forest companies operating in the same region and collaboration between two or more companies is rare. However, there is an increasing interest in collaborative planning as the potential savings are large, often in the range 5-15%. There are several issues to agree on before such collaborative planning can be used in practice. A key question is how the total cost or savings should be distributed among the participants. In this paper, we study a large application in southern Sweden with eight forest companies involved in a collaboration. We investigate a number of sharing mechanisms based on economic models including Shapley value, the nucleolus, separable and non-separable costs, shadow prices and volume weights. We also propose a new allocation method, with the aim that the participants relative profits are as equal as possible. We use two planning models, the first is based on direct flows between supply and demand points and the second includes backhauling. We also study how several time periods and geographical distribution of the supply and demand nodes affect the solutions. Better planning within each company can save about 5% and collaboration can increase this about another 9% to a total of 14%. The proposed allocation method is shown to be a practical approach to share the overall cost/savings. (C) 2010 Elsevier B.V. All rights reserved.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1016/j.ejor.2010.01.015
+VL  - 205
+IS  - 2
+SP  - 448-458
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Supplier-initiated outsourcing: A methodology to exploit synergy in transportation
+AU  - Cruijssen, Frans
+AU  - Borm, Peter
+AU  - Fleuren, Hein
+AU  - Hamers, Herbert
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Over the last decades, transportation has been evolving from a necessary, though low priority function to an important part of business that can enable companies to attain a competitive edge over their competitors. To cut down transportation costs, shippers often outsource their transportation activities to a logistics service provider of their choice. This paper proposes a new procedure that puts the initiative with the service provider instead: supplier-initiated outsourcing. This procedure is based on both operations research and game theoretical insights. To stress the contrast between the traditional push approach of outsourcing, and the here proposed pull approach where the service provider is the initiator of the shift of logistics activities from the shipper to the logistics service provider, we will refer to this phenomenon as insinking. Insinking has the advantage that the logistics service provider can proactively select a group of shippers with a strong synergy potential. Moreover, these synergies can be allocated to the participating shippers in a fair and sustainable way by means of a so-called Shapley Monotonic Path of customized tariffs. Insinking is illustrated by means of a practical example based on data from the Dutch grocery transportation sector. (C) 2010 Elsevier B.V. All rights reserved.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1016/j.ejor.2010.06.009
+VL  - 207
+IS  - 2
+SP  - 763-774
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Allocating the CO2 emissions of an oil refinery with Aumann-Shapley prices: Comment
+AU  - Moghaddam, Alireza Tehrani Nejad
+T2  - ENERGY ECONOMICS
+AB  - The allocation of CO2 emissions of petroleum refineries to their oil products is a necessary step in the retrospective Well-to-Tank (WTT) analysis. These allocated emissions are used to evaluate the environmental impacts Of automotive fuels' production within the refinery. Oil refining is a complex joint production system and there exists no simple and unique answer to this allocation question. Recently, Pierru proposed adapting the Aumann-Shapley cost sharing method to deal with this issue. Our paper aims at describing the conceptual and technical difficulties of this adaptation to the WIT context. Moreover, we show that this approach, as proposed by Pierru, is not applicable to any real-type refinery model. Different suggestions are provided to improve its applicability (when it is possible) in real situations. A simple numerical example as well as a real-type refinery case study is provided for illustrations. Finally, we discuss an alternative allocation approach which we believe more adapted to the WTT context. (C) 2009 Elsevier B.V. All rights reserved.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1016/j.eneco.2009.09.010
+VL  - 32
+IS  - 1
+SP  - 243-255
+J2  - ENERGY ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Probabilistic Game Approaches for Network Cost Allocation
+AU  - Bhakar, Rohit
+AU  - Sriram, V. S.
+AU  - Padhy, Narayana Prasad
+AU  - Gupta, Hari Om
+T2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+AB  - In a restructured power market, the network cost is to be allocated between multiple players utilizing the system in varying capacities. Cooperative game approaches based on Shapley value and Nucleolus provide stable models for embedded cost allocation of power networks. Varying network usage necessitates the introduction of probabilistic approaches to cooperative games. This paper proposes a variety of probabilistic cooperative game approaches. These have variably been modeled based upon the probability of existence of players, the probability of existence of coalitions, and the probability of players joining a particular coalition along with their joining in a particular sequence. Application of these approaches to power networks reflects the system usage in a more justified way. Consistent and stable results qualify the application of probabilistic cooperative game approaches for cost allocation of power networks.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1109/TPWRS.2009.2032189
+VL  - 25
+IS  - 1
+SP  - 51-58
+J2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation among liquefied natural gas suppliers: Is rationalization the sole objective?
+AU  - Massol, Olivier
+AU  - Tchung-Ming, Stephane
+T2  - ENERGY ECONOMICS
+AB  - This paper examines the development of cooperative strategies between countries exporting Liquefied Natural Gas (LNG) and members of the Gas Exporting Countries Forum (GECF). This economic study focuses specifically on an often-raised scenario: the emergence of a cooperative approach designed with the sole aim of logistic rationalization, and which would not have any effect on LNG prices. We first assess the annual gains that may result from this market-power-free cooperative approach using a simple static transportation model. The numerical results obtained suggest that, in the absence of a gain redistribution policy, this cooperative strategy will probably not be adopted because cooperation would not be a rational move for some exporters. The problem of gain sharing is then formulated using cooperative game theory concepts. Several gain-sharing methods have been studied, including the Shapley value and various nucleolus-inspired concepts. Our results suggest that the choice of a redistribution policy appears relatively restricted. Out of the methods studied, only one - per capita nucleolus - satisfies two key requirements: core belonging and monotonicity (in the aggregate). Lastly, we look at how cooperation may give rise to a coordination cost and try to determine the maximum amount of this cost. In view of the low level of this amount and the relative complexity of the sharing method implemented, we consider that the credibility of a logistic cooperation scenario exempt from market power should be reappraised. (C) 2010 Elsevier B.V. All rights reserved.
+DA  - 2010
+PY  - 2010
+DO  - https://doi.org/10.1016/j.eneco.2010.02.008
+VL  - 32
+IS  - 4
+SP  - 933-947
+J2  - ENERGY ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Water Resources Allocation Using Solution Concepts of Fuzzy Cooperative Games: Fuzzy Least Core and Fuzzy Weak Least Core
+AU  - Sadegh, Mojtaba
+AU  - Kerachian, Reza
+T2  - WATER RESOURCES MANAGEMENT
+AB  - In this paper, two new solution concepts for fuzzy cooperative games, namely Fuzzy Least Core and Fuzzy Weak Least Core are developed. They aim for optimal allocation of available water resources and associated benefits to water users in a river basin. The results of these solution concepts are compared with the results of some traditional fuzzy and crisp games, namely Fuzzy Shapley Value, Crisp Shapley Value, Least Core, Weak Least Core and Normalized Nucleolus. It is shown that the proposed solution concepts are more efficient than the crisp games. Moreover, they do not have the limitation of Fuzzy Shapley Value in satisfying the group rationality criterion. This paper consists of two steps. In the first step, an optimization model is used for initial water allocation to stakeholders. In the second step, fuzzy coalitions are defined and participation rates of water users (players) in the fuzzy coalitions are optimized in order to reach a maximum net benefit. Then, the total net benefit is allocated to the players in a rational and equitable way using Fuzzy Least Core, Fuzzy Weak Least Core and some traditional fuzzy and crisp games. The effectiveness and applicability of the proposed methodology is examined using a numerical example and also applying it to the Karoon river basin in southern Iran.
+DA  - 2011
+PY  - 2011
+DO  - https://doi.org/10.1007/s11269-011-9826-x
+VL  - 25
+IS  - 10
+SP  - 2543-2573
+J2  - WATER RESOURCES MANAGEMENT
+ER  - 
+

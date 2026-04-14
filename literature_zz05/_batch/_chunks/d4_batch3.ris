@@ -1,0 +1,483 @@
+TY  - JOUR
+TI  - A cooperative game approach to cost allocation in a rapid-transit network
+AU  - Rosenthal, Edward C.
+T2  - TRANSPORTATION RESEARCH PART B-METHODOLOGICAL
+AB  - We consider the problem of allocating costs of a regional transit system to its users, who employ shortest path routes between all pairs of nodes in the system network. We provide an axiomatic set of conditions that a solution should satisfy and use cooperative game theory to model the cost allocation problem. We provide an allocation, called the equal cost share solution, which is efficient to compute and is the unique solution that satisfies the conditions. In addition, we show not only that the cost allocation game has a nonempty core, but further, that the game is concave, meaning that the Shapley value allocation, which coincides with the equal cost share solution, always lies in the core of the game. We provide an application of the equal cost share solution to the Washington, D.C. Metro transit network and compare it to the existing fare pricing structure. As compared to equal cost share pricing, the Metro overcharges for short downtown trips and undercharges for very long commutes. The equal cost share solution is easy to update in real time as the cost data and user distribution change, or when the transit network expands. (C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.trb.2016.11.014
+VL  - 97
+IS  - 
+SP  - 64-77
+J2  - TRANSPORTATION RESEARCH PART B-METHODOLOGICAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Loss allocation of radial distribution system using Shapley value: A sequential approach
+AU  - Sharma, Satish
+AU  - Abhyankar, A. R.
+T2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+AB  - This paper presents a new method to allocate the power loss in a radial distribution system to loads and distributed generations (DGs). Integration of DGs has increased the importance of loss allocation because it alters the total power losses. The proposed method calculates the loss allocation in sequential manner using Shapley value method specifically for radial distribution system. The losses allocated by using proposed method are same as obtained from the conventional Shapley value method which satisfy the axioms of fairness. An important virtue of proposed method is that it reduces the memory and computational burden as well as ensures the fair allocation and recovery of total complex losses. The results are discussed and illustrated on different test systems. (C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ijepes.2016.11.015
+VL  - 88
+IS  - 
+SP  - 33-41
+J2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Enjoying cooperative games: The R package GameTheory
+AU  - Cano-Berlanga, Sebastian
+AU  - Gimenez-Gomez, Jose-Manuel
+AU  - Vilella, Cori
+T2  - APPLIED MATHEMATICS AND COMPUTATION
+AB  - This paper focuses on cooperative games with transferable utility. We propose the computation of three solutions, the Shapley value for n agents, the nucleolus with a maximum of four agents and the per capita nucleolus. The current approach is also focused on conflicting claims problems, a particular case of coalitional games. We provide the computation of the most well-known and used claims solutions: the proportional, the constrained equal awards, the constrained equal losses, the Talmud, the random arrival and the adjusted proportional rules. (C) 2017 Elsevier Inc. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.amc.2017.02.010
+VL  - 305
+IS  - 
+SP  - 381-393
+J2  - APPLIED MATHEMATICS AND COMPUTATION
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative interconnection settlement among ISPs through NAP
+AU  - Zhou, Weihua
+AU  - Pu, Yaqi
+AU  - Dai, Hongyan
+AU  - Jin, Qingwei
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - This paper studies the settlement problem among Internet Service Providers (ISPs) who interconnect with each other through Network Access Point (NAP). A cooperative game framework is adopted for the analysis. Two commonly adopted allocations, i.e., the non-settlement profit allocation and the Shapley-value based profit allocation, are analyzed and compared. We check whether these two allocations can encourage ISPs to interconnect with each other (i.e., in the core of the game) and, at the same time, demonstrate fairness in settlement. Our results show that the non-settlement allocation is not in the core and does not preserve fairness, and the Shapley-value based profit allocation is in the core and demonstrates fairness. However, the complex structure of Shapley-value makes it difficult to understand for ISPs and hard to be implemented at NAP especially when ISPs can only make their pricing decisions independently. Therefore, we propose a Characterized Profit Allocation (CPA) which is in the core, preserves fairness and is easy to interpret. We further propose a settlement rule based on CPA which enables the ISPs to act independently but achieve global optimality. We also extend our basic model to incorporate interconnection quality decisions and market competition, and show that the proposed settlement rule and its extended form work well in these scenarios. Numerical experiments confirm that CPA and its corresponding settlement rule can effectively encourage interconnection among ISPs and motivate ISPs to expand their networks. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2016.06.061
+VL  - 256
+IS  - 3
+SP  - 991-1003
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Beneficiaries of transmission expansion projects of an expansion plan: An Aumann-Shapley approach
+AU  - Banez-Chicharro, Fernando
+AU  - Olmos, Luis
+AU  - Ramos, Andres
+AU  - Latorre, Jesus M.
+T2  - APPLIED ENERGY
+AB  - The objective of this paper is to propose a novel methodology to compute the benefit obtained by the individual transmission network users from each of the transmission expansion projects within an expansion plan. The benefits computed should be coherent with the technical and economic principles that underlie the development of the expansion plan. Thus, this methodology is based on the idea that the benefits produced by each project of a plan should be determined considering all projects jointly, instead of individually. Some benefits obtained by users from projects evolve continuously with the deployment of the expansion plan, while others are discrete, since they occur at certain points of the deployment of this plan. A separate Aumann-Shapley game is solved to allocate continuous benefits, and each discrete one. In the second case, the standard Aumann-Shapley algorithm for the allocation of benefits is modified to cope with the fact that the function of each user's benefits is not continuous with the size of projects deployed. Two case studies are used to compare the methodology proposed with existing ones and demonstrate its applicability to real-life decision making processes. The results show that the methodology proposed is able to overcome problems detected in other methodologies, providing more accurate and sound results. The good properties of the methodology proposed make it applicable to problems related to network expansion regulation, such as the cost allocation of new investments. Although the methodology proposed is particularized to electric power systems, its concept and fundamentals can also be applied in other energy sectors, such as gas. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.apenergy.2017.03.061
+VL  - 195
+IS  - 
+SP  - 382-401
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Characterizations of highway toll pricing methods
+AU  - Sudholter, Peter
+AU  - Zarzuelo, Jose M.
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - A highway problem is a cost sharing problem that arises if the common resource is an ordered set of sections with fixed costs such that each agent demands consecutive sections. We provide axiomatizations of the core, the prenucleolus, and the Shapley value on the class of TU games associated with highway problems. However, the simple and intuitive properties employed in the results are exclusively formulated by referring to highway problems rather than games. The main axioms for the core and the nucleolus are consistency properties, while the Shapley value is characterized by requiring that the fee of an agent is determined by the highway problem when truncated to the sections she demands. An alternative characterization is based on the new contraction property. Finally it is shown that the games that are associated with generalized highway problems in which agents may demand non-connected parts are the positive cost games, i.e., nonnegative linear combinations of dual unanimity games. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2016.11.051
+VL  - 260
+IS  - 1
+SP  - 161-170
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Profit distribution in collaborative multiple centers vehicle routing problem
+AU  - Wang, Yong
+AU  - Ma, Xiaolei
+AU  - Li, Zhibin
+AU  - Liu, Yong
+AU  - Xu, Maozeng
+AU  - Wang, Yinhai
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - A collaborative multiple-center vehicle routing problem (CMCVRP) is a multi-constraint combinatorial and game optimization issue containing both vehicle routing optimization and profit distribution procedures. The CMCVRP is generally used to study the logistics network structure adjustment from a non optimal network structure to a collaborative multiple DCs network optimization structure. The optimization of CMCVR can effectively improve vehicle loading rate and reduce the crisscross transportation phenomenon. Designing a reasonable profit distribution mechanism is a critical step of CMCVR optimization. Collaboration can be organized through a negotiation process by a logistics service provider. This paper establishes an integer-programming model that contains transportation costs among distribution centers (DCs) and vehicle routing costs in each DC to minimize the total costs of CMCVRP. A multi-phase hybrid approach with clustering, dynamic programming, and heuristic algorithm is presented to solve the model formulation. The clustering procedure increases the likelihood that the solution will converge to an optimal value, between-route operations (relocate, 2-opt* exchange, and swap move) in the heuristic algorithm will improve the initial solution, and the within-route (dynamic programming) procedure will calculate a good feasible solution for each vehicle route. Both between- and within-route operations are recursively executed to find the best solution. Profit distribution plans are then established using the improved Shapley value model. Optimal sequential coalitions are selected based on strictly monotonic path, cost reduction model, and best strategy of sequential coalition selection in cooperative game theory. An empirical study in Chongqing, China suggests that the proposed approach outperforms other algorithms, and the best sequential coalition can be selected and adjusted to increase the negotiation power for network optimization of logistics distribution. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2017.01.001
+VL  - 144
+IS  - 
+SP  - 203-219
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Uncertain Shapley value of coalitional game with application to supply chain alliance
+AU  - Gao, Jinwu
+AU  - Yang, Xiangfeng
+AU  - Liu, Di
+T2  - APPLIED SOFT COMPUTING
+AB  - Uncertain coalitional game deals with situations in which the transferable payoffs are uncertain variables. The uncertain core has been proposed as the solution of uncertain coalitional game. This paper goes further by presenting two definitions of uncertain Shapley value: expected Shapley value and alpha-optimistic Shapley value. Meanwhile, some characterizations of the uncertain Shapley value are investigated. Finally, as an application, uncertain Shapley value is used to solve a profit allocation problem of supply chain alliance. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.asoc.2016.06.018
+VL  - 56
+IS  - 
+SP  - 551-556
+J2  - APPLIED SOFT COMPUTING
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation and profit allocation in two-echelon logistics joint distribution network optimization
+AU  - Wang, Yong
+AU  - Ma, Xiaolei
+AU  - Liu, Mingwu
+AU  - Gong, Ke
+AU  - Liu, Yong
+AU  - Xu, Maozeng
+AU  - Wang, Yinhai
+T2  - APPLIED SOFT COMPUTING
+AB  - Collaborative two-echelon logistics joint distribution network can be organized through a negotiation process via logistics service providers or participants existing in the logistics system, which can effectively reduce the crisscross transportation phenomenon and improve the efficiency of the urban freight transportation system. This study establishes a linear optimization model to minimize the total cost of two-echelon logistics joint distribution network. An improved ant colony optimization algorithm integrated with genetic algorithm is presented to serve customer clustering units and resolve the model formulation by assigning logistics facilities. A two-dimensional colony encoding method is adopted to generate the initial ant colonies. Improved ant colony optimization combines the merits of ant colony optimization algorithm and genetic algorithm with both global and local search capabilities. Finally, an improved Shapley value model based on cooperative game theory and a cooperative mechanism strategy are presented to obtain the optimal profit allocation scheme and sequential coalitions respectively in two-echelon logistics joint distribution network. An empirical study in Guiyang City, China, reveals that the improved ant colony optimization algorithm is superior to the other three methods in terms of the total cost. The improved Shapley value model and monotonic path selection strategy are applied to calculate the best sequential coalition selection strategy. The proposed cooperation and profit allocation approaches provide an effective paradigm for logistics companies to share benefit, achieve win-win situations through the horizontal cooperation, and improve the negotiation power for logistics network optimization. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.asoc.2017.02.025
+VL  - 56
+IS  - 
+SP  - 143-157
+J2  - APPLIED SOFT COMPUTING
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaboration and transportation resource sharing in multiple centers vehicle routing optimization with delivery and pickup
+AU  - Wang, Yong
+AU  - Zhang, Jie
+AU  - Assogba, Kevin
+AU  - Liu, Yong
+AU  - Xu, Maozeng
+AU  - Wang, Yinhai
+T2  - KNOWLEDGE-BASED SYSTEMS
+AB  - The adoption of collaboration strategies among logistics facilities and the formation of one or multiple coalitions constitute a sustainable approach to vehicle routing network optimization. This paper introduces a collaborative multiple centers vehicle routing problem with simultaneous delivery and pickup (CMCVRPSDP) to minimize operating cost and the total number of vehicles in the network. Distribution and pickup centers are allowed to share vehicles and customers in order to increase the entire network's efficiency and maximize profit. To provide the coalition coordinators with good routing solutions, we propose a hybrid heuristic algorithm which properly combines k-means and Non-dominated Sorting Genetic Algorithm-II (NSGA-II). Based on clustering solutions, the proposed Hybrid NSGA-II (HNSGA-II) first generates a real coded population to bind our mathematical model constraints and to obtain a large number of feasible solutions which converge to optimality. Chromosomes are divided for genetic operations with partial mapped crossover and swap mutation algorithms, before their recombination to ensure the quality of our results. Comparisons with the traditional NSGA-II and the Multi-Objective Particle Swarm Optimization (MOPSO) algorithm indicate better performances of HNSGA-II in terms of objective function values. We also apply Cost Gap Allocation method (CGA) and the strictly monotonic path selection principle to examine profit allocation schemes. Numerical analyses on part of Chongqing city's logistics network show the superiority of HNSGA-II over MOPSO and NSGA-II on the practical case study, as well that of CGA over the Minimum Costs-Remaining Savings (MCRS), Shapley and Game Quadratic Programming (GQP) methods. In addition, the proposed profit allocation approach has supported the establishment of a grand coalition instead of two sub-coalitions. CMCVRPSDP optimization reduces long-haul transportation, improves the vehicle loading rate and facilitates sustainable development. Through the rational allocation of profits, the proposed solution methodology assures the stability and fairness among coalition members. The implementation is also important to design sustainable urban transportation networks.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.knosys.2018.07.024
+VL  - 160
+IS  - 
+SP  - 296-310
+J2  - KNOWLEDGE-BASED SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation and sharing costs in a tandem queueing network
+AU  - Bendel, Dan
+AU  - Haviv, Moshe
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - We consider a tandem network of queues with a Poisson arrival process to the first queue. Service times are assumed to be exponential. In cases where they are not, we additionally assume a processor sharing service discipline in all servers. Consecutive servers may cooperate by pooling resources which leads to the formation of a single combined server that satisfies the aggregated service demands with a greater service rate. On this basis we define a cooperative game with transferable utility, where the cost of a coalition is the steady-state mean total number of customers in the system formed by its members. We show that the game is subadditive, leading to full cooperation being socially optimal. We then show the non-emptiness of the core, despite the characteristic function being neither monotone, nor concave. Finally, we derive several well-known solution concepts, including the Shapley value, the Banzhaf, value and the nucleolus, for the case where servers have equal mean service demands. In particular, we show that all three values coincide in this case. (C) 2018 Elsevier B.V. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ejor.2018.04.049
+VL  - 271
+IS  - 3
+SP  - 926-933
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost Allocation and Net Load Variability
+AU  - Mays, Jacob
+T2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+AB  - A basic principle of electricity market design is that cost allocation should follow cost causation as closely as possible. As renewable resources play a larger role in electricity generation, system operators have become increasingly concerned about costs related to variability in net load. While variable generation resources have attracted a great deal of attention along these lines, load is a larger source of variability in most systems. This paper introduces a Shapley value framework to assess the total system cost attributable to electricity market participants that either exacerbate or alleviate net load variability. Furthermore, this paper investigates the extent to which these costs are adequately reflected in wholesale market prices. Numerical tests indicate that the cost of variability on the hourly time scale is in most cases internalized by market-integrated generators and buyers, mitigating concerns that variability imposes a socialized cost from ramping or cycling of thermal generators.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1109/TPWRS.2017.2732921
+VL  - 33
+IS  - 2
+SP  - 2030-2039
+J2  - IEEE TRANSACTIONS ON POWER SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Economic and environmental evaluations in the two-echelon collaborative multiple centers vehicle routing optimization
+AU  - Wang, Yong
+AU  - Zhang, Shuanglu
+AU  - Assogba, Kevin
+AU  - Fan, Jianxin
+AU  - Xu, Maozeng
+AU  - Wang, Yinhai
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The two-echelon collaborative multiple centers vehicle routing problem (2E-CMCVRP) integrates collaboration mechanism and the vehicle routing problem. Combining k-means clustering algorithm and an improved Non-dominated Sorting Genetic Algorithm-II (Im-NSGA-II), this paper proposes a three-phase approach to simultaneously minimize the aggregate operating cost and reduce carbon dioxide emission. To ensure the initial population's quality, the sweep algorithm is integrated as modification of the standard NSGA-II. The chromosome population consists of multiple depots and corresponding customer nodes independently assessed to find local solutions, and latterly combined to yield suboptimal routes. The nodes scan principle of the sweep algorithm is employed to enforce optimization constraints, and the non-dominated sorting of the population efficiently improves the solution search accuracy. Further, the Minimum Cost-Remaining Savings (MCRS) method is used to determine appropriate profit distribution schemes, and the selection of the optimal sequential coalition is executed on the basis of the strictly monotonic path principle. Computational comparisons on benchmark instances indicate the superiority of Im-NSGA-11 over NSGA-ll and MOGA, and an empirical study in Chongqing, China confirms the practicability of our solution approach. The evaluation of MCRS solution's stability displays out performance over other methods including the Shapley value model, CGA and GQP, and suitable coalition sequences are selected and assessed to improve the efficiency of logistics network optimization as well as the achievement of environment-friendly objectives. (C) 2018 Elsevier Ltd. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.jclepro.2018.06.208
+VL  - 197
+IS  - 
+SP  - 443-461
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperation of advertising companies in social networks: A graph and game theory approaches
+AU  - Hafezalkotob, Ashkan
+AU  - Khodabakhsh, Maryam
+AU  - Saghaei, Abbas
+AU  - Eshghipour, Maryam
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Advertisement in companies that are active in social network is becoming a key success factor these days. The cooperative advertising enables companies to improve effectiveness of the advertisement efforts. In this research, we first present a mathematical model to quantify the profit of cooperation between the companies in a network. Afterwards, cooperative game theory methods such as Shapley value, Core-center, Least core, and tau-value are proposed to distribute benefits of the cooperative advertisement of the companies in the social networks. A numerical example of a simple social network with three advertising companies is presented to evaluate results of the models. It is shown that the profit obtained from coalition is greater than individual profits of the members. In this regard, fair allocation of the extra profit among companies ensures their satisfaction and long-term cooperation.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.cie.2018.08.023
+VL  - 125
+IS  - 
+SP  - 212-220
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative replenishment in the presence of intermediaries
+AU  - Hezarkhani, Behzad
+AU  - Slikker, Marco
+AU  - Van Woensel, Tom
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In complex supply chains, downstream buyers would often replenish individually from intermediaries instead of directly dealing with original manufacturers. Although collaborative replenishment from intermediaries might generate benefits, significant cost reductions could be achieved when direct replenishments from manufacturers are considered. This paper constructs a general model to study collaborative replenishment in multi-product chains with alternative sources of supply-i.e., manufacturers and intermediaries. A collaborative organization determines the optimal choices of replenishment sources on behalf of its members to minimize collective costs. We introduce a class of cooperative games associated with these situations and give sufficient conditions for their concavity. We investigate the choice of allocation rule and its effect on supply chain efficiency when buyers strategically participate in the collaborative organization. We prove that the Shapley value coordinates the supply chain, i.e., it makes complete participation the best strategy for buyers even under asymmetric information. This setting is compared with an alternative structure where buyers can only collaborate in source-specific replenishment organizations that purchase all requested products either from intermediaries or manufacturers. Although there are always participation strategies that result in minimum collective cost, it is impossible to find allocation rules for source-specific replenishment organizations that always motivate the buyers to choose such strategies. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ejor.2017.09.033
+VL  - 266
+IS  - 1
+SP  - 135-146
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost allocation in rescheduling with machine unavailable period
+AU  - Liu, Zhixin
+AU  - Lu, Liang
+AU  - Qi, Xiangtong
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - We study a rescheduling problem faced by multiple job owners sharing a single machine, where jobs need to be rescheduled when the machine becomes unavailable for a period of time. The disruption caused by any new schedule is restricted such that the difference between the completion times in the initial and the new schedules of any job is no more than a given threshold. A natural way to reschedule is to process the jobs in the initial sequence, each as early as possible. This defines a feasible schedule over which cost saving can potentially be achieved by optimal rescheduling as long as the cost saving can be fairly shared by job owners. We define a cooperative game for job owners accordingly, to share the cost saving. Given that the optimization problem is computationally intractable, we find several optimal properties and develop an optimal pseudopolynomial time dynamic programming algorithm for rescheduling. We provide a simple closed form core allocation of the total cost saving for all the jobs, and also provide the Shapley value of the game in a computable form. Then we computationally evaluate the extra cost caused by machine unavailability, the cost saving from optimization relative to the naturally constructed schedule, the likelihood for the Shapley value to be a core allocation, and how the Shapley value allocates cost saving among job owners. Managerial insights are derived from the computational studies. This work contributes to the literature by explicitly incorporating two classic scheduling topics: sequencing game and rescheduling. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ejor.2017.09.015
+VL  - 266
+IS  - 1
+SP  - 16-28
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Allocating a fixed cost based on a DEA-game cross efficiency approach
+AU  - Li, Feng
+AU  - Zhu, Qingyuan
+AU  - Liang, Liang
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - In many real managerial applications, an issue of considerable importance is allocating a total fixed cost across a set of competing decision making units (DMUs). The fixed cost allocation problem has also become one of the most important applications of the data envelopment analysis (DEA) methodology. In this paper, we will approach the fixed cost allocation problem by explicitly considering both competition and cooperation relationships among DMUs. To this end, we integrate cooperative game theory and the cross efficiency method to develop a DEA-game cross efficiency approach to generate a unique and fair allocation plan. With the proposed approach, each DMU is considered as a player and a super-additive characteristic function is defined for coalitions of DMUs. Then, the Shapley value is calculated for each DIM and accordingly associated common weights are optimized to determine the final allocation plan. Since the cross efficiency method considers peer appraisal and the cooperative game theory allows for equitable negotiations, all DMUs are supposed to reach a consensus on the equitable allocation scheme through our novel approach. From this perspective, our proposed approach is promising and attractive for allocating a fixed cost in large organizations. Finally, the DEA-game cross efficiency approach is demonstrated with a numerical example derived from previous literature and the results are compared to some existing methods. Additionally, we apply the proposed approach to an empirical application concerning city commercial bank activities in China. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.eswa.2017.12.002
+VL  - 96
+IS  - 
+SP  - 196-207
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Application of game theoretic approaches for identification of critical parameters affecting power system small-disturbance stability
+AU  - Hasan, Kazi Nazmul
+AU  - Preece, Robin
+AU  - Milanovic, Jovica V.
+T2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+AB  - This paper evaluates a number of game theoretic (GT) approaches with the aim of assessing their suitability to identify the most influential parameters affecting the small-disturbance stability of a power system. Identification of the most influential parameters affecting system stability will facilitate cost-effective operation and control of a power system in general as it would require limited network monitoring, control and modelling effort by system operators and stakeholders. After identifying the most influential parameters the financial and human resources could be adequately prioritised and deployed to solve or prevent power system stability problems. A priority ranking procedure based on a GT approach has the advantage, compared to other techniques, of considering simultaneously the effect of individual and all possible combinatorial effects of the uncertain parameters (or players in a game context). In this study, the most influential players have been identified through a multi-level approach considering the power flow in the network (by optimal power flow), small disturbance stability aspects (by modal analysis), rational behavior of individual players (by a sensitivity technique) and formation of groups between players (by cooperative game theory). Various GT approaches have been considered namely Shapley Value, Aumann Shapley, Nucleolus, and z-value approach in order to compare and assess their suitability for power system applications. The results are illustrated using two test networks and considering several approaches of sensitivity analysis and different degrees of variability in the considered uncertainties.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ijepes.2017.11.027
+VL  - 97
+IS  - 
+SP  - 344-352
+J2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Two-echelon logistics delivery and pickup network optimization based on integrated integrated cooperation and transportation fleet sharing
+AU  - Wang, Yong
+AU  - Peng, Shouguo
+AU  - Xu, Chengcheng
+AU  - Assogba, Kevin
+AU  - Wang, Haizhong
+AU  - Xu, Maozeng
+AU  - Wang, Yinhai
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - The optimization of the two-echelon logistics delivery and pickup network (2E-LDPN) is a strategical and tactical task which can efficiently be achieved by establishing cooperative alliances. Under the coordination of logistics services providers or logistics facilities of the existing network, high operating costs caused by cross and long distance transportation can be reduced via the inclusive reorganization of the entire network. In order to minimize the total cost, this study simultaneously considers semitrailer truck and vehicle sharing, and establishes a linear mathematical model capable of interpreting real world practices under single or multiple alliances scenarios. An Improved Particle Swarm Optimization (IPSO) algorithm and the Ant Colony Optimization (ACO) algorithm are reasonably combined into a hybrid meta heuristics to solve the cooperative 2E-LDPN optimization problem. This algorithm combines the merits of IPSO and ACO with local and global search capabilities, and redistributes customer zones on the basis of region partitioning solutions in order to rationalize transportation activities. Finally, an Improved Shapley value model is applied to guarantee profits allocation's fairness and is proved reliable in term of alliance stability. Empirical results out of a case study in Chongqing city show that the IPSO-ACO hybrid algorithm is superior to three well-known algorithms on the cost solution and the number of iterations. Using the Improved Shapley value model and strictly monotonic path (SMP) selection principles, optimal adhesion sequences for two alliances and a grand alliance are yielded. The implemented transition from two sub-alliances based network to the grand alliance is in line with real-world's practices and provides decision makers with a useful tool for the design of cooperative alliances. In addition, the proposed cooperation strategy and profit allocation method enable companies to increase cost savings and the logistics network's efficiency. Besides, semitrailer truck and vehicle sharing as feature of collaboration conditional clauses reduces the size of transportation fleets, and promotes greener logistics operations. (C) 2018 Elsevier Ltd. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.eswa.2018.06.037
+VL  - 113
+IS  - 
+SP  - 44-65
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Design Tradeoffs in Concave Cost-Sharing Games
+AU  - Phillips, Matthew
+AU  - Marden, Jason R.
+T2  - IEEE TRANSACTIONS ON AUTOMATIC CONTROL
+AB  - This note focuses on the design of cost-sharing rules to optimize the efficiency of the resulting equilibria in cost-sharing games with concave cost functions. Our analysis focuses on two well-studied measures of efficiency, termed the price of anarchy and price of stability, which provide worst-case guarantees on the performance of the (worst or best) equilibria. Our first result characterizes the cost-sharing design that optimizes the price of anarchy, followed by the price of stability. This optimal cost-sharing rule is precisely the Shapley value cost-sharing rule. Our second result characterizes the cost-sharing design that optimizes the price of stability, followed by the price of anarchy. This optimal cost-sharing rule is precisely the marginal contribution cost-sharing rule. This analysis highlights a fundamental tradeoff between the price of anarchy and price of stability in the considered class of games. That is, given the optimality of both the Shapley value and marginal cost distribution rules in each of their respective domains, it is impossible to improve either the price of anarchy or price of stability without degrading its counterpart.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1109/TAC.2017.2765299
+VL  - 63
+IS  - 7
+SP  - 2242-2247
+J2  - IEEE TRANSACTIONS ON AUTOMATIC CONTROL
+ER  - 
+
+
+TY  - JOUR
+TI  - On the use of risk-based Shapley values for cost sharing in interplant heat integration programs
+AU  - Jin, Yuhui
+AU  - Chang, Chuei-Tin
+AU  - Li, Shaojun
+AU  - Jiang, Da
+T2  - APPLIED ENERGY
+AB  - The heat exchanger network (HEN) is traditionally used for optimal heat recovery in a single chemical plant, while the multi-plant counterparts have been studied in recent years primarily for the purpose of reaping additional overall energy savings. Since all these works focused primarily upon minimization of the total energy cost, the resulting interplant heat integration arrangements were often infeasible due to the fact that the individual savings are not always acceptable to all participating parties. Although a few studies addressed this cost sharing issue, the existing methodologies are still not mature enough for realistic applications. The present paper outlines a rigorous model-based two-stage procedure to handle this practical problem in the spirit of a cooperative game. The minimum total annual cost (TAC) of each and every potential coalition was first determined with a conventional MINLP model, while the core and the risk-based Shapley values of all players were then computed with explicit formulas derived in this work to settle the benefit allocation issues. A simple example is presented at the end of this paper to demonstrate the feasibility of the proposed approach.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.apenergy.2017.11.097
+VL  - 211
+IS  - 
+SP  - 904-920
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Payments for Ecosystem Services for watershed water resource allocations
+AU  - Fu, Yicheng
+AU  - Zhang, Jian
+AU  - Zhang, Chunling
+AU  - Zang, Wenbin
+AU  - Guo, Wenxian
+AU  - Qian, Zhan
+AU  - Liu, Laisheng
+AU  - Zhao, Jinyong
+AU  - Feng, Jian
+T2  - JOURNAL OF HYDROLOGY
+AB  - Watershed water resource allocation focuses on concrete aspects of the sustainable management of Ecosystem Services (ES) that are related to water and examines the possibility of implementing Payment for Ecosystem Services (PES) for water ES. PES can be executed to satisfy both economic and environmental objectives and demands. Considering the importance of calculating PES schemes at the social equity and cooperative game (CG) levels, to quantitatively solve multi-objective problems, a water resources allocation model and multi-objective optimization are provided. The model consists of three modules that address the following processes: (1) social equity mechanisms used to study water consumer associations, (2) an optimal decision-making process based on variable intervals and CG theory, and (3) the use of Shapley values of CGs for profit maximization. The effectiveness of the proposed methodology for realizing sustainable development was examined. First, an optimization model with water allocation objective was developed based on sustainable water resources allocation framework that maximizes the net benefit of water use. Then, to meet water quality requirements, PES cost was estimated using trade-off curves among different pollution emission concentration permissions. Finally, to achieve equity and supply sufficient incentives for water resources protection, CG theory approaches were utilized to reallocate PES benefits. The potential of the developed model was examined by its application to a case study in the Yongding River watershed of China. Approximately 128 Me of water flowed from the upper reach (Shanxi and Hebei Provinces) sections of the Yongding River to the lower reach (Beijing) in 2013. According to the calculated results, Beijing should pay USD$6.31 M ((sic)39.03 M) for water-related ES to Shanxi and Hebei Provinces. The results reveal that the proposed methodology is an available tool that can be used for sustainable development with resolving PES amounts among different regions under social and environmental constraints by considering the characteristics of social equity and CGs. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.jhydrol.2017.11.051
+VL  - 556
+IS  - 
+SP  - 689-700
+J2  - JOURNAL OF HYDROLOGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Designing coalition-based fair and stable pricing mechanisms under private information on consumers' reservation prices
+AU  - Le Cadre, Helene
+AU  - Pagnoncelli, Bernardo
+AU  - Homem-de-Mello, Tito
+AU  - Beaude, Olivier
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - We model the relation between an aggregator and consumers joining a coalition to reduce the risk resulting from the unpredictability of their base load demand, as a Stackelberg game formulated as a mathematical bilevel program with private information on the consumers' reservation prices. At the upper-level of the Stackelberg game, the aggregator optimizes his daily price profile so as to reach a net targeted profit which is the maximum value guaranteeing that no consumer will leave the coalition - to contract with a conventional retailer considered here as a fixed alternative - while meeting fairness criterion imposed by the cost-sharing mechanism. At the lower-level, the consumers are asked to provide in day ahead an estimate of their base load hourly demand profile and to schedule their shiftable loads depending on the price signal sent by the aggregator. We provide algorithms that determine the unique price profile and consumer shiftable load schedules as functions of the reservation price estimates. The Stackelberg game between the aggregator and the consumers being repeated for a period of time, the aggregator has the possibility to update his estimates of the reservation prices relying on a feedback function which depends on the percentage of activated loads. A randomized algorithm for consumers' reservation price learning based on regret minimization is provided. For four cost-sharing mechanisms such as uniform allocation, stand-alone cost, Shapley value, separable and non-separable costs, we determine the closed form of the aggregator's optimal net targeted profit guaranteeing the stability of the coalition. We also determine conditions guaranteeing the core non-emptiness and prove that for a profit-maximizing aggregator, the stand-alone cost is always preferable to the Shapley value, which coincides with the uniform allocation. Furthermore, the optimal size of the coalition - in terms of the aggregator's profit - can be determined analytically when the Shapley value is implemented as cost-sharing mechanism. The results are illustrated on a case study where we show that there exists an optimal net targeted profit below which the consumers energy bill is lower when joining the aggregator than with the conventional retailer. Coalition dynamics is also analyzed numerically depending on the consumer inertia in their energy supplier choice process, for each cost-sharing mechanism. (C) 2018 Elsevier B.V. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.ejor.2018.06.026
+VL  - 272
+IS  - 1
+SP  - 270-291
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Designing an eco-efficient biomass-based supply chain using a multi-actor optimisation model
+AU  - Jonkman, Jochem
+AU  - Kanellopoulos, Argyris
+AU  - Bloemhof, Jacqueline M.
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Sustainability concerns emphasise the importance of identifying eco-efficient supply chain configurations which balance economic and environmental chain objectives. The applied modelling approaches for this purpose often assume the availability of raw materials and full coordination within the supply chain studied. Some or all actors in the chain can however pursue individual objectives, making the obtained solutions unfeasible in practice. Economic incentives support aligning the objectives of the different supply chain actors. This paper explores the design of eco-efficient biomass supply chains and economic gain allocation between the supply chain partners. A case study is developed for the sugar beet processing chain in the Netherlands, in which farmers can also choose to produce other competing crops. We observe that higher yields often lead to lower carbon emissions per ton of produce. Hence, eco-efficient solutions are found to have production and processing locations in the most productive regions. Additionally, margin sharing above the minimum sugar beet price is necessary to ensure the production of the desired quantity of sugar beet. Realistic sugar beet prices are determined using a Shapley-value approach, leading to a fair distribution of margin among the farmers and processor in the supply chain. (C) 2018 Elsevier Ltd. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.jclepro.2018.10.351
+VL  - 210
+IS  - 
+SP  - 1065-1075
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Coordinating a closed-loop supply chain with fairness concerns through variable-weighted Shapley values
+AU  - Zheng, Xiao-Xue
+AU  - Li, Deng-Feng
+AU  - Liu, Zhi
+AU  - Jia, Fu
+AU  - Sheu, Jiuh-Biing
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - This paper considers a closed-loop supply chain (CLSC) structure in which a manufacturer allows a retailer and a third-party remanufacturer to sell and remanufacture his products, respectively. Given the retailer's distributional fairness concerns, we investigate the optimal/equilibrium decisions and profits under five non-cooperative and cooperative game models, and focus on how to allocate maximum profit in a centralized setting. Based on the classic Shapley value, we propose an innovative weighted allocation approach-namely, the variable-weighted Shapley value-to coordinate this CLSC. Numerical studies demonstrate that when remanufactured products are lowly accepted by consumers, our model outperforms the classic Shapley value.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.tre.2019.04.006
+VL  - 126
+IS  - 
+SP  - 227-253
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - How should government and users share the investment costs and benefits of a solar PV power generation project in China?
+AU  - Shuai, Jing
+AU  - Cheng, Xin
+AU  - Ding, Liping
+AU  - Yang, Jun
+AU  - Leng, Zhihui
+T2  - RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+AB  - Under the circumstances of global carbon emissions reduction, it has become a trend to promote the adoption of clean energies, such as solar energy. With the increasing maturity of photovoltaic (PV) technology, household type distributed solar PV power generation projects are increasingly popular in China. Nevertheless, compared with conventional power generation, the initial cost of a solar PV project remains relatively high. Therefore, to mobilize the incentives of the general public, there is an urgent need for studies on how to share the costs and benefits of a solar PV power generation project between the government and users. By adopting the Shapley Game methodology, this paper has conducted a theoretical analysis of the cost-sharing among the central government, local government, and users and has built an investment cost-sharing model (C-i(') = P (i) Vs(i) V-ri, i = 1, 2, 3), which is able to coordinate the benefit of all three stakeholders. This is followed by a case study. The results show that, under China's central government subsidy of 0.42 yuan per kWh, the best strategy for the local government to encourage the public to install solar PV facilities is to provide a oneoff compensation equal to 30% of the initial investment. Finally, this paper proposes relevant policy recommendations to promote the development of solar PV power generation for emissions reduction in China.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.rser.2019.01.003
+VL  - 104
+IS  - 
+SP  - 86-94
+J2  - RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+ER  - 
+
+
+TY  - JOUR
+TI  - Fair gain allocation in eco-efficient vendor-managed inventory cooperation
+AU  - Stellingwerf, H. M.
+AU  - Kanellopoulos, A.
+AU  - Cruijssen, F. C. A. M.
+AU  - Bloemhof, J. M.
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Transportation is not always organised efficiently, which causes unnecessary costs and CO2 emissions. Vendor-managed inventory (VMI) has been suggested as a form of cooperation that can reduce economic and environmental impacts of transportation and consequently improve eco-efficiency of the supply chain. Establishing viable forms of VMI cooperation requires a fair distribution of the cooperation's economic benefits. Cooperative game theory (CGT) research is used to fairly allocate both benefits and costs. However, the environmental contribution of partners has often been ignored in the benefit allocation. In this study, the Shapley value (a commonly used CGT method) is used to share the monetary gains in a way that reflects the partners' contributions to cost and emissions savings. The method is applied to evaluate the allocation of economic and environmental benefits of vendor-managed inventory between cooperating supermarket chains in the Netherlands. The findings show that there is a set of eco-efficient solutions resulting in lower costs and CO2 emissions compared to the current situation. For each of the eco-efficient solutions, the relative importance of saving costs and of saving emissions was quantified, and based on the importance weights, a cost allocation was found. For all partners that contribute to saving both cost and CO2 emissions, this approach results in cost savings, and therefore, the approach can be considered fair. Also, this approach helps to stimulate long-term eco-efficient forms of cooperation. (C) 2019 Elsevier Ltd. All rights reserved.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1016/j.jclepro.2019.05.232
+VL  - 231
+IS  - 
+SP  - 746-755
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+

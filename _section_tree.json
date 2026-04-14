@@ -1,0 +1,371 @@
+[
+  {
+    "id": 0,
+    "level": 1,
+    "cmd": "section",
+    "title": "Introduction",
+    "line_no": 121,
+    "parent_id": null,
+    "children_ids": [],
+    "preceding_id": null,
+    "following_id": 1
+  },
+  {
+    "id": 1,
+    "level": 1,
+    "cmd": "section",
+    "title": "Literature review",
+    "line_no": 124,
+    "parent_id": null,
+    "children_ids": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "preceding_id": 0,
+    "following_id": 6
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Subsection title",
+    "line_no": 141,
+    "parent_id": 1,
+    "children_ids": [],
+    "preceding_id": null,
+    "following_id": 3
+  },
+  {
+    "id": 3,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Subsection title",
+    "line_no": 143,
+    "parent_id": 1,
+    "children_ids": [],
+    "preceding_id": 2,
+    "following_id": 4
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Subsection title",
+    "line_no": 146,
+    "parent_id": 1,
+    "children_ids": [],
+    "preceding_id": 3,
+    "following_id": 5
+  },
+  {
+    "id": 5,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Research gaps and positioning",
+    "line_no": 149,
+    "parent_id": 1,
+    "children_ids": [],
+    "preceding_id": 4,
+    "following_id": null
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "cmd": "section",
+    "title": "Model formulation",
+    "line_no": 152,
+    "parent_id": null,
+    "children_ids": [
+      7,
+      8,
+      9
+    ],
+    "preceding_id": 1,
+    "following_id": 10
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Problem description",
+    "line_no": 154,
+    "parent_id": 6,
+    "children_ids": [],
+    "preceding_id": null,
+    "following_id": 8
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Cooperative game: characteristic function construction and profit allocation",
+    "line_no": 155,
+    "parent_id": 6,
+    "children_ids": [],
+    "preceding_id": 7,
+    "following_id": 9
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Non-cooperative game: optimal pricing for manufacturer and recycler",
+    "line_no": 228,
+    "parent_id": 6,
+    "children_ids": [],
+    "preceding_id": 8,
+    "following_id": null
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "cmd": "section",
+    "title": "Equilibrium analysis",
+    "line_no": 317,
+    "parent_id": null,
+    "children_ids": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "preceding_id": 6,
+    "following_id": 15
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Subsection title",
+    "line_no": 418,
+    "parent_id": 10,
+    "children_ids": [],
+    "preceding_id": null,
+    "following_id": 12
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Subsection title",
+    "line_no": 420,
+    "parent_id": 10,
+    "children_ids": [],
+    "preceding_id": 11,
+    "following_id": 13
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Subsection title",
+    "line_no": 423,
+    "parent_id": 10,
+    "children_ids": [],
+    "preceding_id": 12,
+    "following_id": 14
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Subsection title",
+    "line_no": 426,
+    "parent_id": 10,
+    "children_ids": [],
+    "preceding_id": 13,
+    "following_id": null
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "cmd": "section",
+    "title": "Numerical simulation",
+    "line_no": 429,
+    "parent_id": null,
+    "children_ids": [
+      16,
+      17,
+      23
+    ],
+    "preceding_id": 10,
+    "following_id": 24
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Parameter settings",
+    "line_no": 431,
+    "parent_id": 15,
+    "children_ids": [],
+    "preceding_id": null,
+    "following_id": 17
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Simulation results and analysis",
+    "line_no": 455,
+    "parent_id": 15,
+    "children_ids": [
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "preceding_id": 16,
+    "following_id": 23
+  },
+  {
+    "id": 18,
+    "level": 3,
+    "cmd": "subsubsection",
+    "title": "Impact of price sensitivity coefficient ($\\alpha$) on recycling strategies",
+    "line_no": 457,
+    "parent_id": 17,
+    "children_ids": [],
+    "preceding_id": null,
+    "following_id": 19
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "cmd": "subsubsection",
+    "title": "Impact of competition intensity ($\\beta$) on recycling strategies",
+    "line_no": 462,
+    "parent_id": 17,
+    "children_ids": [],
+    "preceding_id": 18,
+    "following_id": 20
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "cmd": "subsubsection",
+    "title": "Impact of government subsidy ($s$) on recycling strategies",
+    "line_no": 473,
+    "parent_id": 17,
+    "children_ids": [],
+    "preceding_id": 19,
+    "following_id": 21
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "cmd": "subsubsection",
+    "title": "Impact of potential recycled value ($\\theta$) on recycling strategies",
+    "line_no": 482,
+    "parent_id": 17,
+    "children_ids": [],
+    "preceding_id": 20,
+    "following_id": 22
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "cmd": "subsubsection",
+    "title": "Impact of outsourcing fee ($w$) and operational cost ($m$) on recycling strategies",
+    "line_no": 491,
+    "parent_id": 17,
+    "children_ids": [],
+    "preceding_id": 21,
+    "following_id": null
+  },
+  {
+    "id": 23,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Impact of transportation costs ($\\mu_M$ and $\\mu_R$) on recycling strategies",
+    "line_no": 502,
+    "parent_id": 15,
+    "children_ids": [],
+    "preceding_id": 17,
+    "following_id": null
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "cmd": "section",
+    "title": "Conclusion and implications",
+    "line_no": 519,
+    "parent_id": null,
+    "children_ids": [
+      25,
+      26,
+      27
+    ],
+    "preceding_id": 15,
+    "following_id": 28
+  },
+  {
+    "id": 25,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Conclusions",
+    "line_no": 524,
+    "parent_id": 24,
+    "children_ids": [],
+    "preceding_id": null,
+    "following_id": 26
+  },
+  {
+    "id": 26,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Theoretical implications",
+    "line_no": 525,
+    "parent_id": 24,
+    "children_ids": [],
+    "preceding_id": 25,
+    "following_id": 27
+  },
+  {
+    "id": 27,
+    "level": 2,
+    "cmd": "subsection",
+    "title": "Practical implications",
+    "line_no": 534,
+    "parent_id": 24,
+    "children_ids": [],
+    "preceding_id": 26,
+    "following_id": null
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "cmd": "section",
+    "title": "Limitations and future research directions",
+    "line_no": 538,
+    "parent_id": null,
+    "children_ids": [],
+    "preceding_id": 24,
+    "following_id": 29
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "cmd": "section",
+    "title": "Data availability statement",
+    "line_no": 540,
+    "parent_id": null,
+    "children_ids": [],
+    "preceding_id": 28,
+    "following_id": 30
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "cmd": "section",
+    "title": "Declaration of competing interest",
+    "line_no": 546,
+    "parent_id": null,
+    "children_ids": [],
+    "preceding_id": 29,
+    "following_id": null
+  }
+]

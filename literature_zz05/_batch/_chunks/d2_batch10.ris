@@ -1,0 +1,514 @@
+TY  - JOUR
+TI  - Blockchain's role in operation strategy of power battery closed-loop supply chain
+AU  - Jia, Jing
+AU  - Chen, Weida
+AU  - Wang, Zheng
+AU  - Shi, Ligang
+AU  - Fu, Shuaishuai
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - With the rapid development of the electric vehicle industry, the issue of recycling retired power batteries is becoming increasingly prominent. Considering the adoption of blockchain technology to enhance information traceability for retired power batteries, we construct three closed-loop supply chain decision-making models: a supply chain that does not adopt blockchain technology, a manufacturing enterprise that independently bears the input cost of blockchain technology, and a scenario which both manufacturing and selling enterprises jointly bear the blockchain technology input costs. Through the comparative analysis of the equilibrium solutions of these models, including the profits of each supply chain member, consumer surplus, environmental impact, and social welfare, it is concluded that the level of information traceability increases with the increase of the blockchain technology input cost-sharing ratio. by the selling enterprise. However, there is a threshold for. and. cannot be infinitely increased. The profits of both manufacturing and selling enterprises increase with the adoption of blockchain technology, yet the ladder-utilizing enterprise achieves the highest profits when not adopting blockchain technology. Furthermore, the adoption of blockchain technology can increase consumer surplus and social welfare while reducing the impact on the environment. These studies provide theoretical guidance on both economic and social environment for the operation decision of each member in the closed-loop supply chain of power batteries.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.110742
+VL  - 198
+IS  - 
+SP  - 110742
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal contract design for a supply chain with information asymmetry under dual environmental responsibility constraints
+AU  - Cheng, Susu
+AU  - Zhang, Fan
+AU  - Chen, Xuezhao
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Under dual constraints of green production responsibility and recycling responsibility, the optimal contract between upstream and downstream firms is crucial to achieve low-carbon development, but information asymmetry poses a great challenge to the above contract design. Based on Stackelberg game theory, this paper develops a contract model in a supply chain with information asymmetry under dual environmental responsibility constraints, in which the producer invests in green technology while the retailer exerts green marketing efforts. The paper aims to explore how the producer designs optimal contracts under the different information structures to improve environmental performance while ensuring profitability. Results indicate that: (i) in the full information scenario, the two-part optimal contract makes the decentralized supply chain to achieve the same channel profit and carbon emissions as the centralized scenario. (ii) In the information asymmetry scenario, the producer should design differentiated contract configurations for different types of retailers to eliminate double marginalization. That is, the producer designs low wholesale price and high side payment for the high-type retailer, which enables the producer to earn high profit with low carbon emissions and makes the retailer to obtain additional information profit. While under some conditions, the producer considers the possibility of terminating cooperation with the retailer of low-type, as such a cutoff policy not only guarantees the profitability of the channel members but also improves environmental performance. Furthermore, the impact of some key factors on firms' decisions, profits, and equilibrium carbon emissions is summarized to guide management decisions.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.eswa.2023.121466
+VL  - 237
+IS  - 
+SP  - 121466
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Game analysis on two-tier remanufacturing green closed-loop supply chain considering incentive compatibility under uncertain demand
+AU  - Wang, Zhen
+AU  - Ye, Chunming
+AU  - Guo, Jianquan
+T2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+AB  - The remanufacturing green closed-loop supply chain plays a crucial role under current global environmental pressures, especially in the high-tech manufacturing industry. This study addresses a two-level remanufacturing green closed-loop supply chain system composed of remanufacturers and retailers. Considering incentive compatibility theory under uncertain demand, we establish supply chain optimization models under different decision-making scenarios and analyze supply chain optimization issues through game theory in centralized, decentralized, contract decentralized, and differential subsidy modes. The study finds that: (1) Companies can guide the establishment of green supply chains through secondary subsidies; (2) TE and AE models each have advantages under different carbon emission sensitivity conditions; (3) The AE model is overall superior to other models; (4) Government intervention can effectively enhance profits and reduce carbon emissions. This paper is the first to apply incentive compatibility theory to an uncertain two-level remanufacturing green supply chain, helping enterprises build green supply chains, and proposes a dual regulatory strategy of carbon taxes and subsidies. This provides theoretical support and practical guidance for the formulation of differentiated incentive policies by governments and the green transformation of enterprises, aiding high-tech manufacturing companies in constructing remanufacturing green supply chains and enhancing their market competitiveness.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1080/23302674.2024.2368132
+VL  - 11
+IS  - 1
+SP  - 2368132
+J2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Decision-making in a green trade-ins closed-loop supply chain under financial constraints and corporate social responsibility (CSR)
+AU  - Yi, Yongxi
+AU  - He, Xianwen
+AU  - Li, Yuqiong
+AU  - Li, Chao
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The green and circular economy are two significant themes intertwined in sustainable development, which requires that they be dealt with integral rather than fragmented, as in most previous cases. Therefore, this paper models a closed-loop supply chain consisting of a manufacturer, an e-commerce platform, and a recycler. Among them, the manufacturer with CSR, the game leader, is responsible for green technology innovation, product manufacturing, and remanufacturing. The e-commerce platform and recycler follow online sales and recycling for used products. To solve this Stackelberg game model, we distinguish three scenarios, i.e., the recycler with sufficient funds, financially constrained recycler financing from the manufacturer, or the e-commerce platform. The results show that the recycling rate, the level of green innovation, the profit of each party, and total social welfare are the highest, second, and lowest in those three scenarios, respectively, if borrowing rates are the same in the latter two cases. The interest rate decreases to a certain extent under both financing models, contributing to improving supply chain performance. The manufacturer assumes CSR contributes to the profit of all other parties, the increase in the recycling rate, and the level of green innovation. However, the manufacturer's profit decreases instead of rising, which reveals that the manufacturer should be actively assuming CSR to a certain extent.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.110626
+VL  - 197
+IS  - 
+SP  - 110626
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Dynamic decisions of the manufacturer-led closed-loop supply chain considering altruistic behavior in EV battery
+AU  - Song, Hongfang
+AU  - Li, Xifan
+AU  - Chen, Junlin
+AU  - Mitkova, Liliana
+AU  - Li, Guijun
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Behavioral studies have found that altruism can affect the decision of Closed-Loop Supply Chain (CLSC) significantly. Altruistic behaviors on optimal decision-making in dynamic environments are challenging problems. To solve these difficulties, we individually propose three types of cases and using differential game theory and Bellman theory: (a) a manufacturer behaving altruistically to third-party recyclers; (b) one manufacturer cooperating with other participants to have altruism; (c) the manufacturer collaborating with other participants to behave non-altruistically. We conduct optimal dynamic decisions for participants associated with quality of EV batteries, further explore the rule of time evolution considering altruistic behavior. We find three interesting results as follows: altruistic behavior of the manufacturer is advantageous to profitability of CLSC especially when it cooperates with a retailer and one of third-party recyclers. Altruistic behavior of the manufacturer is a behavior of profit transferring and moderate altruistic behavior is conducive to the profitability of CLSC and cooperation motivates activity of recycling. In dynamic situations, quality level of EV batteries is polarized. When the manufacturer has altruistic behavior to one or two third-party recyclers, long-term development of CLSC is affected by the deterioration of quality level of EV batteries.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jclepro.2024.143385
+VL  - 472
+IS  - 
+SP  - 143385
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A comparative analysis of government intervention under the EPR system: Eco-design and authorized remanufacturing
+AU  - Wang, Haojun
+AU  - Liu, Jun M.
+AU  - Chen, Lianghua
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - The extended producer responsibility system and government intervention are among the essential requirements for constructing sustainable economies. In a closed-loop supply chain consisting of an original equipment manufacturer (OEM) and a third-party remanufacturer (TPR), this paper develops four Stackelberg game models for four modes of government intervention under patent licensing: no intervention, tax and subsidy, tax and subsidy plus eco-design tax deduction, and eco-design tax deduction only. The impacts of the different government interventions on the optimal production decision, social welfare, and environment are analyzed and compared. The results indicate that, compared with no government intervention, government tax and subsidy decrease the supply of new products, increase supply of remanufactured products, and raise recycling rates of end-of-life products; on top of tax and subsidy, the government's eco-design tax deduction can further increase OEM and TPR profits; the environmental impact under different government intervention depends on the ratio of the environmental impacts of remanufactured to new products and the level of eco-design effort. This study provides decision makers (i.e., OEM and TPR) and policy makers (i.e., governments) with new managerial insights on the benefits of eco-design and effective mechanisms to promote it.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.eswa.2024.123680
+VL  - 249
+IS  - 
+SP  - 123680
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Stakeholder interactions of government intervention in construction and demolition waste recycling market: A game theory approach
+AU  - Su, Yangyue
+AU  - Xu, Yabing
+AU  - Bao, Zhikang
+AU  - Ng, S. Thomas
+AU  - Gao, Qun
+T2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+AB  - To acquire an in-depth understanding on how government intervention affects C&DW recycling market, this study develops four game models consisting of three main categories of stakeholders, e.g., the government, contractors, and C&DW receivers (recycling enterprises and landfills) to reveal stakeholder interactions of government intervention. Taking China's C&DW recycling market as an example, four different scenarios are established to examine and compare the effects of government intervention policies on C&DW recycling, illegal dumping, and stakeholder profits. Finally, numerical simulations are performed to gain further insights into the impact of government intervention on stakeholders' behaviors with a case study from Shenzhen, China. Results indicate: (1) government intervention policies can always lead to an increased amount of C&DW recycled and a reduced amount of C&DW illegally dumped compared to no any measure; (2) government subsidy can improve the market competitiveness of recycling enterprises and weaken the competitiveness of landfills. Both subsidyonly and subsidy-plus-penalty policies help reduce economic burden on contractors compared to no interventions, but penalty policy increases contractors' expenditures. Finally, penalty policy can significantly reduce the amount of illegally dumped C&DW, while subsidy policy can significantly increase the amount of recycled C&DW. This study provides valuable theoretical support and practical guidance for decision-making of governments in developing economies to develop C&DW recycling by formulating targeted intervention policies.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.dibe.2024.100391
+VL  - 18
+IS  - 
+SP  - 100391
+J2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Original equipment manufacturer with remanufacturing: Outsourcing strategy and organizational structure
+AU  - Li, Wei
+AU  - Tian, Ruimiao
+AU  - Chen, Jing
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - We consider an original equipment manufacturer (OEM) with two divisions: one manufacturing and selling new products, and the other remanufacturing used products for sale. The OEM can choose between centralizing or decentralizing its manufacturing and remanufacturing divisions. The OEM 's product contains a key component that cannot be reused in the remanufactured product. Each unit of the new/remanufactured product requires one unit of this new component. The OEM may either produce this component in house or outsource its production to a supplier. By developing game -theoretic models, we investigate the impact of the OEM 's internal organizational structure on its outsourcing decision, and the impact of the OEM 's outsourcing strategy on its choice of internal organizational structure. For a given internal organizational structure, we show that the levels of the supplier 's cost advantage and the cost saving from remanufacturing are the primary drivers in the OEM 's outsourcing decision. Moreover, the OEM 's internal organizational structure has significant implications for its choice of outsourcing strategy. Specifically, when the cost saving from remanufacturing is moderately low or sufficiently high, the decentralized OEM is more likely to choose outsourcing, while the centralized OEM is more likely to outsource when the cost saving from remanufacturing is moderate. For a given outsourcing strategy, we show that the OEM 's choice of internal organizational structure is significantly influenced by its outsourcing strategy. While the insourcing OEM always prefers a centralized structure, the outsourcing OEM may strategically decentralize its internal organizational structure, depending on the level of cost saving from remanufacturing and the degree of consumer acceptance of the remanufactured product.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.tre.2024.103575
+VL  - 187
+IS  - 
+SP  - 103575
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Design for product upgradability considering remanufacturing outsourcing: A three-level joint optimization approach
+AU  - Ma, Yujie
+AU  - Du, Gang
+AU  - Jiao, Roger J.
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Product design and business models play a pivotal role in the transition to a circular economy, emphasizing waste reduction and the preservation of valuable materials. Upgrading products by selectively replacing components that devalue over time proves to be an effective strategy for achieving competitive reutilization. This approach, known as product design for upgradability (DfU), not only enhances product value but also avoids whole product replacement, contributing to the realization of a sustainable society. The prevailing practice of DfU is often examined as a life-cycle characteristic, focusing on configurations of functional, physical, and architectural features to achieve competitive reutilization and extend service life. However, the upgradability of a product is strongly influenced by the practices of remanufacturing enterprises, which commonly adopt outsourcing strategies. Coordinating DfU decisions with remanufacturing and outsourcing presents a critical challenge for the effective operation of product upgrades. To address this challenge, this paper proposes a nonlinear mixed-integer decision model emphasizing a threelevel joint optimization (TJO) based on a Stackelberg game. This model aims to determine the optimal solution that maximizes profit for the manufacturer, multiple remanufacturers, and outsourcers. To solve for the optimal decisions, a solution approach combining analytical methods with a nested genetic algorithm (NGA) is developed. The feasibility and effectiveness of the proposed TJO model are illustrated through a practical case study focusing on engine DfU considering remanufacturing outsourcing. The study identifies optimal DfU, remanufacturing, and outsourcing schemes simultaneously and conducts a sensitivity analysis of key parameters. The results demonstrate that our proposed DfU considering remanufacturing outsourcing strategy effectively improves production efficiency and the competitive advantage of enterprises. Moreover, the proposed TJO model successfully addresses coordination and conflicts between different stakeholders. Overall, this research provides valuable insights into the integration of DfU, remanufacturing, and outsourcing, offering a practical approach to optimizing decisions and improving the overall performance of enterprises in the context of remanufactured products.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijpe.2024.109233
+VL  - 272
+IS  - 
+SP  - 109233
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Navigating the recycling intention of electronics manufacturers in collaborating with a third-party collector: A Stackelberg game analysis
+AU  - Feng, Zhangwei
+AU  - Luo, Na
+AU  - Wu, Sihong
+AU  - Yan, Zheng Joseph
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Despite recycling being perceived as essential for sustainable development in the electronics industry, two critical issues have yet to be thoroughly investigated: the role of government intervention and contract design on improving recycling intentions of manufactures. This study employs game -theoretic models to examine the impact of government intervention and various contractual arrangements on the strategic decision -making of electronics manufacturers regarding recycling. Our findings reveal that: 1) the manufacturers ' recycling intentions increase when tax rate is within certain range, as their recycling effort, under such a circumstance, contributes to improvements in their profitability; 2) when collaborating with a third -party collector (3 PR), the 3 PR may exhibit passive resistance by reducing recycling efforts upon detecting manufacturers ' insufficient incentives for recycling. Intriguingly, the 3 PR will increase the price offered to consumers for recycled materials in order to stimulate greater quantities of recycling; (3) the different designs of recycling contracts can incentivize manufacturers to engage in recycling activities in various ways. Overall, the findings presented herein provide new insights into examining the incentive mechanisms of manufacturers ' recycling intentions and identifying potential challenges and opportunities for policy implementation. This study also offers managerial implications for decision -makers to enhance the efficiency of their recycling efforts and contribute to a more sustainable production system.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jclepro.2024.142460
+VL  - 457
+IS  - 
+SP  - 142460
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Outsourcing vs. authorization remanufacturing and differential vs. uniform pricing: A supply chain perspective
+AU  - Ding, Junfei
+AU  - Pu, Xujin
+AU  - Zhang, Wen
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - We study a three-tier closed-loop supply chain in which a supplier sells un-remanufacturable key components to an original equipment manufacturer (OEM) and a third-party remanufacturer (TPR). The supplier has two options to price the key components: the uniform pricing policy and the differential pricing policy. Additionally, the OEM has the choice to either outsource or authorize the remanufacturing business to the TPR. Using a game-theoretic framework, we analyze the equilibria of multiple games that the two pricing policies and the two remanufacturing modes are available. Among other findings, we show that compared with the authorization remanufacturing mode, the outsourcing remanufacturing mode is a win-win solution for the supplier, the OEM, the consumers, and the society, but it may be detrimental to the TPR. Compared with the uniform pricing policy, the differential pricing policy may lead to win-win situation for the supplier, the TPR, and the consumers, but it hurts the OEM and the society. We also show that price discrimination can motivate remanufacturing and improve environmental benefits under certain conditions. The analysis of social welfare and environmental impacts provides timely managerial insights for governments considering relaxing anti-price discrimination laws. To check the robustness of our results, we extend our models to incorporate the production cost of key components, the remanufacturing cost, and a two-period framework. The results indicate that all core insights remain valid and the un-remanufacturability of key components hinders remanufacturing.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.tre.2024.103777
+VL  - 192
+IS  - 
+SP  - 103777
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Battery recycling models selection and contractual incentives: From an information sharing perspective
+AU  - Feng, Lin
+AU  - Qu, Mengru
+AU  - Ng, Adolf K. Y.
+AU  - Jia, Peng
+AU  - Kuang, Haibo
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - As the battery recycling market in China is still in an embroynic stage, the mechanisms, channels, pricing, and efficiency of battery recycling are shrouded in opacity. Battery recycling in China is currently dominated by electric vehicle manufacturer, supplemented by other market players such as battery producers and electric vehicle retailers. Due to the lack of information, battery recycling lacks cooperation and communication, and the whole market is dealing with Information Island. Therefore, based on information sharing and channel competition, this paper designs a Stackelberg game model with an electric vehicle manufacturer, an electric vehicle retailer, and a third -party recycler as the primary participants. This study found that effective information sharing can reduce intensified market competition and promote the transformation of market players into collaboration state . To promote partnership in the battery recycling market, this paper proposes a revenuesharing contract incentive for the electric vehicle retailer to share demand information about battery recycling. It finds a revenue -sharing contract based on information sharing can help companies and competitors make appropriate behavioral choices in the battery recycling market. This study demonstrates that information sharing benefits the electric vehicle manufacturer and the third -party recycler while offering no advantages to the electric vehicle retailer. The decreasing accuracy of demand signals results in the diminishing value of information sharing for the electric vehicle manufacturer and the third -party recycler. The revenue -sharing contract can incentivize the electric vehicle retailer to share information.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jclepro.2024.142701
+VL  - 462
+IS  - 
+SP  - 142701
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing, greening, and recycling decisions of capital-constrained closed-loop supply chain with government subsidies under financing strategies
+AU  - Chen, Jianhui
+AU  - Tian, Yan
+AU  - Chan, Felix T. S.
+AU  - Tang, Huajun
+AU  - Che, Pak Hou
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Background: Due to the growing awareness of environmental protection and their economic benefits, there has been rapid development in the closed-loop supply chain (CLSC) in recent years, with a general occurrence of CLSCs led by collectors. Motivation: Even with government support such as subsidies, the operation of CLSC still requires immense investment, such as purchasing recycling equipment. Nevertheless, the unprecedented economic recession during the post-pandemic era has heightened the risk of insufficient funding for CLSC. This highlights the importance of understanding the complexities involved in CLSC financing strategies, as they are crucial for ensuring the sustainability and resilience of CLSC in the face of challenges. Methods: To investigate the equilibrium decisions and financing strategy selection of CLSCs, we developed and analyzed a series of three-stage Stackelberg models, considering practical scenarios involving capital constraints, environmentally friendly green activities, government subsidies for End-of-Life (EOL) recycling, as well as introducing common trade credit financing and bank financing for generality. Conclusion: The findings demonstrate: (1) Under trade credit financing, it is always beneficial for the collector granting credit. Interest income can motivate the collector to recover more EOL products. (2) In addition to financing interest rates, government subsidies and remanufacturing cost savings can affect the financing strategy selection of the capital-constrained manufacturer. Our study provides guidance for managers in selecting optimal financing strategies under specific conditions. (3) The total profit of CLSC under trade credit financing is always higher and we propose a revenue-sharing contract to realize the win-win status with the optimal profit of CLSC. (4) Furthermore, our results underscore the importance of government recycling subsidies, remanufacturing cost savings, and the positive impact achieved by reducing recycling difficulties and enhancing customer awareness of green consumption.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jclepro.2024.140797
+VL  - 438
+IS  - 
+SP  - 140797
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Decision-making analysis of electric vehicle battery recycling under different recycling models and deposit-refund scheme
+AU  - Wu, Wenqi
+AU  - Zhang, Ming
+AU  - Jin, Danlin
+AU  - Ma, Pingping
+AU  - Wu, Wendi
+AU  - Zhang, Xueli
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Recycling electric vehicle (EV) batteries has gained great attention in China. However, the firm's initiative will be weakened due to high costs. A deposit-refund scheme has been pilot-implemented in Shenzhen city. This paper tries to explore the role of the deposit-refund scheme in end-of-life EV battery recycling by using the Stackelberg game theory. Specifically, this study builds single-channel recycling models, mixed recycling models, and alliance recycling models to investigate the impact of the deposit-refund scheme on decision variables, supply chain profit, and recycling rate. Results show that: (1) Supply chain decision variables are all affected by the deposit-refund scheme. Supply chain profit decreased and the recycling rate increased under the depositrefund scheme. Compared with subsidy and environmental tax, a deposit-refund scheme can significantly improve the EV battery recycling rate. (2) From the perspective of the recycling model, Model MV has the highest supply chain profit, and Model M performs best in recycling rate. (3) When the consumer retail price sensitivity coefficient rises, supply chain profit declines, and the recycling rate increases. Under higher recycling difficulty and channel competition coefficient, supply chain profit and recycling rate will all decrease.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.110109
+VL  - 191
+IS  - 
+SP  - 
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Decision-making in closed-loop supply chains: Effects of government subsidies and risk aversion
+AU  - Song, Huaixi
+AU  - Li, Quanxi
+T2  - INTERNATIONAL REVIEW OF FINANCIAL ANALYSIS
+AB  - Closed-loop supply chains (CLSCs) play a crucial role in promoting sustainable resource management, yet their implementation faces challenges in balancing economic viability with environmental goals. While existing research has explored various aspects of CLSC operations, the interplay between government subsidies and risk- averse behavior of supply chain members remains understudied, particularly in systems involving third-party recyclers. This gap hinders the development of effective policies and management strategies for sustainable CLSCs. Herein, we employ a Stackelberg game-theoretic model to investigate decision-making processes in CLSCs under four distinct subsidy scenarios, incorporating risk aversion through mean-variance utility functions. Our results reveal that subsidy effectiveness significantly depends on remanufacturing costs and risk attitudes of supply chain participants. When remanufacturing costs are high, subsidizing third-party recyclers yields superior environmental and economic outcomes, whereas manufacturer subsidies prove more effective when these costs are low. Moreover, we identify critical thresholds in subsidy levels and risk aversion that alter decision-making patterns. These findings provide a framework for designing targeted subsidy policies and risk management strategies in CLSCs, advancing the field of sustainable supply chain management by offering nuanced insights into the complex dynamics between government interventions, risk preferences, and CLSC performance.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.irfa.2024.103566
+VL  - 96
+IS  - 
+SP  - 103566
+J2  - INTERNATIONAL REVIEW OF FINANCIAL ANALYSIS
+ER  - 
+
+
+TY  - JOUR
+TI  - Comparative evaluation of different recycling modes for decommissioned photovoltaic products based on stackelberg game
+AU  - Wang, Nan
+AU  - Li, Jing
+AU  - Li, Wei
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - China is the photovoltaic (PV) leader worldwide and will be confronted with significant challenges stemming from the scrap tide of PV products. Constructing an effective recycling system is essential for retired PV product management. Using the Stackelberg game theory, this study establishes and compares three recycling modes including manufacturer recycling, third-party recycling, and producer responsibility organization (PRO) recycling for decommissioned PV products. Afterward, the effects of module processing costs, echelon utilization rates, and collection subsidies on the transfer prices, collection quantities, supply chain profits, and carbon emissions of the various recycling modes are simulated and analyzed. The results reveal that: (1) The manufacturer recycling realizes optimal supply chain profits; (2) Compared to the PRO recycling mode, the third-party recycling experiences superior performances when retired module processing costs are lower than a specific threshold; (3) Uplifting echelon utilization rates and collection subsidies while reducing module processing costs could supplement the overall economic and environmental benefits within the PV closed-loop supply chain (CLSC); (4) Environmental performances of the different recycling modes are associated with the carbon emission reduction efficiency. Accordingly, valuable insights are provided for manufacturers, recyclers, and governments to develop a sustainable retired PV product recycling system.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.jenvman.2024.122553
+VL  - 370
+IS  - 
+SP  - 122553
+J2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Hybrid closed-loop supply chain with different collection competition in reverse channel
+AU  - He, Qidong
+AU  - Wang, Nengmin
+AU  - Jiang, Bin
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In the hybrid closed-loop supply chain (CLSC) with diverse collectors, customers increasingly prioritize the convenience in returning end-of-life (EOL) products. This trend necessitates supply chain entities to enhance their collection service to address the intensifying competition for EOL products collection. To devise appropriate convenience and pricing strategies, we construct a hybrid game-theoretic CLSC model encompassing a manufacturer, a retailer, and a third-party collector, and we propose new collection functions that cater to varying levels of collection competition, spanning monopoly, duopoly, and hybrid competitive scenarios. Furthermore, we delve into the influence of customers' preferences or distrust towards a specific collector on the collection competition, which is caused by factors such as more convenient offline stores or unqualified recycling process. Our study first reveals that collection competition is affected by all collectors' convenience strategies, while the total collection rate is dominated by the most preferred collectors' convenience strategy. Second, both customer's preference and distrust negatively affect pricing and convenience strategies, albeit with differing effects on collection rates across various competition levels. Notably, channel distrust exerts a more substantial influence on manufacturers' and third-party collectors' strategies. Third, we also examine how competitive collection and customer behavior shape the proportion of collected products destined for different recovery options, i.e., remanufacturing and recycling, as well as the overall efficiency of recovering collected products across the entire supply chain. And channel preference plays a more positive role in enhancing the overall collection rate for the supply chain.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijpe.2024.109371
+VL  - 276
+IS  - 
+SP  - 109371
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal government policies for carbon-neutral power battery recycling in electric vehicle industry
+AU  - Zhu, Jianhua
+AU  - Feng, Taiwen
+AU  - Lu, Ying
+AU  - Xue, Runze
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Power battery recycling plays a crucial role in mitigating environmental impacts, conserving valuable resources, and promoting sustainability in the rapidly expanding electric vehicle industry. However, current research lacks an analysis of the interplay between government policies, technology, economics, and the environment. This study utilizes the Stackelberg model to explore power battery recycling and echelon utilization. We examine the impact of government policies, such as non-interference (GNI), environmental tax (GT), dismantling subsidies (GDS), and recycling subsidies (GRS), as well as technological maturity and resource efficiency. Our research focuses particularly on two vital factors: products environmental footprint (PEF) and the recycling rate. The findings reveal that government intervention can effectively reduce the PEF, especially when dismantling technology is well-developed. The intervention outcomes are significantly influenced by recycling costs and revenue from echelon utilization of power battery. Concerning recycling rates, a combination of higher tax rates and the GT policy proves most effective in promoting increased recycling rates. Nevertheless, the GDS policy shows promise with lower tax rates. Furthermore, we identify feasible conditions for carbon neutrality and explore how government policies can facilitate this transition. Finally, our study gives policy recommendations for achieving maximum recycling rates and minimum PEF.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.109952
+VL  - 189
+IS  - 
+SP  - 109952
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing and bundling strategies for complementary products in a closed-loop green supply chain under manufacturers' different behaviors
+AU  - Mondal, Chirantan
+AU  - Giri, Bibhas Chandra
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - This study attempts to incorporate product complementarity and bundling strategy with green innovation and remanufacturing in a two-stage supply chain. For doing so, it considers a green closed-loop supply chain that combines two manufacturers and a typical retailer to deal with complementary products. Based on the manufacturer-led Stackelberg game-theoretic approach, it first develops two models considering the bundling strategies of the retailer. Each of these two models again establishes three sub-models under consideration of whether the manufacturers make their decisions jointly or simultaneously or sequentially. The optimal responses and the profitability under various models are compared both analytically and numerically to get some insights. The results exhibit that (a) regardless of different bundling strategies, the sequential decision -making scenario is beneficial for the leading manufacturer while the joint decision-making scenario is profitable for another manufacturer, the retailer, and the entire supply chain, (b) no bundling strategy is preferable in a green-sensitive market, even though it gives less profit to channel individuals, (c) in the Stackelberg scenario, the decision of which of two manufacturers will profit more depends on product complementarity and the residual values obtained from end-of-used products acquisition and their handling, and (d) the level of product complementarity and bundle price discount play important role in determining the appropriate bundling strategy.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.eswa.2023.121960
+VL  - 238
+IS  - 
+SP  - 121960
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal strategies for carbon emissions policies in competitive closed-loop supply chains: A comparative analysis of carbon tax and cap-and-trade policies
+AU  - Huang, Yuxin
+AU  - He, Pengfei
+AU  - Cheng, T. C. E.
+AU  - Xu, Senyu
+AU  - Pang, Chuan
+AU  - Tang, Huajun
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - This study addresses a comparative analysis of carbon emissions policies and optimal decisions in competitive closed-loop supply chains. It examines three policy scenarios: a single carbon tax, a single cap-and-trade, and a mixed policy. Competitive intensity, the degree of competition among manufacturers, and product recycling rate, a key element in closed-loop supply chains, can impact the comparative analysis of carbon policies and optimal decisions in competitive closed-loop supply chains. A supply chain system is constructed, consisting of two manufacturers and a shared retailer. We employ a decentralized decision-making approach, with a Cournot game between the manufacturers and a Stackelberg game with the retailer. The analysis considers the impacts of carbon tax, carbon trading price, and recycling rate on optimal decisions and total supply chain profit. The results demonstrate that the mixed carbon policy can yield superior economic and environmental benefits compared with the single carbon tax policy. Mixed policies are likely to be relatively less profitable in most cases than a single cap-and-trade policy. Notably, when the mixed carbon quota exceeds a certain threshold, the mixed policy surpasses the single cap-and-trade policy both economically and environmentally. This study extends previous research by examining the impacts of the recycling rate and various carbon policies on supply chain decisions and profit. The findings offer insights into optimal strategies for reducing supply chain carbon emissions, which benefits policymakers and managers. Finally, it suggests that enterprises should consider a mixed carbon policy to balance economic and environmental goals.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.110423
+VL  - 195
+IS  - 
+SP  - 110423
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - An optimal Trade-Online-Deliver-Offlinestrategy for recycling unwanted medicines by reutilizing the existent informative pharmaceutical sales network
+AU  - Luo, Yufeng
+AU  - Wan, Zhong
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Circular economy and sustainable development resort to creating friendly and profitable environment of recycling unwanted goods in practice. This research aims to design a novel Trade-Online-Deliver-Offline(TODO) system to recycle unwanted medicines (UMs) by reutilizing the existent informative pharmaceutical sales network, which is the first dual-channel recycle system with synergies of manufacturer, chain drugstores and governments. Cross-selling effect, i.e., the additional sales from the customers who visit the drugstores for returning UMs, is also considered in this system. With a given revenue-sharing contract, a bi-level programming model is built to formulate such a recycle system, where the drugmaker is the leader and the chain drugstores are the followers within a decision mode of the Stackelberg game. Through reformulating, this complicated model is solved by developing an efficient smoothing algorithm. Scenario analysis and sensitivity analysis are employed to validate the built model and reveal valuable managerial insights. Main findings include: Compared with the existing modes, the proposed TODO mode is more efficient in terms of the recycled UM quantity and the reduced government burden; Cross-selling effects enhance the profit of drugstores without damage of customer's surplus, but without significant impacts on the drugmaker's profit; An increasing revenue-sharing ratio is beneficial to the drugstores in certain scenarios, but reduces the total profit of the recycle system; Resale prices of UMs and governmental tax relief policies both dominate the drugmaker's optimal ratio of the resold and donated UMs.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.110102
+VL  - 191
+IS  - 
+SP  - 110102
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Recyclability level and quantity decisions of electronic manufacturers under four recycling systems of extended producer responsibility
+AU  - Wang, Qixiang
+AU  - Chen, Baixue
+AU  - Wang, Zhe
+AU  - Gong, Yande
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Some electronic manufacturers and groups have left or are planning to leave the default recycling system that regulates their responsibilities for end-of-life (EoL) products. A legislative menu in the extended producer responsibility (EPR) framework allows manufacturers to choose the rate or cost model freely. In this paper, we model four potential recycling systems to study how two firms with brand differentiation should choose legislative models. We analyze the effect of take-back rate and brand differentiation on the firms' equilibrium decisions, identify the condition in which firms leave the default plan, and further compare economic and environmental outcomes among all recycling systems. We find that only the cost system creates free-riding avenues because the current cost allocation mechanism by market shares does not concern the environmental contributions of members. We also find that the hybrid system (which includes rate-cost and cost-rate systems) provides higher design incentives than the basic case (which includes rate and cost systems), contrasting to the conventional wisdom in which the rate system has superior design incentives. Finally, our results demonstrate that the rate-cost system performs better economic and environmental benefits due to the perfect match between differentiated manufacturers and legislative models.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.cie.2024.110617
+VL  - 197
+IS  - 
+SP  - 110617
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Impact of differentiated carbon taxes on remanufacturing mode selection
+AU  - Xia, Xiqiang
+AU  - Chen, Jun
+AU  - Wang, Wei
+AU  - Wang, Haijie
+T2  - ENERGY ECONOMICS
+AB  - In current remanufacturing supply chains, whether the original equipment manufacturer (OEM) independently engages in remanufacturing or delegating (authorizing or outsourcing) to a third-party remanufacturer (TPR) is influenced by the government's differentiated carbon tax. However, our understanding of the factors influencing the optimal choice among the three remanufacturing strategies (i.e., self-remanufacturing, authorizing remanufacturing, and outsourcing remanufacturing) is fairly limited. In particular, little attention has been paid to differentiated carbon taxes, which involve the government imposing a high carbon tax on new products and a low carbon tax on remanufactured products. To fill these gaps, this study develops game models that include an OEM and a TPR. Our analysis reveals four main findings. First, with the increase in carbon tax on new products, the price of both new and remanufactured products rises. By contrast, once the carbon tax on remanufactured products increases, only the price of remanufactured products rises. Second, when the carbon tax gap between new and remanufactured products is small and the ratio of environmental impact per unit of remanufactured products to that of new products is less than consumer preference, both outsourcing remanufacturing and selfremanufacturing could achieve a win-win situation in reducing environmental impact and enhancing consumer surplus. Third, regardless of the governments' setting of the differentiated carbon tax, the OEM, as a profitseeker, will decline the authorizing remanufacturing to expand profits in any case. Further, when the carbon tax gap between new and remanufactured products is less than a certain threshold, the optimal mode for the OEM is outsourcing remanufacturing, followed by self-remanufacturing. Fourth, our numerical analysis indicates that the carbon tax gap between new and remanufactured products plays a vital role in optimal remanufacturing strategy selection. Notably, both the recycling scale of wasted products and consumer preferences for remanufactured products should be taken into account when making an optimal remanufacturing selection.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.eneco.2024.107955
+VL  - 140
+IS  - 
+SP  - 107955
+J2  - ENERGY ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Battery recycling and coordination in information leakage prevention under blockchain technology in a new energy vehicles supply chain
+AU  - Yi, Yongxi
+AU  - Fu, Ao
+AU  - Li, Yuqiong
+AU  - Zhang, Aoxiang
+T2  - ENERGY ECONOMICS
+AB  - Retired battery recycling and information leakage prevention under blockchain introduction intertwine in the new energy vehicle (NEVs) supply chain, but rare literature has jointly investigated them. Therefore, we characterize the vehicle goodwill under recycling and marketing efforts as well as the automobile demand function with and without blockchain introduction, identify the long-run discounted profits of the manufacturer and retailers in the supply chain, and investigate the Stackelberg differential game equilibrium under four scenarios: no blockchain introduction, manufacturer introduction, manufacturer-retailer cooperative introduction, and cooperative introduction plus wholesale price discounts for preventing information leakage. The results show that the manufacturer can introduce blockchain when costs are below a certain threshold, which increases the recycling rate of decommissioned batteries and improves goodwill, consumer demand, and marginal profits for the manufacturer and retailer; the retailer participation in the introduction of blockchain solves the free-rider problem and reduces the thresholds introduced, but does not affect battery recycling, goodwill, consumer demand, and wholesale and retail prices; wholesale price discounts effectively discourage the retailer from leaking information about the manufacturer and lead to improved profits for the retailer, but results in higher earnings for the manufacturer only when discounts are below a certain threshold.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.eneco.2024.107862
+VL  - 139
+IS  - 
+SP  - 107862
+J2  - ENERGY ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Strategic information sharing in the dual-channel closed loop supply chain with nonlinear production cost
+AU  - Wang, Tong-Yuan
+AU  - Chen, Zhen-Song
+AU  - Wang, Xian-Jia
+AU  - Govindan, Kannan
+AU  - Skibniewski, Miroslaw J.
+T2  - INFORMATION SCIENCES
+AB  - This paper explores the strategy of information sharing within a closed loop supply chain comprising three echelons and dual channels. By considering the supplier's collecting activities and the two formats of nonlinear production costs (i.e., production diseconomy and production economy) faced by the manufacturer, we construct and utilize game-theoretic models to determine the optimal strategy (i.e., no sharing, sharing information solely with the manufacturer, sharing with the supplier, and sharing with both the manufacturer and supplier) for information sharing by the retailer. The findings indicate that the retailer's inclination to voluntarily share information and the most effective approach are significantly influenced by the interplay between the supplier's recycling efficiency and the manufacturer's nonlinear production cost. Specifically, in the context of production diseconomy, it is commonly observed that the retailer can derive advantages by engaging in information sharing with a supplier who possesses a high recycling efficiency. In contract, the retailer would share the information when the recycling efficiency is high or the production economy coefficient is large. Otherwise, no sharing strategy can be considered as the optimal choice. Ultimately, the study aims to assess the effects of various approaches to sharing information on the remaining participants within the supply chain.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ins.2023.119944
+VL  - 657
+IS  - 
+SP  - 119944
+J2  - INFORMATION SCIENCES
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing and production R&D decisions in power battery closed-loop supply chain considering government subsidy
+AU  - Zhang, Wensi
+AU  - Liu, Xiuyu
+AU  - Zhu, Li
+AU  - Wang, Wei
+AU  - Song, Hongfang
+T2  - WASTE MANAGEMENT
+AB  - With the continuous promotion of electric vehicle applications, the recycling of power battery is urgent. Some batteries, although not suitable for continued use in electric vehicles, can be recycled for echelon utilization or remanufacturing. Thus, this study considers an electric vehicle power battery closed-loop supply chain consisting of a manufacturer and a retailer. We develop three strategies: no production research and development effort strategy, production research and development effort strategy, and government subsidy for production research and development strategy. Optimal pricing and production research and development effort decisions are derived based on Stackelberg game. Results indicate that production research and development positively impact the recycling of waste electric vehicle power batteries, with government subsidy further amplifying this effect by offering higher buyback and recycling prices. Government subsidy encourages manufacturer to increase production research and development effort and lowers the market pricing of electric vehicle power batteries, making these batteries more accessible to consumers. A sizable consumer base can offset the increased costs of production research and development, enabling manufacturer and retailer to achieve greater profitability. Both manufacturer and retailer can benefit from production research and development and government subsidy, ultimately enhancing the profitability of the entire closed-loop supply chain.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.wasman.2024.10.004
+VL  - 190
+IS  - 
+SP  - 409-422
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Price distortion forced by recycling competition under trade-in collaboration
+AU  - Zhao, Bowen
+AU  - Tang, Wansheng
+AU  - Wei, Liqun
+AU  - Zhang, Jianxiong
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - Renowned brands and recycling agencies tacitly integrate their business flows together in the current trade-in industry. The collaborative trade-in programme breaks the hierarchy of closed-loop supply chains and provides seamless services for consumers. In this study, we develop a stylised model to capture the change in supply chain structure and scrutinise trade-in collaboration and recycling competition between sellers and recyclers. We find that, under intensive recycling competition, price targeting new consumers is downward distorted by the seller to occupy more trade-in demands in the old consumer segment. Meanwhile, the rebate of the recycler is suppressed by the collaboration constraint. By distorting the price, the seller obtains the predominance in recycling competition while sacrificing part of profits from new consumers. The price distortion indicates the competition spill-over from the old consumer segment to the new consumer segment. Furthermore, the establishment of autonomous recycling reaches a Pareto improvement for the whole system when the competition is mild; otherwise, these two entities fall into a zero-sum scenario. Our study offers insights into recycling value allocation and trade-in partner choice and, theoretically, contributes to the economic literature that price distortion can even be forced by competition with the absence of information asymmetry.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1080/00207543.2024.2324059
+VL  - 62
+IS  - 21
+SP  - 7687-7703
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Dual channel green closed loop supply chain using dual collection approach, collection effort and wholesale price discount
+AU  - Pal, Brojeswar
+AU  - Mukherjee, Hemanta
+AU  - Chaudhuri, Kripasindhu
+T2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+AB  - This paper inquires about a dual-channel closed-loop supply chain of green products containing three members. The manufacturer sells products online and in retail channels, whereas he offers retailers a discount on wholesale prices in the retail channel. In reverse flow, the recycler and retailer collect used products through the online and retail channels, respectively. The recycler offers extra collection efforts. After collection, the recycler recycles them as raw material components and sells them to the manufacturer. The manufacturer produces new products using recycled and new raw materials. The crux of this study lies in finding optimal decisions on retail prices, greening level and collection effort level under centralised and decentralised scenarios. The results are illustrated with numerical examples, highlighting the importance of these decisions in the supply chain. Additionally, sensitivity analysis is accomplished to ascertain relevance. The paper's managerial implications indicate that manufacturer profit is highest in all scenarios. The vertical Nash scenario suits the retailer, and the Stackelberg game is appropriate for the manufacturer. Collection efforts help the recycler consistently gather more used products than retailers, and higher collection ensures higher profits. Again, discounts on wholesale prices, up to a specific threshold, benefit channel members except the manufacturer.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1080/23302674.2024.2391404
+VL  - 11
+IS  - 1
+SP  - 2391404
+J2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A sustainable semiconductor supply chain under regulation
+AU  - Genc, Talat S.
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Modern life would not exist without semiconductors as all electronic components used in computers, telecommunications, health care, transportation, and energy systems are equipped with chips. To examine both backward and forward activities in semiconductor industry, this paper formulates the industry as a closed-loop supply chain. It articulates how old semiconductors are processed and recycled to manufacture new silicon and chips, and examines the impact of a commonly applied subsidy scheme on the performance of semiconductor firms which operate in upstream and downstream layers of the industry. Specifically, the proposed semiconductor supply chain involves (i) a return function sensitive to monetary incentives; (ii) a subsidy legislation rewarding end-users for recycling; (iii) upstream industry where silicon is produced using virgin and scrap materials; (iv) downstream industry in which semiconductor manufacturers (such as TSMC, Samsung, Intel) buy silicon and other materials, hire workers, and then produce and sell chips. We characterize Stackelberg equilibrium silicon and semiconductor prices and outputs and calibrate model parameters using actual data to quantify the effects of subsidy and collection channels on silicon and semiconductor firms' performance. We find that the subsidy scheme neither distorts firms' strategies nor causes any inefficiency for the semiconductor industry. It stimulates circular economy activities and provides economic and environmental benefits.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijpe.2024.109426
+VL  - 278
+IS  - 
+SP  - 109426
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+

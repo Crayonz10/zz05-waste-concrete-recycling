@@ -1,0 +1,475 @@
+TY  - JOUR
+TI  - CATCHING THE FAST PAYMENTS TREND: OPTIMAL DESIGNS AND LEADERSHIP STRATEGIES OF RETAIL PAYMENT AND SETTLEMENT SYSTEMS
+AU  - Guo, Zhiling
+AU  - Ma, Dan
+T2  - MIS QUARTERLY
+AB  - Recent financial technologies have enabled fast payments and are reshaping retail payment and settlement systems globally. We developed an analytical model to study the optimal design of a new retail payment system in terms of settlement speed and system capability under both bank and fintech firm heterogeneous participation incentives. We found that three types of payment systems emerge as equilibrium outcomes: batch retail (BR), expedited retail (ER), and real-time retail (RR) payment systems. Although the base value of the payment service positively affects both settlement speed and system capability, the expected liquidity cost negatively impacts settlement speed, and total transaction volume and technological effectiveness positively impact system capability. We identified three leadership strategies to maximize social welfare: the government mandate (GM) strategy, the fintech-inclusive (FI) strategy, and the fintech-exclusive and bank-exclusive (FE+BE) strategy. When the base value of the payment service is either low or high, the GM strategy leads to a socially optimal unified system. When the base value of the payment service is in the intermediate range, and if fintech firms have a significant technological advantage over banks, then both GM and FI strategies result in a socially optimal unified system; otherwise, the FE+BE strategy results in a socially optimal fragmented system. Further, we proposed a Shapley-value-based cost-sharing rule under the GM strategy to fairly allocate social welfare among the system participants. Our findings offer important policy insights into the optimal system designs, leadership strategies, and the government regulator's role in shaping future innovations in the payments industry.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.25300/MISQ/2022/16776
+VL  - 47
+IS  - 2
+SP  - 669-704
+J2  - MIS QUARTERLY
+ER  - 
+
+
+TY  - JOUR
+TI  - Game of banks- biform game theoretical framework for ATM network cost sharing
+AU  - Nguyen, Tri-Dung
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Automated teller machines (ATM) play a major role in the world economy as they enable financial transactions and hence good exchanges and consumption. ATM transaction fees are incurred to cover the cost of running the network and these are often settled among the members including banks and cash machine operators. In this paper, we develop a novel biform game theoretic model for members to optimally invest in the ATM network and to share the cost. This biform game includes both a cooperative game theory mechanism for interchange fee sharing and a non -cooperative counterpart to model the fact that members also wish to maximize their utilities. While the proposed coopetition framework is applicable to general ATM networks, we focus the case study on the UK ATM network thanks to the accessibility of the data in addition to the notable stability issues that the network is currently experiencing as has been widely featured by the mainstream media. On the technical side, we prove the existence of a pure Nash equilibrium, which can be computed efficiently. We also show that, under some settings, the Shapley allocation belongs to the core and hence it is not only fair to all members but also leads to a stable ATM network. In addition, we show that the Shapley value allocation dominates the current mechanism in terms of social welfare. Finally, we provide numerical analysis and managerial insights using real data on the complete UK ATM network.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ejor.2024.02.036
+VL  - 316
+IS  - 3
+SP  - 1158-1178
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Measuring productivity in networks: A game-theoretic approach
+AU  - Allouch, N.
+AU  - Guardiola, Luis A.
+AU  - Meca, A.
+T2  - SOCIO-ECONOMIC PLANNING SCIENCES
+AB  - Measuring individual productivity (or equivalently distributing the overall productivity) in a network structure of workers displaying peer effects has been a subject of ongoing interest in many areas ranging from academia to industry. In this paper, we propose a novel approach based on cooperative game theory that takes into account the peer effects of worker productivity represented by a complete bipartite network of interactions. More specifically, we construct a series of cooperative games where the characteristic function of each coalition of workers is equal to the sum of each worker intrinsic productivity as well as the productivity of other workers within a distance discounted by an attenuation factor. We show that these (truncated) games are balanced and converge to a balanced game when the distance of influence grows large. We then provide an explicit formula for the Shapley value and propose an alternative coalitionally stable distribution of productivity which is computationally much more tractable than the Shapley value. Lastly, we characterize this alternative distribution based on three sensible properties of a logistic network. This analysis enhances our understanding of game-theoretic analysis within logistics networks, offering valuable insights into the peer effects' impact when assessing the overall productivity and its distribution among workers.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.seps.2023.101783
+VL  - 91
+IS  - 
+SP  - 101783
+J2  - SOCIO-ECONOMIC PLANNING SCIENCES
+ER  - 
+
+
+TY  - JOUR
+TI  - An inter-provincial coordinate model under Renewable Portfolio Standards policy based on tradable green certificate options trading
+AU  - Zeng, Lijun
+AU  - Du, Wenjing
+AU  - Zhao, Laijun
+AU  - Chen, Shuai
+T2  - RENEWABLE ENERGY
+AB  - The current territorial management model under Renewable Portfolio Standards in China cannot fully develop renewable energy due to the mismatch between high energy-consumption regions and renewable energy-rich regions. Therefore, we proposed an inter-provincial coordinate model based on tradable green certificate options trading (CMTOT), which includes four components: (1) A dual-objective optimization model is established to minimize the RPS target realization cost and maximize the pollutant emission reduction based on BlackeScholes option pricing model. (2) The identification of buyer and seller provinces of tradable green certificate (TGC) options based on the above model. (3) An optimization model in buyers' or sellers' cooperation alliance is established. (4) The cost allocation models by Shapley value and Nucleolus are established to ensure the fairness in different scenarios. A case study of Tianjin, Shandong, Shanxi and Inner Mongolia shows that the CMTOT can effectively reduce the RPS target realization cost by 16.79 % and increase the pollutant emission reduction by 4.32 %. A sensitivity analysis confirms the robustness of the CMTOT. The results show that the CMTOT can both fully develop renewable energy and effectively reduce pollutant emission. Therefore, we proposed some policy recommendations to support the implementation of the CMTOT.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.renene.2024.121202
+VL  - 234
+IS  - 
+SP  - 121202
+J2  - RENEWABLE ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - A stochastic optimization procedure to design the fair aggregation of energy users in a Renewable Energy Community
+AU  - Volpato, Gabriele
+AU  - Carraro, Gianluca
+AU  - De Giovanni, Luigi
+AU  - Dal Cin, Enrico
+AU  - Danieli, Piero
+AU  - Bregolin, Edoardo
+AU  - Lazzaretto, Andrea
+T2  - RENEWABLE ENERGY
+AB  - Optimizing unit sizes and operation within a Renewable Energy Community (REC) can match intermittent renewable energy generation with variable user energy demands. These uncertain variables are often represented by pre-defined stochastic scenarios, without searching for the best scenarios and testing the optimization models with these scenarios. Moreover, little work both optimized RECs under uncertainty and distributed optimal life-cycle costs (investment and operation) among members. Thus, the objectives are: i) identifying the best set of stochastic scenarios of solar irradiance and user electricity demands and ii) assessing the accuracy of the stochastic forecasts of the total system costs and unit sizes, obtained by solving a stochastic programming model based on the best scenarios. The proposed novel procedure shifts the present moment back in time to split historical data into past and future periods used to identify the best scenarios and compare the stochastic forecasts with the utopic perfect forecasts based on the perfect knowledge of real data, respectively. The small errors between these forecasts in the optimal life-cycle costs (less than 2 %) and sizes (3-13 %) indicate good effectiveness of the suggested procedure. Also, the optimal life-cycle costs of stochastic forecasts are fairly distributed among users by applying the Shapley value mechanism.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.renene.2024.121580
+VL  - 237
+IS  - 
+SP  - 121580
+J2  - RENEWABLE ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - A business model design for hydrogen refueling stations: A multi-level game approach
+AU  - Zhao, Tian
+AU  - Liu, Zhixin
+AU  - Jamasb, Tooraj
+T2  - INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+AB  - There is currently a mother-daughter model for hydrogen refueling stations (HRS). On site mother stations produce hydrogen from city natural gas or water electrolysis, and off-site daughter stations are supplied with hydrogen from nearby on-site stations. This HRS system is a micro hydrogen supply chain that includes hydrogen suppliers, retailers, and end consumers characterized via demand functions. The present paper designs an optimal business model for this distributed HRS system using a multi-level game model, given that on-site and off-site HRS can operate individually or as a coalition to supply hydrogen. Stackelberg game and Shapley value models are constructed to explore how cooperative operation is superior by generating more profits than separate operation. Accordingly, in order to promote cooperation between on-site and off-site operators of HRS, an evolutionary game model is developed to investigate the allocation of profits and coordinated costs on the equilibrium of cooperative operation. The authors conclude that boosting the initial probabilities of actors to choose cooperative strategies and decreasing the coordinated cost can lead the game system to the ideal consequence. The present paper offers recommendations including establishing regulation standards for HRS operation, and advancing the information technology to design a more effective cooperative mechanism.(c) 2023 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijhydene.2023.01.319
+VL  - 52
+IS  - 
+SP  - 577-588
+J2  - INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Decentralised collaborative job reassignments in additive manufacturing
+AU  - Zehetner, Dominik
+AU  - Gansterer, Margaretha
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - Cloud Manufacturing (CMfg) is a promising approach that leverages the sharing economy to reduce costs and enhance supply chain flexibility. Particularly, when utilised alongside Additive Manufacturing (AM), CMfg is considered a key enabler for collaborative production (CP) systems. However, there is still a lack of planning models that reduce entry barriers for CP. Therefore, we propose a decentralised CP planning framework for AM. In our approach, machines autonomously select jobs from an existing production plan to forward them to other suppliers that can produce these parts more efficiently. A CMfg platform facilitates job forwarding and creates promising part bundles and manufacturing machines autonomously places bids on the packages via a combinatorial $ 2<^>{nd} $ 2nd price reverse auction. Costs of the reallocated bundles are shared throughout a Shapley value-based approach without the need to disclose critical information. We benchmark our proposed framework against a centralised planning approach and find that it achieves comparable effectiveness as the benchmark solution. We also show that this mechanism promotes individual rationality and that agents particularly benefit when participating in both offering and acquiring production jobs through the auction.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1080/00207543.2023.2285403
+VL  - 62
+IS  - 14
+SP  - 5149-5167
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative logistics for agricultural products of 'farmer plus consumer integration purchase' under platform empowerment
+AU  - Zhou, Lichen
+AU  - Hou, Guisheng
+AU  - Rao, Weizhen
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - The platform is a comprehensive digital technology carrier that can facilitate the digitization of sales and make it possible to directly connect farmers and consumers. Multi-owner collaboration in logistics may considerably improve efficiency and sustainability, which is crucial for agricultural logistics. This paper introduces a logistics collaboration mechanism for agricultural products of 'Farmer + Consumer Integration Purchase' based on platform information openness and resource sharing. First, the Multi-owner Collaborative Vehicle Routing Problem with Heterogeneous Fleets and Time Windows (MOHFCVRPTW) model was designed. Second, the developed solution is the Adaptive Large Neighborhood Search Heuristic Algorithm (ALNS), which can solve 2n-1 (n is the number of enterprises) sub-alliances corresponding to the collaborative problem at once and produce the scheme and cost. Third, the Shapley value method is used to design a scientific and reasonable cost-sharing mechanism to allocate the total cost of the alliance to each logistics enterprise. Finally, the validity of the mechanism and the model are verified in the context of real logistics networks in Qingdao and Shanghai, and the profit of farmers is quantified by considering the cost of loss of agricultural products. The research found that the logistics collaboration mechanism has achieved cost savings for logistics enterprises, reduced carbon emissions, and improved transportation timeliness. At the same time, losses on agricultural products have been significantly reduced, and farmers' profits have increased. In addition, with the expansion of the scale of the alliance, the increase in the diversity of transport vehicles, and the improvement in the distribution aggregation degree of farmers, the benefits of the collaborative operation mode are more significant. The platform enables the exchange matching and collaborative transportation of agricultural products rapidly and has significant sustainable benefits, which has guiding significance for the practical development of 'Farmer + Consumer Integration Purchase'.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.eswa.2024.124521
+VL  - 255
+IS  - 
+SP  - 124521
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Real-time capacity cost obligations design in high-renewables energy markets
+AU  - Fang, Xichen
+AU  - Guo, Hongye
+AU  - Zheng, Kedi
+AU  - Liu, Shuangquan
+AU  - Chen, Qixin
+T2  - RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+AB  - Under high renewable penetration, the declining energy prices cannot reflect capacity costs of generators. To deal with the missing money problem, several markets around the world have introduced capacity remuneration mechanisms. These mechanisms act well for the generation side by compensating investment costs, but the cost allocation methods among the demand side are non-differentiated or lagging, thus failing to effectively guide consumption patterns. This research proposes a novel two-step cost allocation framework to formulate real-time cost obligations. In replacement of load levels, net load levels (load minus renewable output) are used to measure adequacy conditions under high renewable penetration. The capacity costs are pre-allocated by Shapley value to obtain a mapping function from net load levels to cost obligations. In the real-time, the mapping function is incorporated into the spot market clearing model to generate obligations endogenously. Numerical analyses are conducted on the IEEE test system and an empirical case with California real data. Compared with the lagging obligations formulated by the current mechanism, the proposed framework can reduce peak net load by incentivizing demand responses and storage participation. The profile of real-time capacity cost obligations is illustrated for the California market to show the practicability of the method on a real-market.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.rser.2023.114103
+VL  - 191
+IS  - 
+SP  - 114103
+J2  - RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cost allocation problems on highways with grouped users
+AU  - Gomez-Rodriguez, Marcos
+AU  - Davila-Pena, Laura
+AU  - Casas-Mendez, Balbina
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - One of the practical applications of cooperative transferable utility games involves determining the fee structure for users of a given facility, whose construction or maintenance costs need to be recouped. In this context, certain efficiency and equity criteria guide the considered solutions. This paper analyzes how to allocate the fixed costs of a highway among its users through tolls, considering that different classes of vehicles or travelers utilize the service. For this purpose, we make use of generalized highway games with a priori unions that represent distinct user groups, such as frequent travelers or truckers, who, due to enhanced bargaining power, often secure reductions in their fares in real -world scenarios. In particular, the Owen value, the coalitional Tijs value, and a new value termed the Shapley-Tijs value are axiomatically characterized. Additionally, straightforward formulations for calculating these values are provided. Finally, the proposed methodology is applied to actual traffic data from the AP -9 highway in Spain.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ejor.2024.02.011
+VL  - 316
+IS  - 2
+SP  - 667-679
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Environmental footprint allocation in driving plastic avoidance and sustainable recycling: Game-theoretic model
+AU  - Si, Chunyan
+AU  - Van Fan, Yee
+AU  - Woon, Kok Sin
+AU  - Cucek, Lidija
+AU  - Dokl, Monika
+AU  - Varbanov, Petar Sabev
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Life Cycle Assessment is the primary approach to quantify the environmental impacts of plastics. However, it encounters challenges in allocating the impacts of respective stages to stakeholders, especially for systems involving multi-cycles and end-of-life stages. This study proposes a framework integrating Cooperative Game Theory to assess and allocate the greenhouse gas footprint among stakeholders. The applied concepts are the Shapley Value, Nucleolus and Core. The applicability is demonstrated by a case study of polyethylene terephthalate (PET) with four recycling and landfill scenarios. The Shapley Value, which highlights fair allocation, suggests - 792-1164 kg of unburdening CO2eq/t PET (- 47 % net recycling credits) assigned to material producers, 844.5-1216.5 kgCO2eq/t PET to product manufacturers, and the remaining - 2-3 % to users. The Nucleolus stresses satisfactory results in 1531.5-2275.5 kgCO2eq/t PET to material producers, constituting - 90 % of the total credits. The allocation does not change the total footprints; however, it is essential for the stakeholders' cooperation in environmental initiatives.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.resconrec.2024.107443
+VL  - 203
+IS  - 
+SP  - 107443
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - A multi-ship power sharing strategy: Using two-stage robust optimization and Shapley value approach
+AU  - Yang, Jie
+AU  - Zhang, Zhengxu
+AU  - Ma, Kai
+AU  - Yang, Kun
+AU  - Guo, Shiliang
+AU  - Li, Haibin
+T2  - RENEWABLE ENERGY
+AB  - In recent years, the use of cold ironing (CI) has effectively reduced the carbon emissions of ships in port areas. However, due to the limitation of port CI quantity and power supply capacity, the power demand of some ships cannot be met. To solve this problem, this paper proposes a multi-ship power sharing strategy based on two-stage robust optimization and improved Shapley value method. Firstly, considering the uncertainty of ship photovoltaic power generation, a multi-ship power sharing model based on two-stage robust optimization is established. This model is a three-level optimization model with mixed integer variables, which is a NP-hard problem. In this paper, the nested column-and-constraint generation algorithm combined with duality theory and big-M method is used to obtain the optimal scheduling strategy of ship shared power, CI power and load demand response power. Secondly, an improved Shapley value method considering berth and remaining berthing time is proposed to realize the cost allocation in the process of ship power sharing. Finally, the effectiveness of the multi-ship power sharing strategy in reducing berthing costs and carbon emissions is verified by simulation. This method is expected to provide a new idea for the development of green ports.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.renene.2024.121046
+VL  - 232
+IS  - 
+SP  - 121046
+J2  - RENEWABLE ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - ESQFL: Digital Twin-Driven Explainable and Secured Quantum Federated Learning for Voltage Stability Assessment in Smart Grids
+AU  - Ren, Chao
+AU  - Dong, Zhao Yang
+AU  - Yu, Han
+AU  - Xu, Minrui
+AU  - Xiong, Zehui
+AU  - Niyato, Dusit
+T2  - IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING
+AB  - Voltage stability remains a pivotal concern in power systems, especially with the integration of renewable energy sources and high-demand loads that use induction motors. Recent blackouts have highlighted the vulnerability of wind power systems to voltage stability assessment (VSA) threats. Traditional machine learning-based VSA methods, while efficient, often rely on centralized storage systems, making them susceptible to single-point failures. The incorporation of Digital Twins (DT), providing real-time virtual representations of physical power system components, offers transformative capabilities in prediction, analysis, and profit allocation within smart grids. This paper introduces an Explainable and Secured Quantum Federated Learning (ESQFL) method for VSA, an innovative solution combining quantum techniques, differential privacy (DP), and Shapley value calculation. ESQFL, by leveraging the continuous insights from DT, emphasizes localized data analytics in a decentralized framework, integrating a Gaussian-based DP mechanism for enhanced data privacy and leveraging quantum teleportation for efficient Shapley value transmission. The paper systematically explores these concepts, compares the centralized and decentralized architectures, and provides comprehensive evaluations of ESQFL's efficacy on cross-out testing systems. The findings underscore ESQFL's potential as a pioneering solution in smart grid management, combining quantum computing with the advanced monitoring capabilities of DT for optimal VSA.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1109/JSTSP.2024.3485878
+VL  - 18
+IS  - 5
+SP  - 964-978
+J2  - IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING
+ER  - 
+
+
+TY  - JOUR
+TI  - Identifying Contributors to Supply Chain Outcomes in a Multiechelon Setting: A Decentralised Approach
+AU  - Schoepf, Stefan
+AU  - Foster, Jack
+AU  - Brintrup, Alexandra
+T2  - IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+AB  - Organizations often struggle to identify the causes of change in metrics, such as product quality and delivery duration. This task becomes increasingly challenging when the cause lies outside of company borders in multiechelon supply chains that are only partially observable. Although traditional supply chain management has advocated for data sharing to gain better insights, this does not take place in practice due to data privacy concerns. We propose the use of explainable artificial intelligence for decentralized computing of estimated contributions to a metric of interest in a multistage production process. This approach mitigates the need to convince supply chain actors to share data, as all computations occur in a decentralized manner. Our method is empirically validated using data collected from a real multistage manufacturing process. The results demonstrate the effectiveness of our approach in detecting the source of quality variations compared to a centralized approach using Shapley additive explanations.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1109/TII.2024.3435431
+VL  - 20
+IS  - 12
+SP  - 13811-13819
+J2  - IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A cooperative vehicle routing problem with delivery options for simultaneous pickup and delivery services in rural areas
+AU  - Zhang, Ruijuan
+AU  - Dai, Ying
+AU  - Yang, Fei
+AU  - Ma, Zujun
+T2  - SOCIO-ECONOMIC PLANNING SCIENCES
+AB  - The booming e -commerce is challenging express companies by requiring higher logistics service efficiency in rural China. This study investigates a cooperative vehicle routing problem for simultaneous pickup and delivery requests, in which the delivery orders can be fulfilled either by home delivery or customer pickup. The delivery option for each order is complex due to the optional cooperative relationships among express companies, the inter -dependence between self -pickup site selection and the overall online vehicle routing scheme, and the distance -dependent compensation to self -pickup customers. The problem is formulated as a mixed integer linear programming model and solved by a tailored adaptive large neighborhood search algorithm. A cost -saving allocation mechanism based on the core guaranteed Shapley value is applied to carrier collaboration. The numerical results show that the newly introduced cooperative distribution system can significantly reduce operational costs. Such improvements are robust even if the total demand changes or under different rural logistics network topologies.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.seps.2024.101871
+VL  - 93
+IS  - 
+SP  - 101871
+J2  - SOCIO-ECONOMIC PLANNING SCIENCES
+ER  - 
+
+
+TY  - JOUR
+TI  - Schedule situations and their cooperative game theoretic representations
+AU  - Munich, Lea
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper, we optimize and allocate the costs of a non -rival common -pool resource among several users. In such a so-called schedule situation the players have different demands given by distinct subsets of periods satisfying their needs. The total costs resulting from shared use of the resource are allocated by natural allocations called Equal Pooling allocations, in which the cost of each needed period is shared equally among the users of this period. The associated schedule game gives, for each coalition of players, the minimal cost of a period configuration satisfying the needs of all its members. We have three main contributions. First, we provide several sufficient conditions for the non-emptiness of the core of a schedule game. Second, we prove that under some of these conditions the Shapley value is in the core and coincides with some Equal pooling allocation. Third, we establish connections with other classes of operational research games. Furthermore, we present an application to the allocation of the common costs of the mail carrier route of La Poste, the french postal operator.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ejor.2024.02.012
+VL  - 361
+IS  - 2
+SP  - 767-778
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Low-carbon scheduling research of integrated energy system based on Stackelberg game under sharing mode
+AU  - Liu, Xiaoou
+T2  - ENERGY
+AB  - To achieve a win-win situation among multiple stakeholders within the integrated energy system, this paper proposes a low-carbon scheduling research of integrated energy system based on Stackelberg game under sharing mode. Firstly, an operation framework of integrated energy system based on leader-follower game was established, and a model of integrated energy system operator and user coalition was established considering carbon trading mechanism. Secondly, bi-directional long short-term memory is used to predict the travel data of electric vehicles, and a schedulable capacity model for electric vehicle cluster as shared energy storage was established. Then, an energy trading optimization model based on leader-follower game was constructed for integrated energy system operator and user coalition, and an improved Shapley value is adopted to realize cost allocation within user coalition. Finally, based on the demonstration project of Sino-Singapore Tianjin Eco-City is selected as the research object to make example analysis. The calculation results show this paper can achieve a reasonable benefit allocation among multiple participants, reduce carbon emissions of integrated energy system, and increase renewable energy accommodation capacity. The relevant achievements are a preliminary exploration for an effective mode of sharing economy in integrated energy system.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.energy.2024.131928
+VL  - 303
+IS  - 
+SP  - 131928
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Direct air capture capacity configuration and cost allocation based on sharing mechanism
+AU  - Wang, Qian
+AU  - Du, Caiyi
+AU  - Zhang, Xueguang
+T2  - APPLIED ENERGY
+AB  - Direct air capture (DAC) offers a potential solution for capturing carbon dioxide directly from the atmosphere, making it a promising technology in the field of negative carbon solutions. However, its current stage is characterized by high costs and a lack of maturity, placing it in the early phases of commercial application. To address these challenges, this paper introduces a novel cost-sharing mechanism specifically designed for DAC equipment within the context of carbon emission management in power systems. The aim is to facilitate both DAC capacity configuration and cost allocation. We begin by dissecting the operational principles of DAC and reviewing ongoing demonstration projects. We then pioneeringly devises a unified operational model (UOM) for DAC, which integrates electricity and carbon considerations seamlessly. Following this, we introduce an enhanced version of the carbon emission flow (CEF) theory, customized for DAC deployment. This sets the stage for the design of a DAC-specific carbon capture cost-sharing mechanism. Building on these foundations, we develop a meticulous DAC capacity planning model. This is accompanied by a cost allocation methodology based on the Shapley value framework. The ultimate goal is equitable cost allocation among stakeholders and optimized DAC capacity planning. Case studies validate the efficacy of both the proposed model and the cost allocation methodology. The insights from this study contribute to advancing theoretical frameworks for carbon capture technologies and have practical implications for engineering designs in real-world implementation.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.apenergy.2024.124037
+VL  - 374
+IS  - 
+SP  - 124037
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Assessment of wind-related storage investment options in a market-based environment
+AU  - Guo, Peiyao
+AU  - Dehghan, Shahab
+AU  - Terzija, Vladimir
+AU  - Hamacher, Thomas
+AU  - Peric, Vedran S.
+T2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+AB  - With the increasing share of wind power in the energy sector, many countries start to cut back supporting policies for wind power and shift towards market-oriented schemes, challenging the profitability of wind farms. Energy storage offers a flexible solution to enhance their profitability. This work explores different wind-related storage investment modes, including 1) direct ownership, 2) cooperative, and 3) competitive modes in a marketbased environment. For the direct ownership mode, a bilevel single-leader-single-follower Stackelberg game model is proposed, where wind farms invest in and operate storage facilities strategically to maximize their profits in the upper level, while the lower-level problem represents the system operator' s market-clearing process. A cooperative game framework is presented for the cooperative mode, that wind farms and storage investors agree on a profit allocation rule, i.e., Shapley value or Nucleolus to collaborate in investing and bidding as a coalition. The competitive mode is interpreted as a multi-leader-single-follower Stackelberg game, describing an independent investor investing in and operating storage facilities in competition with wind farms. Case studies conducted on a 6-bus and the IEEE 30-bus test systems demonstrate that storage facilities directly invested in by wind farms are the best option for maximizing their profits, resulting in up to an 8.7% increase. The cooperative option provides a suboptimal increase of up to 3.1%, diversifying the costs and risks associated with storage investments. In contrast, the competitive mode can diminish wind farms' profitability, with up to a 30.6% decrease in profits.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ijepes.2024.110265
+VL  - 162
+IS  - 
+SP  - 110265
+J2  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Strategic outsourcing in reverse logistics: Neutrosophic integrated approach with a hierarchical and interactive quality function deployment
+AU  - Yang, Yu
+AU  - Tian, Zhang peng
+AU  - Lin, Jun
+T2  - APPLIED SOFT COMPUTING
+AB  - The efficiency of strategic outsourcing in reverse logistics (RL) depends on stakeholder requirements (SRs) directing organization development and experts' knowledge decomposing and reconstructing strategic decision, which urges the adoption of hierarchical and interactive quality function deployment (QFD). Considering the uncertainty within a QFD, single valued neutrosophic number (SVNN) is introduced to capture both indeterminacy and inconsistency hidden in quantitive votes and qualitative judgments of stakeholders and experts. With unknown weight assignments, two maximum deviation models are constructed to obtain the priority of SRs and Shapley weights of experts. An SVNN-enabled grey relational analysis is extended to identify the interdependence priority of engineer characterizers (ECs). Due to the interactions among components such as experts in a group or ECs in QFD, two information aggregation tools under neutrosophic environments are presented based on fuzzy integral delineating the positive or negative effect. Built on these, we propose an integrated neutrosophic approach composed of a transformation module, weight module, integration module and QFD analysis module to support the outsourcing decision. Finally, an illustration example is used to confirm the practicality of the proposed approach. Sensitivity analysis and comparative analysis with multiple views have been conducted to show the flexibility and superiority of the given decision.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.asoc.2024.111256
+VL  - 152
+IS  - 
+SP  - 111256
+J2  - APPLIED SOFT COMPUTING
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative recycling strategy for electric vehicle batteries considering blockchain technology
+AU  - Xiao, Lu
+AU  - Ouyang, Yu
+AU  - Lin, Qiang
+AU  - Guo, Yujuan
+T2  - ENERGY
+AB  - The rapid growth of new energy vehicle has led to an urgent need for efficiently recycling used power batteries. In addition, battery suppliers can adopt blockchain technology to enhance efficiency in recycling. This article constructs a closed-loop supply chain (CLSC) consisting of a power battery supplier, a new energy vehicle manufacturer, and a third-party recycler, and studies the optimal collaborative recycling mode considering blockchain adoption and recycling competition. Firstly, we identify five alliance recycling models and derive the equilibrium results for each model. Secondly, we use the Shapley value mechanism in cooperative game to allocate alliance profits reasonably. Some interesting conclusions are obtained. (1) The supplier-manufacturer alliance is the optimal recycling strategy under moderate recycling competition, which challenges the common assumption that the major-alliance dominates others in CLSC. (2) Alliances, especially manufacturer-3rd party alliance, are not always beneficial to the CLSC, but are beneficial under low recycling competition and blockchain cost. (3) The proposed four stable profit allocation cases can coordinate the CLSC, where all alliance members achieve higher profits than the decentralized model, with the supplier gaining the largest profit share and the manufacturer obtaining the most profit increment.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.energy.2024.134062
+VL  - 313
+IS  - 
+SP  - 134062
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - A multi-objective robust optimal dispatch and cost allocation model for microgrids-shared hybrid energy storage system considering flexible ramping capacity
+AU  - Pan, Yushu
+AU  - Ju, Liwei
+AU  - Yang, Shenbo
+AU  - Guo, Xinyu
+AU  - Tan, Zhongfu
+T2  - APPLIED ENERGY
+AB  - In this paper, a microgrid groups with shared hybrid energy storage (MGs-SHESS) operation optimization and cost allocation strategy considering flexible ramping capacity (FRC) is proposed. Firstly, a joint system containing MGs with SHESS is constructed and its operation modes are analyzed. Secondly, Gaussian mixture model (GMM) and Latin Hypercubic Sampling (LHS) are used to obtain the confidence intervals of prediction errors for wind power, PV, and load. And then the FRC demand and supply of MGs-SHESS are quantified to construct the FRC sufficiency index. Furthermore, a multi -objective optimization model considering FRC sufficiency and operating costs is constructed, and the range of uncertain variables is described by confidence intervals, which transform the model into confidence gap decision theory (CGDT) model form. Further, the basic Shapley method is improved by considering the electricity interaction factor, carbon reduction factor, and FRC supply factor. Then use improved Shapley method to construct the MGs-SHESS two- layer cost allocation model. Finally, the case study results show that: (1) The total costs of SHESS are reduced by 5.89% and the FRC sufficiency is increased by 8.43% compared with decentralized energy storage system (DESS), which indicates that SHESS is able to achieve the co -growth of economy and flexibility. (2) Multi -objective dispatch plan considering FRC sufficiency is able to significantly improve FRC sufficiency by 12.56% at an additional cost of only 1.66% compared to conventional economic dispatch. It is worthwhile because it reduces the risk of power curtailment and load shedding during actual operation. (3) The costs of the CGDT model are reduced by 1.26% and the FRC sufficiency is increased by 1.20% compared with the IGDT method. Moreover, the total costs of the CGDT model are only increased by 1.84% compared with the day -ahead stage after substituting multiple random scenarios. It indicates that the CGDT is more robust in dealing with uncertainty. (4) The costs allocation method considering multi -factors improvement can satisfy the interests of multi -subjects. Even if the decision maker has a slight or moderate tendency to a certain factor, it can maintain the satisfaction of each subject to the allocation results, which improve the stability of the joint operation.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.apenergy.2024.123565
+VL  - 369
+IS  - 
+SP  - 123565
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - An adaptive optimization consensus mechanism for group decision making using the Shapley allocation scheme
+AU  - Meng, Fanyong
+AU  - Zhao, Dengyu
+AU  - Tan, Chunqiao
+T2  - INFORMATION SCIENCES
+AB  - Adaptive consensus mechanism adopts differentiating consensus improvement strategies according to different consensus levels, which is reasonable and efficient for reaching consensus in group decision making. However, previous adaptive consensus methods adopt the feedback iteration mechanism, which has drawbacks such as time-consuming, over-consensus adjustment, and failure of consensus-reaching. Therefore, this paper studies the adaptive consensus mechanism by optimization models to avoid the above issues of the feedback iteration mechanism. In our approach, corresponding optimization models are constructed to identify non-consensus judgments, non-consensus alternatives, and non-consensus decision makers, respectively. Meanwhile, the related total minimum consensus adjustments are ascertained. Since the uniqueness of the consensus adjustment scheme cannot be ensured according to the built models, we regard it as a cost allocation problem in cooperative games, and define three types of consensus adjustment cooperative games. After that, the Shapley function, a well-known single payoff index, is adopted to allocate total consensus adjustments in different cases. Additionally, we employ the optimization model to determine the modified values of non-consensus judgments by minimizing the number of adjustment judgments. Finally, numerical study and comparison are made.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ins.2023.119752
+VL  - 653
+IS  - 
+SP  - 119752
+J2  - INFORMATION SCIENCES
+ER  - 
+
+
+TY  - JOUR
+TI  - How shared information contributes: A novel revenue allocation method for collaborative instant delivery with unmanned vehicles
+AU  - Liu, Meng
+AU  - Du, Mu
+AU  - Yu, Mengqi
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - Fair revenue allocation is essential for ensuring the stability of coalitions in collaborative logistics. This study examines horizontal collaboration among enterprises that provide instant delivery services using unmanned vehicles (UVs). While data-driven decision-making enhances efficiency, many enterprises hesitate to share operational information due to concerns about competitiveness. Therefore, designing a revenue allocation mechanism that incentivizes information sharing is a key challenge in collaborative delivery. To address this issue, we propose a novel contribution-based revenue allocation method that explicitly accounts for the value of shared information in addition to contributions from providing order and UVs. Specifically, we use the Shapley value to quantify the contribution of shared information on coalition performance. Furthermore, we formulate the decision problems arising in such collaborations and develop efficient solution methods. The numerical results show that both the final coalition structure and enterprises' profits are influenced by their information disclosure preferences. More importantly, our proposed revenue allocation method effectively incentivizes the sharing of higher-quality information, thereby strengthening collaboration and improving overall system efficiency. This study is the first to explicitly address the heterogeneity of information sharing in collaborative delivery and to quantify the contribution of shared information within a revenue allocation framework, providing valuable insights for designing sustainable and data-driven logistics collaborations.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.tre.2025.104274
+VL  - 202
+IS  - 
+SP  - 104274
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Modelling and economic assessment of organic Rankine cycle integration into an inter-plant heat exchanger network
+AU  - Certeza, La Verne Ramir D. T.
+AU  - Purnama, Aloisius Rabata
+AU  - Ahsan, Aniq
+AU  - Low, Jonathan S. C.
+AU  - Lu, Wen F.
+T2  - APPLIED ENERGY
+AB  - Establishing energy-based industrial symbiosis networks (EISNs) through inter-plant heat integration is a collaborative energy efficiency initiative to reduce industrial energy consumption. Its benefits can be improved through organic Rankine cycle (ORC) integration into an inter-plant heat exchanger network (HEN) to generate electricity. In this study, a novel nonlinear programming (NLP) model is formulated for inter-plant HEN-ORC integration optimization. It improves the computational performance of conventional mixed-integer nonlinear programming (MINLP) models and the accuracy of total EISN cost computation by using chemical engineering plant cost indices (CEPCIs) to adjust capital cost values to a common time. Furthermore, this study also proposes an EISN economic viability assessment methodology based on Shapley value computation and based on social welfare, Rawlsian welfare, and Nash allocation schemes to determine the new individual cost of each plant if it joins an EISN. The model and methodology have been applied to two case studies. Results reveal that Nash allocation can minimize the total EISN cost while maximizing the savings attained by each plant, thereby making it the superior cost allocation method among the four. Furthermore, results show that inter-plant HEN-ORC integration can increase an EISN's economic viability. However, this depends on whether there is a significant difference between the cold and hot utility prices. Lastly, results indicate that limiting the number of superstructure stages to just one can result in a more realistically implementable EISN configuration. Overall, the proposed model and methodology have been demonstrated to yield pragmatic insights on the cost-effectiveness of inter-plant HEN-ORC integration.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.apenergy.2025.126126
+VL  - 394
+IS  - 
+SP  - 126126
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Operation strategy for a net-zero emissions park microgrid with multi-stakeholders: A multi-objective with bi-level optimization approach
+AU  - Kang, Jia-Ning
+AU  - Liu, Li
+AU  - Liu, Lancui
+AU  - Wei, Yi-Ming
+T2  - ENERGY
+AB  - Microgrids are essential for achieving stable, carbon-neutral power systems, with park-level projects being key implementations. However, research gaps persist in addressing complex operational scheduling and multistakeholder coordination challenges. This study develops a novel park-level microgrid integrating biomass-togas, carbon removals, and hydrogen storage to achieve net-zero emissions. We establish a bi-level optimization framework that integrates long-term planning and short-term operations, where the upper level minimizes lifecycle costs while the lower level simultaneously optimizes operational profits and risk mitigation. The nonlinear problem is solved using a decomposition-based multi-objective evolutionary algorithm. A hybrid mechanism combining Shapley value principles with Nash bargaining theory is further proposed to equitably allocate benefits based on stakeholders' contributions to profit, risk reduction, and carbon mitigation. Empirical analysis shows carbon removal technologies can enhance system stability and energy utilization. Medium-to-high carbon prices boost operating profits by 131.7%-170.1 % and lower capital costs by 21.8%-29.9 %, while achieving negative emissions. The proposed model improves stakeholder satisfaction by 7.8 % compared to traditional methods. Sensitivity analysis reveals hydrogen prices below 19 & YEN;/kg risk losses, recommending high carbon price deployment for financial risk mitigation. This framework provides a robust approach for designing sustainable, economically viable park-level microgrids, enabling equal multi-stakeholder benefit allocation and risk-aware operational optimization.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.energy.2025.135524
+VL  - 321
+IS  - 
+SP  - 135524
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Two-Echelon Collaborative Location Routing Problem With Intuitionistic Fuzzy Multi-Demands for Sorted-Waste Collection and Transportation
+AU  - Shang, Chunjian
+AU  - Ma, Liang
+AU  - Gao, Yan
+T2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+AB  - This paper explores a novel model for sorted-waste transportation, defined as the two-echelon collaborative location routing problem with intuitionistic fuzzy multi-demands. It considers a reverse logistics network organized in two capacitated echelons: the first echelon aims to build routes for trucks visiting every node for different strains of pick-up requests under intuitionistic fuzzy multi-demands, and the objective of the second echelon is to ascertain the number and position of cooperation clusters from waste transfer stations to treatment facilities. Due to the complexity of the proposed model, the instances that can be solved to optimality are usually small to medium-sized and face computational difficulties in solving larger instances. To overcome this problem, we fashion a distributed heuristic based on fuzzy bi-means and adaptive large neighborhood segmented search to address this novel model. A refined Shapley model for profit allocation and the best coalition combination is constructed for each participant. Extensive computational findings and a practical case study are conducted to show the efficiency of the proposed model and approach. Several relevant managerial insights are also derived to aid decision-making in waste sorting management.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1109/TITS.2024.3520577
+VL  - 26
+IS  - 3
+SP  - 3671-3683
+J2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+ER  - 
+

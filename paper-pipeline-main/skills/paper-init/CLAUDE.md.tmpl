@@ -1,0 +1,115 @@
+# Project Contract
+
+## 项目信息
+- **项目编号**: {ID}
+- **英文标题**: TODO: Fill in English title
+- **一句话概括**: TODO: 一句话概括研究内容
+- **方法**: TODO: 填写研究方法
+- **目标期刊**: TODO: 填写目标期刊 [首选] / 备选期刊 [备选]
+
+## 项目阶段
+- 状态: foundation
+- 更新时间: {TODAY}
+
+> **阶段枚举**（由 skills 自动维护，勿手动跳级）：
+> - `foundation`：idea 确定 + 文献 + idea-refine + 技术型章节开发/定稿（步骤①-⑤.5）
+> - `drafting`：叙述型章节撰写 + 全文定稿（步骤⑥-⑨）
+> - `submitted`：已投稿，等待审稿
+> - `revision-R{N}`：第 N 轮审稿修改
+
+## 核心配置
+- **模板**: {TEMPLATE_CLASS}
+- **主文件**: `manuscript.tex` · **文献**: `{ID}.bib`
+- **投稿附件**: `submission/`（{SUBMISSION_FILES}）
+
+## data/ 数据管理规范
+
+```
+data/
+├── raw/          # 原始数据（只读，不可修改）
+├── processed/    # 数据管道产出（清洗后的中间文件）
+├── scripts/      # 所有 R/Python 分析脚本（数据管道 + 主模型）
+├── models/       # 模型估计对象（.rds/.RData，用于 warm start 和交叉引用）
+├── results/      # 模型输出日志（.txt，人类可读的估计结果）
+├── robustness/   # 稳健性检验（脚本 + 结果 + 日志）
+└── _archive/     # 废弃的旧版本文件（不删，按原子目录归档）
+```
+
+**命名规范**：所有文件以项目编号为前缀（如 `{ID}_`）
+- 脚本：`{ID}_data_pipeline.R`、`{ID}_models.R`
+- 模型对象：`{ID}_m1.rds` ~ `{ID}_mN.rds`
+- 日志：与模型对象同名，`.txt` 后缀
+- 稳健性：`{ID}_rob_{检验名}.R`、`{ID}_rob_{检验名}.rds`
+
+**输出路径规则**：分析脚本的所有输出必须指向 `data/` 下的对应子目录，禁止输出到项目根目录。对于 RSiena 等通过 `projname` 参数控制输出路径的工具，`projname` 必须包含目标目录（如 `"data/results/{ID}_m3"`）。
+
+**脚本执行顺序**：
+1. `{ID}_data_pipeline.R` → 产出 `processed/*.rds`
+2. `{ID}_models.R` → 产出 `models/*.rds` + `results/*.txt`（依赖步骤 1）
+3. `robustness/{ID}_rob_*.R` → 产出 `robustness/*.rds`（依赖步骤 1+2）
+
+## structure/ 组织说明
+项目研究素材按 manuscript 章节组织在 `structure/` 下：
+
+{STRUCTURE_TABLE}
+
+- `pandoc_header.tex` 勿删改
+
+### 图表管理规则
+
+- **所有图片**存放于 `structure/figures_tables/figures/`，仿真脚本输出路径指向此处
+- **所有表格**的 LaTeX 代码统一写在 `structure/figures_tables/tables.tex` 中，定稿时贴到 manuscript.tex 末尾
+- **`index.md`** 是唯一注册表，记录每个图表的编号、标题、所属章节、状态
+- 各章节 md 中**不放图表内容**，只标注"此处引用 Table X / Fig. X"
+- 新增/修改图表时，必须同步更新 `index.md`
+- **表格即时落地**：当章节 md 中的表格内容定稿后，应立即写入 `tables.tex`（使用 /latex-table 或直接编写），并更新 `index.md` 状态为 `drafted`。manuscript.tex 正文中仅用 `Table~\ref{tab:xxx}` 引用，不嵌入表格代码。不得将表格制作推迟到 /pen-draft 或其他后续环节——/pen-draft 只管正文文字。
+
+### 文件交互规则
+
+**层级**: idea.md（纲领：为什么/方向）→ 各章节 X.md（成稿：正文要点）→ manuscript.tex（产出）
+
+**章节 md 的两种类型**:
+
+章节 md 分为两类，颗粒度要求不同：
+
+| 类型 | 章节 | 文件 | 内容要求 | sci-writer 的任务 |
+|:-----|:-----|:-----|:---------|:-----------------|
+| 叙述型 | Introduction, Literature Review, Discussion | `X.md`（含 `## 大纲`） | 要点（论点 + citation key） | 把要点**展开**成论证段落 |
+| 技术型 | {TECHNICAL_SECTIONS} | `X.md`（成稿）+ `X_dev.md`（过程文件） | 成稿 md：按 manuscript 结构组织的正文要点（`###` = `\subsection`） | **原样转译**为学术英文，按 `###` 层级生成 `\subsection`，不做任何技术判断 |
+
+**技术型双文件体系**：
+- **`X.md`（成稿文件）**：内容 = manuscript 正文要点。/pen-draft 只读这个文件。`###` 标题 = `\subsection`，`####` = `\subsubsection`。不含非正文材料（版本说明、中间推导、备注等）。
+- **`X_dev.md`（过程文件）**：研究工作台，记录详细推导、中间步骤、版本迭代、备注。格式自由。不被 /pen-draft 读取。
+
+**md 书写语言**：中文表述，但以下内容用英文原文：citation key（`\citet{}`/`\citep{}`）、专用术语、公式符号、`###` 标题（与 manuscript 一致）
+
+**叙述型颗粒度标准**：
+- 每个论点、每个要引用的文献（citation key）都必须写明
+- 可用 `/pen-outline` 自动生成，再根据需要修改
+
+**技术型颗粒度标准**（验证原则：sci-writer 翻译时不需要做任何技术判断）：
+每个 `###` subsection 下必须包含：
+- 每一个会出现在正文中的公式（编号公式和关键行内公式）
+- 每一个命题/引理的完整陈述
+- 每一个证明的思路骨架（完整证明用 `> **Proof (→ Supplementary):**` 标记，sci-writer 外放至附录）
+- 每一个假设的文字表述 + 合理性论证
+- 每一个经济直觉/含义解读
+- 每一个模型间的对比说明
+- 表格和图表仅标注"此处引用 Table X / Fig. X"，内容在 `figures_tables/tables.tex`
+
+**技术型素材迭代工作流**:
+1. 步骤④（交互填充）：用户与 Claude 交互 → 填充 `X_dev.md`（过程文件），记录所有推导细节和研究过程
+2. 步骤⑤（/method-audit）：审计 + 修复 _dev.md + 确认成稿 md 的章节结构（Step 5.7）
+3. 步骤⑤.5（/method-end）：从 `X_dev.md` 交互式凝练正文要点 → 填充 `X.md`（成稿），按 manuscript subsection 结构组织
+4. `X.md` 是 /pen-draft 的唯一素材源——成稿 md 中的每一段内容都会出现在 manuscript 正文中
+
+**idea.md 规范**:
+- 修改必须先征得用户同意，不得自行回写
+- 保持文档结构不变，覆盖式更新内容（迭代历史由 git 追踪）
+- 只放"为什么"和"方向"，不含具体公式/推导/数值结果。违反则移至对应章节 md
+
+**章节 md 间一致性约束**:
+- RQ编号：idea.md §2 定义 → introduction.md 展开 → discussion.md 回应，三处编号和措辞必须一致
+- 贡献声明：idea.md §4 意图 → discussion.md 论证，逻辑必须对应
+
+**研究推进顺序**：见全局 `~/.claude/CLAUDE.md` 中的"科研论文研究推进顺序"。

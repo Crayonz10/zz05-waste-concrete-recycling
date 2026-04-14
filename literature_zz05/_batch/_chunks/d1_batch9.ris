@@ -1,0 +1,564 @@
+TY  - JOUR
+TI  - Designing a reverse logistics network to manage construction and demolition wastes: A robust bi-level approach
+AU  - Jahangiri, Adel
+AU  - Asadi-Gangraj, Ebarhim
+AU  - Nemati, Arash
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Nowadays, due to irregular human intervention and exploitation of available resources, the environmental crisis has been one of the biggest threats in the world. These risks can sometimes come from destroying habitats and arable land. According to the importance of this issue, this study tries to design a construction and demolition wastes (C&DW) reverse logistics network. For this purpose, a bi-level mixed-integer linear programing (MILP) model is designed. The lower level determines location of C&DW recycling and disposal centers and the upper -level involves allocation of waste to the recycling and disposal centers. A scenario-based robust optimization approach is applied to cope with the uncertainty in the percentage of C&DW transported from the generation points. Eventually, the final model is solved in GAMS optimization software and its performance and efficiency are analyzed. Mazandaran province, Iran, is selected as case study because of its geographical conditions. The results show that allocation and establishment decisions are made in a way that impose the least cost to the network in different scenarios. In addition, the scenario-based robust optimization approach represents less sensitivity to solutions for considered scenarios. Also, considering the hierarchy model leads to appropriate solutions with less costs compared to the separate leader and follower models.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jclepro.2022.134809
+VL  - 380
+IS  - 
+SP  - 134809
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A review of the research about gypsum mortars with waste aggregates
+AU  - del Rio-Merino, Mercedes
+AU  - Vidales-Barriguete, Alejandra
+AU  - Pina-Ramirez, Carolina
+AU  - Vitiello, Veronica
+AU  - Santa Cruz-Astorqui, Jaime
+AU  - Castelluccio, Roberto
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - With the growing environmental awareness occurring worldwide, many industries, such as the construction sector, are setting their own measures to reduce their environmental impact. In addition, governments are forced to reduce emission and waste. For this reason, in the building sector, many efforts are being made to reduce the consumption of natural resources and energy in buildings and the materials manufacturers are introducing sustainable initiatives to achieve these objectives. In this sense, the current trend of the construction sector towards environmental impact reduction and protection involves the design and the manufacture of more sustainable and regenerative construction materials. In this context, many research works have been carried out on the mechanical characterization of new composites, specifically gypsum, aiming to improve the environmental performance of traditional materials used in building construction. Accordingly, it is essential to review previous works to understand the mechanical performance of these new gypsums so that they can be applied in building construction. This paper gives an overview of the mechanical characterization of gypsums containing waste and explores the effect of adding different waste categories in different percentages. Previous experimental studies on the mechanical characterization of recycled gypsum composites are presented as well as further suggestions for future works.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jobe.2021.103338
+VL  - 45
+IS  - 
+SP  - 103338
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Promoting digital transformation in waste collection service and waste recycling in Moscow (Russia): Applying a circular economy paradigm to mitigate climate change impacts on the environment
+AU  - Maiurova, Aleksandra
+AU  - Kurniawan, Tonni Agustiono
+AU  - Kustikova, Marina
+AU  - Bykovskaia, Elena
+AU  - Othman, Mohd Hafiz Dzarfan
+AU  - Singh, D.
+AU  - Goh, Hui Hwang
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Due to industrialization, recently Moscow (Russia) has been inundated with municipal solid waste (MSW), while the capital does not have an organized waste collection and waste recycling system. Digitalization enables smart cities such as Moscow to do more work with less resources. This article identifies and analyzes the existing waste management facilities in Moscow with respect to drawbacks and the ways forward to mitigate the bottlenecks. To improve its waste management, lessons drawn from Berlin's experiences in waste management are discussed to inspire a transformation in the city's waste sector in the framewok of resource recovery. In line with the 2030 UN Agenda, this work proposes a digitalization to accelerate a societal transition through waste recycling industry. Its global relevance is elaborated by presenting a perspective of digitalization in waste management practices. In this work, case-study was selected as the research method to provide a means to investigate a complex waste problem in Moscow and Berlin (Germany). It was evident from a cleaner production paradigm that digital technology can minimize the amount of unrecycled MSW, while conserving raw materials and reducing operational cost and GHG emissions. Digitalization builds cities' resilience by strengthening local waste management practices to respond to the Covid-19 global pandemic. In Moscow, the transition towards the digitalization of waste recycling through informal waste sectors has created 5,000 new jobs that reduces unemployment rate. This maximizes pick up time and enhances efficiency with a lower cost of operating trucks up to 75%. A convolutional neural network-based identification system that classifies identified materials yields almost perfect accuracy. A single robot arm can handle four varying fractions of construction and demolition waste with 99% of purity. Robotic deployment could reduce the volume of unrecycled waste by 20%. This could be replicated worldwide to resist the pressure of resource consumption and deliver socio-economic and environmental benefits.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jclepro.2022.131604
+VL  - 354
+IS  - 
+SP  - 131604
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Complete re-utilization of waste concretes-Valorisation pathways and research needs
+AU  - Villagran-Zaccardi, Yury A.
+AU  - Marsh, Alastair T. M.
+AU  - Sosa, Maria E.
+AU  - Zega, Claudio J.
+AU  - De Belie, Nele
+AU  - Bernal, Susan A.
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Global demand for buildings and infrastructure is extremely high as provision of shelter, sanitation and healthcare are paramount to safeguard the world's growing population. Concrete is a preferred construction material to meet this demand, but its production is leading to overexploitation of natural gravel and sand, causing an environmental crisis in regions where these materials are extracted unsustainably. Waste concrete is available globally, particularly in regions with fast growth of the built environment, and those struck by coordinated attacks, earthquakes or severe weather events. Waste concrete has mainly been used for producing recycled aggregates; however, its full recycling is still not practiced. Alternative uses include applications as fine recycled aggregates, supplementary cementitious materials, filler, and feedstocks for clinker production. These technologies still face challenges concerning their adoption and eco-efficiency. Restricted knowledge and operational barriers have also prevented implementation of beneficiation technologies for complete re-recycling of waste concretes, particularly the fine fractions produced during crushing. Despite these issues, it is recognised that the complete utilization of waste concrete offers unique opportunities for supply chain security, reducing natural resources consumption and enabling to move towards a Circular Economy. Harmonizing current practices for the treatment of waste concrete and the by-products generated during their processing, is a first step toward policy and standards development to enable their widespread use. This critical discussion addresses challenges and opportunities, as well as facilitation strategies needed to progress the complete re-utilization of waste concrete as a valuable resource for creating sustainable future infrastructure.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.resconrec.2021.105955
+VL  - 177
+IS  - 
+SP  - 105955
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - Stackelberg game model for construction waste disposal network design
+AU  - Yao, Jiaxu
+AU  - Yi, Wen
+AU  - Wang, Haoqing
+AU  - Zhen, Lu
+AU  - Liu, Yannick
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - Governments and contractors have different goals in handling construction and demolition waste (CDW), which makes it challenging to design CDW recycling networks. This paper develops a Stackelberg game model that governments can use to decide the optimal locations and types of CDW disposal facilities by considering the interests of both the government and contractors. The proposed model is proven to be efficient and practical through a series of real-world case studies. The findings elucidate and manage the different goals of governments and contractors and can help government design an optimal CDW recycling network in practice. Future research could tackle the problem of designing a multiperiod recycling network for managing CDW.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.autcon.2022.104573
+VL  - 144
+IS  - 
+SP  - 104573
+J2  - AUTOMATION IN CONSTRUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Factors affecting the price of recycled concrete: A critical review
+AU  - Ma, Mingxue
+AU  - Tam, Vivian WY.
+AU  - Le, Khoa N.
+AU  - Osei-Kyei, Robert
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - A significant increase in construction activities has led to the production of massive construction and demolition (C&D) waste. Recycling is regarded as an ideal approach to deal with C&D waste. However, the adoption of market for recycled concrete from C&D waste is slow because quality and price are two major factors hindering its wide acceptability. It is observed that the price of recycled concrete is 0-10% higher than that of virgin concrete. Although there is willingness to purchase green products, clients and consultants emphasize the criticality of material costs before any consideration of environmental impacts. In the promotion of recycled concrete, it is of great importance to investigate factors affecting the price of recycled concrete to control its price to an acceptable level. This paper conducts a systematic literature review to generate a list of potential factors affecting recycled concrete pricing. Publications between 2000 and 2021 (inclusive) are investigated and 35 papers are identified. Fifteen factors are found to be influential: (1) selling cost of recycled aggregate; (2) proportion of recycled aggregate substitutions; (3) waterto-cement ratio; (4) amount of cement usage; (5) use of supplementary cementitious materials; (6) use of admixtures; (7) production and installation costs; (8) transportation costs of recycled aggregate; (9) transportation costs of concrete; (10) quality control measures; (11) indirect costs; (12) mandatory regulations; (13) voluntary guidelines; (14) population growth and (15) economic growth. Investigating factors affecting the price of recycled concrete could help to understand the stimulus and retards the use of recycled concrete for improving its financial viability.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jobe.2021.103743
+VL  - 46
+IS  - 
+SP  - 103743
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Urban mining potential to reduce primary material use and carbon emissions in the Dutch residential building sector
+AU  - Yang, Xining
+AU  - Hu, Mingming
+AU  - Zhang, Chunbo
+AU  - Steubing, Bernhard
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Urban mining is regarded as an important strategy to replace primary raw materials in the building sector. This study presents a bottom-up dynamic building stock model to explore the potential of urban mining to reduce primary material consumption and greenhouse gas (GHG) emissions in the residential building sector of the Netherlands. The model builds upon geo-referenced individual buildings, making it possible to analyze the spatiotemporal pattern of material supply from demolition and material demand for construction and renovation. The main results can be summarized as three points. (1) Urban mining cannot meet future material demand due to the new construction caused by population increase and its limited ability to supply the required kinds and amounts of materials. Therefore, large amounts of primary materials still have to be consumed in the future. (2) The generation of demolition wastes and the requirement for materials will be mainly concentrated in the big cities (e.g. Amsterdam, Rotterdam, and The Hague). (3) The GHG emission reduction potential of urban mining is very small and is not as large as the transition to a greener electricity mix. Recycling together with a greener electricity mix would reduce annual GHG emissions by about 40% in 2050 compared to 2020. This study provides a tool to link future material inflows and outflows in space and time. It further helps to assess the performance of strategies aimed at closing the material loops and reducing GHG emissions in the building sector.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.resconrec.2022.106215
+VL  - 180
+IS  - 
+SP  - 106215
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - Public administration strategies that stimulate reverse logistics within the construction industry: a conceptual typology
+AU  - Brandao, Rayra
+AU  - Hosseini, M. Reza
+AU  - Macedo, Alcebiades N.
+AU  - Melo, Andre C.
+AU  - Martek, Igor
+T2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+AB  - PurposeReverse logistics (RL) is a waste revaluation process aimed at reintroducing once-used materials back into the production cycle. Public administration (PA) plays a strong role in influencing the implementation of RL in the construction industry through policy and laws. While much research identifies PA as an important driver in RL, no research yet describes how this occurs.Design/methodology/approachA systematic literature review was conducted on the theme PA in RL with 93 relevant publications retrieved.FindingsSix strategies used by PA to promote RL were extracted: (1) legislation, (2) government subsidies, (3) landfill disposal fee, (4) government inspection, (5) use in public construction works and (6) penalties and fines. Moreover, a typology built on these six strategies was developed, mapping 15 interactional relationships between strategies, according to three levels of influence: (1) encouragement (2) requirement and (3) regulation.Practical implicationsIt was found that legislation and government subsidies prove to be the more effective strategies, with the remaining strategies greatly neglected. Importantly, however, this study reveals that a combination of strategies are most effective when appropriately combined.Originality/valueThis study confirms the importance of PA in RL, in construction, while documenting the extent of current research. The resulting proposed typology, along with 15 identified future research priorities, is expected to be of value to academics and policy makers looking to advance understanding in this domain.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1108/ECAM-07-2020-0547
+VL  - 29
+IS  - 8
+SP  - 2924-2949
+J2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Willingness to pay for construction and demolition waste from buildings in Chile
+AU  - Veliz, K. D.
+AU  - Ramirez-Rodriguez, G.
+AU  - Ossio, F.
+T2  - WASTE MANAGEMENT
+AB  - In order to encourage increased rates in respect of sorting, recycling and the diversion of construction and demolition waste (C&DW), the world's more advanced economies have developed innovative new technologies and studies to improve the creation of sustainable societies. To achieve this, it is important to dedicate greater efforts to the elaboration of tariff schemes and studies to determine society's disposition to improve the management of C&DW. This study analyzes willingness of construction companies in Chile to pay (WTP) to improve the C&DW management, through the contingent valuation method (CVM). This aims to provide analytical background and market information to circular business models and, in turn, provide information which can be used to define public policies governing the subject, as a contribution to future regulatory developments. The Chilean construction industry was surveyed and a total of 57 valid questionnaires were collected. The results show that the average WTP for inert C&DW, non-inert C&DW, mixed C&DW with a greater quantity of inert waste and mixed C&DW with a greater quantity of non-inert waste was 8.77 (US $/ton), 7.73 (US $/ton), 7.98 (US $/ton) and 8.22 (US $/ton), respectively. Additionally, the cost of waste removal and disposal had an average value of 9.68 (US $/ton). Through multiple regression analysis, it was discovered that the variables related to knowledge about circular economy, state actions, management of C&DW and productivity have a significant effect on WTP. These results provide new evidence for the development of appropriate public policies to address the problem of C&DW and improve management in Chile.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.wasman.2021.11.008
+VL  - 137
+IS  - 
+SP  - 222-230
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - An overview of the waste hierarchy framework for analyzing the circularity in construction and demolition waste management in Europe
+AU  - Zhang, Chunbo
+AU  - Hu, Mingming
+AU  - Di Maio, Francesco
+AU  - Sprecher, Benjamin
+AU  - Yang, Xining
+AU  - Tukker, Arnold
+T2  - SCIENCE OF THE TOTAL ENVIRONMENT
+AB  - The construction sector is the biggest driver of resource consumption and waste generation in Europe. The European Union (EU) is making efforts to move from its traditional linear resource and waste management system in the construction sector to a level of high circularity. Based on the theory of circular economy, a new paradigm called waste hierarchy was introduced in the EU Waste Framework Directive. This work uses the framework of the waste hierarchy to analyze the practice of construction and demolition waste (CDW) management in Europe. We explore the evolution of the waste hierarchy in Europe and how it compares with the circular economy. Then, based on the framework, we analyze the performance of CDW management in each EU member state. Innovative treatment methods of CDW, focusing on waste concrete, is investigated. This brings insight into optimizing and upgrading the CDW management in light of advanced technologies and steering the pathway for transitioning the EU towards a circular society. (c) 2021 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http:// creativecommons.org/licenses/by/4.0/).
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.scitotenv.2021.149892
+VL  - 803
+IS  - 
+SP  - 149892
+J2  - SCIENCE OF THE TOTAL ENVIRONMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Analysis of factors influencing the creation and stimulation of the Australian market for recycled construction and demolition waste products
+AU  - Shooshtarian, Salman
+AU  - Caldera, Savindi
+AU  - Maqsood, Tayyab
+AU  - Ryley, Tim
+AU  - Wong, Peter S. P.
+AU  - Zaman, Atiq
+T2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+AB  - Growing population and urbanisation have led to a significant increase in construction and demolition (C&D) waste generation. There are urgent calls for government and industry to develop better methods for C&D waste management. The creation and stimulation of a market for recycled construction and demolition waste have emerged as a targeted intervention to divert waste from landfill sites and create a second life for waste ma-terial. This study evaluates key factors affecting the creation and stimulation of the market for C&D recycled waste products in Australia. Through an extensive review of the literature and several semi-structured interviews in-volving 27 stakeholders from across the architecture, engineering and construction (AEC) industry, this study es-tablishes four groups of enablers (i.e., encouragement factors, education, enforcement and engagement) and barriers (i.e., operations, market, governance and logistics) to creating and stimulating a market for C&D waste. Furthermore, the institutional theory was applied to findings to demonstrate how normative, coercive and mi-metic drivers influence AEC's stakeholders' decisions and justify their C&D waste management practices. The study proposes a Framework for Waste Market Development (FfWMD) to provide practical solutions to over-come the current barriers identified in this study. The study findings guide government decision-makers and AEC industry practitioners to facilitate end markets for C&D waste and contribute to achieving a circular economy (CE). Further empirical studies on the elements of the FfWMD can be developed to test the complex interactions between stakeholders and processes. (c) 2022 Institution of Chemical Engineers. Published by Elsevier Ltd. All rights reserved.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.spc.2022.09.005
+VL  - 34
+IS  - 
+SP  - 163-176
+J2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Preparation and performance analysis of recycled PET fiber reinforced recycled foamed concrete
+AU  - Tang, Rui
+AU  - Wei, Qunshan
+AU  - Zhang, Kai
+AU  - Jiang, Shuai
+AU  - Shen, Zhemin
+AU  - Zhang, Yanxia
+AU  - Chow, Christopher W. K.
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - Construction waste and waste fabric are two major types of solid waste that lead to landfill issue and environmental pollution. Considering the need for more efficient handling method by simultaneously handling both solid waste materials, this study reports an innovative solution to transform waste concrete and waste polyester fabric into environmentally friendly product, recycled foamed concrete (RFC). The dry density, compressive strength, water absorption, frost resistance and chemical erosion resistance of plain RFC (PRFC), PET fiber reinforced RFC (PETRFC) and recycled PET fiber reinforced RFC (RPETRFC) were evaluated. The results indicated that the added recycled powder (RP) can improve the compressive strength of foam concrete. Moreover, the addition of PET fiber (0.1 wt.% content and 6 mm length - optimum) improved the compressive strength (especially the early strength) and durability but had no significant effect on dry density and water absorption. Recycled PET fiber presented a better enhancement effect than PET fiber. The dry density and 28-day compressive strength of RPETRFC were 5.2% and 5.1% higher than those of PETRFC, respectively, and water absorption was 10.7% lower than that of PETRFC. Scanning electron microscopy (SEM) and X-ray diffraction (XRD) analysis indicated that recycled PET fiber had a multifilament structure, which can effectively improve the pore structure of RFC without changing the hydration mechanism. This study demonstrates a new direction for recycling waste concrete and polyester fabric with excellent economic and environmental benefits, and the findings provide reference for the development of lightweight RFC with improved physical properties and durability.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jobe.2022.104948
+VL  - 57
+IS  - 
+SP  - 104948
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Robust optimization of construction waste disposal facility location considering uncertain factors
+AU  - Li, Guokai
+AU  - Liu, Jingkuang
+AU  - Giordano, Andrea
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The location of a construction waste disposal facility is a vital part of recycling construction waste strategy. Many factors affect the location especially, ignoring uncertain factors can lead to inaccurate results, resulting in an inappropriate location. Therefore, waste supply and transportation cost, as two uncertain factors, were highlighted in current study. Based on the traditional nominal facility location model approach and considered the uncertainty of two parameter intervals. Thus, a novel robust facility location model is established in the hybrid programming of CPLEX and MATLAB. Results show that: (1) the supply uncertainty costs of construction waste transfer stations and transportation significantly affected the total costs of waste disposal, the total costs of location and site allocation scheme of construction waste disposal facilities were more sensitive to changes in waste supply. (2) As the combination value of the uncertainty level parameter increases (2%, 7%, 10%), the optimal total cost sum and alpha also increases, and its changing trend is from obvious to slow. (3) The optimal cost of the distribution and disposal facility layout of the construction waste transit station was determined taking Guangzhou for example. This study provided a scientific and effective method for the location of construction waste disposal facilities by considering multiple uncertain factors. This can also help stakeholders reduce the costs of the distribution net and choose appropriate interval value according to preference for risk.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jclepro.2022.131455
+VL  - 353
+IS  - 
+SP  - 131455
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A holistic assessment of the use of emerging recycled concrete aggregates after a destructive earthquake: Mechanical, economic and environmental
+AU  - Ulucan, Muhammed
+AU  - Alyamac, Kursat Esat
+T2  - WASTE MANAGEMENT
+AB  - This study aims to examine the mechanical, environmental, and economic properties of recycled aggregate concretes produced using emerged recycled concrete aggregates from the buildings that were demolished in a controlled way after the 24 January 2020, Elazig-Sivrice earthquake. For this purpose, 24 series of recycled aggregate concretes were produced, water-to-cement ratios of 0.30-0.35-0.40-0.45-0.50, and cement dosages were chosen as 320-370-420 kg/m3. 100% recycled concrete aggregate was used in the prepared concrete mixtures. Analyses were made on the response surface method using the mixture ratios and test results of 24 series. The effectiveness of the developed models was examined on 6 Control recycled aggregate concrete. Then, Energy Consumption, Global Warming Potential, Waste Generation, and Abiotic Depletion were considered to assess the environmental impacts of recycled aggregate concretes. In order to make environmental and economic comparisons of recycled aggregate concretes and natural aggregate concretes according to these impact categories, 4 different scenarios were developed. Then, a detailed feasibility analysis was made for 4 different scenarios, and the economic results of recycled aggregate concretes and natural aggregate concretes were evaluated. Regarding the arisen millions of tons of waste materials and newly constructed buildings after the earthquake, recycling waste materials is considered crucial. Therefore, a holistic assessment was taken with this study, and the usability of recycled concrete aggregates was examined in detail.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.wasman.2022.04.045
+VL  - 146
+IS  - 
+SP  - 53-65
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Utilization of RCAs arising from excavated soil in CTBM: Laboratory characterization and environmental impact assessment
+AU  - Xu, Meng
+AU  - Ai, Xinman
+AU  - Huang, Liyao
+AU  - Fan, Lulu
+AU  - Yang, Jianhong
+AU  - Pei, Zhongshi
+AU  - Feng, Decheng
+AU  - Yi, Junyan
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - A large amount of excavated soil is generated due to rapid urban infrastructure development, resulting in serious safety and environmental threats. From the perspective of resource recycling, this paper conducted a laboratory characterization and environmental impact assessment of the utilization of recycled crushed aggregates (RCAs) arising from excavated soil in cement-treated base materials (CTBM). SEM-EDS was employed to test the chemical elements and surface properties, and it reflected larger pores and cracks compared to diabase and limestone aggregates. A series of experimental tests were carried out to investigate the mechanical behaviors of CTBM with varying cement content incorporating RCAs. The laboratory test results revealed that the UCS, IDT strength, FTS and CRM increased with increasing cement content. Moreover, an environmental impact assess-ment of the recycling of RCAs to produce CTBM was preliminarily analyzed compared to the traditional CTBM with natural stone aggregates (NSAs). The results showed that the attenuation in different environmental impact categories was more than 26% when recycling RCAs from excavated soil to replace NSAs. It was clear that the utilization of 1 t RCAs could result in a reduction of approximately 75 MJ in energy and 5.17 kg CO2-eq in emissions just in terms of reducing transportation and landfill. Thus, a total reduction of 3.15 billion MJ energy and 21.72 million t CO2-eq emissions could be realized if all the excavated soil generated in Shenzhen annually was recycled. Furthermore, possible policies and further prospects were suggested based on the research for more sustainable management of construction and demolition waste (CDW) containing excavated soil.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jclepro.2022.134221
+VL  - 375
+IS  - 
+SP  - 134221
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Physical process to sort construction and demolition waste (C&DW) fines components using process water
+AU  - Vincent, Taillard
+AU  - Guy, Mercier
+AU  - Louis-Cesar, Pasquier
+AU  - Jean-Francois, Blais
+AU  - Richard, Martel
+T2  - WASTE MANAGEMENT
+AB  - Modern societies are generating considerable volume of Construction and Demolition Wastes (C&DW) annually. Most recycling facilities offers viable sorting and recycling options for the coarser particles of the different materials found in those wastes. However, usual dry mechanical sorting and human sorting are not efficient on C&DW fines particles (C&DF, <10 mm) representing the third of the C&DW produced and being composed of similar materials. Recent environmental issues related to the landfilling of C&DF have pointed out the need to develop innovative alternative and adapted recycling paths for the C&DF. This study presents an efficient sorting process train based on physical separation steps used in the mining and the soil treatment industries. The use and recirculation of process water allowed to segregate and concentrate the gypsum from the 2-12 mm C&DF into a specific fraction (55-65% gypsum content) representing 40% of the total mass. Other constituents were sorted based on their relative density, size and shapes; thanks to hydraulic classification and physical sorting forming four more fractions with high recycling potential: coarse aggregates (15%), fine aggregates (9.4%), organic and inorganic fibers (10.8%) and light organic compounds (24.8%). The process has been designed to be integrated in existing sorting facilities and the process costs were evaluated to 38 CAN$/t.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.wasman.2022.02.012
+VL  - 143
+IS  - 
+SP  - 125-134
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Computer vision to recognize construction waste compositions: A novel boundary-aware transformer (BAT) model
+AU  - Dong, Zhiming
+AU  - Chen, Junjie
+AU  - Lu, Weisheng
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - Recognition of construction waste compositions using computer vision (CV) is increasingly explored to enable its subsequent management, e.g., determining chargeable levy at disposal facilities or waste sorting using robot arms. However, the applicability of existing CV-enabled construction waste recognition in real-life scenarios is limited by their relatively low accuracy, characterized by a failure to distinguish boundaries among different waste materials. This paper aims to propose a novel boundary-aware Transformer (BAT) model for fine-grained composition recognition of construction waste mixtures. First, a pre-processing workflow is devised to separate the hard-to-recognize edges from the background. Second, a Transformer structure with a self-designed cascade decoder is developed to segment different waste materials from construction waste mixtures. Finally, a learning-enabled edge refinement scheme is used to fine-tune the ignored boundaries, further boosting the segmentation precision. The performance of the BAT model was evaluated on a benchmark dataset comprising nine types of materials in a cluttered and mixture state. It recorded a 5.48% improvement of MIoU (mean intersection over union) and 3.65% of MAcc (Mean Accuracy) against the baseline. The research contributes to the body of interdisciplinary knowledge by presenting a novel deep learning model for construction waste material semantic segmentation. It can also expedite the applications of CV in construction waste management to achieve a circular economy.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jenvman.2021.114405
+VL  - 305
+IS  - 
+SP  - 114405
+J2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Impacts of tax refund on enterprise's decisions on recycled materials production: A cross-regional perspective
+AU  - He, Lingling
+AU  - Yuan, Hongping
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Recently along with the development of waste recycling markets, a distinct management scenario which extends the traditional municipality-level management scenario to a cross-regional management scenario emerges. Under the cross-regional management scenario, on the one hand, disparities in value-added tax refund policy aggravate imbalanced development of construction and demolition waste recycling markets between regions. On the other hand, how preferential taxation policies would influence decisions of waste recycling enterprises are unclear. To fill the research gap, this paper investigates impacts of value-added tax refund policies on enterprise's cross regional recycling decisions by establishing game models that involve two recycling enterprises and two transportation enterprises. Through developing and analyzing game theory based models, the optimal decisions of involved enterprises are obtained. The findings reveal that (i) when the disparities in transportation costs and market capacities between two regions are moderate, recycling enterprises should choose cross-regional production rather than local production; (ii) enlarging market capacities after cross-regional recycling could simultaneously increase recycling quantities of waste in original region. But moderate market capacities and high value-added tax refund rate promote both recycling enterprises being better off in cross-regional production scenario; and (iii) raising value-added tax refund rate is not always necessary under certain conditions, where higher value-added tax refund rate reversely decrease recycling enterprise profits in current region. To enhance the effectiveness of value-added tax refund policy, reducing cross-regional transportation costs and balancing regional market capacities should be applied by the local government. The findings are valuable in expanding the research scope of traditional construction and demolition waste recycling markets and increasing the efficiency of applying tax policies in promoting waste recycling. There are two research limitations; one is that we did not consider the illegal waste dumping (i.e., dumping waste into unauthorized areas) frequently occurring in the process of waste transportation, and the other is that we considered unified preferential taxation for both of the recycling enterprises.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.cie.2022.108035
+VL  - 167
+IS  - 
+SP  - 108035
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Performance assessment of construction companies for the circular economy: A balanced scorecard approach
+AU  - Torgautov, Beibut
+AU  - Zhanabayev, Asset
+AU  - Tleuken, Aidana
+AU  - Turkyilmaz, Ali
+AU  - Borucki, Chet
+AU  - Karaca, Ferhat
+T2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+AB  - The construction sector and the industries comprising it are among the most significant contributors to waste generation worldwide. The recently introduced concept of the Circular Economy (CE) offers a promising opportunity to reduce construction and demolition waste (C&DW). However, potent CE strategies and tools concerning formulation and implementation are in the nascent stage of development. This study aims to create a strategic development framework to identify and select specific CE actions and measures and then employ them to address C&DW problems in the construction sector. The methodology is based on applying a generic balanced scorecard (BSC) for construction companies in emerging economies, using the case of Kazakhstan. First, following a review of the literature, several relevant CE measures are selected and then prioritized in terms of their importance by a sample of industry professionals. Respondents also indicate the extent to which CE practices are employed by their companies. Next, the data are analyzed to assess the perspectives of business stakeholders on CE in the construction sector. Finally, a BSC tool is developed, and feasible strategies are proposed that can be implemented to achieve a high level of circularity. The tool developed from this research initiative should be applicable for measuring C&DW performance in emerging markets similar to Kazakhstan. The practices rated as the most important are: C&DW transportation cost (Ix = 3.15), adoption of CE to decrease C&DW (Ix = 3.14), management by each contractor of their own C&DW (Ix = 3.39), accurate material estimation (Ix = 3.84), internal knowledge sharing (Ix = 3.59). Practices identified as the most frequently employed are: paying fines for improper treatment of C&DW (89 %), compliance with environmental legislation (91 %), following correct construction methods and sequence (94 %) and using prefabricated structures (94 %), and access for education, particularly, waste processing (94 %).(c) 2022 Institution of Chemical Engineers. Published by Elsevier Ltd. All rights reserved.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.spc.2022.08.021
+VL  - 33
+IS  - 
+SP  - 991-1004
+J2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Transformation towards a circular economy in the Australian construction and demolition waste management system
+AU  - Shooshtarian, Salman
+AU  - Maqsood, Tayyab
+AU  - Caldera, Savindi
+AU  - Ryley, Tim
+T2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+AB  - Australia's increasing rate of construction and demolition (C&D) waste generation indicates low resource efficiency in the architecture, engineering and construction (AEC) industry. This study aims to identify C&D waste disposal reduction (WDR) opportunities and barriers in various stages of the construction materials lifecycle using a systematic literature review approach. The review is guided by the Less of Waste, More of Resources (LoWMoR) model. Overall, 58 barriers and 73 opportunities are identified from 62 Australian literature sources published over the last two decades. The results show that the most opportunities are presented at the design stage, followed by the transport and landfilling elements. Furthermore, the review identifies 20 stakeholders who play a significant role in realising these opportunities including key stakeholders such as project managers, government organisations, industry associations and waste operators. The study recommends improvements in fostering broader research collaboration, harmonising waste management systems, and analysing key stakeholders involved in C&D waste management. The research findings are valuable to various stakeholders in the AEC industry and waste management and resource recovery (WMRR) sector, to drive a circular economy and improve resource efficiency. Further research is recommended in the following areas: the benefits of University-Industry Engagement (UI-E) in the AEC and WMRR industries; the impact of technologies in achieving waste minimisation objectives in Australia; waste minimisation opportunities during construction material transportation; and the direct impact of sustainability rating tools in C&D waste minimisation.(c) 2021 Institution of Chemical Engineers. Published by Elsevier B.V. All rights reserved.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.spc.2021.11.032
+VL  - 30
+IS  - 
+SP  - 89-106
+J2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Sustainable reuse of ceramic waste powder as a supplementary cementitious material in recycled aggregate concrete: Mechanical properties, durability and microstructure assessment
+AU  - Chen, Xuyong
+AU  - Zhang, Di
+AU  - Cheng, Shukai
+AU  - Xu, Xiong
+AU  - Zhao, Cheng
+AU  - Wang, Xiangqing
+AU  - Wu, Qiaoyun
+AU  - Bai, Xixuan
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - Waste concrete as one of construction and demolition wastes is generally collected for the production of recycled coarse aggregate (RCA) to alleviate environmental issues. However, the poor physical performances of RCA limit its application in concrete. Thanks to the rich silica-alumina contents and large reserves in China, the ceramic waste powder (CWP) is promising to be used as an effective supplementary cementitious material (SCM) in cement-based materials. This study reports the development of recycled aggregate concrete (RAC) using CWP as a partial replacement of Portland cement. The mechanical properties, sorptivity, rapid chloride ion penetrability, microstructure, ecological evaluations of RAC containing CWP are determined. The experimental results demonstrate that the eco-friendly RAC incorporated CWP has sufficiently high strength and its compressive strength at 56d is 36.01 MPa. In terms of penetrability behaviors, the rapid chloride penetrability and sorptivity of RAC decrease when the 60% RCA and the 10% CWP are utilized simultaneously. Furthermore, the incorporation of CWP significantly reduces the cost, thermal energy consumption and carbon dioxide emission of concrete. Based on the findings, the applications of CWP in generating a durable eco-friendly construction product are appealing as it not only provides an alternative approach to reuse the wastes, but also achieves superior performance.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jobe.2022.104418
+VL  - 52
+IS  - 
+SP  - 104418
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - An investigation into challenges and opportunities in the Australian construction and demolition waste management system
+AU  - Shooshtarian, Salman
+AU  - Caldera, Savindi
+AU  - Maqsood, Tayyab
+AU  - Ryley, Tim
+AU  - Khalfan, Malik
+T2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+AB  - Purpose The literature shows that the current Australian waste management framework does not meet industry and government expectations. This study, therefore, seeks the key construction and demolition (C&D) stakeholders' insights on various issues identified. It aims to understand the main barriers to effective C&D waste management, examining the role of the federal government and exploring perceptions around waste regulations, policies and schemes. Design/methodology/approach An online survey was conducted in 2019 to capture stakeholder perceptions. One hundred and thirty-two participants from various industries and government agencies representing Australian jurisdictions took part in the survey. Quantitative and qualitative data were collected. Findings The results show that the main barriers are overregulation, tough acceptance criteria and increased testing requirements, lack of local market and culture, poor education and low acceptance. The main areas of improvement include providing a guideline that determines the accepted level of contamination for reusing C&D waste, preparation of guidelines on requirements of using recycled C&D materials in different industries and setting a target for reduction, reusing and recycling C&D waste. Research limitations/implications Some research findings may not be generalisable beyond Australia, but there are interesting insights for an international audience. The results inform policy development within the Australian states and territories context, to support the design and implementation of a circular economy model in the construction industry. The findings are evidence for a broader discussion to solve prevailing issues in C&D waste management, notably in the context of construction materials' end of life management. Practical implications The study highlights that policy development needs to be further expanded to include new/current waste management schemes including manufacturer's shared responsibility of waste generation, subsidies for C&D waste recycled materials and the proximity principle. Originality/value This paper provides a clear insight into C&D waste management stakeholders' perceptions towards the current waste management system in Australia.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1108/ECAM-05-2021-0439
+VL  - 29
+IS  - 10
+SP  - 4313-4330
+J2  - ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Pore structure and durability of green concrete containing recycled powder and recycled coarse aggregate
+AU  - Wu, Yiwen
+AU  - Liu, Chao
+AU  - Liu, Huawei
+AU  - Hu, Huimin
+AU  - He, Chunhui
+AU  - Song, Lin
+AU  - Huang, Wei
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - This study aims to investigate the pore structure, carbonation and chloride ion permeability of recycled aggregate-powder concrete (RAPC), which was prepared synergistically with recycled coarse aggregates (RA) and recycled powder (RP) from construction and demolition waste. RA was used to replace natural aggregates (NA) with rates of 0%, 30%, 50% and 100% and RP was used to replace cement with rates of 0%, 15%, 30% and 45%. The micromechanisms were revealed by mercury intrusion pore (MIP) size measurement, scanning electron microscopy (SEM) and X-ray diffractometer (XRD) tests. The results showed that the carbonation depth and chloride ion permeability of RAPC both increased with the increase of RA replacement rate. The secondary hydration and filling effect of 15% RP refined and partitioned the >200 nm pores in the new mortar, resulting in a 9.27% reduction in the average pore diameter. The carbonation depth was also reduced by 6.33% compared to the RAPC with 0% RP replacement rate. However, the incorporation of 30% and 45% RP was detrimental to both the pore structure and the carbonation resistance. The incorporation of 0-45% RP successfully decreased the chloride ion permeability of all RAPC, and the best result was achieved at 15%. The average chloride diffusion coefficient of RAPC with four RA replacement rates was reduced by 28.32% compared to that without RP incorporation. Taking into account the environment, cost, durability and compressive strength, it was determined that a 30% RA replacement and a 15% RP replacement would be realistically feasible.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jobe.2022.104584
+VL  - 53
+IS  - 
+SP  - 104584
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Determinants of workers' pro-environmental behaviour towards enhancing construction waste management: Contributing to China's circular economy
+AU  - Hao, Jian Li
+AU  - Yu, Shiwang
+AU  - Tang, Xiaonan
+AU  - Wu, Weiwei
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Construction waste presents many challenges for sustainable development and ultimately for China's goal of a circular economy. Effective construction waste management (CWM) is necessary to tackle these challenges, the success of which depends in large part on the behaviour of workers. Most previous behavioural research relating to CWM focused on reduction or recycling behaviour, with few studies having examined pro-environmental behaviour (PEB) within organisations. This study therefore conducted research into the key determinants of two types of PEB relating to CWM. A questionnaire survey was conducted on five construction sites in China to identify the critical organisational and personal determinants predicting PEB relating to CWM, including selfenacted PEB and co-worker PEB. One hundred and fifty-two valid questionnaires were collected for data analysis, representing an overall response rate of 30.4%. Results of the analysis reveal that physical stress, environmental awareness, and tedious construction processes are significant predictors of PEB. Based on these results, practical suggestions for enhancing CWM are proposed. The findings of this research could help improve PEB among construction workers and thereby contribute to China's circular economy.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jclepro.2022.133265
+VL  - 369
+IS  - 
+SP  - 133265
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Recycled concrete fine powder (RFP) as cement partial replacement: Influences on the physical properties, hydration characteristics, and microstructure of blended cement
+AU  - Li, Zhong
+AU  - Bian, Yadong
+AU  - Zhao, Jihui
+AU  - Wang, Yiren
+AU  - Yuan, Zhenxia
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - Construction and demolition (C&D) waste has caused various economic, environmental, and social problems. This paper investigates the potential of recycled concrete fine powder (RFP) as a supplementary cementitious material. The effect of RFP with different replacement levels on the properties of cement and the mechanism of action were explored from the physical characteristics, mechanical properties, hydration kinetics, hydration products, and pore structure. In this study, scanning electron microscopy, Energy Dispersive X-Ray Spectroscopy, X-ray diffraction, Xray fluorescence, Thermogravimetric analysis, and Isothermal calorimeter were applied. The results showed that RFP (less than 30%) shortened the setting time and improved the fluidity of cement. The early compressive strength increased by 17.62% of the cement mortar with 10% RFP. When the RFP content was 10%, the flowability of the blended slurry (175.5 mm) increased by 8.0% compared to the pure cement (162.5 mm). With the RFP content increase of the blended cement, the hydration induction period was prolonged, and the peak hydration exothermic rate and the accumulated heat release showed an apparent decreasing trend. The reaction rate of the nucleation and crystal growth (NG) process was much higher than that of the interface (I) and diffusion (D) processes. The low field nuclear magnetic resonance (NMR) technique revealed that RFP filled the large and medium pores of the mortar. The non-destructive layered scanning found that the pores were distributed mainly in the central zone and had a gradient distribution law of gradually decreasing from the middle area to the edge area. Visual analysis of the dynamic distribution of water molecules in the pores and the non-homogeneous characterization also demonstrated the good filling effect of RFP on the mortar. Therefore, RFP can be used as an economical and environmentally friendly cement mixing material to replace partial cement and contribute to reducing carbon emissions in the construction industry.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.jobe.2022.105326
+VL  - 62
+IS  - 
+SP  - 105326
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Building demolition waste management through smart BIM: A case study in Hong Kong
+AU  - Kang, Kai
+AU  - Besklubova, Svetlana
+AU  - Dai, Yaqi
+AU  - Zhong, Ray Y.
+T2  - WASTE MANAGEMENT
+AB  - Hong Kong's construction industry, known for its massive building infrastructure, produces an enormous amount of waste every year, the vast majority of which is disposed for landfills. Therefore, some effective operational measures and waste management policies have been implemented. However, enormous waste remains a concern for stakeholders and exert pressure on the limited capacity of Hong Kong's landfills. Though previous research discusses Building Information Modelling (BIM) application for construction waste management enhancement, the BIM model has not been widely implemented for building demolition with waste management. Hence, as a response to the aforementioned shortcomings, this paper develops a conceptual framework that allows collecting, maintaining, and analyzing comprehensive information through Smart BIM that uses advanced technologies such as Internet of Things (IoT) and capable of reacting to user activities such as waste quantitative assessment, demolition process planning, optimal disposal route selection, and waste management strategy are executed. The advantages of the proposed framework are shown in a case study benefit-cost analysis based on three planned reuse and recycling-rate scenarios that explain on-and off-site recycling methods. The results show that the proposed framework will pave the way for generating sustainable waste disposal practices by providing technical and decision-making support functionalities to engineers and planners in the construction industry.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.wasman.2022.02.027
+VL  - 143
+IS  - 
+SP  - 69-83
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Current state of building demolition and potential for selective dismantling in Vietnam
+AU  - Hoang, Ngoc Han
+AU  - Ishigaki, Tomonori
+AU  - Watari, Takuma
+AU  - Yamada, Masato
+AU  - Kawamoto, Ken
+T2  - WASTE MANAGEMENT
+AB  - In Vietnam, an increase in construction activities together with the absence of recycling-oriented demolition techniques is giving rise to an alarming generation of construction and demolition waste. This study scrutinized the current state of building demolition approaches in Hanoi, Vietnam and evaluated the potential for the selective dismantling, or deconstruction, of reinforced-concrete (RC) houses. Site observations, direct measurement, and interviews were conducted to obtain information on technical, environmental, and economic characteristics of three residential housing sites, each representing a typical current demolition technique (manual, hybrid, and mechanical demolition). A selective dismantling site is proposed based on the collected survey data and published case studies. Our findings confirmed the unsustainability of RC-building demolition practices in Hanoi, which have an average reuse/recycling rate of roughly 3%. The application of selective dismantling will boost the recycling rate to a remarkable 90%, associated with a 55% decrease in greenhouse gas emissions. Even though selective dismantling is more time-consuming and therefore more costly, it results in double the resale value and an eight-fold decrease in disposal costs. The results of a sensitivity analysis indicate that increasing the current disposal fee will significantly improve the feasibility of selective dismantling, suggesting a need for stricter disposal charging mechanisms along with other interventions such as the development of recycling facilities to promote the introduction of this building removal alternative in Vietnam.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.wasman.2022.06.007
+VL  - 149
+IS  - 
+SP  - 218-227
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - A systematic literature review on Circular Economy implementation in the construction industry: a policy-making perspective
+AU  - Yu, Yifei
+AU  - Junjan, Veronica
+AU  - Yazan, Devrim Murat
+AU  - Iacob, Maria-Eugenia
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Implementing Circular Economy (CE) is a promising solution to tackle environmental challenges in the construction industry. On the way towards a circular built environment, governmental policy support is viewed as an important enabler. However, most existing policies are insufficient to address complex CE challenges and there are substantial knowledge gaps in understanding CE policy-making from a systemic perspective in the construction industry. This literature review investigates construction CE based on the five-stage policy cycle developed in the domain of public policy. Our main finding is that there is a lack of integrated policy-making frameworks to manage construction projects based on CE. The five-stage-policy model is not widely recognized by scientific communities or industrial practitioners to understand CE policy-making as a dynamic, interactive, and iterative cycle. Therefore, we propose an integrated CE policy-making cycle based on the explicit alignment between the state-of-the-art and the classical policy model. Furthermore, the lack of policy integration is considered as one of the critical research gaps and we propose a bi-directional policy-making mechanism to conceptualize the integrated processes of policy implementation and evaluation. The proposed frameworks address current knowledge gaps and serve as theoretical guidelines for public and private actors to understand more complex CE policy-making in the reality. Finally, we encourage interdisciplinary research to enhance integrated CE policy-making in the construction industry by 1) exploring the synergistic effect of CE policy packages on the construction life cycle, and 2) creating a streamlined, transparent, and collaborative policy making environment based on Information & Communication Technologies.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.resconrec.2022.106359
+VL  - 183
+IS  - 
+SP  - 106359
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - How to promote sustainable development of construction and demolition waste recycling systems: Production subsidies or consumption subsidies
+AU  - Guo, Feng
+AU  - Wang, Junwu
+AU  - Song, Yinghui
+T2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+AB  - Every year, many new buildings are built in China, generating a lot of construction waste. Although classification and recycling of construction waste is recognized as an effective means to solve construction waste, how to improve the recycling rate of construction waste in China seems to be a thorny problem. Different from previous studies that only focused on the behavior of participants in the recycling or sales stage, this paper, more thoroughly, develops a four-party evolutionary game model, which involves the government department(GD), Construction and Demolition Waste (C&DW) recyclers, C&DW producers and consumers and also considers their behaviors at both the recycling stage and the sales stage. Using this model, this paper studies what kind of government subsidies could promote the sustainable development of construction waste recycling systems effectively, and analyzes the influence of several key factors among 22 factors on the model through the real data of two construction waste resource integration projects in Wuhan and Sanya, China. The results show that 1) when the GD is willing to pay high subsidies, both production and consumption subsidies could make enterprises actively participate; on the other hand, when the GD is only willing to pay fewer subsidies, subsidizing production seems to be a more effective tool; 2) by mobilizing public participation and regulating carbon trading price, the GD could promote enterprises to recycle construction waste, but it could not promote consumers to buy renewable products; 3) by investigating different enterprises, the GD can determine the potential benefits of different subsidy methods, so as to determine its own subsidy strategies. Finally, this paper provides some possible suggestions for all parties involved in the system to help China better realize the recycling of construction waste renewable resources. (c) 2022 Institution of Chemical Engineers. Published by Elsevier Ltd. All rights reserved.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.spc.2022.05.002
+VL  - 32
+IS  - 
+SP  - 407-423
+J2  - SUSTAINABLE PRODUCTION AND CONSUMPTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Life cycle assessment of building demolition waste based on building information modeling
+AU  - Wang, Jingjing
+AU  - Wei, Jiajia
+AU  - Liu, Zhansheng
+AU  - Huang, Chun
+AU  - Du, Xiuli
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Sustainable building-demolition-waste management has become an important practice. Normally, three different methods of disposing of demolition waste should be considered: landfill, reuse, and recycling. The use of traditional documentation techniques for assessing the environmental impact of different disposal methods during the end-of-life (EOL) stage results in hundreds of detailed instruction sheets that need to be stored. In this study, a life-cycle assessment (LCA) framework is proposed for the evaluation and comparison of the environmental impacts of the three disposal strategies mentioned above in terms of factors such as the extraction of resources, loss of biodiversity, and effect on human health by using the information obtained with typical building information modeling (BIM). In the LCA framework, four environmental-impact-allocation types (namely, no, equal, mass, and economic allocations) are used to calculate the final impacts of the products to be shared by more than one product system. The results reveal that a particular disposal strategy should be investigated by considering an entire building to assess the effective reuse/recycling potential. In addition, a BIM-based plug-in (BIM-EF) is developed for the automatic appraisal of the environmental impact of buildings at the EOL stage by using Revit Add-in Manager. Two data libraries (the engineering quantity data library and environmental impact factor library) are created, and a coding system is established to connect the information stored in the BIM model and the two data libraries. Finally, the results of a case study are presented to illustrate the potential applications of the proposed method.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1016/j.resconrec.2021.106095
+VL  - 178
+IS  - 
+SP  - 106095
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+

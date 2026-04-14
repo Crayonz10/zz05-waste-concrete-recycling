@@ -1,0 +1,2642 @@
+{
+  "directions": {
+    "1": [
+      {
+        "title": "Analysis of reverse logistics implementation practices by South Australian construction organisations",
+        "first_author": "Chileshe",
+        "year": 2016,
+        "journal": "INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT",
+        "tier": "core",
+        "reason": "直接研究逆向物流在建筑业的实施实践，与本研究核心机制\"回程物流带来运输成本不对称性\"高度契合；文章指出\"practices facilitating deconstruction is the most important\"，并分析了逆向物流实施的障碍与促进因素，为制造商回程物流优势的理论定位提供直接支撑"
+      },
+      {
+        "title": "Reclamation chain of waste concrete: A case study of Shanghai",
+        "first_author": "Xiao",
+        "year": 2016,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "core",
+        "reason": "直接研究废弃混凝土回收链（C&D waste management → RA生产 → RAC制备），以上海为案例，讨论了回收链各环节技术措施与管理实践，是本研究废弃混凝土回收行业背景的核心文献，为Introduction和Literature Review提供制度与产业链背景"
+      },
+      {
+        "title": "If invisible carbon waste can be traded, why not visible construction waste? Establishing the construction waste trading \"missing market\"",
+        "first_author": "Peng",
+        "year": 2022,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "core",
+        "reason": "基于Coase定理提出建筑废弃物总量控制与许可证交易制度，设计\"准备-实施-演化-复审\"路线图，分析价格波动与违规倾倒两大风险并提出应对机制（市场稳定储备+押金退款制度）。本研究的核心切入点是废弃混凝土回收中竞合主体的经济决策，该文提供了废弃物回收市场机制设计的理论基础，直接支撑本研究的行业背景与政策环境框架。"
+      },
+      {
+        "title": "Non-market valuation of construction waste recycling: Evidence from China",
+        "first_author": "Li",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "以中国长沙为例，运用改进的Card Ladder CVM方法对建筑废弃物回收（CWR）进行非市场估值，量化城市居民与承包商的支付意愿（WTP）：承包商对拆迁工程废弃物WTP约8.84元/吨，装修废弃物约94.20元/吨；同时揭示居民与承包商在CWR非市场价值感知上存在显著差异。该文直接为本研究废弃混凝土回收的经济价值评估提供数据基础，并支持对供应链主体（如制造商与回收商）定价行为的行业背景论述。"
+      },
+      {
+        "title": "Optimal dynamic incentive mechanism design for construction and demolition waste recycling with Bayesian learning",
+        "first_author": "Tan",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "直接建模CDW回收供应链中回收商与收集商之间的信息不对称问题，构建动态道德风险模型，引入贝叶斯学习更新对收集商私有信息的估计，研究最优激励机制设计。与本文废弃混凝土回收中制造商-回收商交互决策的核心场景高度吻合，是废弃物回收经济决策研究的直接先行文献。"
+      },
+      {
+        "title": "Differentiated subsidy mechanism for promoting construction and demolition waste recycling",
+        "first_author": "Yuan",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "通过博弈模型研究政府-建材企业-回收企业三方决策，探讨消费者对再生材料质量感知差异化背景下的政府差异化补贴机制，分析合作市场中的利润分配问题。建模框架（多方博弈+废弃物回收）与本文Biform game框架直接相关，是竞品文献，需重点比较差异。"
+      },
+      {
+        "title": "Barriers and countermeasures of construction and demolition waste recycling enterprises under circular economy",
+        "first_author": "Ding",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "直接聚焦CDW回收企业（CDWREs）的运营障碍与对策，从企业视角揭示废弃混凝土回收商面临的高成本、废料获取渠道有限（与制造商竞争收集源）、产品竞争力不足、技术能力受限等核心问题，并结合PEST分析和波特五力模型剖析市场竞争结构，为本文废弃混凝土回收行业背景及\"收集竞争\"场景提供直接实证依据。"
+      },
+      {
+        "title": "Impact analysis of a construction and demolition waste dumping quota trading scheme in uncertain, cooperative, and non-cooperative scenarios",
+        "first_author": "Zheng",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "直接针对建筑废弃物配额交易方案（CDWTS），明确在合作与非合作情境下建模决策主体的经济行为；引入混合去模糊化策略处理不确定性，以南京数据进行数值测试。研究框架（合作vs非合作博弈、经济与环境双重效益、配额定价）与本文废弃混凝土回收竞合关系研究高度契合，可为行业政策背景提供直接支撑。"
+      },
+      {
+        "title": "Stakeholder interactions of government intervention in construction and demolition waste recycling market: A game theory approach",
+        "first_author": "Su",
+        "year": 2024,
+        "journal": "DEVELOPMENTS IN THE BUILT ENVIRONMENT",
+        "tier": "core",
+        "reason": "采用博弈论方法建立四种模型，刻画政府、承包商、CDW回收企业与填埋场之间的利益相关者互动；以深圳数据进行数值仿真，分析补贴与罚款政策对回收量、非法倾倒及各方利润的影响。该研究将博弈论引入CDW回收市场分析，与本文建模框架直接相关，同时揭示了政府干预对回收企业竞争格局的影响机制。"
+      },
+      {
+        "title": "Value stream assessment of the sustainable concrete recycling process with sequestration of CO2 from flue gases",
+        "first_author": "Kravchenko",
+        "year": 2024,
+        "journal": "SUSTAINABLE PRODUCTION AND CONSUMPTION",
+        "tier": "core",
+        "reason": "直接针对废弃混凝土回收的经济可行性评估。基于成本效益分析（CBA）与作业成本法（ABC），构建数学模型，涵盖运输、回收、固化与环境成本，以香港为案例验证。结果显示替代碳化回收方案比传统方式经济效率高约29%，环境成本降低51%以上。是废弃混凝土回收经济决策研究的直接支撑文献。"
+      },
+      {
+        "title": "Cooperation dilemmas in construction and demolition waste recycling: From understanding to navigating",
+        "first_author": "Lin",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "直接针对C&DW回收供应链中的合作困境建模，构建了\"合作vs.浅层合作\"伙伴关系博弈框架，揭示低权力方的关系专用投资可能损害高权力方利益，导致囚徒困境。随后提出合作补贴与贝叶斯说服两种补救机制。研究场景（回收商与再制造商的合作决策）与本文竞合框架高度相关，可作为核心文献引用并差异化。"
+      },
+      {
+        "title": "Mechanism of symbiotic interaction in the recycled cement industry chain under the Chinese certified emission reduction scheme",
+        "first_author": "Li",
+        "year": 2025,
+        "journal": "ENERGY ECONOMICS",
+        "tier": "core",
+        "reason": "构建了建筑企业、再生水泥企业与传统水泥企业的三方演化博弈模型，分析CCER机制下再生水泥产业链共生演化机制。研究指出共生利润分配系数对各主体行为有异质性影响，CCER价格在合理范围内促进稳定共生关系形成。该研究涉及传统水泥企业与再生水泥企业的竞合关系，与本文\"传统混凝土制造商vs.专业回收商\"场景高度相似，是重要竞品文献，需在论文中明确框架差异（演化博弈vs. Biform game + Shapley值分配）。"
+      },
+      {
+        "title": "Establishing a Market for Carbon-Neutral Technology in Concrete Waste Recycling by Sequestering Flue CO2: An Evolutionary Game Theory-Based Case Study in Hong Kong",
+        "first_author": "Besklubova",
+        "year": 2026,
+        "journal": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT",
+        "tier": "core",
+        "reason": "本文直接建模废弃混凝土回收市场中政府、回收设施与水泥制造商三方的战略互动，采用演化博弈理论结合成本收益分析和个人理性约束，分析碳化技术（RCA+WCP）商业化的财务可行性与定价机制。研究发现，在有补贴情形下CO2定价为1456 HKD/t，无补贴时升至1525 HKD/t；RCA和WCP最低销售价格需分别达到156和159 HKD/t以维持市场稳定。这与本文研究废混凝土回收中制造商与回收商的竞合关系、定价策略及利润分配高度吻合，是最接近的竞品文献，需重点对比差异化定位。"
+      },
+      {
+        "title": "Sustainable multi-period reverse logistics network design and planning under uncertainty utilizing conditional value at risk (CVaR) for recycling construction and demolition waste",
+        "first_author": "Rahimi",
+        "year": 2018,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "专门针对C&D废弃物回收建立多期多目标混合整数规划逆向物流网络模型，考虑回收产品需求和投资回报率的不确定性（CVaR两阶段随机规划），同时纳入现场与场外两种分拣方式作为对比，兼顾利润最大化、社会效益最大化与环境影响最小化三重目标，是与本研究逆向物流+回收经济决策建模最直接对标的方法论先例。"
+      },
+      {
+        "title": "Construction and demolition waste management in China through the 3R principle",
+        "first_author": "Huang",
+        "year": 2018,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "core",
+        "reason": "系统梳理中国C&D废弃物现状：回收率仅约5%，揭示监管体系不健全、回收技术不成熟、回收产品市场发育不足、市场运作机制不成熟等核心障碍，并指出需\"设计有效循环经济模式、实施针对性经济激励\"，直接为本研究废弃混凝土回收行业背景与市场机制设计提供实证支撑。"
+      },
+      {
+        "title": "Exploring environmental and economic costs and benefits of a circular economy approach to the construction and demolition sector. A literature review",
+        "first_author": "Ghisellini",
+        "year": 2018,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "系统综述循环经济框架下CDW的环境与经济成本效益，梳理了回收（Reduce/Reuse/Recycle）的可行性及其情境依赖性，明确指出经济、政策、法律、信息、管理五类障碍，强调废弃物回收的经济/环境可持续性高度依赖材料类型、运输距离、政策环境等因素。为本研究废弃混凝土回收的行业背景和经济决策挑战提供了最系统的文献基础。"
+      },
+      {
+        "title": "Reverse Logistics Network-Based Multiperiod Optimization for Construction and Demolition Waste Disposal",
+        "first_author": "Xu",
+        "year": 2019,
+        "journal": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT",
+        "tier": "core",
+        "reason": "构建逆向物流网络（RLN）多期动态MILP模型，优化CDW回收与处置过程中的处置方式选择和废弃物流量决策，并含政府绿色税对总成本的影响情景分析及收集率/回收率的敏感性分析。逆向物流+成本优化+政府激励的建模框架与本研究的核心机制（回程物流收集优势、外包加工、政府补贴）高度吻合。"
+      },
+      {
+        "title": "To expand or not to expand: A strategic analysis of the recycler's waste treatment capacity",
+        "first_author": "Liu",
+        "year": 2019,
+        "journal": "Computers & Industrial Engineering",
+        "tier": "core",
+        "reason": "直接建模CDW回收商的产能扩张经济决策，通过非线性规划对比两种市场情景，分析供需错配条件下回收商最优收费定价策略，并揭示政府与回收商目标冲突中存在双赢区间。该文是少数从回收商视角系统研究CDW回收经济决策的定量文献，与本研究对\"专业回收商\"定价与投资策略的建模高度吻合，可作为核心参照文献。"
+      },
+      {
+        "title": "Eco-efficiency assessment of technological innovations in high-grade concrete recycling",
+        "first_author": "Zhang",
+        "year": 2019,
+        "journal": "Resources Conservation and Recycling",
+        "tier": "core",
+        "reason": "针对欧盟终端生命混凝土（废弃混凝土）的高品质回收，通过LCA与LCC整合的生态效率框架，对比湿法、固定干法、移动干法等四种技术路线的成本-环境权衡，指出现场回收与高附加值产出的技术路线最具优势。该文直接对应本研究\"回收商具有加工技术优势\"这一核心机制，可支撑废弃混凝土高值回收的技术-经济可行性论证。"
+      },
+      {
+        "title": "Investigation of construction waste recycling decisions by considering consumers' quality perceptions",
+        "first_author": "He",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "与本研究高度重叠，疑似竞品文献。建模建材企业（BME）与废物回收企业（WRE）在C&DW回收市场中的最优策略，显式采用博弈论（game theory），分析三种市场情景（business stripping、monopoly、cooperation mode），发现当市场已存在独立回收商时BME应与WRE合作，并证明低消费者质量感知差异下存在稳定竞争均衡，双方可实现win-win。核心利益主体与本研究完全对应（制造商vs回收商），博弈结构亦有重叠，需在论文中明确区分。"
+      },
+      {
+        "title": "Recycling the construction and demolition waste in Vietnam: opportunities and challenges in practice",
+        "first_author": "Lockrey",
+        "year": 2016,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "研究越南混凝土废弃物回收实践，明确揭示\"logistics pathways and processing quantities of informal and formal recyclers\"，指出物流瓶颈（bottlenecks exist in waste transport）、政府财政支持不足、价值增值缺失等挑战，与本研究正式/非正式回收商竞争及回程物流机制直接对应，为行业背景提供实证支撑"
+      },
+      {
+        "title": "An economic analysis of the processing technologies in CDW recycling platforms",
+        "first_author": "Neto",
+        "year": 2017,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "对CDW回收平台三种处理技术（current advanced / advanced / advanced sorting）进行经济分析，计算IRR并讨论处理量、二次原材料价格、政策激励对可行性的影响，直接对应本研究回收商技术投资决策的经济背景，为Literature Review中\"回收商技术投资可行性\"提供文献支撑"
+      },
+      {
+        "title": "Mapping and recycling proposal for the construction and demolition waste generated in the Brazilian Amazon",
+        "first_author": "Souza",
+        "year": 2022,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "important",
+        "reason": "对巴西亚马逊地区Rio Branco市CDW的数量与组成进行系统调查，得出新建工程废弃物产生指数0.22 t/m²、翻新工程0.41 t/m²，100%可回收/再利用；经济可行性分析表明90 t/h产能回收厂具备投资价值。该文提供了CDW回收场所规划与经济可行性的现实案例，可支撑本研究废弃混凝土回收处理能力投资决策的行业背景论述。"
+      },
+      {
+        "title": "Multicriteria analysis of the environmental and economic performance of circularity strategies for concrete waste recycling in Spain",
+        "first_author": "Ruiz",
+        "year": 2022,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "以西班牙加泰罗尼亚地区为例，对混凝土废弃物循环利用策略（现场/异地回收，20%/30%/100% RCA替代率）进行LCA+详细成本分析，结合VIKOR多准则方法筛选最优方案，发现现场RCA在环境与经济上均优于固定厂。该文直接针对混凝土废弃物回收的经济-环境权衡，可支撑本研究中\"在地回收 vs. 专业回收商\"的决策情境背景。"
+      },
+      {
+        "title": "Design and simulation of a cross-regional collaborative recycling system for secondary resources: A case of lead-acid batteries",
+        "first_author": "Tian",
+        "year": 2023,
+        "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+        "tier": "important",
+        "reason": "将GIS引入多主体跨区域回收模型，以废旧铅蓄电池为例，仿真分析正规/非正规回收企业在补贴与监管政策下的演化动态，量化合作与非合作情景下的回收效率。为废弃物回收行业背景中多主体竞争与政策介入的经济建模提供了方法参照。"
+      },
+      {
+        "title": "A system dynamics model for assessing impacts of policies on supply and demand of recycled aggregate",
+        "first_author": "Ma",
+        "year": 2023,
+        "journal": "JOURNAL OF BUILDING ENGINEERING",
+        "tier": "important",
+        "reason": "构建系统动力学模型评估五类政策（非法倾倒监管、填埋收费、回收补贴、建设回收中心、限制采矿）对再生骨料供需的动态影响，重庆案例研究。直接呈现废弃混凝土回收市场的供需结构与政策调控机制，为本文行业背景和均衡分析提供实证参照。"
+      },
+      {
+        "title": "Balancing economic development and construction waste management in emerging economies: A longitudinal case study of Shenzhen, China guided by the environmental Kuznets curve",
+        "first_author": "Bao",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "以深圳为纵向案例构建EKC曲线，定量揭示经济发展与建筑废弃物管理的动态演变关系，归纳出\"回收市场繁荣、政府强干预、先进技术\"三大关键驱动因素，为本研究废弃混凝土回收行业的市场机制与经济决策背景提供重要参考。"
+      },
+      {
+        "title": "Forward and reverse logistics for circular economy in construction: A systematic literature review",
+        "first_author": "Ding",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "系统综述建筑业CE正向与逆向物流，指出实现资源循环闭环需要供应链各方更深度协同整合，尤其强调RL阶段需要跨边界的横向协作（而非仅垂直整合），与本文\"传统制造商与专业回收商竞合\"的竞合结构设定直接呼应，为合作加工环节提供产业逻辑支撑。"
+      },
+      {
+        "title": "Optimal decisions of construction and demolition waste recycling based on reference green effect under different subsidy models",
+        "first_author": "Zheng",
+        "year": 2024,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "important",
+        "reason": "构建微分博弈模型，分析不同政府补贴方式下生产商与回收商的最优决策演化路径；考虑消费者参考绿色效应对市场需求的动态影响，研究回收率随时间的收敛趋势。研究聚焦生产商-回收商双边互动，与本文探讨制造商与回收商竞合关系的核心议题密切相关，可作为方法论背景参考。"
+      },
+      {
+        "title": "Enhancing a circular economy for construction and demolition waste management in China: A stakeholder engagement and key strategy approach",
+        "first_author": "Ma",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "以中国快速城镇化背景下CDW管理为主线，通过半结构访谈、问卷调查与因果循环图识别关键利益相关者参与策略；指出政府是最重要的利益相关者，提升再生材料质量与价值是首要策略。为本文提供中国CDW回收管理现状与挑战的行业背景，政策导向分析对理解市场结构有参考价值。"
+      },
+      {
+        "title": "Environmental sustainability and cost performances of construction and demolition waste management scenarios: A case study of timber and concrete houses in Thailand",
+        "first_author": "Tanthanawiwat",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "对混凝土和木材建筑的六种循环经济CDW管理情景进行LCA和生命周期成本（LCC）评估。结果显示混凝土100%回收情景下生命周期成本最低，矿产资源稀缺性影响降低124%，材料循环指数（MCI）达0.75。提供了废弃混凝土回收在经济性和环境效益上的量化比较基准。"
+      },
+      {
+        "title": "Optimal design of a post-demolition autoclaved aerated concrete (AAC) recycling network using a capacitated, multi-period, and multi-stage warehouse location problem",
+        "first_author": "Steins",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "构建多阶段容量约束网络优化模型，以成本最小化为目标设计废弃AAC回收网络，规划至2050年。结果显示运输成本占总成本50%、固定成本40%，收益抵消约20%，建立回收网络比填埋节省68%成本（约46亿欧元）。为建筑废物回收的网络决策与经济分析提供了可参照的量化框架。"
+      },
+      {
+        "title": "Life cycle insights into construction and demolition waste management: Past, present and emerging futures",
+        "first_author": "Gao",
+        "year": 2025,
+        "journal": "JOURNAL OF BUILDING ENGINEERING",
+        "tier": "important",
+        "reason": "对2015–2024年间1025篇C&DW管理文献进行文献计量与内容分析，覆盖废弃物产生预测、材料识别、运输、回收与处置全生命周期。识别出四大研究缺口，其中\"多方利益相关者治理不足\"直接呼应本文对竞合关系的关注，可为引言提供宏观背景支撑并论证研究必要性。"
+      },
+      {
+        "title": "Combinatorial Group-Buying double auction for recycled remanufacturing products of construction waste",
+        "first_author": "Kong",
+        "year": 2025,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "important",
+        "reason": "针对建筑废弃物再制造产品（RRPCW）数字交易市场中的供需失衡与低效定价问题，提出组合团购双边拍卖机制。建模并验证了个体理性、强预算平衡与激励相容性，并通过敏感性分析考察了出价价格、折扣程度、市场结构等多维因素影响。研究关注CDW再生产品的定价与交易机制，与本文定价策略研究方向互补，可为市场背景及制度设计提供参照。"
+      },
+      {
+        "title": "Evaluating the impact of soft management policies on construction and demolition waste recycling efficiency: A hybrid simulation-machine learning approach",
+        "first_author": "Ding",
+        "year": 2026,
+        "journal": "ENVIRONMENTAL IMPACT ASSESSMENT REVIEW",
+        "tier": "important",
+        "reason": "本文以深圳1005个住宅项目数据为基础，构建嵌入反向传播神经网络的基于主体模型，评估引导政策、自愿政策、激励政策等软性管理工具对CDW回收率的影响。研究发现软性政策显著提升回收率（引导政策+14.13%），且软硬政策组合效果最优（约为基准政策效益的三倍）。该研究揭示了政策工具对废弃物回收经济决策的影响机制，可为本文中外部政策参数对均衡策略的影响（RQ2）提供行业背景支撑。"
+      },
+      {
+        "title": "Managing risks in reverse logistics supply chains of demolition waste: A systematic literature review",
+        "first_author": "Illeperuma",
+        "year": 2026,
+        "journal": "ENVIRONMENTAL DEVELOPMENT",
+        "tier": "important",
+        "reason": "本文系统综述了拆除废弃物逆向供应链（RLSC）风险管理文献（35篇，2000—2024年），提出涵盖废物收集、运输、再处理等环节的综合风险管理框架。研究指出废物再处理阶段风险最集中，多利益主体参与和信息共享是关键缓解策略。该综述揭示了废弃物回收供应链中多方参与者协作的必要性与现实困难，为本文建模\"收集竞争+加工合作\"的竞合结构提供了行业现实基础。"
+      },
+      {
+        "title": "An empirical study of perceptions towards construction and demolition waste recycling and reuse in China",
+        "first_author": "Jin",
+        "year": 2017,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "important",
+        "reason": "基于问卷调查揭示中国CDW回收再利用现状，发现\"缺乏客户需求\"是主要障碍，且研究指出\"经济可行性应最终主导废弃物转化\"，政府监管目前影响高但不可持续，为本研究定价竞争与市场激励机制的必要性提供行业感知证据。"
+      },
+      {
+        "title": "Management and sustainable utilization of processing wastes from ready-mixed concrete plants in construction: A review",
+        "first_author": "Xuan",
+        "year": 2018,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "important",
+        "reason": "综述预拌混凝土（RMC）厂加工废弃物（回收骨料、混凝土泥浆废弃物、废水）的来源、分类与管理，分析再利用的主要挑战：低再利用率、产品性能不佳、成本上升和法规约束，直接关联本研究中传统混凝土制造商在废弃混凝土处理中的角色与管理困境。"
+      },
+      {
+        "title": "Downcycling versus recycling of construction and demolition waste: Combining LCA and LCC to support sustainable policy making",
+        "first_author": "Di Maria",
+        "year": 2018,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "联合LCA和LCC方法对比比利时弗兰德斯地区四种CDW末端情景（填埋/降级回收/高质回收/选择性拆除后回收），定量评估经济成本驱动因素；核心结论：高填埋税、提高回收厂入场费、提升再生骨料销售价格是推动高质量CDW回收的最有效政策工具。为本研究中定价决策与政策补贴机制提供经验依据。"
+      },
+      {
+        "title": "Extended theory of planned behaviour for promoting construction waste recycling in Hong Kong",
+        "first_author": "Mak",
+        "year": 2019,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "运用扩展计划行为理论（TPB）识别香港CDW回收行为的四大关键影响因素：监管合规、经济激励、认证体系、物流与管理激励；发现废弃物处置费用与收集分拣成本之间的强正相关关系，提高处置收费可有效促进回收行为。为本研究中经济激励设计和收集侧行为机制提供制度背景支撑。"
+      },
+      {
+        "title": "Overview of Concrete Recycling Legislation and Practice in the United States",
+        "first_author": "Jin",
+        "year": 2019,
+        "journal": "Journal of Construction Engineering and Management",
+        "tier": "important",
+        "reason": "对美国45个州混凝土废料管理立法与实践进行系统梳理，结合俄亥俄和加利福尼亚从业者问卷，揭示各州处于先进/平均/落后三类发展阶段，并指出政府意识不足是主要障碍。该文为废弃混凝土回收行业背景提供翔实的政策与实践证据，适合作为D1行业现状的支撑文献。"
+      },
+      {
+        "title": "Designing recycling networks for construction and demolition waste based on reserve logistics research field",
+        "first_author": "Pan",
+        "year": 2020,
+        "journal": "Journal of Cleaner Production",
+        "tier": "important",
+        "reason": "基于逆向物流框架，构建多期多目标混合整数线性规划模型，同时考虑承包商CDW处置成本最小化与回收企业利润最大化两个相互冲突的目标，以重庆为案例验证。该文多主体利益冲突的建模视角与本研究\"制造商-回收商\"双主体博弈框架直接呼应，可为D1提供回收网络决策层面的文献支撑。"
+      },
+      {
+        "title": "Promoting the sustainable development of the recycling market of construction and demolition waste: A stakeholder game perspective",
+        "first_author": "Su",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "构建政府、承包商、回收厂三方演化博弈模型，以上海为背景进行数值仿真，分析各利益主体策略演化路径。研究发现违规处罚高于合规附加成本时回收厂才会生产高质量产品，名誉收益影响承包商采购决策，较低补贴更有利于达成三方稳定策略。为本研究提供CDW回收市场中多主体博弈决策的背景参照，尤其是政府政策对回收行为的激励机制。"
+      },
+      {
+        "title": "Construction and demolition waste management contributing factors coupled with reduce, reuse, and recycle strategies for effective waste management: A review",
+        "first_author": "Kabirifar",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "系统综述97篇文献，从可持续性视角、利益相关方态度、项目生命周期、管理工具四个维度梳理C&DW有效管理的关键影响因素，整合3R（reduce/reuse/recycle）策略框架。全球C&DW回收效率不足35%的现状数据与管理挑战描述，可为本研究提供行业背景和问题导入支撑。"
+      },
+      {
+        "title": "Challenges in current construction and demolition waste recycling: A China study",
+        "first_author": "Ma",
+        "year": 2020,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "通过实地调研中国10个城市10家回收厂及25位从业者访谈，识别出C&D废弃物回收的八大挑战，包括回收原料来源不稳定、补贴缺失与用地成本高、部门协调不足等。直接揭示了本文行业背景中废弃混凝土原料供应的\"竞争性争夺\"动机，以及专业回收商面临的经济约束，为RQ1的管理决策背景提供实证支撑。"
+      },
+      {
+        "title": "Review of construction and demolition waste management in China and USA",
+        "first_author": "Aslam",
+        "year": 2020,
+        "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+        "tier": "important",
+        "reason": "比较中美C&D废弃物管理的政策法规、市场模式、关键挑战及对循环经济的贡献，指出利益相关方互动、部门协调和经济激励机制是改善CDWM的关键。为本文提供跨国制度背景与市场模式对比，支撑废弃混凝土回收市场中传统制造商与专业回收商共存的制度逻辑。"
+      },
+      {
+        "title": "Decision-making interaction among stakeholders regarding construction and demolition waste recycling under different power structures",
+        "first_author": "Su",
+        "year": 2021,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "竞品文献。构建CDW逆向供应链模型，主体包括废物产生者（承包商）、回收企业和填埋场，研究在Nash博弈、回收企业Stackelberg和填埋场Stackelberg三种权力结构下的最优收费定价与回收比例。发现承包商环保偏好提高回收企业收费但反而降低回收率，回收企业主导地位下环境绩效最差。为本研究提供了CDW回收定价决策与权力结构的建模参照，但未涉及合作博弈与利润分配机制。"
+      },
+      {
+        "title": "Multi-stage network-based two-type cost minimization for the reverse logistics management of inert construction waste",
+        "first_author": "Ahmed",
+        "year": 2021,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "建立惰性建筑废物逆向物流多阶段网络成本最小化模型，采用混合整数线性规划（MILP），将成本分为设施基础成本（FBC）和非设施基础成本（NFBC）两类，以香港为案例验证，总成本降低约24%。该文为CDW回收设施投资决策与逆向物流网络设计提供了方法论参照，其成本结构分析与本研究中制造商/回收商的投资决策分析具有衔接价值。"
+      },
+      {
+        "title": "Effective construction and demolition waste management assessment through waste management hierarchy; a case of Australian large construction companies",
+        "first_author": "Kabirifar",
+        "year": 2021,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "基于108家澳大利亚大型建筑企业问卷，运用PLS-SEM评估CDW有效管理的影响因素。发现利益相关者态度（CDWSA）是最显著驱动因素，且实际中回收策略的重视程度高于减量与再利用，与CDW层级理论相悖。为本研究D1方向提供行业管理现状的实证背景，说明经济激励机制设计对CDW回收决策的重要性。"
+      },
+      {
+        "title": "Explore potential barriers of applying circular economy in construction and demolition waste recycling",
+        "first_author": "Liu",
+        "year": 2021,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "以广州为案例，运用社会网络分析（SNA）识别CDW回收向循环经济转型的关键障碍。结果显示：政府激励不足、政策缺失、法律框架不健全是核心障碍，而回收产品的推广应用是控制与调节的关键环节。直接揭示废弃混凝土回收管理面临的制度性挑战，为本研究政策含义讨论提供依据。"
+      },
+      {
+        "title": "Factors affecting the price of recycled concrete: A critical review",
+        "first_author": "Ma",
+        "year": 2022,
+        "journal": "JOURNAL OF BUILDING ENGINEERING",
+        "tier": "important",
+        "reason": "本文系统综述2000—2021年再生混凝土定价影响因素文献，识别15个关键因素（再生集料销售成本、水灰比、水泥用量、运输成本、强制法规、自愿指南、人口增长、经济增长等）。摘要指出再生混凝土价格比天然混凝土高0–10%，而客户仍优先考虑材料成本而非环境效益。该综述直接为本研究RQ1（最优定价策略）提供行业背景支撑，展示废弃混凝土回收市场定价的现实约束与驱动因素。"
+      },
+      {
+        "title": "Complete re-utilization of waste concretes-Valorisation pathways and research needs",
+        "first_author": "Villagran-Zaccardi",
+        "year": 2022,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "important",
+        "reason": "本文全面综述废弃混凝土完全再利用路径（再生粗/细集料、辅助胶凝材料、填料、熟料原料等），深入探讨供应链安全、天然资源消耗减少与循环经济转型的挑战与机遇。摘要指出知识壁垒与操作障碍阻碍了废弃混凝土（尤其是细颗粒）的工业化再利用，并强调政策与标准协调的必要性。该文为本研究提供废弃混凝土回收的行业背景与技术挑战依据，支撑为何需要经济激励机制与竞合决策框架。"
+      },
+      {
+        "title": "Dynamic simulation analysis of a construction and demolition waste management model under penalty and subsidy mechanisms",
+        "first_author": "Jia",
+        "year": 2017,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "研究C&D废弃物管理中惩罚与补贴机制的系统动力学仿真，发现补贴40元/吨可使回收再利用量增加约310.41%，直接对应本研究RQ2中\"政府补贴如何影响均衡决策\"，为Introduction的政策背景和Literature Review的政策激励板块提供支撑"
+      },
+      {
+        "title": "Modeling Construction and Demolition Waste Recycling Program in Bangkok: Benefit and Cost Analysis",
+        "first_author": "Dat Tien Doan",
+        "year": 2016,
+        "journal": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT",
+        "tier": "backup",
+        "reason": "运用系统动力学建模评估曼谷C&D废弃物回收项目可行性，需14年回收投资（IRR 12%需17年），发现\"saving in landfill charges and green image are the two key benefits\"，为本研究回收项目经济决策背景提供发展中国家案例，支撑Introduction中回收经济可行性的问题提出"
+      },
+      {
+        "title": "Circular economy research on building construction and demolition waste: A review of current trends and future research directions",
+        "first_author": "Oluleye",
+        "year": 2022,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "采用混合综述方法（定量+定性）梳理CE在建筑拆除废弃物（BCDW）管理中的研究现状、主要主题和策略，提出CE指标体系和未来方向（含智能决策支持工具）。作为近年代表性综述，可用于本研究Introduction中介绍建筑废弃物回收的整体研究态势与管理挑战。"
+      },
+      {
+        "title": "How effective is the construction sector in promoting the circular economy in Brazil and France? : A waste input-output analysis",
+        "first_author": "Pierre Doussoulin",
+        "year": 2022,
+        "journal": "STRUCTURAL CHANGE AND ECONOMIC DYNAMICS",
+        "tier": "backup",
+        "reason": "采用废弃物投入产出模型对比巴西与法国建筑行业回收/非回收场景，重点关注混凝土废弃物，发现施工阶段废弃物减少明显但拆除阶段混凝土分离不足，指出资金缺乏与管理体系缺失是发展中国家的核心挑战。该文从宏观经济视角验证了混凝土回收经济效益与管理体系建设的紧迫性，可作为行业背景补充文献。"
+      },
+      {
+        "title": "A feasibility analysis of waste concrete powder recycling market establishment: Hong Kong case",
+        "first_author": "Besklubova",
+        "year": 2023,
+        "journal": "ENVIRONMENTAL IMPACT ASSESSMENT REVIEW",
+        "tier": "backup",
+        "reason": "以香港废弃混凝土粉末回收市场为研究对象，通过收益-成本分析结合演化博弈模型，分析政府、建筑承包商和材料制造商三方参与回收市场的可行性条件与利润门槛，识别关键参数。废弃混凝土回收场景与本文核心场景最为接近，演化博弈方法也有参考价值。"
+      },
+      {
+        "title": "Environmental Impact and Cost Assessment for Reusing Waste during End-of-Life Activities on Building Projects",
+        "first_author": "Saeed",
+        "year": 2023,
+        "journal": "JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT",
+        "tier": "backup",
+        "reason": "提出CDW终端回收决策支持框架，将环境效益货币化并结合多目标优化确定混凝土等废弃物的最优回收方案，具体量化了混凝土废物从填埋转向回收所带来的能耗、水资源和温室气体减排收益。为废弃混凝土回收的经济-环境决策背景提供实证数据支撑。"
+      },
+      {
+        "title": "Developing circularity of construction waste for a sustainable built environment in emerging economies: New insights from China",
+        "first_author": "Bao",
+        "year": 2023,
+        "journal": "DEVELOPMENTS IN THE BUILT ENVIRONMENT",
+        "tier": "backup",
+        "reason": "以深圳和苏州两个案例研究，提炼出新兴经济体推进建废循环化的通用策略，包括\"从回收起步、运用智能技术、强政府干预与经济激励\"等，为本文废弃混凝土回收行业的政策背景和激励机制描述提供案例支撑。"
+      },
+      {
+        "title": "From waste to market: Exploring markets, institutions, and innovation ecosystems for waste valorization",
+        "first_author": "Nogueira",
+        "year": 2023,
+        "journal": "BUSINESS STRATEGY AND THE ENVIRONMENT",
+        "tier": "backup",
+        "reason": "从创新生态系统视角分析废弃物价值化（含建筑拆除废物回收案例），指出当废弃物环境价值高于经济价值时，单纯市场机制不足以驱动创新，需要公共部门介入，为本文引入政府政策变量（如补贴、碳税）影响均衡提供理论背景依据。"
+      },
+      {
+        "title": "Developing a construction waste material 'passport' for cross-jurisdictional trading",
+        "first_author": "Lu",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "聚焦建筑废弃物跨区域交易中的信息不对称问题，设计废弃物材料护照（WMP）以提升市场透明度，为本文废弃混凝土回收市场存在的信息不完全/不对称问题提供行业背景支撑，与竞合博弈中信息结构假设的合理性说明相关。"
+      },
+      {
+        "title": "Environmental and socio-economic effects of construction and demolition waste recycling in the European Union",
+        "first_author": "Caro",
+        "year": 2024,
+        "journal": "SCIENCE OF THE TOTAL ENVIRONMENT",
+        "tier": "backup",
+        "reason": "从生命周期视角评估欧盟12类CDW材料的环境影响与经济成本，指出混凝土和砖块的回收具有最佳环境表现但成本最高；指出欧盟CDW 89%的回收率实为低价值处置，强调循环经济转型的权衡。为本文废弃混凝土回收的经济可行性与市场动因提供国际背景数据支撑。"
+      },
+      {
+        "title": "Estimating construction and demolition waste in the building sector in China: Towards the end of the century",
+        "first_author": "An",
+        "year": 2024,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "backup",
+        "reason": "建立动态递归CDW评估模型，预测中国2000—2100年累计产生CDW约2240亿吨，其中砾石、砂和砖瓦占主要成分；指出拆除阶段实施回收策略可减少最多废弃物（约1510亿吨）。为本文废弃混凝土回收的行业规模与战略意义提供宏观数量背景，尤其契合中国情境研究的出发点。"
+      },
+      {
+        "title": "Estimation of construction and demolition waste and assessment of disposal facility location: An integrated Material Flow Analysis and Geographic Information System approach",
+        "first_author": "Lyu",
+        "year": 2025,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "backup",
+        "reason": "整合MFA与GIS定量估算北京核心区CDW，年废物产出约1000万吨，年回收价值达3.186亿美元，其中80%以上来自城市更新。研究进一步评估设施选址适宜性及产能缺口，为废弃混凝土回收管理的地理空间决策和经济规模估算提供了实证背景。"
+      },
+      {
+        "title": "Carbon footprint accounting across the construction waste lifecycle: A critical review of research",
+        "first_author": "Yuan",
+        "year": 2024,
+        "journal": "ENVIRONMENTAL IMPACT ASSESSMENT REVIEW",
+        "tier": "backup",
+        "reason": "系统综述108篇CDW碳排放核算文献，识别废物生命周期七类活动（生成、运输、分拣、再利用、回收、填埋、焚烧）对碳排放的贡献，并指出未来研究方向之一是将成本分析纳入碳排放核算。对废弃混凝土回收的行业背景提供了系统性的生命周期框架参照。"
+      },
+      {
+        "title": "Decoupling economic growth from construction waste generation: Comparative analysis between the EU and China",
+        "first_author": "Wang",
+        "year": 2024,
+        "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+        "tier": "backup",
+        "reason": "采用Tapio+Kaya+LMDI方法比较欧盟与中国建筑废物产生量与经济增长的脱耦关系。中国建筑废物2004-2020年增速达10.5%，处于弱脱耦状态；经济与人口因素是废物增长主因，技术进步是主要抑制因素。为废弃混凝土回收的宏观行业背景和政策驱动力提供了跨国比较数据支撑。"
+      },
+      {
+        "title": "Review of national policy instruments motivating circular construction",
+        "first_author": "Dziedzic",
+        "year": 2025,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "backup",
+        "reason": "系统综述了19个国家37种促进建筑循环回收的政策工具，分为监管、经济、技术、运营和传播五类，并分析其与CDW废弃物回收率的相关性。发现高收入国家中监管工具相关性最强，中等收入国家中技术工具更具效力。可为本文政策背景章节提供跨国比较数据支撑。"
+      },
+      {
+        "title": "Environmental and economic implications of selective demolition and advanced recycling of construction waste",
+        "first_author": "Bayram",
+        "year": 2025,
+        "journal": "SUSTAINABLE PRODUCTION AND CONSUMPTION",
+        "tier": "backup",
+        "reason": "对某建筑物进行案例研究，评估选择性拆除与高质量回收的环境和经济潜力，比较高选择性与部分选择性两种拆除策略结合四种矿质废物回收场景。发现高选择性拆除在环境效益（全球变暖潜力-33.8至-15.1 kg CO2-eq/m²）上显著优于传统方式，但因高人工成本和再生骨料市场低迷导致经济差异较小。该研究揭示了高质量回收的经济性挑战，可为本文设定废混凝土回收的经济决策背景提供实证数据。"
+      },
+      {
+        "title": "The hazards and resource utilization of construction and demolition waste",
+        "first_author": "Zhang",
+        "year": 2026,
+        "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+        "tier": "backup",
+        "reason": "本文提出双重分析框架，系统梳理CDW的环境危害（土壤、水体、空气污染）与资源化技术路径，并对比国际监管框架与具体组分回收技术的有效性与局限性。研究从技术、经济、治理三个维度识别关键瓶颈，提出综合管理建议。作为综述文献，可为本文Introduction中废弃混凝土回收的行业规模、管理挑战与经济价值提供背景文献支撑。"
+      },
+      {
+        "title": "DIGITAL TWIN-ENABLED REVERSE SUPPLY CHAIN FOR BUILDING DEMOLITION WASTE MANAGEMENT",
+        "first_author": "Su",
+        "year": 2026,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "backup",
+        "reason": "本文提出数字孪生驱动的建筑拆除废弃物逆向供应链管理框架，构建数学模型分析逆向供应链内外部因素对拆迁承包商成本收益的影响，并以北京某房地产项目为案例验证。该研究涉及废弃物回收供应链中的经济决策与市场化循环渠道设计，与本文研究情境（废弃混凝土回收中多方经济决策）存在部分交叠，可作为供应链经济建模的参照背景。"
+      },
+      {
+        "title": "Barriers and countermeasures for managing construction and demolition waste: A case of Shenzhen in China",
+        "first_author": "Yuan",
+        "year": 2017,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "以深圳为案例揭示中国C&D废弃物管理五大障碍，尤其指出\"回收工厂发展举步维艰\"、监管分散无主责部门，以及回收处置收费机制缺失，与本研究中回收商竞争力不足、政府补贴设计的现实背景相呼应。"
+      },
+      {
+        "title": "Availability and processing of recycled aggregates within the construction and demolition supply chain: A review",
+        "first_author": "Silva",
+        "year": 2017,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "综述C&D供应链中再生骨料可用性与加工现状，分析再利用的主要障碍（技术、经济、环境）、拆除方式选择、回收流程与产品认证体系，供应链视角与本研究的制造商-回收商价值链分析直接契合，可支撑Literature Review中行业背景描述。"
+      },
+      {
+        "title": "Integrated assessment of the use of recycled concrete aggregate replacing natural aggregate in structural concrete",
+        "first_author": "Wijayasundara",
+        "year": 2018,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "采用成本效益分析（CBA/NPV）综合评估澳大利亚RCA替代NA用于结构混凝土的财务、环境、社会可行性；关键发现：30%替代率下RCA带来4.2–6.0%的正NPV，若外部效益内化并转让给采购方则产生经济节约。直接涉及废弃混凝土回收产品的经济价值评估，可为本研究再生骨料定价提供背景数据参考。"
+      },
+      {
+        "title": "Construction and demolition waste best management practice in Europe",
+        "first_author": "Galvez-Martos",
+        "year": 2018,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "backup",
+        "reason": "综合欧洲CDW最佳管理实践，覆盖建筑行业整个价值链（废弃物减量、运输影响最小化、再利用与回收质量提升、末端处置环境优化），指出现有管理实践高度异质化并亟需覆盖全价值链的新方法。为本研究提供行业背景与管理挑战的横截面综述支撑。"
+      },
+      {
+        "title": "Status quo and future directions of construction and demolition waste research: A critical review",
+        "first_author": "Wu",
+        "year": 2019,
+        "journal": "Journal of Cleaner Production",
+        "tier": "backup",
+        "reason": "通过系统文献综述梳理CDW研究现状，从环境、材料、管理科学等多视角识别11个未来研究方向，包括废弃物处置收费体系设计和信息技术应用。该综述可为D1提供领域全景并支撑\"经济决策与管理机制研究不足\"的研究空白论述。"
+      },
+      {
+        "title": "Procurement innovation for a circular economy of construction and demolition waste: Lessons learnt from Suzhou, China",
+        "first_author": "Bao",
+        "year": 2019,
+        "journal": "Waste Management",
+        "tier": "backup",
+        "reason": "以苏州PPP采购模式为案例，分析公共与私人部门在CDW管理服务中的合同关系设计、风险分担与信任机制，指出关系型合同对缩短谈判时间、防范机会主义行为的关键作用。该文涉及多主体合作机制设计，与本研究\"合作加工\"框架下的契约安排具有一定参照价值。"
+      },
+      {
+        "title": "Cross-jurisdictional construction waste material trading: Learning from the smart grid",
+        "first_author": "Lu",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "提出借鉴智能电网机制设计跨辖区CDW交易市场，通过中国大湾区案例研究（现场访谈）分析废物需求供给匹配问题，指出离散分布的建设工地导致供需难以适时匹配是主要障碍。从废物市场制度设计角度为本研究提供参照，尤其是废物作为资源错位的市场化配置视角，与本研究关注回收市场竞合结构相呼应。"
+      },
+      {
+        "title": "Key policies to the development of construction and demolition waste recycling industry in China",
+        "first_author": "Li",
+        "year": 2020,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "backup",
+        "reason": "对中国52个城市CDW回收行业发展与政策工具关系进行逐步回归分析，识别绿色产品标签、收费/税收、技术标准三项政策工具具有统计显著性。研究表明CDW回收行业在中国仍处于初期阶段且各地发展不均，为本研究提供中国情境下的行业发展背景及政策激励机制的定量依据。"
+      },
+      {
+        "title": "Developing ef ficient circularity for construction and demolition waste management in fast emerging economies: Lessons learned from Shenzhen, China",
+        "first_author": "Bao",
+        "year": 2020,
+        "journal": "SCIENCE OF THE TOTAL ENVIRONMENT",
+        "tier": "backup",
+        "reason": "以深圳为案例研究C&D废弃物循环经济的成功经验，归纳强政府干预、活跃回收市场、先进技术引进和响应性制度安排四大要素，并指出回收产品认证、用地与补贴、循环经济理念等待改进方面。为本文废弃混凝土回收市场发展阶段与制度背景提供中国情景实证依据。"
+      },
+      {
+        "title": "Optimised design of concrete recycling networks: The case of North Rhine-Westphalia",
+        "first_author": "Tsydenova",
+        "year": 2021,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "backup",
+        "reason": "构建双目标混合整数线性规划模型，优化德国北威州混凝土回收网络（从建筑拆除到新建建筑全流程），同时最小化回收网络总成本和天然骨料使用量，结果显示在缺乏本地天然骨料供应的地区回收混凝土骨料经济可行。为本文提供回收网络经济可行性与投资决策的量化方法参照。"
+      }
+    ],
+    "2": [
+      {
+        "title": "On the cooperation of recycling operations",
+        "first_author": "Lu",
+        "year": 2014,
+        "journal": "European Journal of Operational Research",
+        "tier": "core",
+        "reason": "直接使用合作博弈理论研究回收运营中的多企业合作问题，是本研究方法论（合作博弈+Shapley值分配）在回收供应链中的最直接先例。摘要明确提出：回收行业存在大量小规模低效回收企业，单家企业无法高效销售所有回收产出，因此建模多企业联合生产与定价决策，设计利润分配方案以鼓励合作，并从环境和经济双维度给出管理启示。与本研究\"加工合作+Shapley值分配\"框架直接对话。"
+      },
+      {
+        "title": "Price distortion forced by recycling competition under trade-in collaboration",
+        "first_author": "Zhao",
+        "year": 2024,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "直接建模\"回收竞争+合作\"的竞合结构，与本研究\"收集竞争+加工合作\"的Biform框架高度契合。文章研究卖家（品牌商）与回收机构之间的trade-in合作协议，同时两者在旧消费者群体中存在回收竞争；核心发现是激烈回收竞争下卖家会向下扭曲新品价格以抢占回收需求，且合作约束压低回收商返利；在竞争温和时自主回收达成Pareto改进，否则陷入零和博弈。模型分析了竞合结构下的定价均衡和收益分配，直接对话本研究RQ1（竞合关系下最优定价策略）和RQ2（外部竞争强度对均衡的影响）。有竞品风险——该文也研究回收竞争与合作并存场景，需在写作中明确区分本研究以废弃混凝土/建筑废弃物为对象、采用Biform game+Shapley值的差异化。"
+      },
+      {
+        "title": "Cooperation dilemmas in construction and demolition waste recycling: From understanding to navigating",
+        "first_author": "Lin",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "直接研究建筑垃圾（C&DW）回收供应链中企业合作博弈问题，构建合伙决策博弈模型，揭示企业在\"深度合作（协调合同）\"与\"表层合作（批发交易）\"之间的选择困境，发现低权力企业的关系专用投资会损害高权力企业利益，导致囚徒困境均衡由表层合作主导；提出补贴机制与贝叶斯说服信号结构作为破解路径。废弃物类型与本研究高度吻合，合作博弈建模框架是直接理论对话对象。"
+      },
+      {
+        "title": "Integration strategies for a reverse supply chain with horizontal competitive recycling",
+        "first_author": "Wang",
+        "year": 2026,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "研究包含制造商、收集商和回收公司三方的逆向供应链，构建五种博弈模型（含非合作与合作情境），用Shapley值和平均树值方法分析合作联盟内的利润分配。收集商采用线下渠道，回收公司采用线上+线下混合渠道，形成水平竞争性回收格局。结果显示全合作最大化总利润，Shapley值对收集商最有利，平均树值对制造商和回收公司更有利。与本研究\"收集竞争+加工合作+Shapley值分配\"的竞合框架高度吻合，是直接的理论对话对象。"
+      },
+      {
+        "title": "The impact of third-party remanufacturing on the forward supply chain: a blessing or a curse?",
+        "first_author": "Jin",
+        "year": 2017,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "构建OEM与第三方再制造商（TPR）之间的博弈论模型，揭示第三方再制造的\"竞合\"逻辑——TPR进入使OEM与上游供应商形成联盟（\"makes the OEM and the supplier allied\"），而OEM自营再制造则使二者对立。这一竞合结构与本研究中传统混凝土制造商与专业回收商\"收集竞争+加工合作\"的并存机制高度对应，是LR博弈论应用综述中最直接的竞合对标文献，同时可在Discussion中对比均衡条件差异。"
+      },
+      {
+        "title": "Coordinating a closed-loop supply chain with fairness concerns through variable-weighted Shapley values",
+        "first_author": "Zheng",
+        "year": 2019,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "core",
+        "reason": "直接使用Shapley值方法对闭环供应链（制造商、零售商、第三方再制造商）进行利润分配协调。摘要明确提出在5种非合作与合作博弈模型下求最优决策，并基于经典Shapley值提出\"变权Shapley值\"创新分配方案，与本研究RQ2（外部因素如何影响利润分配）的核心工具高度吻合，是直接的理论对话对象。"
+      },
+      {
+        "title": "Cooperative game approaches to coordinating a three-echelon closed-loop supply chain with fairness concerns",
+        "first_author": "Zheng",
+        "year": 2019,
+        "journal": "International Journal of Production Economics",
+        "tier": "core",
+        "reason": "本文同时使用合作博弈与非合作博弈分析三层闭环供应链（制造商-分销商-零售商），引入公平关切，并用Shapley值、核仁解、等满意度三种机制进行剩余利润分配。与本研究的竞合博弈框架（非合作阶段+合作阶段+Shapley值分配）高度一致，是最直接的理论对话对象。"
+      },
+      {
+        "title": "Interactive decisions of the waste producer and the recycler in construction waste recycling",
+        "first_author": "Liu",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "本文是直接研究建筑垃圾（C&D waste）回收中废料生产者与回收商互动决策的博弈论文，与本研究对象高度吻合。文章区分了回收处理容量不足与过剩两种市场情景，用博弈论分析双方利润交互作用，并检验了政府减少环境影响的激励目标。其\"废料生产者vs回收商\"双主体博弈框架、投资成本系数对均衡的影响分析，与本研究中传统混凝土制造商与专业回收商的竞合建模构成最直接的理论对话。"
+      },
+      {
+        "title": "Dynamic game strategies for construction and demolition waste recycling with learning and reference effects",
+        "first_author": "Hu",
+        "year": 2021,
+        "journal": "ENVIRONMENTAL IMPACT ASSESSMENT REVIEW",
+        "tier": "core",
+        "reason": "与本文最直接的竞品文献。同样以建筑垃圾（C&DW）回收为背景，建模一个建筑材料制造商与一个C&DW回收商在政府补贴下的博弈，构建静态基准模型和双期动态模型。引入学习效应与参考价格效应，分析均衡决策和利润。本文与其的核心区别在于：Hu等采用Stackelberg/动态博弈，本文采用Biform game框架捕捉\"收集竞争+加工合作\"的竞合结构，且引入Shapley值进行利润分配，理论框架具有显著差异化。"
+      },
+      {
+        "title": "Closed-loop supply chain models with coopetition options",
+        "first_author": "Jalali",
+        "year": 2022,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "直接对标本研究的竞合(coopetition)框架。文章建模OEM与社会回收商的合作博弈，市场分为三类消费者群体，回收商在竞争与竞合之间进行选择。核心发现：回收商对竞争/竞合无差异，但OEM严格偏好竞合。该文与本文研究的\"收集竞争+加工合作\"结构直接呼应，是竞合关系建模的最直接对话对象。"
+      },
+      {
+        "title": "Closed-loop supply chain coalitional cooperation and coordination under differentiated carbon tax regulation",
+        "first_author": "Yu",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "本文同时采用非合作博弈与合作博弈两阶段框架，与本研究的Biform game思路高度一致。在非合作阶段探讨五种联盟结构下的最优运营决策，在合作阶段用Shapley值分配大联盟利润，并提出纳入碳税差异化成本的修正Shapley算法。供应链结构包含制造商与再制造商，Shapley值的使用和\"合作-分配\"两步走逻辑是本文直接方法论对话对象。"
+      },
+      {
+        "title": "A novel coordination mechanism to coordinate the multi-agent reverse supply chain with fairness concerns",
+        "first_author": "Jia",
+        "year": 2023,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "直接使用biform game（非合作+合作博弈组合）建模逆向供应链协调问题，结构与本研究高度契合。模型包含一个再制造商和两个竞争回收商（其中一个有分配公平关切），通过博弈论和数值分析证明biform game机制能使所有供应链成员比非合作均衡更优，并讨论了联盟外部性和合同设计如何缓解公平关切对回收渠道的影响。是本研究在理论框架上的最直接对话对象。"
+      },
+      {
+        "title": "Decentralized decision-making and protocol design for recycled material flows",
+        "first_author": "Hong",
+        "year": 2008,
+        "journal": "International Journal of Production Economics",
+        "tier": "important",
+        "reason": "建模两层回收网络（收集者层与处理者层），处理者之间竞争从收集者处获取废品流直至达到Nash均衡，为本研究中\"处理竞争-收集合作\"结构提供直接理论参照。摘要描述了收集者与处理者各自独立决策的机制设计，以及处理者Nash均衡定价，与本研究废弃混凝土\"收集-加工\"双层结构高度吻合。"
+      },
+      {
+        "title": "Optimal collection and remanufacturing decisions in reverse supply chains with collector's imperfect sorting",
+        "first_author": "Gu",
+        "year": 2014,
+        "journal": "International Journal of Production Research",
+        "tier": "important",
+        "reason": "直接建模由两家独立公司（收集者与再制造商）组成的逆向供应链，用博弈论分析最优收集量与订购量决策，分散决策与集中决策的比较。结构与本研究\"独立回收商+制造商\"双主体博弈最为接近，是本研究建模框架的直接结构性前驱，可用于讨论中对比两阶段决策效率。"
+      },
+      {
+        "title": "Stakeholder interactions of government intervention in construction and demolition waste recycling market: A game theory approach",
+        "first_author": "Su",
+        "year": 2024,
+        "journal": "DEVELOPMENTS IN THE BUILT ENVIRONMENT",
+        "tier": "important",
+        "reason": "直接针对建筑与拆除废弃物（C&DW）回收市场，以博弈论建模政府、承包商、回收企业（含回收商与填埋场）之间的利益互动，以中国深圳为案例进行数值仿真。研究发现政府补贴提升回收企业市场竞争力、惩罚政策显著减少非法倾倒，补贴政策大幅增加回收量。尽管视角聚焦政府干预而非制造商-回收商竞合关系，但作为直接相关领域（C&DW回收+博弈论）的近期文献，是本研究不可回避的对话对象。"
+      },
+      {
+        "title": "Hybrid closed-loop supply chain with different collection competition in reverse channel",
+        "first_author": "He",
+        "year": 2024,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "构建包含制造商、零售商、第三方回收商的混合CLSC博弈模型，系统研究垄断、双头竞争、混合竞争三种回收竞争程度下的定价与便利性策略均衡。核心发现是总回收率由优势回收方的便利性策略主导；消费者偏好与不信任均负向影响定价和便利性策略，但对不同竞争层级的影响有差异。模型结构（含不同竞争强度分析）与本研究在\"收集竞争\"维度的建模直接相关，可作为回收竞争博弈建模的重要参照。"
+      },
+      {
+        "title": "To Cooperate or Not: Evaluating process innovation strategies in battery recycling and product innovation",
+        "first_author": "Qian",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "研究退役EV电池回收中上下游企业如何在竞争环境下制定最优流程创新（PIR）策略——独立投资、外包或合作。构建Stackelberg博弈模型，核心发现是\"合作并非总优\"，只有当PIR投资效率较低时合作才被偏好，先动优势在合作模式下可能逆转。研究框架中\"非合作基准+合作模式对比\"的逻辑与本文biform game中竞合关系建模直接呼应，可作为对标文献。"
+      },
+      {
+        "title": "Exploring sustainable models for green express packaging recycling with third-party involvement",
+        "first_author": "Chen",
+        "year": 2025,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "important",
+        "reason": "研究快递包装废物回收中第三方回收商介入的三种治理结构（T：第三方直接回收；LT：制造商委托；MT：物流商委托），采用博弈论模型评估三种结构对绿色投资、回收绩效和利润分配的影响。核心变量包括差异化定价、再制造节约与成本分担机制。与本文\"传统制造商+专业回收商\"竞合结构相似，尤其是治理结构选择与利润分配的博弈分析逻辑可直接借鉴。"
+      },
+      {
+        "title": "Supply chain cooperative strategies for electric vehicle battery recycling under joint environmental policies",
+        "first_author": "Lin",
+        "year": 2026,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "important",
+        "reason": "构建包含EV制造商、零售商和第三方回收商的三方闭环供应链，利用非合作博弈论分析五种联盟合作策略，并明确采用合作博弈（Shapley值）实现公平利润分配。研究发现环境政策压力可在特定情境下同步提升经济收益，部分联盟可能导致利润分配不均。其\"非合作→合作+Shapley值\"的双层博弈框架与本研究方法论一致，可作为EV电池情境下的直接参照。"
+      },
+      {
+        "title": "With whom to ally? Alliance strategy for EV battery supplier considering echelon utilization and disassembly recycling",
+        "first_author": "Fang",
+        "year": 2026,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "important",
+        "reason": "从电池供应商视角构建博弈模型，考察四种跨企业联盟模式（无联盟N、供应商-制造商SM、供应商-回收商SR、综合联盟SMR）。研究发现回收竞争强度直接影响联盟选择：竞争较弱时与制造商联盟更优，竞争激烈时综合联盟同时提升经济和环境表现。该文明确引入回收竞争强度变量并分析其对联盟结构的调节效应，与本研究RQ2（外部因素如何影响均衡和利润分配）形成直接对话。"
+      },
+      {
+        "title": "Pricing, collecting and contract design in a reverse supply chain with incomplete information",
+        "first_author": "Zheng",
+        "year": 2017,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "important",
+        "reason": "针对由收集商（collector）与再制造商（remanufacturer）构成的逆向供应链，建立完全/不完全信息下的非合作博弈模型，求解均衡定价与收集努力决策，并设计两部定价契约消除信息租金。其\"collector与remanufacturer分工博弈\"的结构与本研究建模逻辑最为接近，可直接作为博弈建模的参照基准，并识别本研究引入合作阶段（Shapley值分配）的差异化贡献。"
+      },
+      {
+        "title": "Sustainable development by waste recycling under a three-echelon supply chain: A game-theoretic approach",
+        "first_author": "Jafari",
+        "year": 2017,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "研究三级废物回收供应链（collector + recycler + manufacturer），在不同权力结构下建立博弈论模型，获取均衡策略。制造商可从recycler购买回收材料或自行回收，与本研究中废弃混凝土\"回收商竞争+加工合作\"的三方结构高度吻合。文中发现\"当collector与recycler具有相同决策权时制造商获利更高\"，与本研究合作均衡分析直接对话，是废物回收供应链博弈模型中的重要参照。"
+      },
+      {
+        "title": "Cooperation. regarding technology development in a closed-loop supply chain",
+        "first_author": "Wu",
+        "year": 2018,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "建模OEM与独立再制造商（IR）之间的竞争与合作互动：OEM决定产品质量，OEM与IR随后进行产量竞争，同时考察技术许可与R&D联合两种合作机制。这种\"竞争基础上的合作\"结构与本研究Biform game框架（收集竞争+加工合作）直接对应，且延伸至动态设置检验均衡结果。"
+      },
+      {
+        "title": "Reverse logistics pricing strategy for a green supply chain: A view of customers' environmental awareness",
+        "first_author": "Chen",
+        "year": 2019,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "构建三种博弈模型比较逆向物流定价策略：基于Stackelberg均衡的非合作定价、Nash均衡非合作定价，以及合作博弈联合定价。结论表明合作决策优于非合作，直接支持本研究\"收集竞争+加工合作\"竞合框架的动机，且期刊层次高，论证结构可借鉴。"
+      },
+      {
+        "title": "Hybrid closed-loop supply chains with competition in recycling and product markets",
+        "first_author": "Wang",
+        "year": 2019,
+        "journal": "International Journal of Production Economics",
+        "tier": "important",
+        "reason": "本文研究闭环供应链中回收市场与产品市场的双重竞争，重点分析制造商自建回收渠道、外包给零售商、还是由再制造商独立回收三种情景，使用Stackelberg博弈求解各方最优定价策略。直接建模\"制造商vs第三方在回收市场的竞争选择\"，与本研究废混凝土中传统混凝土制造商与专业回收商之间的竞合结构高度相近。"
+      },
+      {
+        "title": "Investigation of construction waste recycling decisions by considering consumers' quality perceptions",
+        "first_author": "He",
+        "year": 2020,
+        "journal": "Journal of Cleaner Production",
+        "tier": "important",
+        "reason": "本文以建筑废弃物回收为背景，研究建材企业（BME）与废弃物回收企业（WRE）两类核心利益相关方的博弈决策，建立三种竞争/合作情景（剥离模式、垄断模式、合作模式），并引入消费者对再生材料质量认知的异质性。研究对象（建筑废弃物+制造商vs回收商）与本研究（废混凝土+传统制造商vs专业回收商）最为接近，是少数与本研究研究背景直接对话的文献。"
+      },
+      {
+        "title": "Selection of best buyback strategy for original equipment manufacturer and independent remanufacturer - game theoretic approach",
+        "first_author": "Ray",
+        "year": 2021,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "important",
+        "reason": "本文研究OEM与独立再制造商（IR）竞争收集旧产品的buyback策略选择问题，构建两期博弈模型，在OEM主导remanufacturing且IR参与竞争的情境下分析低价vs激励两种定价策略的最优选择。OEM与独立再制造商竞争收集旧产品的框架，与本研究中传统混凝土制造商与专业回收商竞争收集废弃混凝土的设置结构高度对应，可作为同类竞争收集博弈的理论对标。"
+      },
+      {
+        "title": "A competitive dual recycling channel in a three-level closed loop supply chain under different power structures: Pricing and collecting decisions",
+        "first_author": "Ranjbar",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "本文研究三级CLSC（制造商、零售商、第三方收集商）中零售商与第三方形成双竞争回收渠道的情形，在集中决策与三种Stackelberg权力结构下比较最优定价与收集决策。双渠道竞争回收结构与本研究中两主体竞争收集废弃混凝土的设置可直接类比，文章对不同权力结构下均衡决策的系统比较也为本研究选择博弈框架提供了参考依据。"
+      },
+      {
+        "title": "A comparative analysis of express packaging waste recycling models based on the differential game theory",
+        "first_author": "Yang",
+        "year": 2021,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "important",
+        "reason": "采用微分博弈框架，构建包含政府、个人和企业的多主体快递包装废弃物回收系统，系统比较市场驱动、政府驱动与合作驱动三种回收模式的均衡行为与最优策略。研究发现合作驱动模式收益最高，补贴有助于提升企业最优努力水平。该文在\"合作vs非合作\"模式的比较分析思路上与本文相关，可作为回收博弈中合作结构优越性的文献依据。"
+      },
+      {
+        "title": "Optimal timing of acquisition price announcement for used products in a dual-recycling channel reverse supply chain",
+        "first_author": "Matsui",
+        "year": 2022,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "构建双渠道逆向供应链博弈模型，含回收企业与第三方收集商的非合作博弈，重点分析先动优势（first-mover advantage）。发现回收定价中存在先动优势而非通常的后动优势，与传统非合作博弈结论相悖。为本研究回收商间竞争性定价决策提供重要博弈论基础。"
+      },
+      {
+        "title": "Cooperative game for coordination of a green closed-loop supply chain",
+        "first_author": "Asghari",
+        "year": 2022,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "直接采用合作博弈理论（含Shapley值和Nucleolus机制）对绿色CLSC进行利润分配，并与收益共享、成本共享、两部收费等合同协调机制比较。发现大联盟优于合同协调。Shapley值分配机制与本研究方法完全对应，是合作博弈利润分配的直接方法论参照。"
+      },
+      {
+        "title": "Firms' cooperation on recycling investments in a three-echelon reverse supply chain",
+        "first_author": "Kong",
+        "year": 2023,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "构建三级逆向供应链（收集者、生产者、回收者），系统比较非合作模式与四种合作模式（CP/CR/PR/I）下的最优回收投资策略。文章明确研究\"合作行为\"带来的设计回收水平、回收技术水平和收集量的变化，并分析合作可能对个别成员不利的反直觉结果。三方结构与本文\"收集竞争+加工合作\"的角色划分高度类似，是理论对话的直接参照。"
+      },
+      {
+        "title": "A game theoretic framework for post-consumer recycled and new packaging industries",
+        "first_author": "Zafarani",
+        "year": 2023,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "important",
+        "reason": "建立传统包装企业（使用新原料）与PCR回收材料包装企业之间的竞争博弈框架，两阶段博弈求解最优创新投资水平、PCR材料比例和零售价格均衡。企业类型（传统原料 vs 回收材料）与本文\"传统混凝土制造商 vs 专业回收商\"的竞争结构最为相似，是回收行业中异质性企业竞争定价建模的重要参照。"
+      },
+      {
+        "title": "Dual-recycling channel reverse supply chain design of recycling platforms under acquisition price competition",
+        "first_author": "Matsui",
+        "year": 2023,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "构建博弈论模型研究两个回收企业在收购价格竞争下的双渠道逆向供应链渠道选择问题。结果发现对称双渠道均衡总是被非对称渠道均衡Pareto支配，即双渠道收集策略在竞争环境下导致典型囚徒困境——这与本研究\"收集竞争\"情景下价格策略分析高度相关，为本研究的竞争均衡分析提供了重要参照。"
+      },
+      {
+        "title": "Recycling, pricing decisions, and coordination in the dual-channel closed-loop supply chain: A dynamic perspective",
+        "first_author": "Yu",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "构建双渠道闭环供应链差分博弈模型，明确比较完全不合作（DN）、不完全合作（D）和完全合作（C）三种情景，研究回收率和定价决策的动态演化。设计成本共享-转移支付合同实现供应链协调，并验证竞争与政府干预能实现双赢。研究框架与本文在合作/非合作情景对比上直接呼应，对本研究的合作收益分析具有参考价值。"
+      },
+      {
+        "title": "Closed-loop supply chain models with product remanufacturing",
+        "first_author": "Savaskan",
+        "year": 2004,
+        "journal": "Management Science",
+        "tier": "backup",
+        "reason": "CLSC逆向渠道选择的奠基性论文，被引极高。建模制造商作为Stackelberg领导者，在自行收集、委托零售商收集、外包给第三方三种渠道间选择，为本研究逆向渠道与主体角色设定提供重要背景。虽不涉及竞合并存结构，但作为该领域必引经典可提供Literature Review背景支撑。"
+      },
+      {
+        "title": "Competition for cores in remanufacturing",
+        "first_author": "Bulmus",
+        "year": 2014,
+        "journal": "European Journal of Operational Research",
+        "tier": "backup",
+        "reason": "研究OEM与独立再制造商在销售市场和回收市场（cores收购价）上同时竞争，建立两期模型求Nash均衡，明确指出区别于已有文献之处在于双市场竞争。与本研究\"制造商与回收商在收集端竞争\"机制有直接对应，可用于文献综述中识别Gap（本研究额外引入合作维度，而该文无合作结构）。"
+      },
+      {
+        "title": "Navigating the recycling intention of electronics manufacturers in collaborating with a third-party collector: A Stackelberg game analysis",
+        "first_author": "Feng",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "以博弈论研究电子制造商与第三方回收商（3PR）合作背景下的回收意愿与激励机制。发现当制造商激励不足时3PR会被动降低回收努力；3PR会通过提高消费者回收价格来刺激回收量；不同合同设计对制造商回收激励产生差异化效果。研究结构（制造商决定是否与第三方合作、合同设计影响双方行为）与本研究\"传统混凝土制造商与专业回收商竞合\"的制度背景具有参考价值。"
+      },
+      {
+        "title": "Outsourcing vs. authorization remanufacturing and differential vs. uniform pricing: A supply chain perspective",
+        "first_author": "Ding",
+        "year": 2024,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "backup",
+        "reason": "在含供应商、OEM、第三方再制造商的三层CLSC中，系统比较外包vs授权再制造模式与统一vs差异化定价政策的均衡结果。发现外包再制造模式是供应商、OEM、消费者和社会的共赢方案；差异化定价对供应商和3PR有利但损害OEM和社会福利。模型对\"制造商与第三方的合作/竞争模式选择\"以及定价策略分析具有方法论参考价值，可用于支持本研究讨论不同合作结构下的定价均衡结果。"
+      },
+      {
+        "title": "Game-theoretic analysis of recycling integration modes in a power battery supply chain under carbon trading and deposit-return mechanisms",
+        "first_author": "Liu",
+        "year": 2025,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "研究动力电池供应链中四种回收整合模式（NA非整合、PT电池制造商+第三方、PM电池+整车制造商、AL全整合），采用博弈论分析各模式下定价决策与利润分布。发现竞争强度低时PM最优，高时AL最优，碳交易价格上升推高电池价格。回收整合模式选择与竞争强度对利润分配的影响逻辑，可作为本文竞合均衡分析的参照。"
+      },
+      {
+        "title": "AI quality control in competitive recycling facing material contamination",
+        "first_author": "Niu",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "backup",
+        "reason": "研究回收供应链中清洁型MRF（cMRF）与污染型MRF（dMRF）之间的竞争博弈，下游制造商面临价格与废品处置成本权衡。构建博弈论模型分析AI质量控制投资激励，发现AI采用可能反而减少dMRF供给量（低效使用AI），以及AI成本与制造商废品处置成本的替代关系。回收供应链中异质竞争者博弈建模直接与本文\"制造商vs专业回收商\"竞争结构对话。"
+      },
+      {
+        "title": "Optimising resource recovery from construction waste material reverse supply chain coordination games",
+        "first_author": "Tan",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS",
+        "tier": "backup",
+        "reason": "以建筑废弃物为研究对象，建立逆向供应链决策协调模型，采用制造企业领导型Stackelberg博弈分析三种补贴模型对回收效率、回收率、定价和总利润的影响。研究背景（建筑废料回收）与本研究（废弃混凝土回收）材料情境最接近，政府补贴对回收定价的影响机制对本研究参数设置具有参考价值，可作为情境背景文献引用。"
+      },
+      {
+        "title": "Managing channel profits of different cooperative models in closed-loop supply chains",
+        "first_author": "Ma",
+        "year": 2016,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "backup",
+        "reason": "研究含单一制造商、零售商和两个回收商的三级CLSC，比较不同合作联盟结构（coalition）下的最优决策与供应链利润，发现合作策略可实现win-win并提升整体效率。直接使用合作博弈框架分析多回收商情景，与本研究利用合作博弈（Shapley值）进行利润分配的核心方法论形成对话，可用于LR中合作博弈应用综述及Gap识别。"
+      },
+      {
+        "title": "Competitive advantage of qualified WEEE recyclers through EPR legislation",
+        "first_author": "Zhou",
+        "year": 2017,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "建立含合格与非合格两类回收商的两期竞争模型，在EPR立法框架下分析政府补贴上限与社会福利最大化。两个回收商之间的竞争均衡分析与本研究\"制造商与专业回收商竞争收集\"的非合作阶段对应，且废旧电器回收背景（竞争性收集渠道）与废弃混凝土情景具有结构可比性，可在Discussion中对比外部政策对均衡的影响路径。"
+      },
+      {
+        "title": "Reverse channel selection decisions with a joint third-party recycler",
+        "first_author": "Chu",
+        "year": 2018,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "backup",
+        "reason": "研究联合第三方回收商（J3P）服务多家制造商的回收渠道选择，发展Stackelberg博弈模型，证明J3P模式可优于单一制造商或零售商主导模式。本研究中专业回收商扮演类似\"联合处理方\"角色，该文为回收渠道中第三方专业回收商的战略地位提供直接文献支撑。"
+      },
+      {
+        "title": "Two-echelon reverse supply chain in collecting waste electrical and electronic equipment: A game theory model",
+        "first_author": "Guo",
+        "year": 2018,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "backup",
+        "reason": "构建两级逆向供应链（回收商与处理商）微分博弈模型，研究回收宣传力度与回收价格协调策略。回收商-处理商双层结构与本研究\"传统制造商+专业回收商\"分工最为接近，集中讨论了两个主体之间的协调策略与利益分配，为本研究竞合关系建模提供结构参考。"
+      },
+      {
+        "title": "Coordinating and pricing decisions in two competitive reverse supply chains with different channel structures",
+        "first_author": "Sadeghi",
+        "year": 2019,
+        "journal": "International Journal of Production Research",
+        "tier": "backup",
+        "reason": "本文研究两条竞争性逆向供应链在不同渠道结构下的协调与定价问题，通过Stackelberg博弈求解各渠道最优决策，并用非零和博弈比较情景，最终提出协调契约。双链竞争结构及竞争与协调并存的分析框架与本研究\"收集竞争+加工合作\"的竞合逻辑有部分契合。"
+      },
+      {
+        "title": "Pricing models in a sustainable supply chain with capacity constraint",
+        "first_author": "Wang",
+        "year": 2019,
+        "journal": "Journal of Cleaner Production",
+        "tier": "backup",
+        "reason": "本文研究供应商与第三方回收商在有产能约束的闭环供应链中的竞争关系，提出三种博弈模型（供应商主导Stackelberg、第三方回收商主导Stackelberg、Nash博弈），分析各方最优定价、回收与再制造策略。与本研究在\"制造商vs第三方回收商博弈建模\"方面有直接参照价值。"
+      },
+      {
+        "title": "A review of factors affecting closed-loop supply chain models",
+        "first_author": "Shekarian",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "本文系统综述了215篇基于博弈论的CLSC模型文献，将影响因素归纳为12个主类别，重点梳理了合作与竞争参与者之间的交互关系。作为D2方向（回收/逆向物流供应链博弈模型）的代表性综述，可为本研究文献综述部分提供领域全景和研究定位支撑，但由于其综述性质，直接理论贡献有限，列为备选。"
+      },
+      {
+        "title": "Collusion or Not: The optimal choice of competing retailers in a closed-loop supply chain",
+        "first_author": "Wang",
+        "year": 2020,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "backup",
+        "reason": "本文研究CLSC中两竞争零售商在正向与逆向渠道双向竞争下是否合谋的最优选择问题，构建Stackelberg-collusion、Stackelberg-Nash、Stackelberg-Stackelberg三类博弈模型，分析合谋对利润分配、环境效益和社会福利的影响，并设计了利润分享合同保证各方收益。竞争+协作并存的二元博弈框架及利润分配合同设计，对本研究Biform game框架下Shapley值分配方案的设计具有参考价值。"
+      },
+      {
+        "title": "Cost-based subsidy and performance-based subsidy in a manufacturing-recycling system considering product eco-design",
+        "first_author": "Yu",
+        "year": 2021,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "基于Stackelberg博弈，研究政府-制造商-回收商三方系统中四种补贴方案（成本型vs绩效型）对产品生态设计和回收率的影响。结果显示固定成本补贴给回收商可获得最高回收率和社会福利，补贴力度并不总能提升社会福利。该文的\"制造商+回收商+政府\"三方博弈结构与本文相关，可作为政策干预对竞合均衡影响的对比参照。"
+      },
+      {
+        "title": "Central robust decision-making structure for reverse supply chain: a real pharmaceutical case",
+        "first_author": "Nami",
+        "year": 2022,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "backup",
+        "reason": "在两层逆向渠道中采用Nash讨价还价博弈模型进行系统协调与利润优化，并考虑废弃物收集不确定性。引入灵活转移价格协议与Nash-bargaining协调，提升整体利润与系统适应性。作为逆向供应链中博弈协调的案例，可为本研究利润分配部分提供方法论佐证。"
+      },
+      {
+        "title": "Impacts of tax refund on enterprise's decisions on recycled materials production: A cross-regional perspective",
+        "first_author": "He",
+        "year": 2022,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "backup",
+        "reason": "针对建筑垃圾（CDW）回收市场建立包含两家回收企业与两家运输企业的博弈模型，探讨增值税退税政策对企业跨区域回收决策的影响。CDW回收场景与废混凝土回收高度相关；多企业竞争结构和跨区域博弈视角对本研究有一定参考价值。"
+      },
+      {
+        "title": "Differentiated subsidy mechanism for promoting construction and demolition waste recycling",
+        "first_author": "Yuan",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "直接聚焦建筑拆除（C&D）废弃物回收，研究建材企业（BME）、废弃物回收企业（WRE）与政府三方博弈，基于消费者质量感知差异设计差异化补贴机制。行业背景与本文废弃混凝土回收场景最为接近，博弈论框架与政策分析可为本文外部因素分析提供参照。"
+      },
+      {
+        "title": "Channel leadership and performance for a closed-loop supply chain",
+        "first_author": "Zhou",
+        "year": 2023,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "backup",
+        "reason": "考察电动汽车制造商（EVM）、专属回收商（EVR）和第三方回收商（3PR）三方竞争的CLSC，博弈论模型求解EVM主导与EVR主导两种回收渠道的均衡结果，并分析竞争对均衡的影响。多方回收竞争与领导权模式分析与本文\"收集竞争\"子博弈的分析逻辑相近，可作为竞争结构设计的参照。"
+      }
+    ],
+    "3": [
+      {
+        "title": "Biform games",
+        "first_author": "Brandenburger",
+        "year": 2007,
+        "journal": "MANAGEMENT SCIENCE",
+        "tier": "core",
+        "reason": "Biform game框架的奠基性论文。提出非合作-合作混合博弈模型，明确定义biform game为：第一阶段非合作决策（塑造竞争环境），第二阶段合作博弈（分配剩余价值）。摘要指出该框架\"设计用于将商业战略形式化为通过移动来塑造有利竞争环境的过程\"，并证明了biform game高效性的一般条件。本文方法论的理论根基，必引。"
+      },
+      {
+        "title": "The horizontal scope of the firm: Organizational tradeoffs vs. buyer-supplier relationships",
+        "first_author": "Chatain",
+        "year": 2007,
+        "journal": "MANAGEMENT SCIENCE",
+        "tier": "core",
+        "reason": "Biform game在供应链买卖关系中的经典应用。构建biform game分析买卖双方关系中横向范围策略（专业化、综合化、混合），将非结构化谈判引入博弈论分析，推导出供应商盈余份额为其附加值与相对议价力之积的结论。明确展示了biform game作为战略分析工具的应用范式，与本文供应链博弈情景直接对应。"
+      },
+      {
+        "title": "Creating monopoly power",
+        "first_author": "Stuart",
+        "year": 2007,
+        "journal": "INTERNATIONAL JOURNAL OF INDUSTRIAL ORGANIZATION",
+        "tier": "core",
+        "reason": "将biform game嵌入容量决策情景的先驱文献。将TU博弈的核作为价格设定机制的替代，研究如何通过产能选择创造垄断力。摘要明确：\"若将核分析嵌入容量选择情景，垄断力可通过可信的供给不足来创造。\"本文的容量/投资决策分析与此框架直接相关。"
+      },
+      {
+        "title": "Design Incentives Under Collective Extended Producer Responsibility: A Network Perspective",
+        "first_author": "Gui",
+        "year": 2018,
+        "journal": "MANAGEMENT SCIENCE",
+        "tier": "core",
+        "reason": "与本文最相关的竞品文献，需重点关注差异化定位。将biform game用于EPR（生产者责任延伸）回收网络，第一阶段生产者独立做产品设计决策（非合作），第二阶段集体回收系统分担成本（合作）。研究处理器产能共享如何影响设计激励与联盟稳定性，并提出成本分配机制。与本文同为\"回收场景+biform game\"，但本文聚焦废弃混凝土、\"收集竞争+加工合作\"结构，需在Literature Review中明确区分。"
+      },
+      {
+        "title": "Surplus division and investment incentives in supply chains: A biform-game analysis",
+        "first_author": "Feess",
+        "year": 2014,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "core",
+        "reason": "与本文框架结构最为接近的供应链biform game应用。第一阶段各方非合作决定投资，第二阶段按Shapley值分配盈余——与本文\"竞争+Shapley值分配\"的两阶段结构完全对应。发现所有企业投资激励均低于社会最优，效果依赖供应链位置结构。为本文Methodology的理论依据和对标基准。"
+      },
+      {
+        "title": "When good deals need help getting done: Articulating side payment strategies",
+        "first_author": "Fox",
+        "year": 2021,
+        "journal": "LONG RANGE PLANNING",
+        "tier": "core",
+        "reason": "明确使用biform game框架，建模\"合作优先阶段修改非合作第二阶段payoff\"的side payment机制，使交易稳定可行，直接对应本文\"收集竞争+加工合作\"的两阶段结构；讨论了合同可执行性、反悔行为与多方对手方等扩展情景，为本文机制设计提供直接方法论支撑。"
+      },
+      {
+        "title": "A Biform Game Model with the Shapley Allocation Functions",
+        "first_author": "Liu",
+        "year": 2021,
+        "journal": "MATHEMATICS",
+        "tier": "core",
+        "reason": "构建了含混合策略特征函数的Biform博弈模型，在第二阶段合作博弈中定义Shapley分配函数（SAF），证明SAF保证第一阶段非合作博弈Nash均衡的存在性，并解决了Core为空集时的公平分配问题；与本文\"Shapley值进行利润分配\"的方法论核心直接对应，是重要的理论基础文献。"
+      },
+      {
+        "title": "Modelling and analysis of co-opetition in network industries by biform games",
+        "first_author": "Fiala",
+        "year": 2022,
+        "journal": "CENTRAL EUROPEAN JOURNAL OF OPERATIONS RESEARCH",
+        "tier": "core",
+        "reason": "明确以biform game建模竞合（co-opetition）关系，区分sequential与simultaneous两类biform博弈求解框架，应用于网络产业的价格与网络接入费决策；与本文\"收集竞争+加工合作\"的竞合结构高度契合，是Biform game应用于竞合场景的直接先例。"
+      },
+      {
+        "title": "A novel coordination mechanism to coordinate the multi-agent reverse supply chain with fairness concerns",
+        "first_author": "Jia",
+        "year": 2023,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "采用biform game协调由一个再制造商和两个竞争性回收商构成的逆向供应链，结合非合作与合作博弈，使用Shapley值进行收益分配，并引入公平关注行为偏好；与本文在应用场景（废弃物回收、竞争性收集商）、方法论（biform + Shapley）三方面均高度重合，是最接近本文的竞品文献，须重点关注差异化。"
+      },
+      {
+        "title": "Competition and cooperation in linear production and sequencing processes",
+        "first_author": "van Beek",
+        "year": 2023,
+        "journal": "GAMES AND ECONOMIC BEHAVIOR",
+        "tier": "core",
+        "reason": "将biform game应用于线性生产（LP）和排序过程，允许企业竞争资源而非直接给定资源禀赋，证明了诱导策略博弈的纯策略Nash均衡存在性，为Biform game在生产/运营场景的方法论应用提供了重要先例，发表于博弈论顶刊。"
+      },
+      {
+        "title": "A new biform game-based investment incentive mechanism for eco-efficient innovation in supply chain",
+        "first_author": "Zheng",
+        "year": 2023,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "本文核心方法的直接先例。构建biform博弈模型用于供应链生态创新投资激励：非合作阶段两制造商之间展开利润最大化博弈，合作阶段用Minimax/Maximin构造凸合作博弈，Shapley值分配利润并反推非合作阶段收益函数，从而求得整体biform均衡。模型嵌套结构与本文\"竞争+加工合作+Shapley分配\"框架几乎同构，是最直接的方法论来源。"
+      },
+      {
+        "title": "A new biform game-based coordination mechanism for a carbon complementary supply chain under hybrid carbon regulations",
+        "first_author": "Zheng",
+        "year": 2024,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "core",
+        "reason": "Zheng系列核心论文之一。在混合碳监管下的碳互补供应链（传统能源制造商与可再生能源制造商竞争+联合投资CER项目）中构建biform博弈协调机制。与本文类似之处：竞争者同时也是合作伙伴（收集竞争+加工合作），以Pareto改进为评价标准，设定监管强度阈值。为本文在废弃混凝土场景下构建\"竞合+Shapley分配\"机制提供直接结构对标。"
+      },
+      {
+        "title": "Coopetition strategies in a two-stage, multi-agent supply chain under hybrid carbon trading mechanisms",
+        "first_author": "Zheng",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "Zheng系列中结构最精细的论文。多主体两阶段供应链在混合碳交易机制下的竞合策略，biform博弈机制中非合作阶段为产品竞争博弈（不直接给出均衡），合作阶段为CER项目初始投资成本分担（联盟零和博弈）。明确区分非合作竞争定价与合作阶段分配，与本文\"定价竞争+加工合作\"两阶段分离结构高度对应。"
+      },
+      {
+        "title": "Lateral capacity exchange and its impact on capacity investment decisions",
+        "first_author": "Chakravarty",
+        "year": 2007,
+        "journal": "NAVAL RESEARCH LOGISTICS",
+        "tier": "important",
+        "reason": "Biform game框架在产能投资与交换问题中的应用。第一阶段两企业各自非合作决定产能投资，第二阶段产能交换按集中化系统进行。证明纳什均衡产能投资水平的存在性与唯一性，研究产能交换盈余分配比例对投资决策的影响。两阶段结构与本文\"竞争投资+合作分配\"高度类似，可作为方法论先例引用。"
+      },
+      {
+        "title": "Brokers and competitive advantage",
+        "first_author": "Ryall",
+        "year": 2007,
+        "journal": "MANAGEMENT SCIENCE",
+        "tier": "important",
+        "reason": "Biform game用于分析中介企业竞争优势的经典文献。研究中介在买卖双方间的竞争优势是否可持续，识别出有利中介地位的三个条件：无替代品、中介多于两方、无锁定效应。对本文分析传统制造商与回收商之间博弈中的竞争优势逻辑有参考价值。"
+      },
+      {
+        "title": "Competition, governance, and relationship-specific investments: Theory and implications for strategy",
+        "first_author": "Jia",
+        "year": 2013,
+        "journal": "STRATEGIC MANAGEMENT JOURNAL",
+        "tier": "important",
+        "reason": "Biform game分析竞争如何影响关系专用资产投资决策。研究供应商在通用产品与专用产品之间的投资选择，以及治理安排如何影响投资激励。摘要指出提供了\"同时强调关系专用产品的优越交易价值及其高交易成本的平衡视角\"。为本文中制造商与回收商投资激励分析提供理论支撑。"
+      },
+      {
+        "title": "Organization and Bargaining: Sales Process Choice at Auto Dealerships",
+        "first_author": "Bennett",
+        "year": 2013,
+        "journal": "MANAGEMENT SCIENCE",
+        "tier": "important",
+        "reason": "Biform game的实证结合理论应用范例。将销售流程选择建模为biform game，利用交易层面数据实证检验模型预测，发现串行销售流程有助于提高企业议价力。该文展示了biform game理论与实证结合的方法路径，对本文方法论脉络的完整性有贡献。"
+      },
+      {
+        "title": "Value creation and value capture with frictions",
+        "first_author": "Chatain",
+        "year": 2011,
+        "journal": "STRATEGIC MANAGEMENT JOURNAL",
+        "tier": "important",
+        "reason": "Brandenburger & Stuart框架的重要延伸，引入摩擦（不完全链接）研究价值创造与捕获。发现具有竞争优势的企业偏好适度摩擦，竞争优势可持续性随摩擦增加而提升。作为Chatain & Zemsky (2007)的后续研究，完善了biform game价值捕获理论的脉络。"
+      },
+      {
+        "title": "The promotion of community energy projects in Chile and Scotland: An economic approach using biform games",
+        "first_author": "Fuentes Gonzalez",
+        "year": 2020,
+        "journal": "ENERGY ECONOMICS",
+        "tier": "important",
+        "reason": "构建三方Biform联盟博弈分析能源社区项目，同时处理Core非空和Core为空两种情形，基于真实数据验证竞合策略的经济可行性；是Biform game在资源/能源经济领域的重要应用先例，论证了该框架分析竞争与合作并存市场的适用性。"
+      },
+      {
+        "title": "The choice of value-based strategies under rivalry: Whether to enhance value creation or bargaining capabilities",
+        "first_author": "Almeida Costa",
+        "year": 2021,
+        "journal": "STRATEGIC MANAGEMENT JOURNAL",
+        "tier": "important",
+        "reason": "在竞争对手存在的条件下，研究企业在价值创造策略与议价能力策略之间的权衡，建模了策略同质性与异质性均衡；虽未直接使用\"biform game\"术语，但其value-based + bargaining框架与Biform game的价值创造-分配二阶段思想高度一致，发表于战略管理顶刊，可作为理论动机支撑。"
+      },
+      {
+        "title": "A Biobjective Biform Game Approach to Optimizing Strategies in Bilateral Link Network Formation",
+        "first_author": "Liang",
+        "year": 2022,
+        "journal": "IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS",
+        "tier": "important",
+        "reason": "提出双目标Biform博弈框架，在利润与链路安全双目标下使用Banzhaf值分配合作博弈收益，定义并求解双目标Pareto-Nash均衡；是Biform game方法论的重要扩展，说明该框架在多目标情境下的适用性，可为本文Nash均衡分析提供参考。"
+      },
+      {
+        "title": "THE TRADE-OFF BETWEEN CORPORATE SOCIAL RESPONSIBILITY AND COMPETITIVE ADVANTAGE: A BIFORM GAME MODEL",
+        "first_author": "Zhao",
+        "year": 2022,
+        "journal": "TECHNOLOGICAL AND ECONOMIC DEVELOPMENT OF ECONOMY",
+        "tier": "important",
+        "reason": "用Biform博弈模型研究企业在CSR与竞争优势之间的策略权衡，分析技术特征、产业结构与制度环境对均衡的影响；是Biform game在企业战略/管理领域的应用先例，展示了该框架分析外部因素影响均衡的能力，与本文RQ2相关。"
+      },
+      {
+        "title": "Existence and essential stability of Nash equilibria for biform games with Shapley allocation functions",
+        "first_author": "Liu",
+        "year": 2022,
+        "journal": "AIMS MATHEMATICS",
+        "tier": "important",
+        "reason": "在无限策略集上建立含SAF的n人Biform博弈模型，证明Nash均衡存在性以及特征函数扰动下的本质稳定性，识别出Nash均衡均为本质均衡的稠密子类；是Liu(2021)的理论扩展，为本文Biform + Shapley框架的均衡稳健性提供理论背书。"
+      },
+      {
+        "title": "Cooperative Games Based on Coalition Functions in Biform Games",
+        "first_author": "Liu",
+        "year": 2023,
+        "journal": "AXIOMS",
+        "tier": "important",
+        "reason": "从联盟函数出发将Biform博弈解释为合作博弈，定义极小极大特征函数，比较联盟函数与特征函数的可加性、凸性及核心关系，讨论正规形博弈、Biform博弈与合作博弈三者解之间的关系；是理解Biform框架合作博弈基础的重要理论文献。"
+      },
+      {
+        "title": "An interval noncooperative-cooperative biform game model based on weighted equal contribution division values",
+        "first_author": "Liang",
+        "year": 2023,
+        "journal": "INFORMATION SCIENCES",
+        "tier": "important",
+        "reason": "构建区间非合作-合作Biform博弈模型，用区间加权等贡献分配（WECD）处理联盟特征值的不确定性，建立区间可接受度比较方法并证明纯策略Nash均衡的存在与充要条件；展示了Biform框架在不确定信息下的扩展路径，对本文方法论比较有参考价值。"
+      },
+      {
+        "title": "The Shapley value based on hesitant fuzzy linguistic comprehensive entropy and its application in noncooperative-cooperative biform game",
+        "first_author": "Yang",
+        "year": 2023,
+        "journal": "EXPERT SYSTEMS WITH APPLICATIONS",
+        "tier": "important",
+        "reason": "在biform博弈框架内扩展Shapley值方法，将模糊语言信息（个体犹豫性和信息模糊性）引入利润分配决策。构建了hesitant fuzzy linguistic biform博弈的特征函数和公理化Shapley值体系，以流域管理信息不对称场景验证。为本文Shapley分配部分提供方法论深度背书，展示biform+Shapley在具有信息复杂性环境下的适用性。"
+      },
+      {
+        "title": "Game of banks- biform game theoretical framework for ATM network cost sharing",
+        "first_author": "Nguyen",
+        "year": 2024,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "顶刊(EJOR)上的biform博弈应用论文，提供严格的理论贡献：证明纯策略Nash均衡存在性，证明特定条件下Shapley分配属于核（core），从而同时保证公平性与稳定性，并以英国ATM网络真实数据验证Shapley分配优于现行机制。为本文均衡存在性证明和Shapley核验证提供方法论参照。"
+      },
+      {
+        "title": "Biform game analysis with the Owen allocation function for a supply chain game under precedence constraints",
+        "first_author": "Liu",
+        "year": 2025,
+        "journal": "OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "将biform博弈扩展至具有优先约束（precedence constraints）的供应链，引入Owen值替代Shapley值作为分配方案，建立联盟结构处理成员归属多联盟的复杂情形。在方法论层面展示了biform框架的灵活扩展性，为本文在废弃物回收链中处理多主体关系和分配机制选择提供理论参照。"
+      },
+      {
+        "title": "A Biform Game Approach to Store Brand Introduction and Production Mode Selection in a Platform Supply Chain",
+        "first_author": "Liang",
+        "year": 2025,
+        "journal": "GROUP DECISION AND NEGOTIATION",
+        "tier": "important",
+        "reason": "在平台供应链中用biform博弈研究自有品牌引入与生产模式选择（内制/外包/第三方合作），明确区分非合作竞争阶段与合作阶段，引入side payment处理利益分歧。核心贡献在于将市场进入决策与合作利益分配纳入统一biform框架，为本文处理\"是否合作\"及\"如何分配\"两阶段问题提供直接方法借鉴。"
+      },
+      {
+        "title": "Balancing collaborative investment with opportunity costs in a carbon complementary supply chain",
+        "first_author": "Zhang",
+        "year": 2025,
+        "journal": "INDUSTRIAL MANAGEMENT & DATA SYSTEMS",
+        "tier": "important",
+        "reason": "Zheng系列延伸论文，在biform博弈框架内引入机会成本概念，探讨代理人在合作投资与机会成本之间的权衡，设定Model B（合作）与Model N（非合作）对比分析合作投资生效条件。为本文在废弃混凝土回收中讨论\"传统制造商是否选择与回收商合作加工\"的条件分析提供有力框架参照。"
+      },
+      {
+        "title": "A Biform Analysis of Coopetition in Green Co-Creation",
+        "first_author": "Zhang",
+        "year": 2025,
+        "journal": "SUSTAINABILITY",
+        "tier": "important",
+        "reason": "两阶段biform博弈分析绿色共创中的竞合关系，集成竞争互动与合作议价于统一框架，证明合作相比纯竞争获得更高绿色努力投入，竞合改善个体利润与社会福利。方法逻辑（竞争设定环境→合作产生分配增益→比较静态分析）与本文框架一致，且明确聚焦竞合关系的机制分析。"
+      },
+      {
+        "title": "Certified emission reductions asset pledge financing strategy and biform game-based coordination mechanism in a supply chain: Implications for SDGs",
+        "first_author": "Li",
+        "year": 2026,
+        "journal": "ANNALS OF OPERATIONS RESEARCH",
+        "tier": "important",
+        "reason": "Zheng系列最新论文（2026），将biform博弈机制与CER资产质押融资结合，供应链含竞争制造商+零售商，非合作阶段价格竞争，合作阶段利益分配，设定Pareto改进条件。将biform扩展至资本约束环境，为本文分析废弃物处理中可能存在的融资约束情形提供扩展方向参照，同时验证Zheng框架的鲁棒性。"
+      },
+      {
+        "title": "Biform game: Reflection as a stochastic programming problem",
+        "first_author": "Summerfield",
+        "year": 2013,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "backup",
+        "reason": "将biform game重构为两阶段随机规划问题的方法论文献。以Brandenburger & Stuart (2007)中的协调博弈为例进行演示，指出随机规划视角为biform game提供了成熟的数学方法工具箱。若本文涉及不确定性建模或方法论扩展讨论，可引用。"
+      },
+      {
+        "title": "Manufacturers' coalition under a price elastic market - a quadratic production game approach",
+        "first_author": "Mahjoub",
+        "year": 2014,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "backup",
+        "reason": "将biform game用于多级供应网络中制造商联盟设计，结合Stackelberg竞争（非合作阶段）与联盟合作阶段，使用Shapley值进行利润分配并分析联盟稳定性。与本文\"竞争+合作+Shapley值\"的三重结构相近，可作为方法论对标文献备用。"
+      },
+      {
+        "title": "Organic Food Labeling and Advertising: A Tripartite Game Model between One Supplier and Two Heterogeneous Manufacturers",
+        "first_author": "Wang",
+        "year": 2019,
+        "journal": "COMPLEXITY",
+        "tier": "backup",
+        "reason": "采用Biform博弈方法研究有机食品供应链中一供应商+两异质制造商的标签与广告投资决策，引入补贴机制实现Pareto改进；是Biform game在供应链管理中的早期应用先例，\"一对多异质主体+合作协调\"的结构与本文有一定类比价值。"
+      },
+      {
+        "title": "Examining the influence of knowledge spillover on partner selection in knowledge Alliances: The role of benefit distribution",
+        "first_author": "Su",
+        "year": 2023,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "backup",
+        "reason": "用Biform博弈模型研究知识联盟中的伙伴选择问题，引入clique solution分配联盟整体收益，分析知识溢出效应对竞争力与伙伴选择策略的影响；是Biform game在知识/联盟情境下利益分配的应用案例，可作为方法论多样性的备用参考。"
+      },
+      {
+        "title": "Value creation and value capture from patents: Theory and implications for patent strategies",
+        "first_author": "Zhao",
+        "year": 2023,
+        "journal": "JOURNAL OF INNOVATION & KNOWLEDGE",
+        "tier": "backup",
+        "reason": "用biform博弈研究企业专利部署策略（占有 vs. 授权），纳入竞争与合作双重视角，分析信息不对称、交易成本、议价能力对策略选择的影响。虽场景为知识产权市场而非废弃物供应链，但biform模型中竞争-合作权衡的理论逻辑及参数驱动机制对本文具备方法论参照价值。"
+      },
+      {
+        "title": "Biform game consensus analysis of group decision making with unconnected social network",
+        "first_author": "Tang",
+        "year": 2025,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "顶刊(EJOR)，将biform博弈扩展至社交网络群决策共识机制，引入digraph博弈和di-Myerson值，构建公理化体系。虽应用场景偏离供应链，但在方法论层面展示了biform博弈与图博弈的结合，为本文理解biform框架的理论边界提供参照。"
+      },
+      {
+        "title": "Green Product Innovation Coordination in Aluminum Building Material Supply Chains with Innovation Capability Heterogeneity: A Biform Game-Theoretic Approach",
+        "first_author": "Wang",
+        "year": 2025,
+        "journal": "SUSTAINABILITY",
+        "tier": "backup",
+        "reason": "biform博弈处理供应链成员异质创新能力下的绿色产品创新协调，提出多视角补偿合同，引入外生决策解决内生博弈困境。关注异质性对合作稳定性和利润分配的影响，为本文在传统制造商与专业回收商能力异质背景下设计合作机制提供概念框架。"
+      },
+      {
+        "title": "Biform Game Approach to Strategy Optimization of Autonomous Vehicle Lane Changes on Highway Ramps",
+        "first_author": "Wang",
+        "year": 2025,
+        "journal": "APPLIED SCIENCES-BASEL",
+        "tier": "backup",
+        "reason": "biform博弈在交通领域（自动驾驶车道变换）的工程应用，非合作阶段构建策略组合，合作阶段用Shapley值推导分配值并反推Nash均衡。虽场景非供应链，但清晰展示了\"Shapley→收益函数→Nash均衡\"的biform求解程序，对本文理解和呈现建模步骤有参照价值。"
+      },
+      {
+        "title": "Pricing strategy and blockchain technology investment under hybrid carbon trading schemes: a biform game analysis",
+        "first_author": "Zhang",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "backup",
+        "reason": "Zheng系列，biform博弈框架下区块链技术投资与定价策略的竞合分析，设定竞争强度阈值判断合作投资诱导Pareto改进的条件。与本文类似之处在于：以外部技术/设施投资为合作对象，定价为竞争变量，并系统分析竞争强度对均衡结果的影响。可作为Zheng系列文献群的补充引用。"
+      }
+    ],
+    "4": [
+      {
+        "title": "Surplus division and investment incentives in supply chains: A biform-game analysis",
+        "first_author": "Feess",
+        "year": 2014,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "core",
+        "reason": "直接采用biform game框架分析供应链中的剩余分配与投资激励：第一阶段各企业非合作决定投资，第二阶段按Shapley value分配剩余。发现所有企业投资均低于社会最优，且低效程度取决于在供应链中的位置。与本研究在方法论上高度一致（biform game + Shapley value + 供应链），是最直接的方法论先例。"
+      },
+      {
+        "title": "Coordination of transportation and quantity discount decisions, with coalition formation",
+        "first_author": "Ke",
+        "year": 2014,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "研究三方供应链中运输与数量折扣的协调，先用非合作模型说明合作的必要性，再用合作博弈（Shapley value算法）公平分配合作剩余，并验证core非空从而保证联盟稳定。本文提供了从非合作到合作转换、用Shapley value做利润分配的完整供应链建模先例，与本研究框架高度吻合。"
+      },
+      {
+        "title": "Uncertain Shapley value of coalitional game with application to supply chain alliance",
+        "first_author": "Gao",
+        "year": 2017,
+        "journal": "APPLIED SOFT COMPUTING",
+        "tier": "core",
+        "reason": "将Shapley值扩展至不确定性环境（uncertain variable），提出期望Shapley值和α-乐观Shapley值两个定义，并直接应用于供应链联盟利润分配问题。本文同样以Shapley值分配供应链（废弃混凝土回收）中合作伙伴的利润，该文提供了最直接的方法论先例，且\"不确定性\"视角可用于讨论参数敏感性。"
+      },
+      {
+        "title": "Collaborative replenishment in the presence of intermediaries",
+        "first_author": "Hezarkhani",
+        "year": 2018,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "core",
+        "reason": "研究含中间商的多产品供应链合作补货问题，证明Shapley值能够协调整个供应链（即令所有参与方在信息不对称条件下仍选择完全参与为最优策略）。本文的\"专业回收商作为中间方\"结构与该文的\"intermediaries\"角色高度类似，其关于Shapley值供应链协调性的结论为本文合作机制设计提供了强力理论支撑。"
+      },
+      {
+        "title": "Cooperative game approaches to coordinating a three-echelon closed-loop supply chain with fairness concerns",
+        "first_author": "Zheng",
+        "year": 2019,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "研究三级闭环供应链（制造商-分销商-零售商）的利润分配协调，系统比较Shapley值、Nucleolus和equal satisfaction三种机制，验证所有分配方案均满足个体理性和集体理性并落入core，与本研究废弃混凝土回收链中Shapley值分配的方法论定位高度吻合，期刊顶级且含公平关切维度，可直接作为先例对标。"
+      },
+      {
+        "title": "Price and profit structuring for single manufacturer multi-buyer integrated inventory supply chain under price-sensitive demand condition",
+        "first_author": "Agrawal",
+        "year": 2020,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "core",
+        "reason": "研究单制造商-多买家供应链中最大化链条利润及其分配，提出四种分配方案并通过数值实验得出Shapley函数分配\"最公平合理\"的结论，直接支持本文采用Shapley值的方法论选择，是供应链利润分配场景下Shapley值有效性的实证先例。"
+      },
+      {
+        "title": "Optimization and profit distribution in a two-echelon collaborative waste collection routing problem from economic and environmental perspective",
+        "first_author": "Liu",
+        "year": 2021,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "core",
+        "reason": "直接研究两级废弃物协同收集网络中的合作与利润分配，构建了改进Shapley值模型，同时从经济和环境双重视角确定最优联盟顺序。其废弃物收集+合作联盟+改进Shapley分配的三要素组合与本研究高度契合，是方法论的直接先例。"
+      },
+      {
+        "title": "Incentives and Emission Responsibility Allocation in Supply Chains",
+        "first_author": "Gopalakrishnan",
+        "year": 2021,
+        "journal": "MANAGEMENT SCIENCE",
+        "tier": "core",
+        "reason": "在供应链联合生产碳排放情境下，证明Shapley值是满足若干公理性质的唯一排放责任分配机制，且对供应商的减排激励最优化。发表于Management Science，为供应链情境中Shapley值的理论正当性提供了最强的方法论背书，可用于论证本研究采用Shapley值的合理性。"
+      },
+      {
+        "title": "Core, shapley value, nucleolus and nash bargaining solution: A Survey of recent developments and applications in operations management",
+        "first_author": "Luo",
+        "year": 2022,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "core",
+        "reason": "对合作博弈四大解概念（核、Shapley值、nucleolus、Nash议价解）的近十年进展与运营管理应用进行系统综述，按确定性/随机模型、横向/纵向合作分类梳理文献。本研究采用Shapley值分配废弃混凝土回收联盟利润，此文可为D4方向提供理论定位和文献地图，是最直接的综述性核心文献。"
+      },
+      {
+        "title": "Risk allocation and benefit distribution of PPP projects for construction waste recycling: a case study of China",
+        "first_author": "Wang",
+        "year": 2023,
+        "journal": "ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT",
+        "tier": "core",
+        "reason": "聚焦中国建设废弃物回收PPP项目，构建BWM-FCE风险评估模型并以Shapley值为基础、综合资本投入、贡献度和项目参与度对各利益相关方进行修正收益分配。研究场景（建设废弃物回收+多方合作+修正Shapley分配）与本研究在废弃混凝土回收链上的Shapley值利润分配高度吻合，是双重契合的实证参考。"
+      },
+      {
+        "title": "Game of banks- biform game theoretical framework for ATM network cost sharing",
+        "first_author": "Nguyen",
+        "year": 2024,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "core",
+        "reason": "与本研究框架高度吻合的直接方法论参考。该文构建了银行ATM网络的Biform博弈模型，同时包含合作博弈的互换费用分摊机制和非合作部分（各成员最大化自身效用），证明了纯纳什均衡的存在性，并证明在特定条件下Shapley分配属于核且在社会福利上优于现行机制。与本研究\"收集竞争（非合作）+加工合作（合作）\"的Biform game结构及Shapley分配完全对应，是方法论上的最强支撑文献。"
+      },
+      {
+        "title": "Environmental footprint allocation in driving plastic avoidance and sustainable recycling: Game-theoretic model",
+        "first_author": "Si",
+        "year": 2024,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "core",
+        "reason": "在回收场景中直接应用Shapley值和Nucleolus分配环境成本，与本研究的循环经济+废物回收+合作博弈利润分配高度吻合。以聚对苯二甲酸乙二酯（PET）回收为案例，研究多利益相关方（材料生产商、产品制造商、用户）之间的GHG足迹分配，验证Shapley值的公平性与核的稳定性。该文提供了Shapley值在固废回收领域分配机制的直接应用先例，是本研究D4方向的内容支撑。"
+      },
+      {
+        "title": "Optimized cooperative vehicle routing in multi-depot collection systems for circular economy: Model development and case study",
+        "first_author": "Xu",
+        "year": 2025,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "循环经济废弃物合作收集与运输情境，构建非合作、集中与分散三种规划场景，采用Shapley值在收集服务提供者之间分配利润，研究了信息共享对集中规划节约成本23%的作用。废弃物回收+合作博弈+Shapley利润分配的组合与本研究核心框架高度吻合，是方向D4的直接参照文献。"
+      },
+      {
+        "title": "A game-theoretic approach to transfer pricing in a vertically integrated supply chain",
+        "first_author": "Rosenthal",
+        "year": 2008,
+        "journal": "International Journal of Production Economics",
+        "tier": "important",
+        "reason": "研究垂直整合供应链中的转移定价问题，直接以合作博弈建模，在完全信息情形下用Shapley值生成各分部的转移价格，并证明该解具有公平性和可接受性。与本文用Shapley值在制造商-回收商合作阶段分配联合利润的方法论完全对应，可作为Shapley值应用于供应链利润（价格）分配的直接先例。"
+      },
+      {
+        "title": "Side-payment contracts in two-person nonzero-sum supply chain games: Review, discussion and applications",
+        "first_author": "Leng",
+        "year": 2009,
+        "journal": "European Journal of Operational Research",
+        "tier": "important",
+        "reason": "研究双人非零和供应链博弈中的侧面支付合同设计，明确使用Shapley值计算合作剩余的固定转移项，并给出闭式解；同时对比了Nash仲裁方案，覆盖Cournot、Bertrand及两级供应链等多类游戏场景。本文合作博弈阶段同样需要Shapley值计算合作剩余分配，该文为方法选择和参数化提供了直接的方法论支撑。"
+      },
+      {
+        "title": "Cost allocation in collaborative forest transportation",
+        "first_author": "Frisk",
+        "year": 2010,
+        "journal": "European Journal of Operational Research",
+        "tier": "important",
+        "reason": "研究八家林业公司在运输协作中的成本分配问题，系统比较Shapley值、核仁、影子价格、按量分配等多种方案，并提出新分配方法。该文提供了Shapley值在供应链/物流协作中的多方法比较框架，可支撑本文在Methodology中说明选择Shapley值而非核仁等方案的理由，同时展示了合作节省约14%的量化结果，与本文合作收益分析呼应。"
+      },
+      {
+        "title": "Research on coordination mechanism in three-level green supply chain under non-cooperative game",
+        "first_author": "Zhang",
+        "year": 2013,
+        "journal": "APPLIED MATHEMATICAL MODELLING",
+        "tier": "important",
+        "reason": "在三级绿色供应链中，先对比合作决策与非合作（Stackelberg）博弈的利润差距，再构建包含Shapley value协调机制在内的三种分配方案，证明Shapley value机制能使所有成员收益高于非合作博弈下的水平。是供应链合作与Shapley value利润分配协调机制的典型应用文献，与本研究的\"合作机制+Shapley分配\"框架直接对应。"
+      },
+      {
+        "title": "Manufacturers' coalition under a price elastic market - a quadratic production game approach",
+        "first_author": "Mahjoub",
+        "year": 2014,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "important",
+        "reason": "将供应网络设计问题建模为biform game，结合Stackelberg非合作子博弈（零售商与制造商网络间）与合作子博弈（制造商联盟内部），采用Shapley value进行利润分配并讨论联盟稳定性。证明博弈一般情况下非凸，因此Shapley value分配不一定满足个体理性，需进一步筛选合作伙伴子集。与本研究同样使用biform game + Shapley value，且讨论了Shapley value在非凸情形下的局限性，是重要的对比与借鉴。"
+      },
+      {
+        "title": "Profit allocation mechanisms for carrier collaboration in pickup and delivery service",
+        "first_author": "Dai",
+        "year": 2012,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "important",
+        "reason": "研究物流联盟中承运人合作取货配送问题，分别提出基于Shapley value、比例分配和贡献度三种利润分配机制，并通过数值实验比较各机制优劣。所有机制均满足core约束（若core非空）。是Shapley value作为供应链/物流联盟利润分配方法的方法论先例，并与其他分配规则进行系统比较，对本研究方法论验证有参考价值。"
+      },
+      {
+        "title": "Profit distribution in collaborative multiple centers vehicle routing problem",
+        "first_author": "Wang",
+        "year": 2017,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "研究多配送中心协同VRP的利润分配问题，建立整数规划模型并用改进Shapley值分配联盟收益，同时引入严格单调路径选择最优联盟序列。该研究展示了Shapley值在物流协作运营优化中的完整应用范式（优化+分配两阶段），可作为本文\"收集竞争+加工合作\"双阶段建模的方法论类比参照。"
+      },
+      {
+        "title": "Coordinating a closed-loop supply chain with fairness concerns through variable-weighted Shapley values",
+        "first_author": "Zheng",
+        "year": 2019,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "important",
+        "reason": "【竞品警示】研究闭环供应链（CLSC）中制造商、零售商和第三方再制造商之间的合作协调，在公平关切下提出变权重Shapley值（variable-weighted Shapley value）分配利润，与本文在\"废弃混凝土回收闭环供应链+多博弈方+Shapley值分配\"上高度重叠。需在文献综述中明确区分：本文聚焦收集端竞争+加工端合作的Biform博弈结构，而该文侧重公平关切下的权重改进，两者方法创新点不同。"
+      },
+      {
+        "title": "Designing an eco-efficient biomass-based supply chain using a multi-actor optimisation model",
+        "first_author": "Jonkman",
+        "year": 2019,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "研究生物质绿色供应链的多行为者优化设计，采用Shapley值方法在农户和加工商之间公平分配利润，以确保各方参与激励。供应链涉及原材料收集（农户竞争）与集中加工（加工商），与本文废弃混凝土\"分散收集+集中加工\"结构类似，可作为绿色/废弃物供应链中Shapley值利润分配的应用参照。"
+      },
+      {
+        "title": "Resource sharing and payoff allocation in a three-stage system: Integrating network DEA with the Shapley value method",
+        "first_author": "An",
+        "year": 2019,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "important",
+        "reason": "将三阶段系统的各阶段视为博弈参与者，整合网络DEA与合作博弈，用Shapley值分配资源共享带来的增量利润，证明三阶段系统具有超可加性，方法逻辑与本研究\"收集-加工\"多阶段合作利润分配结构契合，Omega期刊权威。"
+      },
+      {
+        "title": "A stochastic joint replenishment problem considering transportation and warehouse constraints with gainsharing by Shapley Value allocation",
+        "first_author": "Otero-Palencia",
+        "year": 2019,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "important",
+        "reason": "在含运输和仓储约束的随机联合补货问题中，第一阶段确定有效率的联盟结构，第二阶段通过Shapley值分配联盟收益，两阶段架构（联盟形成+利润分配）与本文Biform博弈框架对应，数值研究显示3-5人参与者平均节约成本约30%，提供对比参照。"
+      },
+      {
+        "title": "Further insights into the allocation of greenhouse gas emissions to shipments in road freight transportation: The pollution routing game",
+        "first_author": "Kellner",
+        "year": 2019,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "将Shapley值作为GHG排放分配的公平性基准，系统比较各分配方案与Shapley值的偏离度，并验证多项博弈论公平准则，是Shapley值作为分配公平基准这一方法论应用的重要先例，EJOR顶级期刊，对本研究证明Shapley值选择的合理性有直接支撑价值。"
+      },
+      {
+        "title": "Collaborative profit allocation schemes for logistics enterprise coalitions with incomplete information",
+        "first_author": "Liu",
+        "year": 2021,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "important",
+        "reason": "直接讨论物流企业联盟在不完全信息条件下Shapley值的局限性，提出以二次规划模型替代的利润分配方案，并证明效率、对称性、匿名性等性质。发表于Omega，与本研究对Shapley值应用场景边界的讨论形成对话，可用于方法论的对比与定位。"
+      },
+      {
+        "title": "Conceptual Profit Allocation Framework for Construction Joint Ventures: Shapley Value Approach",
+        "first_author": "Eissa",
+        "year": 2021,
+        "journal": "JOURNAL OF MANAGEMENT IN ENGINEERING",
+        "tier": "important",
+        "reason": "针对建设合资企业，提出以Shapley值取代传统按投资比例分配利润的概念框架，通过三个数值算例验证，并对公平性进行数学验证与实验博弈论检验。多方合作+边际贡献+Shapley值公平性论证的结构与本研究直接类比，可作为工程管理领域的应用对标案例。"
+      },
+      {
+        "title": "Cooperative game for coordination of a green closed-loop supply chain",
+        "first_author": "Asghari",
+        "year": 2022,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "研究包含绿色制造商、零售商和收集商的闭环供应链协调问题，比较Shapley值机制与Nucleolus机制以及收益共享、成本共享等合同结构的经济与环境绩效。收集商角色的显式建模以及合作博弈与合同协调的对比框架，与本研究的废弃混凝土回收供应链结构高度吻合，是最接近的竞品文献之一。"
+      },
+      {
+        "title": "A new biform game-based investment incentive mechanism for eco-efficient innovation in supply chain",
+        "first_author": "Zheng",
+        "year": 2023,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "构建Biform game模型：非合作阶段两竞争制造商博弈、合作阶段供应商投资激励，明确证明合作博弈凸性并用Shapley值导出均衡利润分配策略。与本研究采用Biform game刻画\"收集竞争+加工合作\"、以Shapley值分配联盟利润的框架完全一致，是方法论最近似的已有应用文献。"
+      },
+      {
+        "title": "Closed-loop supply chain coalitional cooperation and coordination under differentiated carbon tax regulation",
+        "first_author": "Yu",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "在三级闭环供应链（制造商、再制造商、回收商）碳税差异化监管背景下，先用非合作博弈分析五种联盟下的最优运营，再用合作博弈Shapley值分配大联盟利润，并针对碳税公平性问题提出修正Shapley算法（改善碳税纳税方效用达20%以上）。闭环供应链+Shapley值+修正Shapley的组合与本研究废弃混凝土循环经济链背景高度契合。"
+      },
+      {
+        "title": "Profit allocation on a four-echelon supply chain in perspective of cooperative games on augmenting systems",
+        "first_author": "Meng",
+        "year": 2023,
+        "journal": "EXPERT SYSTEMS WITH APPLICATIONS",
+        "tier": "important",
+        "reason": "针对上游主导型四级供应链，指出经典Shapley值的缺陷并提出三种新Shapley值（对应不同风险态度），从增广系统视角的合作博弈为上游参与者赋予利润优先权。本研究中传统混凝土制造商与回收商在联盟中存在贡献不对等问题，此文为Shapley值的适应性修正提供了方法论参照。"
+      },
+      {
+        "title": "A business model design for hydrogen refueling stations: A multi-level game approach",
+        "first_author": "Zhao",
+        "year": 2024,
+        "journal": "INTERNATIONAL JOURNAL OF HYDROGEN ENERGY",
+        "tier": "important",
+        "reason": "构建了包含Stackelberg博弈与Shapley值的多层次博弈模型，分析加氢站\"合作运营优于独立运营\"的条件，并用Shapley值合理分配联盟利润。该文同时涉及合作与非合作两种博弈框架，以及合作收益分配机制，与本研究分析竞合关系下利润分配的逻辑相近，可作为Shapley值在供应链级合作利润分配中的方法论参考。"
+      },
+      {
+        "title": "Collaborative logistics for agricultural products of 'farmer plus consumer integration purchase' under platform empowerment",
+        "first_author": "Zhou",
+        "year": 2024,
+        "journal": "EXPERT SYSTEMS WITH APPLICATIONS",
+        "tier": "important",
+        "reason": "以Shapley值为核心方法设计物流联盟的成本分摊机制，将联盟总成本公平分配给各物流企业，验证机制的合理性与稳定性。研究在多主体物流协作场景下构建了从路径优化到Shapley分摊的完整链条，为本研究中供应链合作联盟的Shapley利润分配提供了方法应用的直接参考。"
+      },
+      {
+        "title": "A cooperative vehicle routing problem with delivery options for simultaneous pickup and delivery services in rural areas",
+        "first_author": "Zhang",
+        "year": 2024,
+        "journal": "SOCIO-ECONOMIC PLANNING SCIENCES",
+        "tier": "important",
+        "reason": "在合作物流联盟中应用\"核保障Shapley值\"（core-guaranteed Shapley value）进行成本节约分配，兼顾公平性与联盟稳定性。该文特别关注Shapley值与核的关系，确保分配结果属于核，从而保障合作的稳定性。这一技术路线对本研究验证Shapley分配是否属于核、确保废弃混凝土回收联盟稳定性具有直接方法借鉴意义。"
+      },
+      {
+        "title": "Trading reliability targets within a supply chain using Shapley's value",
+        "first_author": "Quigley",
+        "year": 2007,
+        "journal": "Reliability Engineering & System Safety",
+        "tier": "backup",
+        "reason": "提出基于Shapley值在供应链中定价和交易可靠性目标的机制，应用于航空航天行业多层供应链场景。该文将Shapley值用于供应链中供应商间的收益分配定价，场景与本文（多主体供应链合作+Shapley值分配）具有结构相似性，可作为方法论的补充先例。"
+      },
+      {
+        "title": "Cooperation among liquefied natural gas suppliers: Is rationalization the sole objective?",
+        "first_author": "Massol",
+        "year": 2010,
+        "journal": "Energy Economics",
+        "tier": "backup",
+        "reason": "研究LNG出口国物流合作中的收益分配问题，系统比较Shapley值与多种核仁变体（per capita nucleolus等），明确讨论各方法在满足核心归属和单调性上的差异。该文作为Shapley值与核仁方法对比的实证参考，可支撑本文在选择Shapley值时的论证——尤其是当Shapley值不满足某些稳定性条件时的方法选择权衡。"
+      },
+      {
+        "title": "Cooperation and game-theoretic cost allocation in stochastic inventory models with continuous review",
+        "first_author": "Timmer",
+        "year": 2013,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "研究连续盘点库存系统中多企业合作的稳定成本分配，证明在合理合作策略下Shapley value是稳定的成本分配，同时该结论对三企业情形同样成立。是Shapley value在供应链库存合作中稳定性保证的理论文献，可为本研究Shapley value选取的合理性提供方法论支撑。"
+      },
+      {
+        "title": "Individually rational buyback contracts with inventory level dependent demand",
+        "first_author": "Devangan",
+        "year": 2013,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "backup",
+        "reason": "在库存水平依赖需求的供应链协调问题中，指出传统buyback合同无法保证个体理性，因此引入合作博弈Shapley value确保利润分配的公平性与个体理性。说明Shapley value在供应链合同协调中保证个体理性的独特优势，与本研究使用Shapley value保证合作稳定性的动机一致。"
+      },
+      {
+        "title": "Cooperative interconnection settlement among ISPs through NAP",
+        "first_author": "Zhou",
+        "year": 2017,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "研究互联网服务提供商（ISP）通过网络接入点（NAP）互联时的结算问题，比较非结算分配和Shapley值分配的核与公平性，并提出特征利润分配（CPA）作为Shapley值的可实施替代方案。该研究中ISP之间存在竞争同时又必须合作互联的结构，与本文\"竞合关系\"的研究框架存在结构相似性，可用于方法论对比讨论。"
+      },
+      {
+        "title": "Fair gain allocation in eco-efficient vendor-managed inventory cooperation",
+        "first_author": "Stellingwerf",
+        "year": 2019,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "研究供应商管理库存（VMI）合作中的公平收益分配，将Shapley值扩展为同时反映成本节约和碳排放贡献的加权分配方法，应用于荷兰超市供应链。该研究将绿色效率（环境贡献）纳入Shapley值分配权重，为本文讨论废弃混凝土回收中环境外部性如何影响利润分配提供了方法论参考。"
+      },
+      {
+        "title": "Allocating Cost to Shippers in Pickup and Delivery Service",
+        "first_author": "Liu",
+        "year": 2019,
+        "journal": "MATHEMATICAL PROBLEMS IN ENGINEERING",
+        "tier": "backup",
+        "reason": "研究物流取送货服务中托运商合作成本分配，比较LCAM、Shapley、Nucleolus、EPM四种方法在稳定性、一致性、鲁棒性三个维度的表现，提供分配方法横向比较的分析框架，对本研究方法论对比讨论有参考价值，期刊档次一般。"
+      },
+      {
+        "title": "Profit maximizing coalitions with shared capacities in distribution networks",
+        "first_author": "Ben Jouida",
+        "year": 2021,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "研究多企业水平合作分销网络中的联盟形成博弈，对比均等分配、比例分配和Shapley值三种机制的联盟稳定性与利润分配效果，发现不同分配方法会导致不同的子联盟形成结果，EJOR权威期刊，对本研究讨论Shapley值对联盟稳定性影响有参考价值。"
+      },
+      {
+        "title": "Benefit Allocation in Shared Water-Saving Management Contract Projects Based on Modified Expected Shapley Value",
+        "first_author": "Liu",
+        "year": 2021,
+        "journal": "WATER RESOURCES MANAGEMENT",
+        "tier": "backup",
+        "reason": "在联盟收益为不确定变量的条件下，提出修正期望Shapley值方法，引入风险、投入和努力三个修正因子，并重新定义公平性准则（对称性、效率性、可加性）。其对传统Shapley值的系统性修正思路可为本研究讨论Shapley值改进方向提供参考。"
+      },
+      {
+        "title": "Transforming Hong Kong's warehousing industry with a novel business model: A game-theory analysis",
+        "first_author": "Yang",
+        "year": 2021,
+        "journal": "ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING",
+        "tier": "backup",
+        "reason": "引入第三方仓储设备供应商建立新商业模式，采用Cournot博弈与Shapley值相结合分析利润分配，探讨市场需求弹性等参数对合作剩余的影响。竞合框架（非合作博弈确定均衡+合作博弈分配利润）的两阶段结构与本研究的Biform game设计最接近，可作为方法论类比的典型案例。"
+      },
+      {
+        "title": "A benefit allocation model for the joint prevention and control of air pollution in China: In view of environmental justice",
+        "first_author": "Du",
+        "year": 2022,
+        "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+        "tier": "backup",
+        "reason": "以环境正义为核心，通过调整最优去除率计算联合控制总收益，采用改进Shapley值（综合考虑环境正义影响因素）实现SO2治理主体间费用-收益对称分配。改进Shapley值纳入外部性/公平性因子的思路，对本研究中修正Shapley值以考量废弃混凝土回收链各方贡献与公平性具有方法参考价值。"
+      },
+      {
+        "title": "Efficient effort equilibrium in cooperation with pairwise cost reduction",
+        "first_author": "Garcia-Martinez",
+        "year": 2023,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "backup",
+        "reason": "明确以Biform game两阶段结构建模：第一阶段非合作博弈中各参与者决定努力水平，第二阶段合作博弈中合作削减成本，并识别出含Shapley值在内的\"带权成对削减\"分配族，证明可在合作博弈中可行并产生有效均衡努力水平。与本研究Biform game框架（非合作收集竞争+合作加工+Shapley分配）在结构上直接对应，可作为方法论背景引用。"
+      },
+      {
+        "title": "Cooperative recycling strategy for electric vehicle batteries considering blockchain technology",
+        "first_author": "Xiao",
+        "year": 2024,
+        "journal": "ENERGY",
+        "tier": "backup",
+        "reason": "研究封闭环供应链（CLSC）中电动汽车电池的合作回收策略，识别五种联盟回收模式，并用Shapley值合理分配联盟利润。结论指出供应商-制造商联盟在中等回收竞争强度下是最优策略，挑战了大联盟主导的传统假设。该文将回收竞争、合作博弈与Shapley分配结合，与本研究废弃混凝土回收中的竞合关系及利润分配问题直接相关，是内容最接近的备选文献。"
+      },
+      {
+        "title": "Two-Echelon Collaborative Location Routing Problem With Intuitionistic Fuzzy Multi-Demands for Sorted-Waste Collection and Transportation",
+        "first_author": "Shang",
+        "year": 2025,
+        "journal": "IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS",
+        "tier": "backup",
+        "reason": "在废物分类收集与运输的两层协作路径规划问题中，构建了精化Shapley模型进行利润分配，并确定最优联盟组合。该文将废物回收场景与Shapley联盟利润分配直接结合，两层结构（收集-转运）与本研究\"收集-加工\"的双层逻辑相似，可为废弃混凝土回收链中的联盟结构设计提供参考。"
+      },
+      {
+        "title": "The responsibilities of freight carriers and other agents in the generation of freight externalities: Implications for addressing climate change",
+        "first_author": "Holguin-Veras",
+        "year": 2025,
+        "journal": "TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE",
+        "tier": "backup",
+        "reason": "建立\"Supply Chain Game\"刻画承运商与非承运主体（发货方、收货方等）的博弈互动，用Shapley值量化各方对货运外部性（排放）的责任归属，并基于真实供应链案例进行验证。将Shapley值用于供应链多主体责任分配而非仅限于利润分配，提供了扩展应用视角，可为本研究讨论分配方案的公平性依据时引用。"
+      },
+      {
+        "title": "Optimistic and pessimistic approaches for cooperative games",
+        "first_author": "Atay",
+        "year": 2026,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "从理论层面探讨合作博弈中联盟价值的乐观与悲观边界问题，研究外部性存在时稳定分配的存在性条件，对\"可行性外部性\"场景下确保稳定分配的难度给出严格分析。为本文在Shapley值分配满足联盟稳定性（个人理性/集体理性）的讨论提供理论背书，适合引用于正式证明分配有效性的段落。"
+      }
+    ],
+    "5": [
+      {
+        "title": "The dynamics of learning alliances: Competition, cooperation, and relative scope",
+        "first_author": "Khanna",
+        "year": 1998,
+        "journal": "STRATEGIC MANAGEMENT JOURNAL",
+        "tier": "core",
+        "reason": "竞合理论的奠基性文献之一。提出\"私人收益\"与\"共同收益\"的区分框架，揭示合作与竞争之间的内在张力如何影响联盟中的学习投资激励；引入\"相对范围\"（relative scope）度量各方在联盟外部机会集的差异，解释为何竞争烈度因企业而异。此框架直接对应本研究中传统混凝土制造商与专业回收商在废弃混凝土处理链上既竞争（收集端）又合作（加工端）的双重关系，是支撑竞合理论基础的核心引用。"
+      },
+      {
+        "title": "Coopetition strategies in a two-stage, multi-agent supply chain under hybrid carbon trading mechanisms",
+        "first_author": "Zheng",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "直接竞品。本文采用Biform game框架建模两阶段多代理供应链的竞合策略，涵盖高排放制造商、负排放制造商与零售商三方，非合作博弈阶段处理产品竞争，合作博弈阶段通过联盟零和博弈确定CER项目成本分摊方案。这与本研究\"收集竞争+加工合作\"的Biform game结构高度同构，且同样基于数值仿真验证结论。是目前检索到与本研究方法论框架最直接对标的文献。"
+      },
+      {
+        "title": "Balancing coopetition in innovation-driven circular business models: the interplay of environmental welfare and competitive advantages",
+        "first_author": "Hassanabadi",
+        "year": 2026,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "core",
+        "reason": "本文首次在循环商业模式（CBM）情境下构建竞合数学博弈论模型，研究两竞争企业在不同权力结构下的策略互动，分析竞合强度条件、环境福利以及政府干预机制；进一步放松权力不平衡假设，引入竞合讨价还价博弈。与本文\"收集竞争+加工合作\"的Biform框架高度契合，循环经济情境也与废弃混凝土回收直接对应。"
+      },
+      {
+        "title": "A Game-Theoretic Model to Analyze Value Creation with Simultaneous Cooperation and Competition of Supply Chain Partners",
+        "first_author": "Kafi",
+        "year": 2014,
+        "journal": "MATHEMATICAL PROBLEMS IN ENGINEERING",
+        "tier": "core",
+        "reason": "直接提出博弈论数学模型分析供应链伙伴同时竞合（coopetition）的价值创造问题。文章指出合作博弈论通常忽略合作内部结构，并构建了以合作水平为参数的利润函数结构转变模型，证明在直觉条件下竞合策略在盈利性上优于纯竞争关系。两个相似供应商的竞合建模情景与本研究\"两类参与者竞合\"的框架高度契合，是直接的方法论参考。"
+      },
+      {
+        "title": "The role of co-opetition in low carbon manufacturing",
+        "first_author": "Luo",
+        "year": 2016,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "core",
+        "reason": "建模两个排放效率不同的竞争制造商在碳交易政策下的竞合关系，分别在纯竞争和竞合两种市场环境下推导最优定价与减排决策，采用非合作博弈与合作博弈双重框架，发现竞合相比纯竞争可同时提升利润并降低总排放，但代价是更高产品价格与单位碳排放量。方法与结构与本文\"非合作收集竞争+合作加工\"的双阶段框架高度契合，是竞合博弈建模的直接基准。"
+      },
+      {
+        "title": "Compete or cooperate: Intensity, dynamics, and optimal strategies",
+        "first_author": "Chen",
+        "year": 2019,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "core",
+        "reason": "本文直接为竞合场景建立博弈模型，分析对称与非对称情形下企业是否合作、如何合作的最优策略决策。核心发现是竞合的最优策略取决于市场竞争强度，且竞合会同时改变竞争与合作的动态：在合作领域（如价格）缓和竞争强度，在非合作领域则加剧竞争。这一框架与本研究\"收集竞争+加工合作\"的结构高度契合，可直接为Biform博弈设计提供方向性支撑。"
+      },
+      {
+        "title": "The coopetition effect of learning-by-doing in outsourcing",
+        "first_author": "Deng",
+        "year": 2021,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "构建两期模型，研究两家竞争OEM共用同一合同制造商（CM）外包时的竞合效应——OEM在市场端相互竞争，在生产端通过共享CM形成合作，CM的学习效应将二者利益耦合。这一\"横向竞争+共同外包加工\"结构与本文\"传统制造商在废弃混凝土收集端竞争、在加工端与回收商合作\"高度同构，是供应链竞合博弈的直接方法论参照。文章还讨论了产品替代率、OEM规模差异对竞合均衡的影响，提供丰富的比较静态基础。"
+      },
+      {
+        "title": "Closed-loop supply chain models with coopetition options",
+        "first_author": "Jalali",
+        "year": 2022,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "core",
+        "reason": "构建了OEM与社会回收商（social collector）在闭环供应链中的竞合博弈模型，高度契合本研究\"传统制造商+专业回收商\"结构。回收商决定将回收品用于二手市场还是无差异消费者市场，从而决定选择竞争或竞合结构；结果显示OEM严格偏好竞合策略。与本研究的\"收集竞争+加工合作\"框架存在直接结构对应，是供应链竞合领域的核心参考文献。"
+      },
+      {
+        "title": "Decision-making in closed-loop supply chains: The interplay of dual government subsidies, channel Co-opetition, and brand premiums",
+        "first_author": "Shi",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "本文构建包含零售商R、制造商M和第三方供应商N的供应链博弈模型，探讨政府双重补贴（回收补贴+再制造补贴）背景下的渠道竞合决策。设计四种情景（基准、合作竞争、完全竞争、三方），分析制造商是否选择内部回收及是否与竞争性/非竞争性供应商合作的最优策略。与本研究高度契合：同为含回收环节的供应链竞合博弈，且含多方利润分配与补贴政策分析，是直接竞品文献。"
+      },
+      {
+        "title": "Game of banks- biform game theoretical framework for ATM network cost sharing",
+        "first_author": "Nguyen",
+        "year": 2024,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "core",
+        "reason": "与本研究框架高度吻合的直接竞品。构建Biform博弈模型，将合作博弈（成员最优投资）与非合作博弈（网络成本分担）结合，以Shapley值进行收益分配，并证明Shapley分配在某些条件下属于核（core）且优于现行机制。研究对象为英国ATM网络的银行和运营商竞合关系，即参与者在各自最大化效用的同时共享基础设施成本——这与本研究\"收集竞争+加工合作\"的Biform架构完全平行。需在literature review中明确指出本研究与其差异（废弃混凝土回收背景、异质角色设定、供应链结构）。"
+      },
+      {
+        "title": "Purchasing new for remanufacturing: Sourcing co-opetition, tax-planning and data validation",
+        "first_author": "Niu",
+        "year": 2024,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "直接建模再制造场景下的竞合关系：再制造商向核心部件供应商采购，而该供应商同时经营与再制造商竞争的自有品牌终端产品，形成\"采购合作+终端竞争\"的竞合结构。研究揭示供应商海外/国内生产选择在税收规划与供应效率之间的非单调权衡，并发现海外生产可实现盈利与环保的双赢。该竞合建模逻辑与本研究\"废弃混凝土回收中回收商既是原料供应方又是市场竞争者\"的竞合机制高度同构，是供应链竞合定量建模的直接参照。"
+      },
+      {
+        "title": "Impact of product pricing and timing of investment decisions on supply chain co-opetition",
+        "first_author": "Gurnani",
+        "year": 2007,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "直接在供应链竞合情境下进行博弈建模的代表性文献。供应商投资产品质量、买方投资销售努力，两者在市场上既合作（分工生产）又竞争（定价博弈），文章比较了三种不同决策时序结构下的均衡，讨论了各方利润与投资激励如何受竞合关系和需求不确定性影响。与本研究\"收集竞争+加工合作\"框架高度同构，可直接借鉴其博弈结构设计与比较静态分析方法。"
+      },
+      {
+        "title": "Strategic alliance via co-opetition: Supply chain partnership with a competitor",
+        "first_author": "Zhang",
+        "year": 2011,
+        "journal": "DECISION SUPPORT SYSTEMS",
+        "tier": "important",
+        "reason": "供应链竞合建模的经典文献，以Yahoo-Microsoft Bing搜索联盟为背景，构建多期二阶段博弈：Stage 1为竞争对手之间的联盟合作谈判，Stage 2为市场上的价格竞争。分析了竞合联盟形成的经济激励与成本，提出最优合约并讨论了暂时性竞合与延迟竞合的条件。本研究中制造商与回收商同样面临\"先竞争后合作\"的决策结构，该文两阶段框架对本研究的非合作-合作博弈建模具有直接方法论参考价值。"
+      },
+      {
+        "title": "Buying from a rival: The effect of knowledge sharing, co-opetition and signal inference",
+        "first_author": "Li",
+        "year": 2025,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "important",
+        "reason": "在包含incumbent制造商与entrant制造商的竞合供应链中，研究incumbent的知识共享偏好。建立竞合博弈模型，识别双方的win-win zone与lose-lose困境，分析信号推断机制如何改变竞合结构中的合作激励。其\"在竞争关系中嵌套合作\"的建模逻辑与本研究相符，可为刻画传统制造商向专业回收商提供技术合作的建模策略提供参考。"
+      },
+      {
+        "title": "Manufacturers' horizontal green R&D cooperation in a supply chain: effects of technological spillover",
+        "first_author": "Xia",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "important",
+        "reason": "研究两个竞争制造商在共同零售商供应链中开展水平绿色R&D合作（即竞合）的效应。分析技术溢出的成本节约效应与搭便车效应之间的权衡，发现竞合对供应链其他成员（零售商）的影响具有条件性。其水平竞合博弈建模方法与本研究中两类混凝土生产商在废料收集阶段的竞争结构直接可比。"
+      },
+      {
+        "title": "Design incentives of extended producer responsibility for electric vehicle producers with competition and cooperation",
+        "first_author": "Qi",
+        "year": 2025,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "important",
+        "reason": "研究两竞争电动汽车制造商在EPR政策框架下的竞合结构：在正向供应链竞争，在逆向供应链（废旧电池回收）合作。CPR系统下采用Nash讨价还价博弈刻画合作谈判，分析了集体回收责任与个体责任的经济和环境效益对比，并识别出Pareto改进条件。与本文\"同类制造商在逆向回收链合作\"的结构高度类似，可直接为竞合框架提供对标文献。"
+      },
+      {
+        "title": "How to arrange production and carbon emissions reduction? Thoughts towards remanufacturing authorization, risk aversion and carbon cap-and-trade",
+        "first_author": "Sun",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "研究原始设备制造商（OEM）与独立再制造商（IR）之间的竞合关系，OEM通过授权策略与IR既竞争又合作，采用Cournot博弈分析双方在碳交易政策下的决策。制造商与独立回收/再制造商之间的竞合博弈结构与本文（传统混凝土制造商vs专业回收商）直接对应，为本文的竞合建模提供重要参照。"
+      },
+      {
+        "title": "Competition and capacity sharing strategies in supply chain with scale economies",
+        "first_author": "Jing",
+        "year": 2026,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "研究一个供应商和两个竞争制造商之间的产能共享决策，构建议价博弈框架分析低成本制造商是否与竞争对手协作共享产能。设置基准竞争模型、固定费产能共享和混合费产能共享三种情景，核心权衡在于：通过产能共享获得经济收益vs使竞争对手变强的竞争风险。结论显示规模经济是产能合作的强驱动力，与本研究\"收集竞争+加工合作\"结构中竞争方在特定条件下仍选择合作的逻辑高度一致，对竞合条件分析有参考价值。"
+      },
+      {
+        "title": "Collaborative information and capacity sharing: Strategies for managing uncertain demand with competitors",
+        "first_author": "Wu",
+        "year": 2026,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "研究两个竞争制造商之间在需求不确定性下的信息共享与产能共享协同策略，比较事前（ex-ante）和事后（ex-post）产能共享合同对均衡产出、消费者剩余和社会福利的影响。发现信息共享有利于双方，产能共享仅在适度产能水平下发生，且竞争强度越大越有助于激励产能共享策略。这一\"竞争促合作\"的反直觉结论与本文Biform博弈框架下的竞合关系分析密切相关，是供应链竞合建模的有力参考。"
+      },
+      {
+        "title": "Toward a structural view of co-opetition in supply networks",
+        "first_author": "Pathak",
+        "year": 2014,
+        "journal": "JOURNAL OF OPERATIONS MANAGEMENT",
+        "tier": "important",
+        "reason": "超越二元关系视角，提出供应网络层面竞合理论，认为供应网络中企业通过资源获取、共享与转化形成新联系，提出四种供应网络原型（配置方法），并讨论竞合关系在这些原型中的演化规律。为本研究将竞合置于供应链结构背景（制造商vs回收商）提供理论框架支撑，JOM发表具有高度学术权威性。"
+      },
+      {
+        "title": "Sources and management of tension in co-opetition case evidence from telecommunications satellites manufacturing in Europe",
+        "first_author": "Fernandez",
+        "year": 2014,
+        "journal": "INDUSTRIAL MARKETING MANAGEMENT",
+        "tier": "important",
+        "reason": "基于欧洲电信卫星制造业竞合案例，构建多层次竞合张力来源与管理的概念框架，发现分离与整合竞争/合作的混合组织结构有助于有效管理张力。本研究中传统制造商与专业回收商在收集环节竞争、加工环节合作，天然存在竞合张力，该文的张力管理框架为设计制度安排提供理论依据。"
+      },
+      {
+        "title": "Price and service co-opetition under uncertain demand and condition of used items in a remanufacturing system",
+        "first_author": "Jena",
+        "year": 2016,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "研究两家再制造商通过共同零售商销售可替代产品时的价格与服务竞合关系，同时考虑需求不确定性与回收品状态不确定性，建立四种再制造渠道配置下的均衡决策与利润模型，并设计数量折扣回购合同协调去中心化系统。再制造竞合场景与本文废弃混凝土回收竞争+加工合作结构高度对应，是场景最相近的文献之一。"
+      },
+      {
+        "title": "Competition, cooperation, and coopetition of green supply chains under regulations on energy saving levels",
+        "first_author": "Hafezalkotob",
+        "year": 2017,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "important",
+        "reason": "在政府金融干预下对两条绿色供应链建立价格-节能竞争与合作模型，分别从能源节约、社会福利、收入三类政策目标构建16个数学规划模型，发现政府可通过适当关税机制协调供应链竞合以实现可持续发展目标。绿色供应链竞合+政府监管+博弈建模，与本文回收政策背景下的竞合研究关联密切。"
+      },
+      {
+        "title": "Coopetition Strategy and Pricing Timing in an Outsourcing Supply Chain With Uncertain Operation Risks",
+        "first_author": "Chen",
+        "year": 2019,
+        "journal": "IEEE TRANSACTIONS ON FUZZY SYSTEMS",
+        "tier": "important",
+        "reason": "研究OEM与竞争性ODM之间在外包合同制造中是否应继续合作的竞合决策问题，同时分析竞合决策对双方进入下游产品市场时定价时机偏好的影响。建立多阶段模型，发现OEM风险偏好越强、ODM越风险规避且批发价较低时，双方倾向合作。这一\"供应链中竞争者间合作条件\"的分析框架与本研究废弃混凝土回收商与制造商的竞合结构有直接参照价值。"
+      },
+      {
+        "title": "Moving sequence preference in coopetition outsourcing supply chain: Consensus or conflict",
+        "first_author": "Yan",
+        "year": 2019,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "研究竞争性合同制造商（CCM）在为OEM外包任务中逐渐发展为竞争者后，双方在行动顺序（谁先行动）上能否达成共识。通过同步博弈、CCM先行与OEM先行三种序列比较，发现在高合作制造程度、温和渠道竞争与低市场波动条件下双方可达成共识。竞合效应下CCM先行反而可能降低产量，颠覆传统先行者优势认知。对本研究中制造商与回收商的策略互动序列设计具有参考价值。"
+      },
+      {
+        "title": "When friends become enemies: co-opetition relationships between banks and third-party payment providers",
+        "first_author": "Zhang",
+        "year": 2020,
+        "journal": "INTERNATIONAL JOURNAL OF BANK MARKETING",
+        "tier": "important",
+        "reason": "以博弈模型刻画银行（上游）与第三方支付提供商（下游）之间的垂直竞合关系——下游企业既是上游的合作伙伴又构成竞争威胁，银行的最优策略取决于忠实用户数量的相对多寡。文章在双寡头对称/非对称结构下均进行了均衡分析，验证了竞合博弈的稳健性。本文废弃混凝土场景中传统制造商与回收商同样存在纵向合作+横向竞争的混合关系，该文的博弈框架和均衡比较逻辑可直接借鉴。"
+      },
+      {
+        "title": "Learning strategic cooperative behavior in industrial symbiosis: A game-theoretic approach integrated with agent-based simulation",
+        "first_author": "Yazan",
+        "year": 2020,
+        "journal": "BUSINESS STRATEGY AND THE ENVIRONMENT",
+        "tier": "important",
+        "reason": "将工业共生中的废弃物交换关系建模为竞合问题：企业为降低废弃物排放和原料采购成本而合作，同时相互竞争以减少自身承担的额外运营成本（废弃物处理、运输、交易成本）。提出非合作博弈模型区分\"公平策略\"与\"机会主义策略\"，并结合agent仿真验证长期学习收敛至公平均衡。研究场景（废弃物交换网络中的竞合）与本文废弃混凝土回收情境高度贴近，非合作博弈+成本分担的方法与本文Biform框架互补，可作为废弃物竞合博弈的重要实证对照。"
+      },
+      {
+        "title": "Sourcing under competition: The implications of supplier capital constraint and supply chain co-opetition",
+        "first_author": "Gu",
+        "year": 2021,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "important",
+        "reason": "研究制造商在下游水平竞争与竞合条件下的战略采购与供应商融资策略。当制造商与竞争对手进行同步博弈时，资本约束程度不同将导致水平竞争或竞合结构，同时分析了序贯博弈的稳健性。竞合结构与博弈论方法（Cournot/Stackelberg）与本研究框架相近，可作为竞合条件下均衡分析的方法论参考。"
+      },
+      {
+        "title": "Team of rivals: How should original equipment manufacturers cooperate with independent remanufacturers via authorisation?",
+        "first_author": "Jin",
+        "year": 2022,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "分析OEM与独立再制造商（IR）通过授权实现合作博弈的策略选择，对比竞争、经销商授权合作、再制造授权合作三种情景。研究指出竞合取决于授权对消费者支付意愿的影响，并识别合作实现win-win-win（三重底线）的条件。\"OEM+独立回收商\"结构与本研究高度吻合，授权费收益分配机制与本研究的Shapley值分配方向相关。"
+      },
+      {
+        "title": "Competition or coopetition? Equilibrium analysis in the presence of process improvement",
+        "first_author": "Li",
+        "year": 2022,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "研究OEM在竞争性供应商（CS）与非竞争性供应商（NS）之间的采购选择，揭示竞合均衡的产生机制。核心发现：无过程改进时竞合不存在；供应商主导投资时竞合可作为均衡出现，驱动力来自批发价效应与水平数量竞争效应的交互。供应商竞合模式与博弈均衡的严格分析框架对本研究的\"收集竞争+加工合作\"建模具有直接方法论参考价值。"
+      },
+      {
+        "title": "Collaborative maintenance service and component sales under coopetition patterns for OEMs challenged by booming used-component sales",
+        "first_author": "Zhu",
+        "year": 2022,
+        "journal": "RELIABILITY ENGINEERING & SYSTEM SAFETY",
+        "tier": "important",
+        "reason": "针对旧零件销售冲击OEM的维修服务市场，构建三种竞合模式（独立运营、与旧零件供应商合作、与独立维修商合作）的优化模型，联合决策维修服务策略与零件定价。结构与本研究相似：传统制造商面对第三方（旧零件供应商/独立回收商）的竞合关系，且通过比较不同合作-竞争模式下的利润确定最优策略，为本研究废弃混凝土场景中多种竞合结构的比较分析提供方法参考。"
+      },
+      {
+        "title": "Together we stand? Co-opetition for the development of green products",
+        "first_author": "Hafezi",
+        "year": 2023,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "采用博弈论方法对竞合（co-opetition）进行定量建模，比较三种策略：独立开发、投资共享、创新共享，分析各策略下绿色产品价格、环境质量和企业利润的差异。研究发现创新共享策略利润最高但产品最贵，而独立开发在消费者质量敏感度较高时应避免。对本研究\"加工合作\"策略的利润分配机制设计具有方法论参照价值；该文同样发表于EJOR，处理竞争者在R&D环节的合作协议设计。"
+      },
+      {
+        "title": "Price distortion forced by recycling competition under trade-in collaboration",
+        "first_author": "Zhao",
+        "year": 2024,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "important",
+        "reason": "研究品牌商（seller）与回收机构（recycler）在旧换新项目中的合作与竞争共存关系，与本研究\"传统混凝土制造商+专业回收商\"的竞合结构直接类似。发现在激烈回收竞争下，卖家通过扭曲面向新消费者的价格来占据以旧换新需求，揭示了\"竞争溢出效应\"从旧消费群向新消费群的传导机制；且自主回收在竞争温和时达到帕累托改善，否则陷入零和博弈。对本研究废弃混凝土回收竞争的均衡分析有直接参照意义。"
+      },
+      {
+        "title": "Supply chain coopetition: A review of structures, mechanisms and dynamics",
+        "first_author": "Katsaliaki",
+        "year": 2024,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "对156篇供应链竞合（SCC）文献进行系统性综述，基于PRISMA框架，涵盖1997–2022年WoS数据库。构建竞合结构分类框架（买方-供应商竞合、供应网络竞合、生产竞合、分销/物流竞合），分析产能共享、网络优化等运营机制。本研究建模竞争混凝土制造商与专业回收商之间的竞合关系，属于SCC中的生产与物流竞合范畴，该综述直接提供理论定位与研究脉络支撑。"
+      },
+      {
+        "title": "Game-Theoretic Approach to Competition Dynamics in Tourism Supply Chains",
+        "first_author": "Yang",
+        "year": 2009,
+        "journal": "JOURNAL OF TRAVEL RESEARCH",
+        "tier": "backup",
+        "reason": "以博弈论方法研究两条旅游供应链之间及链内各层级之间的合作与竞争动态，涵盖链间竞争（两TSC）和链内合作（主题公园-住宿-旅行社整合），讨论了内部竞争如何影响各方利润以及整合产生的Win-Win情形。虽领域为旅游，但其供应链博弈的层级结构（横向竞争+纵向合作）与本研究思路相近，可作为供应链竞合博弈应用案例引用。"
+      },
+      {
+        "title": "Managing coopetition through horizontal supply chain relations: Linking dyadic and network levels of analysis",
+        "first_author": "Wilhelm",
+        "year": 2011,
+        "journal": "JOURNAL OF OPERATIONS MANAGEMENT",
+        "tier": "backup",
+        "reason": "聚焦供应链中横向竞合关系（supplier-supplier）的管理，以日本和德国汽车行业多案例研究，揭示采购方如何通过主动建立和维护横向供应商关系来管理竞合张力，连接了二元层次与网络层次分析。本研究中传统混凝土制造商与专业回收商之间的横向竞合正是该文所指\"horizontal supply chain co-opetition\"的典型场景，可在Literature Review中引用以支撑竞合关系框架的应用背景。"
+      },
+      {
+        "title": "Production and coopetition strategies in remanufacturing involving knowledge spillovers",
+        "first_author": "Wang",
+        "year": 2025,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "backup",
+        "reason": "研究OEM与第三方再制造商（TPR）之间的竞合策略，对比竞争情景与合作情景。TPR可选择与OEM合作再制造旧品（竞合），也可独立进行。摘要明确指出coopetition可在一定条件下同时提升consumer surplus和环境表现。再制造商的角色与本研究中专业废弃混凝土回收商在功能定位上高度类似，可为跨行业对照提供文献支撑。"
+      },
+      {
+        "title": "Unveiling coopetition dynamics between shared mobility and public transport: A game-theoretic approach",
+        "first_author": "Huang",
+        "year": 2025,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "backup",
+        "reason": "构建multi-leader single-follower博弈论模型，揭示共享出行服务商与公共交通运营商之间的竞合动态。运营商既在客源上竞争，又可通过bundle服务合作，形成与本研究\"收集竞争+加工合作\"相似的竞合双轨结构。文章将非线性非凸问题重构为凸双层模型并开发迭代算法，方法论完备，可作为竞合博弈应用的跨领域参照。"
+      },
+      {
+        "title": "Co-opetition in reinsurance markets: When Pareto meets Stackelberg and Nash",
+        "first_author": "Cao",
+        "year": 2025,
+        "journal": "INSURANCE MATHEMATICS & ECONOMICS",
+        "tier": "backup",
+        "reason": "构建双层竞合博弈模型：第一层为Stackelberg-Nash非合作博弈（两再保险商竞争承接业务），第二层为Pareto最优合作风险分担博弈。这种\"竞争层+合作层\"的两阶段博弈结构与Biform game框架高度吻合，为本文的博弈结构设计提供方法论参照，尤其是如何将非合作竞争结果与合作Pareto解融合。"
+      },
+      {
+        "title": "Competition or coopetition? Collaboration strategies for the circular economy",
+        "first_author": "Mosgaard",
+        "year": 2025,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "基于47家丹麦企业的多案例研究，识别循环经济中四类合作模式（传统价值链内vs生态系统视角 × 附加式vs核心业务），发现部分行业中企业会与竞争对手合作实现循环经济目标，并提出\"公共竞合\"（coopetition for the commons）概念。为废弃混凝土回收的制造商-回收商竞合合作提供循环经济背景下的管理学视角支撑。"
+      },
+      {
+        "title": "The economics of capacity-sharing platform openness: Competition and cooperation among asymmetric firms",
+        "first_author": "Cai",
+        "year": 2026,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "backup",
+        "reason": "研究B2B共享平台背景下，大企业向竞争对手（小企业）开放产能共享平台的策略及其竞争效应。发现平台开放可能加剧或缓解市场竞争，取决于小企业的产能共享对象选择；大企业可能因维护定价优势而拒绝开放，导致囚徒困境。异质性企业在共享与竞争之间的战略互动，与本研究中传统制造商和回收商之间在加工环节合作、收集环节竞争的竞合结构有一定的结构相似性，可作为参照。"
+      },
+      {
+        "title": "Co-opetition strategies of retail platform operations with strategic consumers",
+        "first_author": "Chu",
+        "year": 2026,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "构建两期博弈模型研究零售平台通过推出自有品牌将与品牌制造商的关系从合作转向竞合的策略时机。重点分析消费者战略性等待行为如何影响平台竞合策略，发现私有品牌质量水平显著影响竞争格局，\"半竞合\"策略在某些条件下占优。博弈论建模框架和竞合时机选择的分析视角对本研究有参考意义，但与废弃混凝土回收场景的匹配度有限。"
+      },
+      {
+        "title": "Dynamic co-opetitive approach of a closed loop system with remanufacturing for deteriorating items in e-markets",
+        "first_author": "Chen",
+        "year": 2014,
+        "journal": "JOURNAL OF MANUFACTURING SYSTEMS",
+        "tier": "backup",
+        "reason": "在电子市场中构建含再制造的闭环供应链动态竞合模型，分析OEM与第三方独立运营商在品牌新品与类新品间的竞合均衡决策。研究情景（OEM与第三方回收/再制造商的竞合）与本文\"传统制造商vs专业回收商\"的竞合结构相近，均衡分析结论对本研究的参数条件设定具有参考价值。"
+      },
+      {
+        "title": "Strategies and tactics of Chinese contract manufacturers and western OEMs (2001-2011)",
+        "first_author": "Sodhi",
+        "year": 2013,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "backup",
+        "reason": "以博弈论框架考察中国代工商与西方OEM在供应链中的策略演化，发现双方最终形成合作、竞争或竞合（coopetition）等多种关系。文章明确使用博弈论框架对供应链竞合案例进行建模与分析，并讨论win-win结果的可能性，可作为供应链竞合博弈框架应用的佐证案例文献。"
+      },
+      {
+        "title": "Equilibrium Innovation Ecosystems: The Dark Side of Collaborating with Complementors",
+        "first_author": "Mantovani",
+        "year": 2016,
+        "journal": "MANAGEMENT SCIENCE",
+        "tier": "backup",
+        "reason": "构建博弈论模型分析互补品生产商通过合作提升系统质量的均衡行为，发现在市场趋于饱和时合作导致囚徒困境——各方投入增加但相对竞争优势不变，整体利润未必提升。Management Science顶刊，博弈论方法扎实，合作-竞争悖论的机制分析对本文Shapley值利润分配设计有方法论参考价值。"
+      },
+      {
+        "title": "How to Design a Common Telecom Infrastructure for Competitors to be Individually Rational and Collectively Optimal",
+        "first_author": "Deng",
+        "year": 2017,
+        "journal": "IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS",
+        "tier": "backup",
+        "reason": "研究竞争电信运营商共同出资成立合资公司建设共享基础设施的博弈机制，通过博弈论分析证明在合理监管下市场可收敛至个体理性且集体最优的均衡，并量化合资模式对总投资的节约效应。\"竞争运营+共建基础设施+博弈均衡\"结构与本文\"竞争收集+合作加工处理\"的竞合框架形成结构类比，为跨行业竞合建模提供参考。"
+      },
+      {
+        "title": "Coordinate the economic and environmental sustainability via procurement outsourcing in a co-opetitive supply chain",
+        "first_author": "Niu",
+        "year": 2019,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "backup",
+        "reason": "研究OEM与竞争性合同制造商（CM）构成的竞合供应链中，OEM通过采购外包协调经济可持续性与环境可持续性的博弈决策。发现OEM在市场潜力高或低时均倾向外包，并可通过高批发价拖累竞争性CM。当OEM选择外包时可同时实现盈利可持续与环境可持续。期刊与本研究废弃混凝土回收主题高度契合，且竞合供应链+可持续资源管理的框架与本研究背景吻合。"
+      },
+      {
+        "title": "A review of factors affecting closed-loop supply chain models",
+        "first_author": "Shekarian",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "对215篇同时涉及闭环供应链（CLSC）与博弈论（GT）的文献进行系统综述，识别12大类影响因素，聚焦参与者之间的竞争与合作关系。本研究废弃混凝土回收属于典型的逆向/闭环供应链场景，且采用博弈论建模，该综述可为文献综述章节提供背景定位与文献地图支撑。"
+      },
+      {
+        "title": "Government intervention on cooperation, competition, and coopetition of humanitarian supply chains",
+        "first_author": "Fathalikhani",
+        "year": 2020,
+        "journal": "SOCIO-ECONOMIC PLANNING SCIENCES",
+        "tier": "backup",
+        "reason": "在政府干预下建立4个数学规划情景模型，覆盖NGO之间的竞争、合作与竞合三种互动模式，分析社会福利最大化vs预算最小化两类政策目标对各方绩效的影响。文章在博弈建模层面将竞合作为独立情景进行量化分析，结论显示竞合有助于同时实现政府目标与NGO目标，逻辑与本文\"合作加工降低总成本、竞争收集实现效率\"一致。供应链竞合+政府/政策干预这一组合对本文Discussion部分（政策建议）有参考价值。"
+      },
+      {
+        "title": "Impact of carbon tax on enterprise operation and production strategy for low-carbon products in a co-opetition supply chain",
+        "first_author": "Zhang",
+        "year": 2021,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "在碳税机制下构建含两个制造商的竞合供应链Stackelberg博弈模型，同时刻画上下游之间的合作（核心零部件批发）与横向竞争，求解最优定价、产量和利润的均衡策略，并进行碳税与竞争强度的数值分析。本文废弃混凝土回收同样涉及环境规制背景与制造商间竞合，该文的竞合Stackelberg框架和碳政策+竞争强度的敏感性分析可为本文模型扩展和政策分析提供方法参照。"
+      },
+      {
+        "title": "Production coopetition strategies for an FV automaker and a competitive NEV automaker under the dual-credit policy",
+        "first_author": "Cheng",
+        "year": 2021,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "backup",
+        "reason": "在双积分政策下，建模燃油车制造商与新能源车制造商之间的竞合生产策略。构建了Cournot竞争模型与三种竞合模型进行对比，发现稳定信用市场下统一生产策略利润最优，不稳定市场下信用交易合作优于生产竞争。竞合框架+多情景博弈建模+利润比较方法论与本研究结构相近，可作为竞合策略均衡分析的借鉴。"
+      },
+      {
+        "title": "Promoting remanufacturing through subsidy and environment tax: Channel co-opetition, incentive alignment and regulation optimization",
+        "first_author": "Niu",
+        "year": 2022,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "backup",
+        "reason": "研究再制造供应商（Supplier R）与OEM之间的渠道竞合结构，在政府环境税与补贴政策下分析基准、竞合、链对链三种情景。OEM在品牌优势显著或环境税率高时倾向于采购再制造组件，即使面临供应商的品牌竞争。再制造供应链竞合建模框架与本研究\"废弃混凝土回收\"场景有一定对应，政府政策变量可为本研究提供外生参数设计参考。"
+      },
+      {
+        "title": "Choice of the co-opetition model for a new energy vehicle supply chain under government subsidies",
+        "first_author": "Wang",
+        "year": 2023,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "backup",
+        "reason": "研究主导制造商与从属供应商在R&D补贴下的竞合模式选择（批发竞合vs专利授权竞合），推导各方最优决策并分析产品替代度的影响。博弈论建模方法及竞合模式比较分析思路与本研究契合，政府补贴视角也提供了外部政策维度的参考，但具体场景（新能源汽车）与废弃混凝土回收有一定距离。"
+      },
+      {
+        "title": "A co-opetitive newsvendor model with product substitution and a wholesale price contract",
+        "first_author": "Dong",
+        "year": 2023,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "构建OEM与合同制造商（CM）的竞合报童模型：CM既是OEM的唯一关键零件供应商，又在终端市场与OEM形成产品替代竞争。研究发现竞合供应链在特定条件下可实现高于纯竞争的联合利润，并延伸讨论Nash bargaining分配方案。\"供应-竞争\"双重关系的建模思路与本研究\"收集竞争+加工合作\"框架具有结构相似性，可作为方法论借鉴。"
+      }
+    ],
+    "6": [
+      {
+        "title": "Competition in remanufacturing and the effects of government subsidies",
+        "first_author": "Mitra",
+        "year": 2008,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "core",
+        "reason": "构建制造商与再制造商竞争的两期博弈模型，专门研究政府补贴对再制造活动的激励效应。分析了补贴仅给再制造商、仅给制造商、以及双方共享三种方案的均衡结果，发现补贴共享方案能同时提升双方利润并促进产品可回收性设计。与本文竞合框架高度契合，可作为补贴分配策略讨论的理论基础。"
+      },
+      {
+        "title": "Determining advanced recycling fees and subsidies in E-scrap reverse supply chains",
+        "first_author": "Hong",
+        "year": 2011,
+        "journal": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+        "tier": "core",
+        "reason": "构建Stackelberg型博弈模型，以政府为leader（最大化社会福利）、制造商群体和回收商群体为follower，确定最优预付回收费（ARF）与政府补贴水平。证明均衡状态下该机制优于当前基于资金平衡的实践做法。与本文政府补贴s作为关键参数的建模逻辑直接对应，可支撑Introduction的政策机制背景。"
+      },
+      {
+        "title": "Cost-based subsidy and performance-based subsidy in a manufacturing-recycling system considering product eco-design",
+        "first_author": "Yu",
+        "year": 2021,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "采用Stackelberg博弈，在政府-制造商-回收商三方体系中比较四种补贴方案（成本型vs绩效型）对回收率与社会福利的影响。核心发现：固定成本补贴给回收商始终带来最高回收率；较高补贴强度改善供应链利润但不一定提升社会福利；eco-design可有效拉动回收率。与本文\"补贴对回收量和回收商利润分配的影响\"直接对应，是补贴机制设计的基准参照文献。"
+      },
+      {
+        "title": "Dynamic game strategies for construction and demolition waste recycling with learning and reference effects",
+        "first_author": "Hu",
+        "year": 2021,
+        "journal": "ENVIRONMENTAL IMPACT ASSESSMENT REVIEW",
+        "tier": "core",
+        "reason": "在建筑与拆建废料（C&DW）回收情境中，构建包含政府补贴的制造商-回收商博弈模型，并引入学习效应与参考价格效应扩展为双期动态模型。发现学习效应正向影响回收商的回收努力和利润，补贴始终有利于环境和回收商；补贴对制造商利润的影响取决于其学习能力。研究情境（建筑废料+回收商+政府补贴博弈）与本文高度重合，是最直接的情境参照。"
+      },
+      {
+        "title": "Incentive Regulation of Construction Waste Resource Recycling: Subsidy and Tax Incentive",
+        "first_author": "Xiang",
+        "year": 2022,
+        "journal": "MATHEMATICAL PROBLEMS IN ENGINEERING",
+        "tier": "core",
+        "reason": "直接竞品文献。构建传统建材企业与建筑废物回收企业之间的博弈模型，分析无监管、补贴激励监管、税收激励监管三种情景下企业决策行为，场景设置与本研究（传统混凝土制造商vs专业回收商+政府补贴）高度重叠。发现补贴与税收激励均可有效提升回收企业经济收益和生产积极性，单位新型建材环境影响系数与税率是政府决策的关键因素。"
+      },
+      {
+        "title": "Is it wise to compete or to collaborate? Remanufacturing business models under collective extended producer responsibility legislation",
+        "first_author": "De",
+        "year": 2023,
+        "journal": "TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW",
+        "tier": "core",
+        "reason": "直接研究OEM与独立再制造商（IR）在集体EPR立法下竞争vs合作商业模式的选择问题，构建两期竞争与合作模型，在寡头市场情景下分析最优再制造与定价策略，并考察政府补贴对竞争/合作两种模式的差异影响。与本研究\"竞合关系+补贴激励\"的核心框架高度对应，是最直接的竞品。"
+      },
+      {
+        "title": "Differentiated subsidy mechanism for promoting construction and demolition waste recycling",
+        "first_author": "Yuan",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "core",
+        "reason": "直接针对建筑废弃物（C&D waste）回收场景，构建包含建材企业（BME）、废弃物回收企业（WRE）和政府三方的博弈模型，核心发现是：消费者对不同企业生产的再生材料质量感知存在差异，因此应对不同企业实施差异化补贴以提升补贴效率。与本研究\"制造商-专业回收商\"结构高度契合，其\"合作市场中补贴效率\"的分析逻辑对本研究Shapley值分配后的政策设计具有直接参考价值。"
+      },
+      {
+        "title": "Stakeholder interactions of government intervention in construction and demolition waste recycling market: A game theory approach",
+        "first_author": "Su",
+        "year": 2024,
+        "journal": "DEVELOPMENTS IN THE BUILT ENVIRONMENT",
+        "tier": "core",
+        "reason": "以中国C&DW回收市场为案例，构建政府、承包商、回收企业和填埋场四方博弈模型，设置四种场景比较补贴、罚款及组合政策的效果。发现政府补贴可提高回收企业市场竞争力、削弱填埋场竞争力，补贴+罚款组合政策效果最佳。行业背景（建筑废弃物）、多主体博弈结构与政府干预场景比较与本研究高度一致，是最直接的竞品文献之一。"
+      },
+      {
+        "title": "Optimising resource recovery from construction waste material reverse supply chain coordination games",
+        "first_author": "Tan",
+        "year": 2025,
+        "journal": "International Journal of Systems Science-Operations & Logistics",
+        "tier": "core",
+        "reason": "直接研究建筑废料逆向供应链协调问题，采用Stackelberg博弈建模，以\"制造企业领导+补贴特定\"框架检验三类政府补贴模型（含数量型与效率型补贴）对回收效率、回收比率、废料材料零售定价及整体利润的影响，尤其关注政府应按废料分散优先级和可回收建筑废料数量提供差异化补贴。场景与本研究高度重合：建筑废料 + 逆向供应链 + 补贴激励 + 博弈论，可为废弃混凝土补贴设计提供直接基准。"
+      },
+      {
+        "title": "Don't forget your supplier when remanufacturing",
+        "first_author": "Xiong",
+        "year": 2013,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "研究分散式供应链中制造商与关键零部件供应商的竞合关系，发现再制造机会可能导致双输局面；进一步证明政府补贴非集成制造商的再制造活动实际上对环境有害，而补贴集成制造商则有益。其\"补贴对象差异导致截然不同结果\"的发现，可在Discussion中与本文补贴效应仿真结果形成对比分析。"
+      },
+      {
+        "title": "Policies on end-of-life passenger cars in China: dynamic modeling and cost-benefit analysis",
+        "first_author": "Chen",
+        "year": 2015,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "采用动态建模和成本效益分析，研究政府补贴、增值税、押金-退款制度等政策对中国报废汽车回收率的影响。预测押金+补贴组合方案可使2050年回收率达80%，但政府财政负担巨大。其固体废弃物回收政策量化分析直接为本文Discussion中补贴激励机制的政策启示提供参照。"
+      },
+      {
+        "title": "A dual channel, quality-based price competition model for the WEEE recycling market with government subsidy",
+        "first_author": "Liu",
+        "year": 2016,
+        "journal": "OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE",
+        "tier": "important",
+        "reason": "在正规与非正规回收双渠道环境下，构建质量基础的价格竞争模型，分析政府补贴对四种竞争场景下均衡收购价格的影响。发现废品质量较高时补贴边际效果递减，且在特定质量水平下非正规渠道始终具有竞争优势。与本文\"收集竞争+回收商竞合\"框架高度相似，对补贴效率分析有直接方法论参考价值。"
+      },
+      {
+        "title": "Channel structure and pricing in a dual-channel closed-loop supply chain with government subsidy",
+        "first_author": "He",
+        "year": 2019,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "important",
+        "reason": "研究制造商在双渠道闭环供应链中的渠道选择与定价决策，以及政府最优补贴水平。发现补贴水平始终有利于消费者和整体供应链，但不总是有利于环境；当再制造成本节约适中时，制造商与政府存在一致的渠道偏好。其\"补贴水平对均衡结构的影响\"分析可在本文讨论补贴s如何影响均衡定价与利润分配时提供直接对比依据。"
+      },
+      {
+        "title": "Tax or subsidy? Design and selection of regulatory policies for remanufacturing",
+        "first_author": "Zhang",
+        "year": 2020,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "以社会福利最大化的监管者为主体，通过Stackelberg博弈比较税收、补贴、税补结合三种政策对再制造产量的影响。关键发现：监管政策并不总能促进再制造；补贴政策优于税收政策在改善社会福利和经济效益上，但可能带来更重的环境负担；废旧品质量和环境处理成本实质性影响政策选择。为本文\"最优补贴设计\"提供政策比较框架。"
+      },
+      {
+        "title": "Joint tax-subsidy for a manufacturing-recycling system under further extended producer responsibility",
+        "first_author": "Yi",
+        "year": 2021,
+        "journal": "SUSTAINABLE PRODUCTION AND CONSUMPTION",
+        "tier": "important",
+        "reason": "在扩展生产者责任（FEPR）框架下，构建政府-制造商（Cournot竞争）-回收商的Stackelberg+Cournot复合博弈，分析联合税补政策对社会福利、生态创新和资源节约的影响。最优补贴率仅受废物环境成本正向影响，资源税应随多维因素上调。与本文多方竞合博弈+补贴机制的结构高度吻合，是最接近方法框架的参照文献之一。"
+      },
+      {
+        "title": "Urban environmental governance, government intervention, and optimal strategies: A perspective on electronic waste management in China",
+        "first_author": "Fu",
+        "year": 2020,
+        "journal": "RESOURCES CONSERVATION AND RECYCLING",
+        "tier": "important",
+        "reason": "采用信号博弈研究政府补贴下正式回收商与非正式回收商的策略行为，分析完美贝叶斯均衡（分离均衡/混同均衡）条件。核心结论：政府补贴重新分配市场资源，提升正式回收商竞争力并将非正式回收商逐出市场；分离均衡是政策制定者的最优方案。与本文\"竞争性回收商在补贴下的行为策略\"直接相关，提供了异质回收商市场的博弈分析视角。"
+      },
+      {
+        "title": "Selection of best buyback strategy for original equipment manufacturer and independent remanufacturer - game theoretic approach",
+        "first_author": "Ray",
+        "year": 2021,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH",
+        "tier": "important",
+        "reason": "研究OEM与独立回收商（IR）竞争收集旧品的博弈，在扩展博弈格局下分析OEM和IR的最优buyback定价策略。发现低价策略是OEM的最优回收决策，激励策略是IR的最优回收决策。直接竞品：OEM（传统制造商）vs独立回收商竞争收集旧品的博弈建模，与本文\"混凝土制造商vs专业回收商竞争收集\"结构同构，是需要明确差异化定位的关键对比文献。"
+      },
+      {
+        "title": "Impact of government subsidy on the remanufacturing industry",
+        "first_author": "Qiao",
+        "year": 2021,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "构建OEM与独立再制造商（IR）三种再制造策略选择下的博弈论模型，系统讨论政府补贴对制造量、再制造量、消费者剩余、OEM和IR利润及社会福利的影响。指出补贴并不总能提升社会总福利，政策制定者需充分了解市场竞争结构，与本研究关于补贴设计有效性的讨论高度相关。"
+      },
+      {
+        "title": "Production decisions of a closed-loop supply chain considering remanufacturing and refurbishing under government subsidy",
+        "first_author": "Feng",
+        "year": 2021,
+        "journal": "SUSTAINABLE PRODUCTION AND CONSUMPTION",
+        "tier": "important",
+        "reason": "基于汽车配件市场，构建OEM主导与独立再制造商主导两类再制造模型，在Stackelberg和Cournot双寡头博弈框架下分析再制造补贴对全再制造与部分再制造策略的影响。发现补贴在再制造成本较低时对IR模式无效，IR模式在经济效益和社会福利上优于OEM模式的条件，为本研究的补贴有效性分析提供对标基准。"
+      },
+      {
+        "title": "Exploring the optimal reverse supply chain for e-waste treatment under Chinese government subsidy",
+        "first_author": "Wang",
+        "year": 2022,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "分析中国政府补贴对废弃电子产品正规与非正规反向供应链的影响，在正规回收商主导的Stackelberg博弈框架下建立三类模型，研究双渠道回收结构与补贴效果。发现政府应审慎确定补贴数量，因补贴可能同时惠及非正规渠道，补贴有效性随正规渠道结构而变化，对本研究中正规/非正规回收渠道竞争及补贴政策设计具有直接参考价值。"
+      },
+      {
+        "title": "Research on Investment Decision of Construction and Demolition Waste Recycling Technology from the Perspective of Government Subsidy",
+        "first_author": "Shen",
+        "year": 2022,
+        "journal": "MATHEMATICAL PROBLEMS IN ENGINEERING",
+        "tier": "important",
+        "reason": "构建含政府补贴与不含补贴两种情景下的动态Nash供应链模型，系统由两家回收企业和一家建造商组成，研究政府补贴对回收企业技术决策的调节机制及最优技术升级比例。发现补贴始终能提升技术升级比例和利润，政府应优先补贴先行投资的企业，与本研究建筑废弃物回收+博弈+补贴主题高度契合。"
+      },
+      {
+        "title": "Optimal decisions of construction and demolition waste recycling based on reference green effect under different subsidy models",
+        "first_author": "Zheng",
+        "year": 2024,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "important",
+        "reason": "专门针对C&DW回收，构建三种政府补贴模式下的微分博弈模型（成本补贴vs再生产品补贴），分析消费者参考绿色效应对企业决策的影响，并研究回收率的动态演化路径。补贴模式比较分析与本研究补贴机制设计方向高度契合，可为政策情景设定提供依据。"
+      },
+      {
+        "title": "Decision-making in closed-loop supply chains: The interplay of dual government subsidies, channel Co-opetition, and brand premiums",
+        "first_author": "Shi",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "在政府双重补贴（回收补贴+再制造补贴）框架下，研究包含制造商、零售商和第三方供应商的供应链中的渠道竞合（co-opetition）决策，建立四个典型场景（基准、合作竞争、完全竞争、三方）。补贴+竞合结构与本研究的\"收集竞争+加工合作\"框架在理论结构上高度重叠，是直接的方法论参照。"
+      },
+      {
+        "title": "Evolutionary game analysis of multi-stakeholders in the WEEE recycling industry under propaganda subsidies and environmental damage taxes",
+        "first_author": "Wang",
+        "year": 2024,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "important",
+        "reason": "构建政府、正式回收商与非正式回收商三方演化博弈模型，研究宣传补贴和环境损害税对WEEE回收行业的影响。核心发现：政府应对正式回收商提供适当补贴，同时通过税收抑制非正式回收商。正式vs非正式回收商竞争+政府补贴干预的结构与本研究\"制造商回收vs专业回收商\"竞争框架形成直接参照。"
+      },
+      {
+        "title": "Study on the impact of government policies on power battery recycling under different recycling models",
+        "first_author": "Zhang",
+        "year": 2023,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "在七种回收模型（包括联盟回收模型）下比较政府补贴、押金退款和奖惩机制的效果，发现联盟回收模型具有最高社会福利潜力，补贴政策在经济利润和消费者剩余方面表现突出。联盟回收与本研究\"合作加工\"结构相对应，多政策比较框架对本研究政策情景设计具有参考价值。"
+      },
+      {
+        "title": "A circular economy with tax policy: Using collection channels and returns to mitigate distortions in steel production and recycling",
+        "first_author": "Genc",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "important",
+        "reason": "以Stackelberg博弈分析钢铁行业初级材料与再生材料双渠道中税收政策对闭环供应链的扭曲效应，引入最优回收渠道选择与消费者内生返还行为作为纠偏机制，并用美国、中国等国政府税收激励项目数据验证。与本研究\"制造商vs回收商竞合+政府政策激励\"的框架具有直接方法论对应关系，尤其是回收渠道竞争结构与政策干预效率的分析视角。"
+      },
+      {
+        "title": "Which policy can effectively promote the formal recycling of power batteries in China?",
+        "first_author": "Li",
+        "year": 2024,
+        "journal": "ENERGY",
+        "tier": "important",
+        "reason": "构建政府-回收商-消费者三方进化博弈模型，系统比较回收商补贴、消费者补贴和押金返还三类政策对正规回收率的差异效果，明确识别出回收商补贴优于消费者补贴的政策含义，并确定补贴阈值（0至40元/kWh）的跃迁效应。直接为本研究D6方向提供补贴政策比较的博弈论分析范式。"
+      },
+      {
+        "title": "Entry mode selection for a new entrant of the electric vehicle automaker",
+        "first_author": "Fang",
+        "year": 2024,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "important",
+        "reason": "研究新进入制造商在已有在位者的市场中选择反向渠道（传统第三方回收vs联合回收商）的决策，发现政府一次性固定成本补贴可引导新进入者选择联合回收渠道，并分析其对消费者剩余和社会福利的影响机制。竞争性回收渠道选择+政府补贴调控逻辑与本研究\"传统制造商vs专业回收商收集竞争+政府激励\"场景高度契合。"
+      },
+      {
+        "title": "Decision-making in closed-loop supply chains: Effects of government subsidies and risk aversion",
+        "first_author": "Song",
+        "year": 2024,
+        "journal": "INTERNATIONAL REVIEW OF FINANCIAL ANALYSIS",
+        "tier": "important",
+        "reason": "以均值-方差效用函数引入风险规避行为，构建Stackelberg博弈，考察四种补贴情景（无补贴/补贴制造商/补贴第三方回收商/双重补贴）下CLSC决策，识别出补贴效果随再制造成本高低而逆转的临界条件，并刻画风险态度阈值对决策模式的改变。方法论上的补贴情景比较框架和阈值分析对本研究建模设计有直接参考价值。"
+      },
+      {
+        "title": "The impact of government policies on the coordination of power battery closed-loop supply chain",
+        "first_author": "Chu",
+        "year": 2025,
+        "journal": "Journal of Cleaner Production",
+        "tier": "important",
+        "reason": "构建含电池制造商、电动车制造商和消费者的动力电池CLSC，基于Stackelberg博弈比较四类政府补贴政策（数量型、容量型、押金返还、奖惩机制）对供应链决策的差异化影响，发现押金返还政策财务负担过重，建议以补贴-奖励机制替代；进而提出\"双向补贴政策\"（正向容量补贴+逆向数量奖惩）实现供应链协调。其多政策比较框架和双向激励机制设计对本研究中政府如何平衡收集竞争激励与加工合作激励具有方法论参考价值。"
+      },
+      {
+        "title": "Remanufacturing with trade-ins under carbon regulations",
+        "first_author": "Miao",
+        "year": 2018,
+        "journal": "COMPUTERS & OPERATIONS RESEARCH",
+        "tier": "backup",
+        "reason": "在碳税和碳交易政策下研究再制造最优定价与生产决策，发现碳规制虽损害利润但通过精心设计的政府补贴方案可弥补损失；证明政府有激励提出此类补贴方案以实现碳减排而不损害企业利润。其\"补贴+监管组合机制\"的量化分析为本文Discussion中政策组合效应提供备选文献支撑。"
+      },
+      {
+        "title": "Impact of government subsidies on pricing strategies in reverse supply chains of waste electrical and electronic equipment",
+        "first_author": "Wang",
+        "year": 2019,
+        "journal": "WASTE MANAGEMENT",
+        "tier": "backup",
+        "reason": "研究由一个收集商、一个再制造商和两个零售商构成的电子废弃物逆向供应链中政府补贴的分配策略。发现再制造利用率低时应优先补贴收集商和零售商，利用率高时应尽量集中补贴再制造商。其对多主体系统中补贴分配优先级的定量分析与本文补贴s影响利润分配的仿真结论存在直接对话空间。"
+      },
+      {
+        "title": "The joint tax-subsidy mechanism incorporating extended producer responsibility in a manufacturing-recycling system",
+        "first_author": "Chang",
+        "year": 2019,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "用博弈论研究政府-制造商-回收商三方制造-回收系统中的联合税收-补贴机制（EPR实施路径），发现该机制可激励制造商进行生态创新并将回收因素纳入生产决策。其三方博弈+税补机制设计与本文建模框架（政府补贴s作为外生参数）在结构上高度对应，可作为政策设计讨论的背景文献。"
+      },
+      {
+        "title": "The impacts of China's fund policy on waste electrical and electronic equipment utilization",
+        "first_author": "Liu",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "采用博弈论模型分析中国WEEE基金政策对再制造利润与制造商eco-design激励的影响，并设计基金减免政策解决负面效应。发现基金政策可能使制造商对eco-design缺乏积极性，再制造商过度依赖政府补贴；基金减免政策能改善双方利润和社会福利。提供了\"补贴依赖性\"与政策副作用的博弈论分析视角，可支撑本文政策建议讨论。"
+      },
+      {
+        "title": "A decision-support framework for planning construction waste recycling: A case study of Shenzhen, China",
+        "first_author": "Bao",
+        "year": 2021,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "通过深圳案例研究（案例研究+访谈）建立建筑废料回收决策支持框架，识别项目特征和政府支持（含补贴）为决定现场/外场回收可行性的两类关键因素。虽为定性研究，但直接聚焦建筑废料回收情境中的政府补贴作用，可作为本文行业背景的实证支撑。"
+      },
+      {
+        "title": "Dual credit policy: Promoting new energy vehicles with battery recycling in a competitive environment?",
+        "first_author": "Li",
+        "year": 2020,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "在竞争环境下建立非合作博弈模型，比较补贴政策与双积分政策对新能源车制造商（含电池回收）竞争策略的影响，分析政府最优政策选择。发现电池回收率是新能源车制造商竞争地位的最关键因素，双积分政策比补贴政策在需求溢出效应上更高效。为本文提供了\"补贴政策vs替代政策工具比较\"的参照框架，支撑政策讨论部分。"
+      },
+      {
+        "title": "Technology improvement strategy for green products under competition: The role of government subsidy",
+        "first_author": "Yang",
+        "year": 2021,
+        "journal": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH",
+        "tier": "backup",
+        "reason": "构建政府与两家对称竞争企业的三方博弈模型，研究政府补贴在绿色产品技术改进决策中的作用。发现企业可能陷入技术改进的囚徒困境，政府补贴可有效缓解困境。虽聚焦绿色技术而非废物回收，但其\"竞争+政府补贴+社会福利\"分析框架对本研究具有方法论参考价值。"
+      },
+      {
+        "title": "A Study on the Pricing Decision of Remanufacturing Products considering Government Subsidies in a Carbon Trading Environment",
+        "first_author": "He",
+        "year": 2022,
+        "journal": "MATHEMATICAL PROBLEMS IN ENGINEERING",
+        "tier": "backup",
+        "reason": "在碳交易环境下分析政府补贴对再制造品定价决策的影响，比较生产补贴与销售补贴两种机制下批发价、销售价和销售量的差异。发现两种补贴机制对再制造品销量的促进效果相同，集中决策下补贴效果最优，为本研究比较不同补贴机制效果提供参考。"
+      },
+      {
+        "title": "Decision strategies for the WEEE reverse supply chain under the Internet plus recycling model",
+        "first_author": "Qu",
+        "year": 2022,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "backup",
+        "reason": "构建废弃电器电子产品双渠道反向供应链Stackelberg博弈模型，研究消费者感知、网络回收商努力程度和政府监管对回收价格、数量和利润的影响。发现政府补贴监管可有效促进消费者和企业回收积极性，奖惩监管则会扰乱正向供应链稳定性，对本研究的政府激励机制设计具有参考价值。"
+      },
+      {
+        "title": "Municipal strategies, fiscal incentives and co-production in urban waste management",
+        "first_author": "Fiorillo",
+        "year": 2024,
+        "journal": "SOCIO-ECONOMIC PLANNING SCIENCES",
+        "tier": "backup",
+        "reason": "构建家庭、企业和市政府在城市废弃物管理中的理论模型，引入私人回收商作为市政竞争者，在市政府与企业之间建立顺序博弈，分析税收激励对企业废弃物管理选择的影响。政府+市政/私人回收商竞争的双轨结构与本研究的政府补贴引导下制造商-专业回收商竞争场景在制度背景上有相似之处。"
+      },
+      {
+        "title": "Government interventions in closed-loop supply chains with modularity design",
+        "first_author": "Wang",
+        "year": 2023,
+        "journal": "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+        "tier": "backup",
+        "reason": "研究CLSC中政府补贴与罚款政策的财务责任共担机制，在Stackelberg博弈框架下分析制造商（投资模块化设计）和第三方回收商的互动。从经济、环境、社会三维度比较政策效果，发现补贴vs罚款的优劣取决于产品污染程度。多政策比较逻辑与本研究政府激励机制设计有参考价值。"
+      },
+      {
+        "title": "Research on the impact of information sharing and government subsidy on competitive power battery recycling",
+        "first_author": "Xiao",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "在EV电池制造商主导的供应链中，研究正式回收商与非正式回收商之间的竞争回收场景，分析信息共享与政府补贴对回收量、回收价格及各方利润的影响。正式/非正式回收商竞争+政府补贴促进合规回收的核心机制与本研究\"收集竞争+政府激励\"框架直接对应，可为竞争均衡分析提供文献支撑。"
+      },
+      {
+        "title": "Online and offline cooperation promotion mechanism in the E-waste recycling industry",
+        "first_author": "Tian",
+        "year": 2024,
+        "journal": "ENVIRONMENTAL IMPACT ASSESSMENT REVIEW",
+        "tier": "backup",
+        "reason": "研究电子废弃物回收中线上回收商与线下正规处置企业之间的合作促进问题，建立市场机制与政府规制下的进化博弈模型，发现合作成本/超额收益比存在阈值（0.31–0.35），超过阈值时市场机制失效需政府干预，补贴与惩罚也分别存在有效阈值（0.25–0.3和0.3–0.4）。正规与非正规回收商的合作博弈结构与本研究\"传统制造商vs专业回收商\"竞合场景具有类比价值。"
+      },
+      {
+        "title": "Exploring the evolutionary mechanism of the cross-regional cooperation of construction waste recycling enterprises: A perspective of complex network evolutionary game",
+        "first_author": "Li",
+        "year": 2024,
+        "journal": "JOURNAL OF CLEANER PRODUCTION",
+        "tier": "backup",
+        "reason": "与本研究同属建筑废弃物回收场景，构建建筑垃圾跨区域合作的复杂网络进化博弈模型，分析市场机制与政府机制协调下回收企业的策略调整过程，识别利润分配系数（0.25–0.35）和政府补贴系数（0.3–0.4）的合作临界阈值。同为建筑废弃物+政府补贴+企业合作的博弈分析，背景最接近，可作为对标文献。"
+      },
+      {
+        "title": "Differential recycling strategies and government intervention in a closed-loop supply chain",
+        "first_author": "Wan",
+        "year": 2024,
+        "journal": "COMPUTERS & INDUSTRIAL ENGINEERING",
+        "tier": "backup",
+        "reason": "建立二维动态系统进化博弈，探讨制造商与零售商面对有/无回收资质的差异化回收策略选择，分析政府补贴与罚款在不同资质企业中的不对称激励效果，识别回收难度阈值下的演化稳定均衡。差异化回收主体（类似本研究中传统制造商vs专业回收商）+政府补贴干预的分析框架对本研究有直接参照意义。"
+      },
+      {
+        "title": "Online collection channel and government subsidy strategy of retired power batteries considering cascade utilization",
+        "first_author": "Wen",
+        "year": 2025,
+        "journal": "Computers & Industrial Engineering",
+        "tier": "backup",
+        "reason": "用博弈论研究回收商在梯次利用背景下的回收渠道设计（单一在线/双渠道），同时分析梯次利用率补贴与在线回收成本补贴两类政策的交互效应。发现高梯次利用率激励在线渠道选择，在线回收成本补贴对社会福利的提升依赖于回收成本区间。对本研究理解补贴类型差异如何改变回收商渠道选择行为有参考价值。"
+      },
+      {
+        "title": "Optimizing pricing for sustainable government-subsidized omnichannel closed-loop supply chains",
+        "first_author": "Khorshidvand",
+        "year": 2025,
+        "journal": "Transportation Research Part E-Logistics and Transportation Review",
+        "tier": "backup",
+        "reason": "在含政府补贴的全渠道CLSC中，比较分散、集中与协作三种运营模式，发现绿色成本共担协作模型在供应链利润、绿色绩效、回收力度和运营效率上全面优于分散模式，并识别出最大化环境效率的均衡补贴水平。其协作模型设计（含补贴内生化）与本研究Biform博弈中合作加工阶段的利润分配问题相关。"
+      },
+      {
+        "title": "Enabling enterprise coordination without fiscal burden: New policy pathways for coal waste management",
+        "first_author": "Ge",
+        "year": 2026,
+        "journal": "Energy Policy",
+        "tier": "backup",
+        "reason": "以煤矸石废料处理为背景，用博弈论比较四种协调机制（无合作、信息共享、补贴、信息共享+补贴），发现信息透明对改善协调的鲁棒性强于直接补贴，且补贴因回收商需承担直接支付成本而吸引力有限，建议结合质量溢价和需求不确定性情境选择性实施成本共担型补贴。其\"企业主导协调 vs 政府补贴\"的比较视角，以及成本分担合约机制，对本研究讨论政府补贴与企业间合作协议的相对效率具有启示意义。"
+      }
+    ]
+  },
+  "cross_direction_duplicates": 26,
+  "unique_count": 302
+}

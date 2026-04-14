@@ -1,0 +1,972 @@
+﻿TY  - JOUR
+AU  - Xiang, Q
+AU  - Jing, Z
+AU  - Ruwen, T
+AU  - Minjiu, Y
+TI  - Incentive Regulation of Construction Waste Resource Recycling: Subsidy and Tax Incentive
+T2  - MATHEMATICAL PROBLEMS IN ENGINEERING
+AB  - Construction waste destroys the sustainability of environment and economy. In the study of game theory at present, the construction waste resource-based products supply chain only considers that there is only one type of enterprise producing renewable building materials or new building materials in the market, but in the construction market, there is no single type of enterprise. It isvery important for government to protect the environment and promote the resource utilization and development of construction waste. Therefore, this study establishes a game theory model between traditional building materials enterprise and construction waste recycling enterprise, which considers the decision-making behavior of enterprise under no regulation, subsidy incentive regulation, or tax incentive regulation. The findings are listed as follows: (1) both subsidies and tax incentives can effectively improve the economic benefits and production initiative of construction waste recycling enterprise. (2) The impact coefficient of unit new building materials on the environment and the tax rate of unit new building materials are the key factors that affect government decision-making. (3) Resource utilization cost coefficient and builder's preference for renewable building materials have a great impact on the profits of construction waste recycling enterprise. These results will provide reference for the government to formulate incentive regulations and promote the development of construction waste resources.
+SN  - 1024-123X
+SN  - 1563-5147
+DA  - OCT 31
+PY  - 2022
+VL  - 2022
+C7  - 8333438
+DO  - 10.1155/2022/8333438
+AN  - WOS:000885367400001
+ER  -
+
+TY  - JOUR
+AU  - Wei, JY
+AU  - Yi, XP
+AU  - Yang, X
+AU  - Liu, YX
+TI  - Blockchain-Based Design of a Government Incentive Mechanism for Manufacturing Supply Chain Data Governance
+T2  - SUSTAINABILITY
+AB  - In the context of "double carbon", constructing green supply chains is the only way to implement sustainable development strategies in the manufacturing industry. This paper, therefore, examines the manufacturing supply chain for low-carbon products. More recently, the lack of technical information flow due to data barriers up and down the supply chain has led to high energy consumption, the serious waste of raw materials, and the substandard production of green products. Therefore, the level of supply chain data governance must be improved to enhance the sustainability of the supply chain. By studying blockchain-based data governance and government policy incentives for manufacturing supply chains, this study constructed an evolutionary game model based on prospect theory for the tripartite relation of government, manufacturers, and retailers. The difference between the perceived and actual value was introduced into a three-way evolutionary game model based on prospect theory to optimize the practical implications of the model. The model was then simulated using system dynamics. Through the simulation, it could be concluded that the ability of the three-way evolutionary game to reach the optimal stability point is only related to the sensitivity of the retailer's perceived value. Additionally, the outcome of the three-way evolutionary game can be unstable, with changes in perceived value sensitivity. Finally, relevant policy recommendations are made. The innovation of this study is establishing a data governance platform that uses data governance to build green supply chains. Additionally, the government was added to the subjects of the game to explore the role of government policy in data governance and sustainable development. In addition, the evolutionary game model was incorporated with prospect theory and traditional expected utility theory, and the rational deficits and preferences of decision makers were taken into account, which brings the results closer to the reality of the situation.
+SN  - 2071-1050
+DA  - APR
+PY  - 2023
+VL  - 15
+IS  - 8
+C7  - 6968
+DO  - 10.3390/su15086968
+AN  - WOS:000978465000001
+ER  -
+
+TY  - JOUR
+AU  - Liu, JK
+AU  - Gong, EQ
+AU  - Wang, XT
+TI  - Economic benefits of construction waste recycling enterprises under tax incentive policies
+T2  - ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+AB  - To further explore the development of construction waste recycling enterprises and promote the recycling of construction waste resources in China, a system dynamics model of the economic benefits of construction waste recycling enterprises is established using the system dynamics method and taking the tax incentive of the Guangzhou Municipal Government as an example. The economic benefits of construction waste recycling enterprises are analyzed from the perspective of the total cost, total revenue, and total recycling amount. The results of the MATLAB simulation and numerical analysis show that (1) by simulating the effects of different taxes such as value-added tax (VAT), education surcharge, urban construction tax, and enterprise income tax on the economic benefits of construction waste recycling enterprises, it is found that when tax incentives reach 70%, the VAT favorable policies bring the highest gains, followed by enterprise income tax, whereas favorable education surcharge policies and urban construction tax have the least impact on economic benefits. (2) Taking the monetary subsidy of the Guangzhou municipal government as an example, it is estimated that the total revenue of construction waste recycling enterprises will increase by 33.56% annually in 2030. When the new production technology is adopted, the return on investment (ROI) will reach 46.8% in 2030 compared to previous technological improvements. In the simulation scenario, the ROI will be 42.2%, which has a good incentive effect on the cost control of enterprises. (3) Increasing the available power to VAT and corporate income tax can improve the profitability of construction waste recycling enterprises in China; however, tax incentive policy will no longer be the main factor affecting the benefits of enterprises when a certain time is reached. (4) It is suggested that the government improves the relevant tax laws incentive policies, increase tax incentives, and add equipment tax incentive policies, actively change the tax mode, and increase indirect tax models to improve the economic benefits of enterprises. The research results provide a decision-making reference for the government to formulate laws and policies related to the economic benefits of construction waste recycling and promote the development of the construction waste recycling industry, the development of new industries, such as waste recycling and treatment, and the formation of industrial chains, to achieve the strategic goal of sustainable development.
+SN  - 0944-1344
+SN  - 1614-7499
+DA  - FEB
+PY  - 2022
+VL  - 29
+IS  - 9
+SP  - 12574
+EP  - 12588
+DO  - 10.1007/s11356-021-13831-8
+C6  - APR 2021
+AN  - WOS:000640471600005
+ER  -
+
+TY  - JOUR
+AU  - Taylor, DC
+TI  - Policy incentives to minimize generation of municipal solid waste
+T2  - WASTE MANAGEMENT & RESEARCH
+AB  - Municipal solid waste minimization involves decisions by product manufacturers, government institutions, private businesses, and householders to reduce the amount of waste placed in the waste stream ('source-reduction') and to divert waste entering the waste stream toward benign purposes ('waste diversion') - rather than toward disposal through incineration or landfilling. Three basic types of policy incentives can be used to prompt waste generators, handlers, and managers to minimize waste generation: command-and-control regulations, social-psyche logical incentives, and economic incentives. The likelihood of command-and-control regulations being successfully implemented depends importantly on the social-psychological and economic incentives for waste minimization provided in the regulations. Experience from various parts of the world shows that, when such incentives are provided, agencies and individual householders can learn to change their attitudes and behavior toward generation and disposal of waste. However, fully achieving this result will require considerable time and much purposeful attention to the wide array of interrelated matters required in minimizing waste generation.
+SN  - 0734-242X
+DA  - OCT
+PY  - 2000
+VL  - 18
+IS  - 5
+SP  - 406
+EP  - 419
+DO  - 10.1034/j.1399-3070.2000.00156.x
+AN  - WOS:000089656300001
+ER  -
+
+TY  - JOUR
+AU  - Lundmark, R
+AU  - Anderson, S
+AU  - Hjort, A
+AU  - Lönnqvist, T
+AU  - Ryding, SO
+AU  - Soderholm, P
+TI  - Establishing local biogas transport systems: Policy incentives and actor networks in Swedish regions
+T2  - BIOMASS & BIOENERGY
+AB  - Biogas from waste and residues is a renewable transportation fuel, which can contribute directly to the fulfillment of several of the UN Sustainable Development Goals. In this paper, we address the question of how biogas value chains, and the respective actor networks, emerge at the local level. The purpose of the paper is to empirically assess the development of local biogas transport systems in three Swedish regions, and how policy including so-called network management - can support this development. The analysis draws on an analytical framework describing how emerging actor networks can be strengthened, and multiple data collection methods (personal interviews, workshop, and secondary sources). The results indicate that four factors explain the success of developing effective local biogas systems: (i) a clear political vision and an adequate basis for decision-making; (ii) a reliance on green public procurement giving priority to biogas vehicles (including follow-up); (iii) integrated actor networks, facilitating knowledge development and sharing of information; and (iv) strategies to deal with an uneven system growth.
+SN  - 0961-9534
+SN  - 1873-2909
+DA  - FEB
+PY  - 2021
+VL  - 145
+C7  - 105953
+DO  - 10.1016/j.biombioe.2020.105953
+C6  - JAN 2021
+AN  - WOS:000618053500013
+ER  -
+
+TY  - JOUR
+AU  - Tu, YY
+AU  - Si, XX
+AU  - Wu, YM
+AU  - Shen, XH
+AU  - Chen, JQ
+TI  - Remanufacturing Process Under Uncertainty: Review, Challenges, and Future Directions
+T2  - PROCESSES
+AB  - In the context of the global transition toward carbon neutrality and the circular economy, remanufacturing has emerged as a vital strategy for enhancing resource efficiency and reducing environmental impact. However, the remanufacturing sector faces significant uncertainties-including fluctuations in market demand, variability in the quality of returned products, and dynamic policy changes. These factors collectively challenge production decision-making and system sustainability. Following the preferred peporting items for systematic reviews and meta-analyses (PRISMA) guidelines, this study conducted a systematic review and bibliometric analysis of 98 core articles published between 2015 and 2024, with a focused examination of three interdisciplinary themes: (1) decision-making and optimization under uncertainty, (2) supply chain coordination and policy mechanisms, and (3) digital transformation and the application of emerging technologies. A novel micro-meso-macro analytical framework is proposed to integrate fragmented findings. The results highlight a paradigm shift from static models to dynamic, real-time decision-making systems, facilitated by digital twins (DTs), blockchain, and intelligent algorithms. Furthermore, the study identifies the synergistic effects of carbon-financial instruments and policy incentives in aligning economic and environmental objectives. This research develops a systematic framework to understand and address uncertainties in remanufacturing, offering policymakers and industry practitioners actionable insights to enhance the resilience, sustainability, and global applicability of remanufacturing systems.
+SN  - 2227-9717
+DA  - SEP 25
+PY  - 2025
+VL  - 13
+IS  - 10
+C7  - 3068
+DO  - 10.3390/pr13103068
+AN  - WOS:001601633900001
+ER  -
+
+TY  - JOUR
+AU  - Shen, L
+AU  - Liu, LT
+AU  - Yao, ZJ
+AU  - Liu, G
+AU  - Lucas, M
+TI  - Development Potentials and Policy Options of Biomass in China
+T2  - ENVIRONMENTAL MANAGEMENT
+AB  - Biomass, one of the most important renewable energies, is playing and will continue to play an important role in the future energy structure of the world. This article aims to analyze the position and role, assess the resource availability, discuss the geographic distribution, market scale and industry development, and present the policy options of biomass in China. The resource availability and geographical distribution of biomass byproducts are assessed in terms of crop residues, manure, forest and wood biomass byproducts, municipal waste and wastewater. The position of biomass use for power generation is just next to hydropower among types of renewable energy in China. The potential quantity of all biomass byproducts energy in 2004 is 3511 Mtce (Mtce is the abbreviation of million tons of coal equivalents and 1 Mtce is equal to10(6) tce.), while the acquirable quantity is 460 Mtce. Biomass energy plays a critical role in rural regions of China. The geographical distribution and quantity of biomass byproducts resources depends mainly on the relationship between ecological zones and climate conditions. Our estimation shows that the total quantity of crop residues, manure, forest and wood biomass byproducts, municipal waste and wastewater resources are 728, 3926, 2175, 155 and 48240 Mt (million tons), respectively. Crop residues come mainly from the provinces of Henan, Shandong, Heilongjiang, Jilin and Sichuan. All manure is mainly located in the provinces of Henan, Shandong, Sichuan, Hebei and Hunan. Forest and wood biomass byproducts are mainly produced in the provinces or autonomous regions of Tibet, Sichuan, Yunnan, Heilongjiang and Inner Mongolia, while most of municipal waste mainly comes from Guangdong, Shandong, Heilongjiang, Hubei and Jiangsu. Most of wastewater is largely discharged from advanced provinces like Guangdong, Jiangsu, Zhejiang, Shandong and Henan. Biomass byproducts' energy distribution also varies from province to province in China. Based on the analysis of the market scale and industry development, the article argues that China's biomass energy industry is still at a very early stage of development and that Feed-in Tariffs (FIT) might be the best policy option for China to promote its development of biomass energy. A successful enforcement of FIT in China needs some policy combination of special capital subsidies, R&D funding, tax incentives and pricing.
+SN  - 0364-152X
+SN  - 1432-1009
+DA  - OCT
+PY  - 2010
+VL  - 46
+IS  - 4
+SP  - 539
+EP  - 554
+DO  - 10.1007/s00267-010-9476-4
+AN  - WOS:000282591600003
+ER  -
+
+TY  - JOUR
+AU  - Kristia, K
+AU  - Rabbi, MF
+TI  - Exploring the Synergy of Renewable Energy in the Circular Economy Framework: A Bibliometric Study
+T2  - SUSTAINABILITY
+AB  - Over the past half-century, scientists from many different areas have been investigating how to switch to renewable energy, especially in the context of a circular economy. Numerous articles have discussed the scientific aspects of developing technology to support this process. This systematic literature review and bibliometric study aim to fill in research gaps by looking at trends, challenges, and possible future directions for the use of renewable energy in the context of a circular economy, especially in the fields of business, management, and economics. The study analyzed 294 peer-reviewed articles using the R Studio-Biblioshiny package version 4.1.2 software. The challenges of integrating renewable energy technologies within a circular economy include financial constraints, such as a high initial investment, the lack of an adequate regulatory framework and government support, the intermittent availability of renewable energy sources, the scarcity of resources and components for renewable energy generation technologies, relatively low energy conversion efficiency, the challenge of increasing consumer awareness, and the environmental impact of technological waste. The study suggests that future research should focus on financial models and policy incentives that can encourage businesses and investors to take advantage of renewable energy. The study also recommends exploring sustainable alternative fuel technologies, optimized waste-to-energy conversion, the increased efficiency of bioenergy conversion, more efficient solar panels, improved energy storage capacity, the life cycle management of solar panel devices, and the development of innovative business models to facilitate industrial symbiosis.
+SN  - 2071-1050
+DA  - SEP
+PY  - 2023
+VL  - 15
+IS  - 17
+C7  - 13165
+DO  - 10.3390/su151713165
+AN  - WOS:001061149900001
+ER  -
+
+TY  - JOUR
+AU  - Bruschi, LT
+AU  - Kulay, L
+AU  - dos Santos, MT
+TI  - An optimization framework for renewable liquefied gas supply chain: A case study on glycerol-based production
+T2  - COMPUTERS & CHEMICAL ENGINEERING
+AB  - Renewable Liquefied Gas (RLG) is emerging as a viable alternative to Liquefied Petroleum Gas (LPG), providing environmental benefits and strengthening energy security. However, the implementation of biofuels faces challenges such as long-term feedstock availability, technology scalability, facility site selection, and tax policies. This study proposes a Mixed Integer Linear Programming optimization model to support strategic and tactical RLG supply chain decisions in Brazil. The model determines the optimal feedstock purchasing, facility locations, processing capacities, material flows, and product distribution to maximize the Net Present Value (NPV), in a case study that explores the production of RLG from glycerol. For the economic feasibility of the supply chain the RLG selling price must be 80 % higher than that of LPG. The optimal network favors a centralized system, where transportation costs minimally impact NPV, while economies of scale lower investment and production costs. A decentralized approach is evaluated by limiting the installed production capacity. Although a decentralized network requires an RLG selling price 220 % higher than LPG, it allows smaller stakeholders to enter the market and achieves the same payback period as the centralized system. Sensitivity analysis on conversion yield shows that a 5 % efficiency increase shortens the payback period by four years and triples the NPV. The study highlights the importance of supply chain integration, cost reduction strategies, and policy incentives in enhancing RLG competitiveness, thereby contributing to its deployment despite facing economic and logistical challenges.
+SN  - 0098-1354
+SN  - 1873-4375
+DA  - FEB 15
+PY  - 2026
+VL  - 205
+C7  - 109481
+DO  - 10.1016/j.compchemeng.2025.109481
+C6  - NOV 2025
+AN  - WOS:001621922400001
+ER  -
+
+TY  - JOUR
+AU  - Rocha-Meneses, L
+AU  - Luna-delRisco, M
+AU  - González, CA
+AU  - Moncada, SV
+AU  - Moreno, A
+AU  - Rio, JSD
+AU  - Castillo-Meza, LE
+TI  - An Overview of the Socio-Economic, Technological, and Environmental Opportunities and Challenges for Renewable Energy Generation from Residual Biomass: A Case Study of Biogas Production in Colombia
+T2  - ENERGIES
+AB  - The escalating global energy demand, driven by heavy reliance on fossil fuels, worsens environmental degradation and triggers socio-economic shifts in extraction and refinery hubs. In Colombia, the energy matrix is predominantly fossil-based (76%), with hydroelectric power accounting for 70% of electricity generation. However, renewable energy sources only contribute 2% to the national energy mix. To reduce emissions by 20% by 2030, Colombia has presented an energy transition roadmap. The need for bioenergy production in Colombia arises from the residual biomass availability, the potential to provide sustainable energy access, and the potential to mitigate climate change impacts, while addressing energy poverty and enhancing energy security. This study presents an overview of biogas production in Colombia, emphasizing the need for financial resources to overcome barriers. Policy incentives, awareness campaigns, and research and development play a vital role in fostering social acceptance, technology adoption, and optimizing biogas production processes. Collaborative efforts among the government, private sector, and local communities are recommended to ensure wide-scale adoption of biogas, promoting economic, social, and environmental sustainability. By enabling informed decision-making, this research supports the transition to renewable energy sources and the achievement of sustainable development goals (SDGs), with a particular focus on bioenergy. The aim of this study is to explore the challenges and opportunities associated with biogas production in Colombia, including technical, economic, social, and environmental aspects, and provide recommendations for promoting its sustainable implementation and widespread adoption in the country.
+SN  - 1996-1073
+DA  - AUG
+PY  - 2023
+VL  - 16
+IS  - 16
+C7  - 5901
+DO  - 10.3390/en16165901
+AN  - WOS:001057674800001
+ER  -
+
+TY  - JOUR
+AU  - Arya, A
+AU  - Atanasov, T
+AU  - Mittendorf, B
+AU  - Yoon, DH
+TI  - Inventory planning and tax incentives for charitable giving
+T2  - REVIEW OF ACCOUNTING STUDIES
+AB  - Many of America's top corporate donors share a common feature: the bulk of their giving is in the form of in-kind products, not cash. This phenomenon is not a coincidence but rather closely tied to the tax code creating such a preference due to an enhanced deduction for inventory donations. We examine a model of inventory choice under uncertainty and demonstrate that enhanced tax deductions not only promote giving, they also notably influence inventory planning and accelerate learning of customer demand. The results confirm that enhanced deductions can be used to promote pro-social behaviors such as boosting charitable giving, aligning inventories with consumer needs, and alleviating supply chain shortages. The results also demonstrate the potential risks of excessive tax preferences for inventory donations, including inflated retail prices and additional environmental waste.
+SN  - 1380-6653
+SN  - 1573-7136
+DA  - MAR
+PY  - 2025
+VL  - 30
+IS  - 1
+SP  - 287
+EP  - 310
+DO  - 10.1007/s11142-023-09818-0
+C6  - FEB 2024
+AN  - WOS:001152257800001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, WS
+AU  - Zhu, L
+AU  - Liu, XY
+AU  - Wang, W
+AU  - Song, HF
+TI  - Optimal strategies in electric vehicle battery closed-loop supply chain considering government subsidies and echelon utilization
+T2  - JOURNAL OF ENERGY STORAGE
+AB  - This study examines an electric vehicle battery closed-loop supply chain including a battery manufacturer and a retailer, with a focus on echelon utilization and remanufacturing of waste electric vehicle battery. Optimal pricing strategies and technological effort decision of the supply chain members are derived based on a Stackelberg game model. Three government subsidy policies are considered to promote recycling and reuse of waste electric vehicle batteries, namely, no subsidies, production research and development (R&D) subsidies and recycling subsidies, respectively. Results show that both echelon utilization and recycling subsidies can notably contribute to recycling rate of waste electric vehicle batteries. While echelon utilization boosts the profit of retailer and the whole supply chain, it may have a negative impact on manufacturer's inclination to remanufacturing and its profit. Subsidies for production research and development are preferred by the supply chain and its members from the profit-oriented perspective. Further analyses are conducted under hybrid strategies: hybrid government subsidy policy and hybrid recycling mode. Results show that hybrid strategies could significantly increase the demand and recycling volume, thus positively affecting the profitability of the entire closed-loop supply chain. Our study comprehensively considers the game relationships among manufacture and retailer, enhancing the efficiency of recycling and profitability while also providing a theoretical basis for the government to formulate reasonable subsidy policies.
+SN  - 2352-152X
+SN  - 2352-1538
+DA  - OCT 10
+PY  - 2024
+VL  - 99
+C7  - 113341
+DO  - 10.1016/j.est.2024.113341
+C6  - AUG 2024
+AN  - WOS:001298994800001
+ER  -
+
+TY  - JOUR
+AU  - Kahupi, I
+AU  - Yakovleva, N
+AU  - Okorie, O
+AU  - Hull, CE
+TI  - Implementation of Circular Economy in a Developing Economy's Mining Industry Using Institutional Theory: The Case of Namibia
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - Despite the global focus on sustainability, transitioning from linear to circular production systems is slow in the mining sector of most developing economies like Namibia. However, mining plays a crucial role in supporting the livelihoods of local communities. Furthermore, existing literature indicates that the potential for regenerative production systems using the remanufacture and recycle approach remains low and limited within the mining and developing economies. Institutional theory can help reveal the reasons for the slow take-up of the regenerative circular economy models in mining. This study uses a unique dataset of 40 semi-structured interviews with key players in the mining sector of Namibia to understand the current phase of circular economy adoption and the role played by institutional pressures in the process of institutional isomorphism, when companies would display a similar level of practices within a shared institutional environment. The findings reveal: (1) 72.5% of participants believe that Namibian mines are adoption-decision phase-a beginning stage of circular economy adoption; (2) companies are reliant on heavy government participation through policy/legislation and tax incentives is recommended; (3) the ranked order-coercive, normative, and mimetic pressures-describes their significance among key actors, for the successful adoption; and (4) proactive implementation and a mindset shift towards circularity is needed to meet emerging expectations on social and environmental concerns in mining.
+SN  - 0301-4797
+SN  - 1095-8630
+DA  - SEP
+PY  - 2024
+VL  - 368
+C7  - 122145
+DO  - 10.1016/j.jenvman.2024.122145
+C6  - AUG 2024
+AN  - WOS:001295794500001
+ER  -
+
+TY  - JOUR
+AU  - Zhao, X
+AU  - Peng, BH
+AU  - Zheng, CY
+AU  - Wan, AX
+TI  - Closed-loop supply chain pricing strategy for electric vehicle batteries recycling in China
+T2  - ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY
+AB  - The importance of reasonable pricing strategy for electric vehicle batteries under the background of government subsidies has been recognized. However, variable government subsidy policy may highly impact the pricing strategy of electric vehicle batteries recycling market in its infancy. There is an urgent need to discover the hidden electric vehicle batteries relation, give the pricing strategy, and suggest the effective policy design. The paper studies the optimal pricing strategies for electric vehicle batteries in three different Chinese recycling channels in the government subsidies situation by using Stackelberg game. And then, the model is simulated in decentralized decision-making and centralized decision-making, respectively, to explain the relationship among parameters using MATLAB. Finally, a numerical experiment derived from the market data of electric vehicles in China and existing literature is used to show the effectiveness of Stackelberg model, proving that our approach can contribute to closed-loop supply chain pricing strategy for electric vehicle batteries recycling under government subsidies. Results show that the government should increase the subsidy of electric vehicle batteries recycling and urge the electric vehicle enterprises to take responsibility of batteries recycling. The total profit of the closed-loop supply chain with centralized decision-making is higher than the decentralized decision-making, so the upstream and downstream of the supply chain should strengthen communication to achieve profit growth. It significantly provides a theoretical basis for the enterprises in the electric vehicle batteries recycling closed-loop supply chain to formulate pricing strategies under three recycling models and provides suggestion for the government in the designing power battery recycling subsidy policy.
+SN  - 1387-585X
+SN  - 1573-2975
+DA  - JUN
+PY  - 2022
+VL  - 24
+IS  - 6
+SP  - 7725
+EP  - 7752
+DO  - 10.1007/s10668-021-01755-9
+C6  - AUG 2021
+AN  - WOS:000687094600003
+ER  -
+
+TY  - JOUR
+AU  - Yang, Q
+AU  - Liu, SY
+AU  - Zhang, FS
+AU  - Cao, CJ
+AU  - Liang, LP
+TI  - Collaborative strategies for planning post-earthquake waste disposal facilities: a bounded rationality perspective
+T2  - SCIENTIFIC REPORTS
+AB  - Post-earthquake waste disposal planning constitutes a critical preliminary stage of post-disaster reconstruction. The efficacy of collaboration among stakeholders in this phase directly impacts environmental and social benefits. Nevertheless, there is a deficiency of a clearly defined collaborative mechanism between governments and enterprises during post-earthquake waste disposal. Therefore, this paper commences from the post-disaster reconstruction phase, formulating a two-sided evolutionary game model for local governments and waste management enterprises grounded in the perspective of bounded rationality. The model employs replicator dynamics to analyze evolutionary stable strategies and equilibrium conditions. It is further refined by incorporating prospect theory to explore the dynamic mechanisms through which governmental supervisory intensity and enterprise technological choices interact. Additionally, this study examines how various factors influence decision-making processes at both government and enterprise levels. The theoretical model and its equilibrium results are validated through a realistic case simulation based on the 2008 Wenchuan earthquake. The findings reveal that government-enterprise collaboration is inherently unstable and highly sensitive to synergistic parameter effects. For instance, collaboration is significantly promoted by increasing policy tax incentives alongside either higher enterprise revenues or lower government supervision costs. Analysis of enterprise decision-making indicates that the key strategic trade-off involves balancing the costs of resource utilization against the additional benefits gained and the potential losses incurred from neglecting such utilization. Furthermore, social prestige gains exert an implicit influence by affecting the probability of mass incidents and the degree of loss aversion within the government-enterprise synergy.
+SN  - 2045-2322
+DA  - FEB 4
+PY  - 2026
+VL  - 16
+IS  - 1
+C7  - 7257
+DO  - 10.1038/s41598-026-37102-z
+AN  - WOS:001696988800007
+ER  -
+
+TY  - JOUR
+AU  - Yuan, XL
+AU  - Liu, MY
+AU  - Yuan, Q
+AU  - Fan, XH
+AU  - Teng, YQ
+AU  - Fu, JH
+AU  - Ma, Q
+AU  - Wang, QS
+AU  - Zuo, J
+TI  - Transitioning China to a circular economy through remanufacturing: A comprehensive review of the management institutions and policy system
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - As an advanced form of green economic development, remanufacturing is gaining attention because of its significant environmental, economic and social benefits. Many countries have formulated relevant policies to support the development of remanufacturing industry for a more sustainable society. As a strategic emerging industry, China's remanufacturing industry has made rapid progress driven by government policies in recent years. This research critically analyzes the management institutions and policy system for the development of remanufacturing industry in China. China's remanufacturing policy system, including one National Law, one Regulation of the State Council, 166 Documents of the State Council and the Ministries and Commissions, is comprehensively reviewed. These policies reflect current issues and set future directions for remanufacturing in China through comparison with the policy of the U.S., Europe and Japan. Suggestions for further improvements are made accordingly. These include: defining clear and specific responsibility of management institutions, modifying the legal and standards system, launching tax incentives for remanufactured products, establishing a standardized reverse logistics system, strengthening the publicity and promotion of remanufactured products, as well as enhancing consumer awareness. This research comprehensively depicts the overall picture of remanufacturing industry in China from the policy and institutional perspective. These findings are useful for the development of remanufacturing in other industrializing countries.
+SN  - 0921-3449
+SN  - 1879-0658
+DA  - OCT
+PY  - 2020
+VL  - 161
+C7  - 104920
+DO  - 10.1016/j.resconrec.2020.104920
+AN  - WOS:000569610400027
+ER  -
+
+TY  - JOUR
+AU  - Li, BA
+AU  - Geng, Y
+AU  - Xia, XQ
+AU  - Qiao, D
+AU  - Wang, H
+TI  - Comparatively Analyzing the Impact of Government Subsidy and Carbon Tax Policy on Authorized Remanufacturing
+T2  - INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+AB  - Authorized remanufacturing is an important means to achieve green manufacturing and carbon neutrality. In this study, a game theory model between a manufacturer and a remanufacturer was constructed to analyze the impact of government subsidies and carbon tax policies on authorized remanufacturing. Based on the game theory model, the effects of two government policies on the optimal solution, namely, the unit cost of remanufacturing product authorization and the waste product recovery rate, were compared and analyzed. This analysis could provide a reference for the government to improve and formulate relevant remanufacturing policies. The main results are as follows: government subsidy policies may increase the unit cost of remanufacturing product authorization and the rates of waste product recovery; government carbon tax policies may not affect the unit cost of remanufacturing product authorization, and increase the rates of waste product recovery; the government subsidy policy may not affect the unit retail price of new products, and reduces the unit retail price of remanufactured products; the government subsidy and carbon tax policies may reduce sales of new products and increase sales of remanufactured products; the government subsidies may increase the revenue of the original equipment manufacturer (OEM) and the remanufacturer; and the government carbon tax policies may increase the revenue of the remanufacturer. However, government carbon tax policies increase the revenue of the OEM only when the new product carbon tax amount is higher than a certain threshold. The impact of the two policies on the environment is related to the ratio of the two products' impact on the environment, i.e., the quota ratio between the unit government carbon tax of the new product and the unit government subsidy of the remanufactured product. Finally, the consumer surplus is maximized when the government adopts the subsidy policy and lowest when the government adopts the carbon tax policy.
+SN  - 1660-4601
+DA  - AUG
+PY  - 2021
+VL  - 18
+IS  - 16
+C7  - 8293
+DO  - 10.3390/ijerph18168293
+AN  - WOS:000690492200001
+ER  -
+
+TY  - JOUR
+AU  - Zhao, JH
+AU  - Zeng, DL
+AU  - Zhou, TW
+AU  - Zhu, ZC
+TI  - Data Mining of Urban New Energy Vehicles in an Intelligent Government Subsidy Environment Using Closed-Loop Supply Chain Pricing Model
+T2  - COMPUTER SYSTEMS SCIENCE AND ENGINEERING
+AB  - Given the government subsidies for new energy vehicles, this study is conducted to study the closed-loop supply chain comprising individual manufacturers, individual retailers and individual third-party recyclers. In this paper, combine the reality of new energy vehicles with the relevant research of game theory, and establish an no government subsidy model (Model N), a government subsidized consumer model (Model C), a government subsidized manufacturer model (Model M), a government subsidized third party recycler model (Model T), and a government subsidized retailer model (Model R) for quantitative research. Then, numerical examples are used to simulate the impact of government subsidies on closed-loop supply chain pricing and profits.
+SN  - 0267-6192
+DA  - MAY
+PY  - 2020
+VL  - 35
+IS  - 3
+SP  - 151
+EP  - 172
+AN  - WOS:000543516900003
+ER  -
+
+TY  - JOUR
+AU  - Munaro, MR
+AU  - Tavares, SF
+AU  - Bragança, L
+TI  - Towards circular and more sustainable buildings: A systematic literature review on the circular economy in the built environment
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The built environment exerts great pressure on natural resources. Its role in the transition to a circular economy (CE) is critical. However, research from a holistic perspective, including how new business models can enable materials to increase their residual values, need to be deepened. This study provides a comprehensive and holistic overview of how the built environment approaches the study and the actions of the circular economy. Through a systematic literature review, 318 papers were selected and evaluated by two optics: i) a descriptive analysis and ii) a thematic analysis. The descriptive analysis highlights the relevance and incipient nature of circular thinking, the qualitative nature of the research, and the predominance of European countries and China at the forefront of circular research. In the thematic analysis, five axes were established as guiding lines of research, which evidenced the focus of research on minimizing and reusing construction and demolition waste. This study aims to provide the state of the art on CE research through a literature review. The results show research gaps and a theoretical framework was proposed to guide future research. The need for more explanations about CE and circular business models is highlighted, as well as greater integration between stakeholders in the construction value chain. Government support, such as subsidies, laws and tax incentives, is crucial to the strategic performance of decision-makers to introduce circular principles and make buildings and the built environment more sustainable. (C) 2020 Elsevier Ltd. All rights reserved.
+SN  - 0959-6526
+SN  - 1879-1786
+DA  - JUL 1
+PY  - 2020
+VL  - 260
+C7  - 121134
+DO  - 10.1016/j.jclepro.2020.121134
+AN  - WOS:000531562000001
+ER  -
+
+TY  - JOUR
+AU  - Monsalves, JJ
+AU  - Bergaentzle, C
+AU  - Pisciella, P
+AU  - Saber, E
+AU  - Keles, D
+TI  - Design and evaluation of policy schemes supporting waste-heat recovery into district heating networks
+T2  - APPLIED ENERGY
+AB  - Waste-heat recovery (WHR) offers significant decarbonisation potential for district heating (DH) networks. However, economic barriers limit adoption, highlighting the need for policy incentives that consider DH's costdriven decision-making. This study formulates a bilevel optimisation framework to determine optimal support incentives that minimise government spending while capturing policymaker-DH interactions. We examine five policy scenarios: WHR operational subsidies, WHR capital subsidies, carbon taxation on existing heating units, and subsidy-tax combinations. These are evaluated across varying decarbonisation targets and consumer cost constraints, using Denmark as a case study. Results show combined subsidy-tax schemes significantly outperform standalone subsidies, reducing the policy cost of 5% DH decarbonisation from 14%-20% of pre-policy heating costs to only 4%, without increasing net consumer costs. This efficiency stems from taxes internalising policy objectives within DH merit-order, preventing displacement of already decarbonised heating sources and avoiding excessive WHR subsidisation.
+SN  - 0306-2619
+SN  - 1872-9118
+DA  - DEC 1
+PY  - 2025
+VL  - 399
+C7  - 126517
+DO  - 10.1016/j.apenergy.2025.126517
+C6  - JUL 2025
+AN  - WOS:001583370300001
+ER  -
+
+TY  - JOUR
+AU  - Zuo, C
+AU  - Yan, XQ
+AU  - Chen, ZY
+AU  - Wei, WB
+AU  - Gao, MN
+AU  - Ling, YT
+AU  - Zhu, FP
+AU  - Liu, B
+AU  - Zhou, HW
+AU  - Xu, D
+AU  - Zhang, MJ
+TI  - Factors influencing residents' inclination towards engaging in the recycling of electric vehicle batteries
+T2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+AB  - In Hangzhou, the rapid development of electric vehicles has led to the first large-scale battery retirement trend in recent years. Despite ongoing efforts by the government and enterprises to promote the formal recycling of used batteries, recycling rates remain low. Therefore, exploring the factors that influence consumers' willingness to recycle retired batteries is key to improving the recovery rate of residents. In this study, from July 1 to July 31, 2023, we conducted an offline survey in Hangzhou with multi-stage stratified sampling. A total of 657 questionnaires were collected and analyzed as the basic data for our research. The results indicated that personal norms, subjective norms, and recycling intentions were all significantly positively correlated. Ascription of responsibility was associated with stronger personal norms, while policy incentives were associated with stronger subjective norms. However, the impact of product after-sales on intention to recycle was not significant, and residents have low recycling cognition of recycling behavior. These results suggested that the norm activation model was applicable for examining consumer recycling behavior in the context of electric vehicle batteries. The study contributed to the theoretical understanding of pro-environmental behavior and provides practical insights for policymakers and enterprises aiming to enhance consumer participation in battery recycling initiatives.
+SN  - 2662-9992
+DA  - AUG 23
+PY  - 2025
+VL  - 12
+IS  - 1
+C7  - 1380
+DO  - 10.1057/s41599-025-05704-z
+AN  - WOS:001556239700003
+ER  -
+
+TY  - JOUR
+AU  - Rousseau, D
+AU  - Chen, Y
+TI  - Sustainability options for China's residential building sector
+T2  - BUILDING RESEARCH AND INFORMATION
+AB  - China is engaged in a massive urban development programme, together with large infrastructure investments in road and transit systems. This development is occurring in the context of a shift towards a market economy, but China is still a developing country. China and the rest of the world are poised at a critical moment of decision. For China to provide an international standard of living for its entire population using the Western model of consumption would require vast resources. Many of these resources are relatively scarce in China, and the cost of imports at world prices is prohibitive for China. Furthermore, the future resource cost and impact on the environment of operating cities in China will be overwhelming if they are developed to conventional, Western standards. This has already been recognized for industry and utilities in China, where many modernizations and energy efficiency improvements have been made. However the residential sector, which is now the fastest growing sector in terms of energy and materials demands, has not received sufficient attention. One option is to advance the 'sustainable design approach' based on highly efficient buildings, transportation systems and utilities, and preserving the productive: capacity of land and restoring air and water quality. China has many resourceful traditions that can form a basis for a culturally specific approach to sustainability, but foreign assistance and technology transfer will be required, as well as Government policy incentives and their implementation within China. Especially needed are clean industry technology, durable and energy efficient building systems, renewable energy systems, and environmental cleanup and recycling systems.
+SN  - 0961-3218
+DA  - JUL-AUG
+PY  - 2001
+VL  - 29
+IS  - 4
+SP  - 293
+EP  - 301
+AN  - WOS:000169794200006
+ER  -
+
+TY  - JOUR
+AU  - Liu, Y
+AU  - Ren, WW
+AU  - Xu, Q
+AU  - Liu, ZY
+TI  - A coordination mechanism through cost sharing of corporate social responsibility and government subsidy in a two-echelon supply chain
+T2  - JOURNAL OF BUSINESS & INDUSTRIAL MARKETING
+AB  - Purpose
+   This paper aims to deal with the coordination problem of the supply chain through cost sharing of corporate social responsibility (CSR) and government subsidy.
+   Design/methodology/approach
+   With respect to the coordination problem of the supply chain with CSR, this paper constructs a three-stage game model consisting of a dominant retailer, n suppliers and government. From the perspective of cost sharing and government subsidies, this paper discussed the decentralized and centralized decision-making, respectively. On this basis, this paper designed a coordination mechanism considering both cost sharing and government subsidies and explore the impact of cost sharing rate and government subsidy rate on CSR efforts, members' profits and social welfare.
+   Findings
+   CSR can improve the profits of supply chain members and the overall performance of the supply chain. Then the profits of supply chain nodal enterprises will be affected by the fulfillment level of CSR of their partners. Furthermore, excessive CSR will erode the supply chain profits and cause resource waste. High CSR costs often make retailers low CSR effort level, while a high CSR cost sharing rate can reduce the profits of suppliers and the supply chain. In addition, excessive government subsidies will lead to the decline of social welfare. Excessive government subsidies will cause the dependence of enterprises and affect their operating efficiency.
+   Practical implications
+   The proposed coordination mechanism can effectively do with the coordination problem of the supply chain.
+   Originality/value
+   The proposed coordination mechanism considering cost sharing and government subsidies simultaneously can effectively deal with conflict problems and guarantee the supply chain members and the supply chain to maximize their profits and social welfare.
+SN  - 0885-8624
+SN  - 2052-1189
+DA  - JAN 3
+PY  - 2022
+VL  - 37
+IS  - 1
+SP  - 29
+EP  - 46
+DO  - 10.1108/JBIM-03-2020-0148
+C6  - MAR 2021
+AN  - WOS:000627891600001
+ER  -
+
+TY  - JOUR
+AU  - Zeng, LH
+AU  - Ding, ZY
+AU  - Wang, YH
+AU  - Peng, J
+AU  - Zhang, H
+AU  - Li, XW
+TI  - Pricing Decisions for Recycled Building Materials with Misrepresentation of Information from Social Exchange Theory
+T2  - BUILDINGS
+AB  - Recycled building materials offer an effective economic solution to the environmental issues caused by construction and demolition waste (CDW). However, they also create opportunities for information misrepresentation by remanufacturers. Despite the significance of this issue, existing research has largely overlooked the impact of such misrepresentation on the pricing decisions for recycled building materials. The study aims to reveal how information misrepresentation influences pricing in the context of recycled building materials. This paper develops a supply chain model for the resource utilization of construction waste, consisting of both a remanufacturer of recycled building materials and a traditional building material manufacturer. The model evaluates the effects of information misrepresentation by the remanufacturer on pricing decisions. The main findings are as follows: (1) The impact of misrepresentation of information on manufacturers depends on government subsidies and the remanufacturing process misrepresentation factor. When the government adopts a low subsidy policy, as the remanufacturing process misrepresentation factor increases, manufacturers' profits are U shaped. When the government adopts a high subsidy policy, manufacturers' profits are positively related to the remanufacturing process misrepresentation factor. (2) When government subsidies exceed a certain threshold, there is a negative impact on remanufacturers, who tend to reduce the level of misrepresentation in their remanufacturing processes. This study not only broadens the research on information misrepresentation through the lens of social exchange theory but also provides valuable insights for government policy decisions, particularly in regulating misrepresentation behaviors by remanufacturers under various scenarios.
+SN  - 2075-5309
+DA  - MAR 19
+PY  - 2025
+VL  - 15
+IS  - 6
+C7  - 967
+DO  - 10.3390/buildings15060967
+AN  - WOS:001452959500001
+ER  -
+
+TY  - JOUR
+AU  - Yu, S
+AU  - Hou, Q
+TI  - A closed-loop power battery supply chain differential game model considering echelon utilization under a cost subsidy
+T2  - KYBERNETES
+AB  - Purpose This study considered the dynamic equilibrium decision-making problem in a three-level supply chain comprising a manufacturer, a recycler and an echelon utilization (EchU) enterprise under the condition of cost-sharing coordination. Design/methodology/approach This study constructed a differential game model based on cost-sharing coordinated decision-making among a manufacturer, a recycler and an EchU enterprise operating under a cost subsidy. The study determined the optimal equilibrium strategies and evolutionary characteristics of subsidy mechanisms in a closed-loop supply chain. Finally, this study numerically simulated the path evolution process of vehicle battery EchU, the profit of each stakeholder and the sensitivity of parameters and verified the influences of various parameters on the overall structure and path. Findings The results show that a cost subsidy policy has a moderating effect on the EchU decision-making process and supply chain profit. The effect of that policy increases over time. Practical implications This study determined the equilibrium decision-making of enterprises in a closed-loop vehicle battery supply chain from a dynamic perspective, as well as the combined effects of government subsidy policies and cost-sharing coordination mechanisms. Social implications The results have important guiding significance for coordination and cooperation between enterprises in closed-loop supply chains, for their decision-making and for the development of government subsidies. Originality/value This study considered the effects of government subsidies on closed-loop supply chains and the introduction of an EchU market to a closed-loop vehicle battery supply chain.
+SN  - 0368-492X
+SN  - 1758-7883
+DA  - AUG 3
+PY  - 2023
+VL  - 52
+IS  - 8
+SP  - 2826
+EP  - 2846
+DO  - 10.1108/K-07-2021-0544
+C6  - FEB 2022
+AN  - WOS:000759699200001
+ER  -
+
+TY  - JOUR
+AU  - Chai, QF
+AU  - Sun, MY
+AU  - Lai, KH
+AU  - Xiao, ZD
+TI  - The effects of government subsidies and environmental regulation on remanufacturing
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - It has been recognized that regulatory policies are important to promote remanufacturing. However, scant studies have evaluated and compared the performance of different regulatory policies on remanufacturing op-erations. This paper analyzes the effects of the government subsidy policy and the carbon cap and trade policy (CTP) on remanufacturing in a closed-loop supply chain comprising a manufacturer, an independent remanu-facturer (IR), and a retailer. We develop stylized models for evaluating three subsidy policies: the IR subsidy policy, the retailer subsidy policy, and the consumer subsidy policy, develop a stylized model for assessing CTP, and incorporate technology licensing for remanufacturing into our models for analyses. We examine two issues 1) subsidizing which stakeholder is optimal and 2) whether CTP is able to replace the government subsidy policy. We compare these policies from economic, environmental, and social perspectives concerning their value for remanufacturing in closing supply chain loop. The results show that both the subsidy policy and CTP are able to promote remanufacturing. The government subsidy, the cost savings per remanufactured product, and the car -bon trading price are key factors that influence the promotion of remanufacturing. Although increasing those factors can stimulate remanufacturing activity, we find that increasing the cost savings, regardless of the pro-duction cost savings or the carbon emission cost savings, should be the first option for governments and man-ufacturers. Based on the results of stylized models, the three subsidy policies show same performance on promoting remanufacturing, and we interpret it as an insight that government policy makers need not to worry about choosing which stakeholder to subsidize. Technology licensing is unfavorable for remanufacturing development regardless of policy types, where a lower licensing fee or the coordination between the manufac-turer and IR is necessary in the process. CTP performs better or on par with the subsidy policy in most cases, suggesting that CTP is an ideal substitution for the government subsidy policy.
+SN  - 0360-8352
+SN  - 1879-0550
+DA  - APR
+PY  - 2023
+VL  - 178
+C7  - 109126
+DO  - 10.1016/j.cie.2023.109126
+C6  - MAR 2023
+AN  - WOS:000951624100001
+ER  -
+
+TY  - JOUR
+AU  - Goh, HH
+AU  - Huang, CH
+AU  - Liang, X
+AU  - Xie, HN
+AU  - Zhang, DD
+AU  - Dai, W
+AU  - Kurniawan, TA
+AU  - Wong, SY
+AU  - Goh, KC
+TI  - Sustainable development through the balancing of photovoltaic charging facilities and agriculture for energy harvesting
+T2  - APPLIED ENERGY
+AB  - Photovoltaics (PV) and electric vehicles (EVs) provide viable alternatives for powering rural areas and promoting sustainable development. However, solar energy and agricultural land compete with each other, necessitating a balance between energy needs and land preservation. Despite the potential of agricultural PV charging stations, there is a lack of research on their operational models, policies, stakeholder interactions, and feasibility of development. This study combines renewable energy and charging infrastructure subsidy policies, utilizes a public-private partnership model, and employs evolutionary game theory to establish a theoretical framework exploring strategic interactions among energy operators, EV users, and farmers. The model considers the impacts of generation, charging, and agricultural elements, conducting techno-economic research. A case study conducted in Sioux Falls, South Dakota, USA, revealed subsequent findings: (1) The players' evolutionary stable approach ultimately converges to (1,1,1). When renewable energy subsidies are decreased by 50 %, the likelihood of active engagement for energy operators drops to 0, and for farmers, it falls to 0.8. (2) As the usage duration of charging facilities grows by 50 %, energy operators and EVUs make steady progress before reaching 0.2 cycles, but farmers encounter a delay after 0.4 cycles. (3) It is feasible to fulfil the yearly charging requirements for EVs in Sioux Falls and South Dakota using only 7.4 ha and less than 22 ha of agricultural land area, respectively. Investors in Sioux Falls have the potential to earn an annual income of $1.1085 million, generate 7906.07 MWh of electricity, and reduce GHG emissions by 6525.91 tons of CO2-equivalent. Although farmers generate higher annual revenue, it typically takes them over a decade to reach the point of breaking even, and their return on investment is comparatively lower than that of energy operators.
+SN  - 0306-2619
+SN  - 1872-9118
+DA  - JAN 1
+PY  - 2025
+VL  - 377
+C7  - 124463
+DO  - 10.1016/j.apenergy.2024.124463
+C6  - SEP 2024
+AN  - WOS:001316033500001
+ER  -
+
+TY  - JOUR
+AU  - Kamaruzaman, N
+AU  - Manaf, NA
+AU  - Milani, D
+AU  - Abbas, A
+TI  - Assessing the current state of biomass gasification technology in advancing circular economies: A holistic analysis from techno-economic-policy perspective in Malaysia and beyond
+T2  - CHEMICAL ENGINEERING RESEARCH & DESIGN
+AB  - Biomass gasification technology has gained significant attention as a potential solution for circular economies by converting organic waste into valuable energy and products (Waste-to-Power-to-X). This paper comprehensively evaluates biomass gasification technology from a techno-economic-policy perspective, providing valuable insights for circular economies. It examines technical aspects such as processes, feedstocks, and syngas pro-duction, assessing advancements that would improve efficiency and environmental per-formance by addressing key challenges like tar removal and gas cleaning. Economic feasibility is analysed through a techno-economic assessment, considering capital costs, operational expenses, revenue streams, and potential markets. Real-world examples and case studies offer insights into economic viability of these processes. The paper emphasizes the significance of supportive policy frameworks, discussing stimulus measures like feed-in tariffs, tax incentives, and regulatory reforms to promote biomass gasification adoption. By combining technological, economic, and policy perspectives, this paper provides a holistic reality check of biomass gasification technology, identifying opportunities, challenges, and pathways for leveraging as a sustainable and economically viable solution for waste management and energy production. The findings and insights presented in this paper can assist policymakers, investors, and stakeholders in making informed decisions regarding the implementation of biomass gasification projects in the future.(c) 2023 Institution of Chemical Engineers. Published by Elsevier Ltd. All rights reserved.
+SN  - 0263-8762
+SN  - 1744-3563
+DA  - NOV
+PY  - 2023
+VL  - 199
+SP  - 593
+EP  - 619
+DO  - 10.1016/j.cherd.2023.10.023
+C6  - OCT 2023
+AN  - WOS:001095635100001
+ER  -
+
+TY  - JOUR
+AU  - Naghsh-Nilchi, M
+AU  - Rasti-Barzoki, M
+AU  - Jamali, MB
+AU  - Altmann, J
+AU  - Egger, B
+TI  - A game-theoretic approach to sustainable smart manufacturing using IoT under policy incentives: a case study of Iran and South Korea
+T2  - INTERNET OF THINGS
+AB  - This study presents a mathematical model to analyze the competition between smart and traditional home appliance manufacturers in Iran and South Korea using a game theory approach. The smart manufacturer utilizes IoT-enabled products and a Sensing-as-a-Service (SaaS) ecosystem to collect and analyze real-time operational data, enabling predictive maintenance, energy optimization, and intelligent product design. This data-driven approach extends the product life cycle, reduces operating costs, and reduces material waste and carbon emissions. In contrast, the traditional manufacturer relies on conventional R&D and after-sales feedback, which limits responsiveness and efficiency. The proposed model is the first to highlight the strategic value of data analytics in the SaaS ecosystem in shaping competitive advantage, sustainability, and market performance by considering customer behavior and government incentives. The results show that providing targeted incentives for data sharing significantly increases demand, profitability, and environmental benefits, especially in mature digital markets. Furthermore, the study shows that supporting context-specific policies enhances the effectiveness of smart manufacturing strategies. Overall, this research provides actionable insights for policymakers, manufacturers, and IoT stakeholders seeking to foster sustainable, competitive, and digital industrial systems in emerging and advanced economies.
+SN  - 2543-1536
+SN  - 2542-6605
+DA  - MAR
+PY  - 2026
+VL  - 36
+C7  - 101860
+DO  - 10.1016/j.iot.2025.101860
+C6  - JAN 2026
+AN  - WOS:001659688600001
+ER  -
+
+TY  - JOUR
+AU  - Wang, GL
+AU  - He, DL
+AU  - Wang, JY
+TI  - RETAILER REMANUFACTURING? PRICING DECISIONS FOR CLOSED-LOOP SUPPLY CHAIN WITH DIFFERENT REMANUFACTURING MODELS UNDER GOVERNMENT SUBSIDIES
+T2  - JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION
+AB  - This paper addresses the dual-channel closed-loop supply chain under government subsidies. By considering whether each supply chain member has remanufacturing capability, it constructs decision models for three different remanufacturing modes: only the manufacturer receives subsidies with the manufacturer conducting remanufacturing (A), both manufacturers and retailers receive subsidies with the manufacturer conducting remanufacturing (B), and both manufacturers and retailers receive subsidies with both engaging in remanufacturing (C). Through numerical analysis, the following key findings are obtained: (1) When the government subsidy ratio is low, Model B is beneficial to retailers; when the subsidy ratio is high, Model C is more advantageous for retailers. (2) The manufacturer's profit reaches the optimal level when the retailer engages in recycling and remanufacturing. (3) For the overall supply chain, Model A is beneficial when the government subsidy ratio is low, while Model C is preferable when the subsidy ratio is high. (4) Government subsidies always have a positive impact on manufacturers, whereas retailers should appropriately adjust their remanufacturing strategies. (5) The retailer's selling price increases correspondingly with the rise in patent fees, while the recycling price exhibits different trends.
+SN  - 1547-5816
+SN  - 1553-166X
+DA  - DEC
+PY  - 2025
+VL  - 21
+IS  - 12
+SP  - 7095
+EP  - 7131
+DO  - 10.3934/jimo.2025161
+C6  - OCT 2025
+AN  - WOS:001599629500001
+ER  -
+
+TY  - JOUR
+AU  - Feng, DZ
+AU  - Yu, XH
+AU  - Mao, YB
+AU  - Ding, YK
+AU  - Zhang, Y
+AU  - Pan, ZY
+TI  - Pricing Decision for Reverse Logistics System under Cross-Competitive Take-Back Mode Based on Game Theory
+T2  - SUSTAINABILITY
+AB  - Considering the reverse logistics system composed of two manufacturers and two recyclers under the cross-competitive take-back mode, which is influenced by multiple factors (industry competition, economies of scale, government subsidies, remanufacturing rate, etc.), a model for remanufacturing reverse logistics system based on Stackelberg game is established. Then, the Nash equilibrium solution of decision variables is solved to obtain the best profit of all participants under the cross-competitive take-back mode. Furthermore, the parameter constraint analysis is carried out, and the monopolistic take-back mode is introduced for comparative analysis. Then, the sensitivity analysis of the model is carried out. At last, a case analysis is carried out based on the current situation of waste electrical and electronic equipment (WEEE) recycling in China. The results show that the cross-competitive take-back mode is more advantageous to all participants in the reverse logistics system than the monopolistic take-back mode. Recyclers should actively sign contracts with multiple manufacturers to recycle waste products, making full use of the advantages of cross-competitive take-back mode to maximize the profits of all participants, so as to encourage them to recycle waste products and achieve sustainable development.
+SN  - 2071-1050
+DA  - DEC 2
+PY  - 2019
+VL  - 11
+IS  - 24
+C7  - 6984
+DO  - 10.3390/su11246984
+AN  - WOS:000506899000097
+ER  -
+
+TY  - JOUR
+AU  - Zhang, WS
+AU  - Liu, XY
+AU  - Zhu, L
+AU  - Wang, W
+AU  - Song, HF
+TI  - Pricing and production R&D decisions in power battery closed-loop supply chain considering government subsidy
+T2  - WASTE MANAGEMENT
+AB  - With the continuous promotion of electric vehicle applications, the recycling of power battery is urgent. Some batteries, although not suitable for continued use in electric vehicles, can be recycled for echelon utilization or remanufacturing. Thus, this study considers an electric vehicle power battery closed-loop supply chain consisting of a manufacturer and a retailer. We develop three strategies: no production research and development effort strategy, production research and development effort strategy, and government subsidy for production research and development strategy. Optimal pricing and production research and development effort decisions are derived based on Stackelberg game. Results indicate that production research and development positively impact the recycling of waste electric vehicle power batteries, with government subsidy further amplifying this effect by offering higher buyback and recycling prices. Government subsidy encourages manufacturer to increase production research and development effort and lowers the market pricing of electric vehicle power batteries, making these batteries more accessible to consumers. A sizable consumer base can offset the increased costs of production research and development, enabling manufacturer and retailer to achieve greater profitability. Both manufacturer and retailer can benefit from production research and development and government subsidy, ultimately enhancing the profitability of the entire closed-loop supply chain.
+SN  - 0956-053X
+SN  - 1879-2456
+DA  - DEC 15
+PY  - 2024
+VL  - 190
+SP  - 409
+EP  - 422
+DO  - 10.1016/j.wasman.2024.10.004
+C6  - OCT 2024
+AN  - WOS:001337460800001
+ER  -
+
+TY  - JOUR
+AU  - Wu, HX
+AU  - Xu, B
+AU  - Zhang, D
+TI  - Closed-Loop Supply Chain Network Equilibrium Model with Subsidy on Green Supply Chain Technology Investment
+T2  - SUSTAINABILITY
+AB  - The green supply chain (GSC) can effectively reduce the waste of resources and avoid environmental pollution. For a closed-loop supply chain network consisting of multiple manufacturers, multiple retailers, and multiple consumer and recycling markets, we assume that retailers are responsible for the recycling of used products, manufacturers use raw materials to produce new products and recycled products for remanufacturing, and government departments subsidize all manufacturers and retailers for GSC technology investment. Then, the equilibrium conditions of manufacturers, retailers, demand markets, and recycling markets are obtained by using the variational inequality method, complementarity theorem, and Nash equilibrium theory, and the variational inequality model of the closed-loop supply chain network multiphase equilibrium is established. Based on numerical simulation, the optimal technology investment decision of green supply chain under different government subsidy rates, and the influence of market structure and enterprise cost asymmetry on the equilibrium solution of supply chain network are analyzed. The results show that government subsidies can effectively promote enterprises to upgrade their level of GSC technology investment. The intensification of enterprise competition and the asymmetry of enterprise costs will affect the composition of enterprise profits and the allocation of profits between enterprises, and the former will weaken the effect of government subsidies.
+SN  - 2071-1050
+DA  - AUG
+PY  - 2019
+VL  - 11
+IS  - 16
+C7  - 4403
+DO  - 10.3390/su11164403
+AN  - WOS:000484472500147
+ER  -
+
+TY  - JOUR
+AU  - Shan, RB
+AU  - Huang, ZF
+AU  - Luo, L
+AU  - Xiang, J
+TI  - Impact of Recycling Altruistic Behavior on Decision and Selection of Recycling Channel Based on a Reward-Penalty Mechanism
+T2  - MANAGERIAL AND DECISION ECONOMICS
+AB  - The recycling of used products and the reuse of resources have emerged as prominent themes in current sustainability discussions. Although the influence of policy incentives and the behaviors of responsible entities are frequently cited, their effectiveness in enhancing recycling practices among various stakeholders remains ambiguous. Therefore, this study examines a closed-loop supply chain system consisting of a manufacturer, a retailer, and/or a third-party recycler. By incorporating a reward-penalty mechanism, we aim to assess the impact of the manufacturer's recycling altruistic behavior on recycling efficiency, considering scenarios involving retailer recycling and third-party recycling. Moreover, this research explores how the reward-penalty mechanism and the manufacturer's recycling altruistic behavior influence the choice of recycling channels. Through theoretical analysis of four game models and subsequent numerical experiments, our findings reveal that (1) incorporating a reward-penalty mechanism, coupled with the manufacturer's recycling altruistic behavior, not only enhances the recycling rate but also lowers retail prices and boosts consumer surplus. (2) The effectiveness of various recycling channels in achieving substantial recycling outcomes is significantly influenced by both the government's reward-penalty mechanism and the manufacturer's recycling altruistic behavior, which, in turn, affect the manufacturer's decisions regarding recycling outsourcing. (3) At lower levels of reward-penalty intensity or recycling altruistic coefficient, retailer recycling can improve the recycling rate, enhance profits for all involved parties, and advance social welfare, albeit at the expense of higher environmental impact. Conversely, at higher levels of these factors, third-party recycling becomes more advantageous for both corporate and social development.
+SN  - 0143-6570
+SN  - 1099-1468
+DA  - JAN
+PY  - 2026
+VL  - 47
+IS  - 1
+SP  - 15
+EP  - 40
+DO  - 10.1002/mde.70022
+C6  - SEP 2025
+AN  - WOS:001570233700001
+ER  -
+
+TY  - JOUR
+AU  - Xue, KL
+AU  - Sun, GH
+AU  - Wang, YY
+AU  - Niu, SY
+TI  - Optimal Pricing and Green Product Design Strategies in a Sustainable Supply Chain Considering Government Subsidy and Different Channel Power Structures
+T2  - SUSTAINABILITY
+AB  - Green product design is a vital measure to support sustainable development in a circular economy era. This paper studies the multi-product pricing and green product design strategies under different supply chain structures and government subsidy strategies. Considering different channel leadership, we establish the centralized (C), manufacturer-led (MS), and retailer-led (RS) supply chain models, respectively. By applying a game-theoretical approach, corresponding equilibrium pricing, green product design, and government subsidy decisions under different supply chain structures are obtained. Through comparison and numerical analysis, we find that: (1) the different subsidy strategies of the government have an important impact on green product development. When the government provides a uniform subsidy strategy, a RS supply chain can bring greener product, more market demands, more profit, and more social welfare; (2) when the government provides a differentiated subsidy strategy, MS and RS supply chain structures can bring greener product and more market demand than the centralized supply chain. They can also bring the same social welfare and the same product to the green design level. However, the MS supply chain structure can bring more profit for the firm; (3) the consumers' green awareness positively impacts the design and development of green product. Therefore, it is beneficial for the firm to adopt reasonable measures to boost the environmental awareness of consumers in order to realize the sustainable development of our society.
+SN  - 2071-1050
+DA  - NOV
+PY  - 2021
+VL  - 13
+IS  - 22
+C7  - 12446
+DO  - 10.3390/su132212446
+AN  - WOS:000728906500001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, SH
+AU  - Liu, W
+AU  - Hou, PW
+AU  - Wang, XY
+TI  - IMPACT OF GOVERNMENT SUBSIDY ON THE REMANUFACTURING INDUSTRY REGARDING TECHNOLOGY COOPERATION
+T2  - JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION
+AB  - Under the environmental concerns of consumers, this study uses game theory to analyze the impact of government subsidies on remanufacturing and environmental protection. The original equipment manufacturer (OEM) and the independent remanufacturer (IR) can select cooperation and non-cooperation, which are facilitated by government subsidies, in two ways, including technology licensing and R&D joint-venture. We design a market where consumers care about the environment, involving the government, an OEM and an IR. The study finds that the quality level of products and the proportion of technology transfer are important factors influencing cooperation strategies. If the government wants to develop high-quality remanufactured products to make up for the lack of new products, it should increase remanufacturing subsidies to help remanufacturers obtain technology. If the government wants to reduce environmental pollution through the development of remanufacturing, the level of technology transfer of remanufactured products that can be mass-produced is generally not high.We compare the profit and environmental performance of the three strategies under the government subsidy policy and find that when the government subsidy is moderate, we can realize the triple win of enterprise and environment.
+SN  - 1547-5816
+SN  - 1553-166X
+DA  - JUN
+PY  - 2023
+VL  - 19
+IS  - 6
+SP  - 4152
+EP  - 4179
+DO  - 10.3934/jimo.2022125
+C6  - JUL 2022
+AN  - WOS:000834061600001
+ER  -
+
+TY  - JOUR
+AU  - Edwards, J
+AU  - Burn, S
+AU  - Crossin, E
+AU  - Othman, M
+TI  - Life cycle costing of municipal food waste management systems: The effect of environmental externalities and transfer costs using local government case studies
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Municipal food waste is of growing interest worldwide as governments strive to reduce wastes' environmental impact. For local governments responsible for waste collection, treatment and disposal; finding an affordable management and treatment solution with the smallest impact on the environment is paramount. This paper introduces a life cycle costing tool, incorporating both an Environmental LCC and Societal LCC to provide decision support to local government. The tool was tested on two case study waste catchments; comparing seven unique food waste management systems. Results indicated that food waste anaerobic digestion or co-digestion, shown to have smaller environmental impacts, can be implemented with marginal increase (1.7% to 11.6%) in overall cost. Moreover, with efficiencies food waste anaerobic digestion systems can demonstrate the same cost as business-as-usual. Composting systems were also revealed to have consistently lower costs per household across case studies than business-as-usual, although environmental impacts were generally higher than digestion systems. Further analysis determined the required rate of policy incentives (i.e. landfill levy, electricity tariffs and carbon credits) to promote various alternative food waste management systems.
+SN  - 0921-3449
+SN  - 1879-0658
+DA  - NOV
+PY  - 2018
+VL  - 138
+SP  - 118
+EP  - 129
+DO  - 10.1016/j.resconrec.2018.06.018
+AN  - WOS:000444789400013
+ER  -
+
+TY  - JOUR
+AU  - Wang, Z
+AU  - Huo, JZ
+AU  - Duan, YR
+TI  - Impact of government subsidies on pricing strategies in reverse supply chains of waste electrical and electronic equipment
+T2  - WASTE MANAGEMENT
+AB  - Many governments use subsidies to encourage the recycling of waste electrical and electronic equipment. In order to assist policymakers in maximizing the benefit of these incentives, this paper investigates strategies for the allocation strategy of government subsidies among the parties in the reverse supply chain of e-waste consisting of one collector, one remanufacturer and two retailers. The optimal pricing decisions and effects of government subsidies with multiple subsidized parties are examined. Analytical results suggest that the remanufacturing utilization rate has great influence the allocation strategy of government subsidies. When the e-waste remanufacturing utilization rate is low, the marginal effect of the subsidy to the remanufacturer on economic benefit and the recycle quantity decreases as the subsidy increases. In this situation, the government should subsidize the collector and retailers. And when the e-waste remanufacturing utilization rate is relatively high, the marginal effect of the subsidy to the remanufacturer on economic benefit and the recycle quantity increase as the subsidy increases. In this case, the government should allocate as much support as possible to the remanufacturer. (C) 2019 Elsevier Ltd. All rights reserved.
+SN  - 0956-053X
+SN  - 1879-2456
+DA  - JUL 15
+PY  - 2019
+VL  - 95
+SP  - 440
+EP  - 449
+DO  - 10.1016/j.wasman.2019.06.006
+AN  - WOS:000499920700042
+ER  -
+
+TY  - JOUR
+AU  - Liu, KL
+AU  - Li, QX
+AU  - Zhang, HW
+TI  - Analysis of the Impact of Remanufacturing Process Innovation on Closed-Loop Supply Chain from the Perspective of Government Subsidy
+T2  - SUSTAINABILITY
+AB  - Efficient and low-cost remanufacturing can be achieved through process innovation. Consequently, the question of whether government subsidies for remanufacturing process innovation will stimulate improvement in this area and thus affect the closed-loop supply chain is worth discussing. To answer this question, we establish a closed-loop supply chain model consisting of a manufacturer and a retailer, taking into account both remanufacturing process innovation and government subsidy. This is done in order to explore the impact of remanufacturing process innovation on the closed-loop supply chain from the perspective of government subsidies. Moreover, the government subsidizes the manufacturer according to the improvement of remanufacturing process innovation levels. Specifically, we analyze the optimal decisions and the social welfare in two models-the benchmark model without government subsidy, and the government subsidy model. Our main findings are threefold. The optimal decisions of the two models vary with the proportion of new products' production cost and remanufactured products' production cost. The government subsidy for process innovation does not necessarily improve the profits of the manufacturer, the retailer, and the supply chain system. Moreover, there is a threshold; the government subsidy can hurt the retailer's profits, and the retailer has no motivation to participate in the sale of new products when the government subsidy is below that threshold. The government subsidy for process innovation does improve overall social welfare and has a lesser environmental impact. The conclusions are also verified by numerical analysis.
+SN  - 2071-1050
+DA  - SEP
+PY  - 2022
+VL  - 14
+IS  - 18
+C7  - 11333
+DO  - 10.3390/su141811333
+AN  - WOS:000856775700001
+ER  -
+
+TY  - JOUR
+AU  - Li, JH
+AU  - He, SG
+AU  - Zhang, M
+TI  - Optimal pricing and warranty strategies of a closed-loop supply chain under government subsidies
+T2  - INTERNATIONAL TRANSACTIONS IN OPERATIONAL RESEARCH
+AB  - Both warranty services and subsidy policies are effective strategies for promoting the development of remanufacturing. According to the warranty provider, this paper considers two possible warranty strategies: the manufacturer warranty and the retailer warranty. The optimal pricing and warranty periods are determined by considering the effect of the consumption subsidy policy through Stackelberg game models. Subsequently, this paper investigates the optimal warranty strategy by comparing the economic and integrated performance of the closed-loop supply chain. The analytical results indicate that the retailer warranty enables the supply chain to obtain a higher economic performance than the manufacturer warranty. Nevertheless, the integrated performance that combines economic and environmental performance depends on the consumption subsidy level. In addition, this paper finds that the consumption subsidy policy enhances supply chain profitability and consumer surplus but may hurt the environment in certain scenarios. Therefore, this paper derives the optimal subsidy level by maximizing the total social welfare, which takes into account both economic and environmental performance. These findings provide valuable insights for policymakers in remanufacturing.
+SN  - 0969-6016
+SN  - 1475-3995
+DA  - SEP
+PY  - 2025
+VL  - 32
+IS  - 5
+SP  - 3083
+EP  - 3107
+DO  - 10.1111/itor.13417
+C6  - DEC 2023
+AN  - WOS:001129172900001
+ER  -
+
+TY  - JOUR
+AU  - Ji, T
+AU  - Wang, SF
+AU  - Liu, XF
+TI  - A Systems Analysis of Reverse Channel Dynamics and Government Subsidies in Sustainable Remanufacturing
+T2  - SYSTEMS
+AB  - Remanufacturing in reverse logistics can not only support sustainable development but also provide a tractable way to achieve carbon neutrality. This study evaluates whether an original equipment manufacturer (OEM) should remanufacture outsource or authorize this reverse channel activity in the presence of government subsidies. Additionally, the model considers the equilibrium acquisition quantities, collection rates, prices, and effects of government subsidy under three reverse channel options: centralizing remanufacturing, outsourcing remanufacturing, and authorization remanufacturing. The analysis indicates that (i) a centralized approach with manufacturing and remanufacturing operations under a fixed government subsidy is always in the interest of the supply chain; (ii) that for the profit-maximizing third-party remanufacturer (3PR), the differentials in variable collection costs drive the strategy choice, and that a higher fixed scaling parameter of the collection cost favors outsourcing; and (iii) when the government aspires to reduce environmental effects and subsidy payments, the OEM and government have different reverse channel choice preferences. Surprisingly, profitability and environmental goals align under a high consumer acceptance of the remanufactured product. This paper extends the understanding of the remanufacturing strategy of an OEM and provides new insights on which reverse channel is optimal.
+SN  - 2079-8954
+DA  - JUL 16
+PY  - 2025
+VL  - 13
+IS  - 7
+C7  - 592
+DO  - 10.3390/systems13070592
+AN  - WOS:001541909100001
+ER  -
+
+TY  - JOUR
+AU  - Genc, TS
+TI  - A circular economy with tax policy: Using collection channels and returns to mitigate distortions in steel production and recycling
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The purpose of this research is to show how taxation of intermediate items produced from virgin and recycled materials negatively impacts closed -loop supply chain (CLSC) results (labor, capital, returns, outputs, prices, profits, and dead -weight -loss). It offers remedies to alleviate tax inefficiencies. After formulating upstream and downstream production functions and recycling process, a Stackelberg game framework is analytically solved and data from steel industry and automobile stimulus program in the US are used to obtain numerical results. The results show that an optimum collection channel along with endogenous consumer return behavior can improve outcomes and reduce inefficiencies stemming from output taxation. The principal policy implication is that American, Chinese, Canadian, and German governments' tax incentive programs applied to items produced from recyclables are a sound strategy in the way of spurring their circular economies, improving environmental sustainability, and reducing economic loss.
+SN  - 0959-6526
+SN  - 1879-1786
+DA  - APR 20
+PY  - 2024
+VL  - 451
+C7  - 142120
+DO  - 10.1016/j.jclepro.2024.142120
+C6  - APR 2024
+AN  - WOS:001226687700001
+ER  -
+
+TY  - JOUR
+AU  - Shahid, K
+AU  - Hittinger, E
+TI  - Techno-economic optimization of food waste diversion to treatment facilities to determine cost effectiveness of policy incentives
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - New York state recently passed a food waste (FW) disposal ban, which will prohibit landfilling of FW produced by commercial entities generating more than 2 tons/week by the year 2022. This will redirect 370,000 tons/year of FW from landfills. In this work, we investigate three questions about the landfill ban: 1) How can this waste be diverted to treatment facilities at lowest system cost? 2) To what degree can an expanded anaerobic digestion portfolio help with the state's Renewable Portfolio Standards? 3) What policies can help with the transition of waste-to-energy technologies? We develop a mixed-integer linear programming model that identifies lowest cost solutions to FW disposal by finding the optimal locations, capacities, FW intake, and energy generation around the state. Results suggest that a mix of composting (61%) and FW-only digestion (39%) is the cheapest response to the landfill ban without complementary policies but adding policy support (capital or production subsidies) can increase electricity production from digestion by 10x at a government cost between $55 and $315 per ton of CO2 abated. (c) 2020 Elsevier Ltd. All rights reserved.
+SN  - 0959-6526
+SN  - 1879-1786
+DA  - JAN 10
+PY  - 2021
+VL  - 279
+C7  - 122634
+DO  - 10.1016/j.jclepro.2020.122634
+AN  - WOS:000613139700002
+ER  -
+
+TY  - JOUR
+AU  - Huang, YT
+AU  - Liang, YQ
+TI  - Exploring the strategies of online and offline recycling channels in closed-loop supply chain under government subsidy
+T2  - ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+AB  - The influence of online and offline dual recycling channels in a closed-loop supply chain (CLSC) is investigated in our work. The CLSC models of three recycling modes (single online recycling, single offline recycling, and dual recycling channels of online and offline) are established, respectively, and the impact of government subsidies on the pricing decision-making and recycling mode selection of channel members is therefore researched. The study found that the remanufacturer sets appropriate recycling price and transfer price to coordinate online and offline recycling channels and maximize its profits in the dual recycling modes; collector's offline recycling faces the competitive threat of remanufacturers' online recycling under the dual recycling modes, so the collector prefers a single offline recycling mode; the relationship between the collection quantities of the three modes depends on consumers' preference of the online recycling channel. In the meanwhile, it is illustrated that government subsidy plays a positive role in promoting the recycling and remanufacturing willingness of remanufacturers and collectors. This work provides practical insights for the CLSC system to make recycle decisions.
+SN  - 0944-1344
+SN  - 1614-7499
+DA  - MAR
+PY  - 2022
+VL  - 29
+IS  - 15
+SP  - 21591
+EP  - 21602
+DO  - 10.1007/s11356-021-17396-4
+C6  - NOV 2021
+AN  - WOS:000717429100001
+ER  -
+
+TY  - JOUR
+AU  - Bai, YB
+AU  - Wang, N
+AU  - Xie, SX
+AU  - Zhang, J
+TI  - Paradigm and efficiency of industrial waste resource utilization: Evidence from China
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - Achieving industrial symbiosis and zero emissions requires integrated frameworks for optimizing industrial waste valorization. However, existing studies often overlook the synergy between operational paradigms and multidimensional efficiency. This study bridges this gap through a mixed-methods investigation of 48 Chinese industrial waste resource (IWR) utilization centers, combining qualitative analysis of 1.90 GB of textual case data with a Multi-Criteria Decision Making-Grey Relational Projection Method (MCDM-GRPM) quantitative analysis framework. Two key contributions emerge: (1) redefining industrial waste as IWRs and formulating a "technology-enterprise-policy" paradigm that integrates policy incentives, cross-sector collaboration, and technological innovation to facilitate closed-loop recycling; and (2) developing a multidimensional efficiency evaluation system incorporating technical, economic, and ecological criteria to assess IWR utilization performance. Findings demonstrate that the proposed paradigm operationalizes the 3R principles, transforming waste into high-value resources while fostering industrial symbiosis. Efficiency analysis reveals notable disparities among centers, with top performers (e.g., DMU25, DMU21) leveraging geographic advantages, waste-type characteristics, and industrial diversification. High efficiency in individual dimensions does not ensure overall performance, underscoring the need for balanced, multicriteria-driven strategies. By integrating qualitative and quantitative insights, this study provides a replicable framework for advancing circular economy transitions and promoting industrial symbiosis, aligning economic and environmental objectives.
+SN  - 0301-4797
+SN  - 1095-8630
+DA  - APR
+PY  - 2025
+VL  - 380
+C7  - 124922
+DO  - 10.1016/j.jenvman.2025.124922
+C6  - MAR 2025
+AN  - WOS:001448576700001
+ER  -
+
+TY  - JOUR
+AU  - Han, YT
+AU  - Zheng, HX
+AU  - Huang, YC
+AU  - Li, XW
+TI  - Considering Consumers' Green Preferences and Government Subsidies in the Decision Making of the Construction and Demolition Waste Recycling Supply Chain: A Stackelberg Game Approach
+T2  - BUILDINGS
+AB  - Resource utilization of construction and demolition waste (CDW) is regarded to be an important means of achieving the sustainable development of the economy and the environment. However, previous research has not fully considered the green degree of products in the demand function of CDW remanufactured products. This study aimed to clarify how consumers' green preferences and government subsidies affect decision making in the supply chain. First, a CDW resource utilization supply chain model composed of building materials manufacturers and retailers was constructed using consumer behavior theory. Second, the optimal decision making of members under conditions of decentralized and centralized decision making was analyzed using the Stackelberg game solution. Finally, the validity of the model and conclusions were verified by numerical simulation. The main conclusions are as follows. Government subsidies have a different impact on the pricing of new building materials products and CDW remanufactured products. Under decentralized decision making, the optimal profit of the CDW resource utilization supply chain with government subsidies is higher. However, under centralized decision making, the optimal profit is also related to consumers' green preferences. According to consumers' green preferences, choosing different decision-making models can not only improve the total profit of the CDW resource utilization supply chain, but also improve the reuse rate of CDW.
+SN  - 2075-5309
+DA  - JUN
+PY  - 2022
+VL  - 12
+IS  - 6
+C7  - 832
+DO  - 10.3390/buildings12060832
+AN  - WOS:000831053300001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, ZY
+AU  - Zhao, SD
+AU  - Yu, LY
+AU  - Fang, HJ
+TI  - Operational decisions of photovoltaic closed-loop supply chains with industrial distributed photovoltaic subsidy policy in China
+T2  - ENVIRONMENTAL TECHNOLOGY & INNOVATION
+AB  - Photovoltaic (PV) generation, as a clean and renewable energy technology, aligns with the global needs for energy transition and sustainable development. Due to its industrial distributed PV subsidy support policy, China has witnessed rapid growth in distributed PV industrial projects, leading to the formation of a mature market trading mechanism. This paper, focusing on China's industrial distributed PV and its user, aims to explore how the PV system manufacturer (PSM) and PV system service provider (PSSP) can optimize the combination of "recycling mode & power structure" to simultaneously achieve multiple performance improvements, including those in economy, society, and environment (ESS) in the photovoltaic closed-loop supply chain (PVCLSC), in consideration of the government's PV subsidy policy. Therefore, by using three gametheoretical approaches including Nash game existed between the PSM and the PSSP under equal power and the Stackelberg game respectively led by PSM and PSSP, the optimal decisions of the PSM and PSSP, and the effective government subsidies under different combinations are obtained. Conclusions show that: To achieve individual optimal economic performance, both PSM and PSSP, as recyclers, invariably prefer a dominant position and choose to conduct recycling activities independently. For social welfare and subsidy efficiency, the government consistently tends to choose the PSM recycling mode in which the PSM and PSSP are expected to be in an equal power structure. Both in the PSM recycling and PSSP recycling modes, the government subsidy is smaller when two members are under the equal position than that respective under the dominant position, and in the latter scenario, the one with the advantage can mainly obtain the difference in the increased government subsidy.
+SN  - 2352-1864
+DA  - MAY
+PY  - 2024
+VL  - 34
+C7  - 103619
+DO  - 10.1016/j.eti.2024.103619
+C6  - APR 2024
+AN  - WOS:001217415000001
+ER  -
+
+TY  - JOUR
+AU  - Sun, XF
+AU  - Wang, YY
+AU  - Li, YY
+AU  - Zhu, WJ
+AU  - Yan, DH
+AU  - Li, JH
+TI  - Optimal pricing and carbon emission reduction decisions for a prefabricated building closed-loop supply chain under a carbon cap-and-trade regulation and government subsidies
+T2  - PLOS ONE
+AB  - This paper explores a two-level prefabricated building closed-loop supply chain (CLSC) comprising a retailer and a prefabricated building manufacturer (PBM) under carbon cap-and-trade legislation and the government subsidies of carbon emission reduction (CER). In this CLSC, the PBM and the retailer recycle used products through their independent recycling channels. The optimum pricing and CER strategies within both decentralized and centralized systems, respectively, are analyzed. The Stackelberg game is used in the decentralized system to determine the optimum PBM's CER level and the retailer's pricing. By analysis, it concludes that increasing the carbon trading price can stimulate prefabricated construction corporations to improve their CER level, and that the government subsidy rate has a great effect on the profits of the PBM. Numerical examples with sensitivity analysis are used to further evaluate the roles of important factors in the optimum CER and pricing solutions of the prefabricated building CLSC in two dissimilar systems.
+SN  - 1932-6203
+DA  - JUN 29
+PY  - 2023
+VL  - 18
+IS  - 6
+C7  - e0287684
+DO  - 10.1371/journal.pone.0287684
+AN  - WOS:001025429200069
+ER  -
+
+TY  - JOUR
+AU  - Kadeer, A
+AU  - Wang, XB
+AU  - He, HY
+AU  - Dai, L
+TI  - Complexity analysis of a closed-loop supply chain for power battery recycling under government subsidies
+T2  - PLOS ONE
+AB  - Considering government subsidies for new energy electric vehicle manufacturers, the study will construct a static game model to analyze the optimal strategies of decision-makers from the perspectives of manufacturers and retailers. It will analysis the impact of key model parameters such as government subsidy criteria, the fund returns rate and market size on optimal strategy selection. Additionally, a dynamic game model will be developed to investigate the complex behavior characteristics of decision-makers, as well as the influence of different behaviors on their complex benefits. The research results show: First, government subsidy criteria, the fund return rate and market size importantly influence the optimal pricing strategies and recycling services. Second, the stability region of the equilibrium strategy is given. Moreover, when the decision-makers 's price adjustment speed exceeds a certain threshold, the equilibrium strategy undergoes complex behaviors such as bifurcation and chaos. The time-delay feedback control method is adopted to regulate the chaos. Ultimately, based on the findings, a series of targeted management insights and recommendations are proposed, indicating that while short-term government subsidies can lead to increased profits for members, excessive subsidies in the long run can result in system chaos and profit decline.
+SN  - 1932-6203
+PY  - 2025
+VL  - 20
+IS  - 6
+C7  - e0322888
+DO  - 10.1371/journal.pone.0322888
+AN  - WOS:001508298300041
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Z
+AU  - Liu, M
+AU  - Wang, L
+AU  - Zeng, XA
+AU  - Cao, XY
+AU  - Yan, JZ
+AU  - Zhou, YF
+TI  - Indium recycling pathways from heterojunction solar cells: Processes, challenges, and prospects
+T2  - RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+AB  - Indium is a vital raw material in heterojunction (HJT) solar cells, yet its limited reserves and increasing demand pose sustainability challenges. With the rapid growth of photovoltaic deployment, the secondary recovery of indium from end-of-life (EoL) HJT modules is becoming indispensable for resource security, economic value, and environmental protection. This review outlines the current status of indium recycling, integrating advanced pretreatment, selective leaching, and high-purity refining, while comparing their efficiency, environmental impact, and economic feasibility. Hydrometallurgical methods dominate current research, despite their prevalence, challenges regarding chemical consumption, hazardous emissions, and low recovery yields remain unresolved. Beyond technical barriers, weak regulatory frameworks and insufficient industrial-scale practices hinder efficient waste management. To ensure long-term sustainability, holistic recycling strategies should be integrated with policy incentives, eco-design of PV modules, and international cooperation. Advancing green recovery technologies that minimize secondary pollution and maximize material reuse is critical for foster a closed-loop supply chain for strategic critical metals. Overall, indium recovery from EoL HJT solar cells represents not only a technological challenge but also an opportunity to advance circular economy goals and support the sustainable development of renewable energy systems.
+SN  - 1364-0321
+SN  - 1879-0690
+DA  - MAY
+PY  - 2026
+VL  - 231
+C7  - 116789
+DO  - 10.1016/j.rser.2026.116789
+C6  - FEB 2026
+AN  - WOS:001684883400001
+ER  -
+

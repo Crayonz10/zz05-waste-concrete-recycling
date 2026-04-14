@@ -1,0 +1,494 @@
+TY  - JOUR
+TI  - Competitive remanufacturing strategy and take-back decision with OEM remanufacturing
+AU  - Wu, Cheng-Han
+AU  - Wu, Hsin-Huan
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Consumer desire for environment-friendly and economical products drives original equipment manufacturers (OEMs) to offer remanufactured products. Thus, OEMs compete with independent remanufacturers (IRs) not only in sales but also in collection of used items for remanufacturing. In this paper, we develop a closed-loop supply that consists with an OEM that sells new and remanufactured products and an IR. Each firm is endowed with two remanufacturing strategies that drive economies of remanufacturing by sales or collection. We then elaborate the relation between the firms' decisions and the remanufacturing strategies, and further derive the equilibrium decisions and strategic schemes. We find that OEM remanufacturing provides the OEM with the variability to respond to changes of competitive scenarios by allocating sales between new and OEM-remanufactured products, compelling the IR to react differently. We further show the conditions for firms to determine their profitable strategies, and characterize the firms' equilibrium strategic choices and operational decisions. This study provides managerial insights for OEM and IR managers in terms of firms' equilibrium behavior. (C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.cie.2016.05.033
+VL  - 98
+IS  - 
+SP  - 149-163
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Managing channel profits of different cooperative models in closed-loop supply chains
+AU  - Ma, Zu-Jun
+AU  - Zhang, Nian
+AU  - Dai, Ying
+AU  - Hu, Shu
+T2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+AB  - The importance of closed-loop supply chains has been widely recognized in literature arid in practice. The paper investigates interactions among the different parties in a three-echelon closed-loop supply chain consisting of a single manufacturer, a single retailer and two recyclers and focuses on how cooperative strategies affect closed-loop supply chain decision-making. Various cooperative models are considered by observing recent research and current cases, and the optimal decisions and supply chain profits of these models are discussed. By comparing various coalition structures, we discover that cooperative strategies can lead to win-win outcomes and increase an alliance's profit and can be effective ways of achieving greater efficiency from the point of view of the overall supply chain. Finally, the paper presents a detailed comparative analysis of these models and provides insights into the management of closed-loop supply chains. (c) 2015 Elsevier Ltd. All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.omega.2015.06.013
+VL  - 59
+IS  - 
+SP  - 251-262
+J2  - OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Dual recycling channel decision in retailer oriented closed-loop supply chain for construction machinery remanufacturing
+AU  - Yi, Pengxing
+AU  - Huang, Min
+AU  - Guo, Lijun
+AU  - Shi, Tielin
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This paper targets on the optimum strategies of the collection decision for a retailer oriented closed-loop supply chain with dual recycling channel in the construction machinery industry. In the forward channel of this system, the manufacturer produces the new products, the retailer is contracted to remanufacture the used ones, and then sells both the new ones and remanufactured ones to the customers. In the reverse channel, the retailer and the third party collector simultaneously collect the used products. Based on several valid assumptions, we propose a special closed-loop supply chain model with dual recycling channel within the framework of game theory, and explore how the remanufacturer should properly allocate the collection efforts to the retailer and the third party. Furthermore, we conduct performance analysis to investigate the optimal strategies for the supply chain members. Our research confirms that the remanufacturer can gain more used product returns and profits with dual recycling channel, and the optimal allocation of the collection efforts to the retailer and the third party is determined by the relationship of the reverse logistics cost coefficients. (C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.jclepro.2016.07.104
+VL  - 137
+IS  - 
+SP  - 1393-1405
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Managing new and remanufactured products to mitigate environmental damage under emissions regulation
+AU  - Yenipazarli, Arda
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Emissions of greenhouse gases are not as free as they used to be. Under stringent regulations, manufacturers increasingly find that their emissions have a steep monetary, environmental and social price. In manufacturing industry, remanufacturing has an important role to play with its inherent economic, environmental and social opportunities which warrant regulatory action. In this paper, we characterize the optimal emissions taxation policy in order for remanufacturing to deliver those benefits. In particular, using a leader-follower Stackelberg game model, we investigate the impact of emissions taxes on the optimal production and pricing decisions of a manufacturer who could remanufacture its own product. We characterize whether/under what conditions the manufacturer's decision to remanufacture under emissions regulation reduces its environmental impact (as measured by total greenhouse emissions), whilst increasing its profits (a win-win situation). On the policy side, we delineate how emissions taxes can be instituted to realize the inherent economic, environmental and social benefits of remanufacturing (the triple win of remanufacturing). Two critical components of this analysis are the issue of demand cannibalization from the remanufactured product and the low-emission advantage of remanufacturing. We further investigate the impact of remanufacturing- and society-related factors on the balance among firm-level profits, environmental impact and social welfare, where the collection rate of end-of-use products and the cost to the environment turn out to be decisive in deriving the triple win benefits from remanufacturing. Last, we extend our analyses to an emissions trading setting where emissions are regulated using tradeable permits, and investigate the economic implications of remanufacturing under emissions trading vis-a-vis emissions taxation. (C) 2015 Elsevier B.V. and Association of European Operational Research Societies (EURO) within the International Federation of Operational Research Societies (IFORS). All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.ejor.2015.08.020
+VL  - 249
+IS  - 1
+SP  - 117-130
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Coordination of the closed-loop supply chain for product line design with consideration of remanufactured products
+AU  - Aydin, R.
+AU  - Kwong, C. K.
+AU  - Ji, P.
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Research on integrated products and the closed-loop supply chain design has focused on the competition and coordination of manufacturers and supply chain partners. However, the coordination of supply chain partners for product line design (PLD) with consideration of remanufactured products has not been addressed in previous studies. The present study investigates the coordination of a manufacturer and supply chain partners using a game theoretical model for the design of product lines that contain both new and remanufactured products. A multiobjective optimization model based on Stackelberg game theory is formulated to determine the product line solutions, pricing decisions of supply chain partners, and product return rate for remanufacturing. A non-dominated sorting genetic algorithm II is introduced to determine the Pareto optimal solutions of the multiobjective optimization problems. A case study is conducted on the coordination of a manufacturer, chain retailers, and a remanufacturer for the PLD of tablet PCs with consideration of remanufactured tablet PCs to illustrate the applicability and effectiveness of the proposed methodology. (C) 2015 Elsevier Ltd. All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.jclepro.2015.05.116
+VL  - 114
+IS  - 
+SP  - 286-298
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing and effort decisions in a closed-loop supply chain under different channel power structures
+AU  - Gao, Juhong
+AU  - Han, Hongshuai
+AU  - Hou, Liting
+AU  - Wang, Haiyan
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This paper aims to explore the influence of different channel power structures on the optimal decisions and performance of a closed-loop supply chain (CLSC) with price and effort dependent demand, to identify the most profitable channel power structure and to propose coordination strategy for the decentralized CLSC. Considering the demand expansion effectiveness of collection effort and sales effort, centralized and decentralized game theoretic models of a CLSC with one manufacturer and one retailer are built, to investigate optimal decisions of collection effort, sales effort and pricing under different channel power structures, namely manufacturer Stackelberg, vertical Nash and retailer Stackelberg. Through a systematic comparison and numerical analysis, the results show that with dominant power shifting from the manufacturer to the retailer, the retailer's profit always increases and the manufacturer may also benefit when the demand expansion effectiveness of collection effort is large enough. The symmetric channel power structure is the most favorable for both the CLSC and consumers when the demand expansion effectiveness of collection effort is relatively low; otherwise, the CLSC with dominant retailer is the most profitable. Moreover, the proposed low price promotion strategy can effectively enhance the performance of decentralized CLSC. (C) 2015 Elsevier Ltd. All rights reserved.
+DA  - 2016
+PY  - 2016
+DO  - https://doi.org/10.1016/j.jclepro.2015.01.066
+VL  - 112
+IS  - 
+SP  - 2043-2057
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Quantity and collection decisions in a closed-loop supply chain with technology licensing
+AU  - Hong, Xianpei
+AU  - Govindan, Kannan
+AU  - Xu, Lei
+AU  - Du, Peng
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Industry practice has shown that technology licensing has an important effect on the remanufacturing of patented products by third parties. Different licensing methods significantly impact a supply chain member's production and collection decisions, and they also have influential effects on reverse channel performance. However, there is scant literature investigating the decision on technology licensing and its impact on a supply chain member's production and collection decisions. To address this gap, we consider a manufacturer, as the patent holder, who produces new and remanufactured products and, simultaneously, he and a remanufacturer (as the licensee, who by law can only produce remanufactured products) competitively collects used products from the market in a two-period closed-loop supply chain (CLSC). We investigate two licensing patterns, fixed fee versus royalty, within the CLSC in a Cournot duopoly model. We find that royalty licensing is dominated by fixed fee licensing from the viewpoints of both the consumer surplus and environmental protection. Our result also shows that the manufacturer's optimal licensing strategy is determined by a threshold of the fixed fee: when the fixed fee is below a threshold, it is better for the manufacturer to use a royalty licensing, whereas fixed-fee licensing should be used when the fixed fee is higher than a threshold. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2016.06.051
+VL  - 256
+IS  - 3
+SP  - 820-829
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Trade-in and save: A two-period closed-loop supply chain game with price and technology dependent returns
+AU  - Genc, Talat S.
+AU  - De Giovanni, Pietro
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Consumers evaluate the convenience of changing their products according to the price paid as well as the technology (quality) level. When the consumers wish to capitalize the products residual value, they should return them as early as possible. Accordingly, we develop a model of Closed-loop Supply Chain (CLSC) where consumers seek to gain as much as possible from their returns and the return rate is a function of both price and quality. We model a two-period Stackelberg game to capture the dynamic aspects of a CLSC, where the manufacturer is the channel leader. We investigate who, namely, manufacturer or retailer, should collect the products in the market. Thus, we identify the best CLSC structure to adopt when the return rate is both price- and quality-dependent. Our results demonstrate that it is always worthwhile for companies to collect products and adopt an active return approach for returns. We investigate the effect of retail competition in both forward and backward channels and show the impact of eliminating the double marginalization on market outcomes. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ijpe.2016.07.012
+VL  - 183
+IS  - 
+SP  - 514-527
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Competitive advantage of qualified WEEE recyclers through EPR legislation
+AU  - Zhou, Wenhui
+AU  - Zheng, Yanfang
+AU  - Huang, Weixiang
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Most of waste appliances in China are handled by unqualified recyclers, rather than by qualified ones equipped with advanced but costly technology. To address this problem, China implements a series of take-back legislations in the framework of Extended Producer Responsibility (EPR) with a self-financing subsidy scheme. To analyze the performance of the legislations, we develop a two-period model with a selling period run by a manufacturer and a recycling period conducted by two recyclers. We show that the self-financing condition gives an upper limit for the subsidy. We also show that this limit is not monotone in the recyclers' competitiveness difference, and there may be a gap between the upper limit and the optimal subsidy that maximizes the social welfare, i.e., a larger subsidy does not necessarily render a larger welfare. Further, we numerically show that the legislations improve the environment performance, but decrease the total profits of the manufacturer and recyclers. Interestingly, the legislations may or may not decrease the consumer surplus. (C) 2016 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2016.07.050
+VL  - 257
+IS  - 2
+SP  - 641-655
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Sustainable collaborative marketing governance mechanism for remanufactured products with extended producer responsibility
+AU  - Zhao, Xiukun
+AU  - Li, Yongjian
+AU  - Xu, Fangchao
+AU  - Dong, Kunxiang
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The marketing of remanufactured products has been receiving increasing attention from scholars and practitioners from the perspective of sustainable supply chain governance (SSCG) and extended producer responsibility (EPR). However, the research on remanufactured product marketing under EPR and SSCG mechanisms remains more new exploration. A mathematical model for remanufactured product marketing through the lenses of the Nash and Stackelberg game theory and the SSCG and EPR theories is proposed to deepen this issue in the literature based on the case of Caterpillar (CAT), which is a benchmark producer that markets remanufactured products successfully. Findings include the characterization of three marketing decision models with EPR, namely, decentralized marketing decision under the weak dependence relation model, decentralized marketing decision under the strong dependence relation model, and collaborative marketing decision under the strong dependence relation model. Furthermore, this paper includes a classification of marketing governance mechanisms on the basis of the relation between CAT and its retailer and the identification of factors that sustain collaborative marketing governance mechanisms. The managerial insights obtained are useful to practitioners who are seeking for sustainable collaborative marketing governance mechanisms for remanufactured products under EPR and to scholars for further theory development. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2017.08.073
+VL  - 166
+IS  - 
+SP  - 1020-1030
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Collection effort and reverse channel choices in a closed-loop supply chain
+AU  - Liu, Liwen
+AU  - Wang, Zongjun
+AU  - Xu, Lei
+AU  - Hong, Xianpei
+AU  - Govindan, Kannan
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - We investigate the pricing and reverse channel choice decision issues in a closed-loop supply chain, within which the original equipment manufacturer (OEM) sells the new and remanufactured products through a retailer, while collects used products (cores) via dual recycling channels. We consider that collection competition exists between the dual recycling channels and the OEM has three options (i.e., OEM and Retailer dual collecting model, Retailer and Third party dual collecting model and OEM and Third party dual collecting model) to choose for collecting cores. We analytically show that the ranking of certain optimal values among the three optional models are independent of the competition intensity. Our result also shows that the OEM and Retailer dual collecting model is the best option for the OEM regardless of the competition intensity. We further compare our work with the existing optimal results in Hong et al. (2013) and Savaskan et al. (2004) for managerial insights on reverse channel choice. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2016.12.126
+VL  - 144
+IS  - 
+SP  - 492-500
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing, collecting and contract design in a reverse supply chain with incomplete information
+AU  - Zheng, Benrong
+AU  - Yang, Chao
+AU  - Yang, Jun
+AU  - Zhang, Min
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The significance of the reverse supply chain management and remanufacturing operations has been gaining increased attention in the literature and in practice. In this paper, we address the problem of how to make pricing, collecting and contract design decisions in a reverse supply chain, which consists of a collector and a remanufacturer. Two non-cooperative game models are established under complete and incomplete information scenarios, respectively. To begin with, we obtain the equilibrium pricing and effort decisions under complete information case. Then, the first-order conditions that the optimal acquisition price, optimal collection effort, optimal wholesale price and optimal retailing price satisfy are given under incomplete information. The result shows that the incomplete information structure might lead to an efficiency loss in the reverse supply chain. Hence, we then introduce a two-part tariff contract for the remanufacturer to motivate the collector to reveal private information, which can effectively improve the channel performance. Finally, we conduct numerical examples to compare the equilibrium solutions under different models and make the sensitivity analysis for some model parameters. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.cie.2017.07.004
+VL  - 111
+IS  - 
+SP  - 109-122
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Reward-penalty mechanism in a closed-loop supply chain with sequential manufacturers' price competition
+AU  - Wang, Wenbin
+AU  - Fan, Lingling
+AU  - Ma, Peng
+AU  - Zhang, Peng
+AU  - Lu, Zhenye
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - This paper examines reward-penalty mechanism (RPM) for a closed-loop supply chain (CLSC) with two sequential competing manufacturers. Game theoretic models are developed to investigate both cases: no RPM in the CLSC, and RPM with government is implemented in the CLSC. Equilibrium Nash solutions are obtained and the conditions under which RPM is effective are investigated. Results indicate that: (i) RPM lowers the wholesale price and the retail price, while it boosts the sales quantity, profits of the manufacturers, the retailer, and the total profit of CLSC as well as the collection rate, (ii) The collection rate of the follower manufacturer enhances with the incremental substitute coefficient, whereas it does not have effect on the leader manufacturer, (iii) All participants in the CLSC will make ever-increasing profits only when products' substitute coefficient is lower than certain values. Additionally, RPM keeps the market competitive order since it protects the wholesale price of the leader's market leading status. (C) 2017 Published by Elsevier Ltd.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2017.08.104
+VL  - 168
+IS  - 
+SP  - 118-130
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A cooperative negotiation embedded NSGA-II for solving an integrated product family and supply chain design problem with remanufacturing consideration
+AU  - Wu, Zhiqiao
+AU  - Kwong, C. K.
+AU  - Aydin, Ridvan
+AU  - Tang, Jiafu
+T2  - APPLIED SOFT COMPUTING
+AB  - Product family design is a popular approach adopted by manufacturers to increase their product varieties in order to satisfy the needs of various markets. In recent years, because of increasing environmental concerns in societies and strict regulations of environmental protection, quite a number of manufacturers adopted remanufacturing strategy in their product development in response to the challenges. Remanufacturing of used products unavoidably involves a closed-loop supply chain system. To achieve the best outcomes, the supply chain design should be considered in product family design process. In this research, a multi-objective optimization model of integrated product family and closed loop supply chain design is formulated based on a cooperative game model for minimizing manufacturer's total cost and maximize suppliers' total payoffs. Since the optimization problem could be a large- scale one and involves mixed continuous-discrete variables, a new version of nondominated sorting genetic algorithm II (NSGA-II), namely cooperative negotiation embedded NSGA-II (NSGA-CO), is proposed to solve the optimization model. Simulation tests are conducted to validate the effectiveness of the proposed NSGA-CO. The test results indicate that the proposed NSGA-CO outperforms NSGA-II in solving various scale of multi-objective optimization problems in terms of convergence. With the formulated optimization model and the proposed NSGA-CO, a case study of integrated product family and supply chain design is conducted to investigate the effects of environmental penalty, quantity of demand and marginal cost of remanufacturing on used product return rate, manufacturers' and suppliers' profits and joint payoff. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.asoc.2017.03.021
+VL  - 57
+IS  - 
+SP  - 19-34
+J2  - APPLIED SOFT COMPUTING
+ER  - 
+
+
+TY  - JOUR
+TI  - Collection channel and production decisions in a closed-loop supply chain with remanufacturing cost disruption
+AU  - Han, Xiaohua
+AU  - Wu, Haiyan
+AU  - Yang, Qianxia
+AU  - Shang, Jennifer
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - Enterprise risk management (ERM) focuses on managing functions of an entire business, with special attention to supply chain uncertainty. Managing supply chain through effective ERM will mitigate firm exposure to risk in operations and ensure the success of the business. We study collection channel and production decisions in a closed-loop supply chain (CLSC) with one dominant manufacturer and one retailer, from the perspective of both firm profit and system robustness. A robust system is desired as only minimal changes in production plan are necessary when facing disruption, and is valuable for enterprise risk reduction. We find that without disruption the indirect (retailer) collection channel achieves higher profit than that of the direct (manufacturer) channel, which is also true under some disruption cases. However, the direct channel is more robust when facing disruption, and generates more profits for manufacturers when the positive disruption is large. We also find that the revenue-sharing contracts are effective in coordinating members of the CLSC. Finally, we conduct numerical studies to validate the models and derive managerial insights.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1080/00207543.2016.1230684
+VL  - 55
+IS  - 4
+SP  - 1147-1167
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - A two-period model of product cannibalization in an atypical Closed-loop Supply Chain with endogenous returns: The case of DellReconnect
+AU  - Ramani, Vinay
+AU  - De Giovanni, Pietro
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper we develop a two-period model of an atypical Closed-loop Supply Chain (CLSC) consistent with the DellReconnect project. In our setting, a manufacturer (Dell) sells new products in the first period and faces the threat of cannibalization in the second period from a Goodwill agency, which collects and refurbishes the manufacturer's goods and sells them as used products. Surprisingly, and unlike the findings from the marketing literature, cannibalization does-not lower the manufacturer's sales in both periods; however, it does negatively impact the manufacturer's profits and positively affect the Goodwill agency's profits. We demonstrate that in an atypical CLSC, a reduction in the price of new products is never sufficient to counter the negative effect of cannibalization. We then introduce an advertising strategy, through which the manufacturer complements its pricing strategy, endogenizes the returns, and positively affects both the new and used product demands. Although the advertising strategy positively influences the product returns, it continues to be insufficient to counter the negative effect of cannibalization. Interestingly, we now find that cannibalization is detrimental even for the Goodwill agency, whose profits decrease when the cannibalization level exceeds a certain threshold. Finally, we show that when a product resale value option exists, the manufacturer can convert the cannibalization threat into a business opportunity and increase its profits, independent of an advertising strategy. Thus, the manufacturer should always collect through a Goodwill agency when sufficiently large resale value options exist. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2017.03.080
+VL  - 262
+IS  - 3
+SP  - 1009-1027
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Contract and incentive mechanism in low-carbon R&D cooperation
+AU  - Liu, Kening
+AU  - Song, Huaming
+T2  - SUPPLY CHAIN MANAGEMENT-AN INTERNATIONAL JOURNAL
+AB  - Purpose - This paper focuses on how the producer inspires his cooperative research partner to reduce carbon emission, by developing a menu of incentive contracts both in research and development (R&D) stage and recycling stage. Design/methodology/approach - The proposed mechanism combines the researcher with the producer in a two-staged closed-loop system. Based on the concept that the producer takes the environmental responsibility, this paper designs a dynamically updating contract for the producer to encourage low-carbon efforts. Meanwhile, the producer offers a menu of contracts against the asymmetric information, that is, the R&D partner owns private information on his low-carbon R&D capability. According to incentive mechanism, the researcher decides whether to tell the truth and how much effort she would exert in R&D and recycling stages. Findings - Discriminating between different types of researchers hurts the producer's profit. But the updated screening contract can inspire researchers to tell the truth and is beneficial in reducing carbon emissions in the two stages. The results give the optimal solutions of the incentive mechanism. The low-type researcher only obtains reservation profit, whereas the high-type is given more to induce the information. Originality/value - This paper proposes a strategy of updating the contract factors for avoiding adverse selection and moral hazard. Considering the environmental responsibility of waste products, the producer would like to encourage low-carbon designs among the R&D partners in a closed-loop supply chain.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1108/SCM-11-2015-0422
+VL  - 22
+IS  - 3
+SP  - 270-283
+J2  - SUPPLY CHAIN MANAGEMENT-AN INTERNATIONAL JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Values of information sharing: A comparison of supplier-remanufacturing and manufacturer-remanufacturing scenarios
+AU  - Huang, Yanting
+AU  - Wang, Zongjun
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - This paper investigates values of information sharing in supplier-remanufacturing and manufacturer-remanufacturing scenarios where the retailer possesses private demand information. In the supplier-remanufacturing scenario, the supplier acts as the mere component provider. While in the manufacturer-remanufacturing, the supplier acts as both a component provider and a competitor to the manufacturer. We find that information sharing is profitable for both the supplier and the manufacturer, while it is detrimental to the retailer. The supplier with shared information would adjust the wholesale price and acquisition price to reach an equilibrium between forward and reverse flows. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.tre.2017.07.015
+VL  - 106
+IS  - 
+SP  - 20-44
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Research on closed loop supply chain with reference price effect
+AU  - Xu, Jie
+AU  - Liu, Nan
+T2  - JOURNAL OF INTELLIGENT MANUFACTURING
+AB  - This paper considers a closed loop supply chain with the manufacturer as the Stackelberg leader. The manufacturer faces three different reverse channels, i.e., (1) manufacturer-managed, (2) retailer-managed, or (3) third party-managed channels. The reference price affects the purchase decision of consumers. Based on game theory, we discuss the reference price effect on the performances across three decentralized reverse channels, and examine the impact of reference price parameter (i.e., reference price coefficient in this paper) on optimal strategies. We conclude that higher reference price coefficient results in lower manufacturer and retailer profits. However, the profit of the third party increases in the reference price coefficient. In addition, some meaningful insights can be derived by comparison without the reference price effect in our models. We found that the scenario without reference price effect is generally superior to that with reference price effect.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1007/s10845-014-0961-0
+VL  - 28
+IS  - 1
+SP  - 51-64
+J2  - JOURNAL OF INTELLIGENT MANUFACTURING
+ER  - 
+
+
+TY  - JOUR
+TI  - The impact of third-party remanufacturing on the forward supply chain: a blessing or a curse?
+AU  - Jin, Minyue
+AU  - Nie, Jiajia
+AU  - Yang, Feng
+AU  - Zhou, Yu
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - It is widely agreed that the entry of third-party remanufacturers (TPRs) hurts original equipment manufacturers (OEMs) because remanufacturing cannibalises the new product sales. In this paper, motivated by the practice of mobile phone remanufacturing, we develop a game theoretical model to revisit the impact of third-party remanufacturing on a forward supply chain in which one OEM purchases critical components from one dominant supplier. The OEM may operate the remanufacturing business as cost-efficient as the TPR. Our analytical results show that regardless of the OEM's remanufacturing capability, third-party remanufacturing could be beneficial to the OEM in that the supplier would lower the wholesale price as a response to the entry of the TPR; in addition, compared with the case without remanufacturing, third-party remanufacturing is always detrimental to the supplier, but the supplier should not always attempt to deter the entry of the TPR because third-party remanufacturing could be less detrimental than the OEM's in-house remanufacturing. Under certain conditions, the two players in the forward supply chain both prefer third-party remanufacturing over in-house remanufacturing. The key intuition driving this finding is that third-party remanufacturing makes the OEM and the supplier allied; while in-house remanufacturing makes them against each other.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1080/00207543.2017.1357860
+VL  - 55
+IS  - 22
+SP  - 6871-6882
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Two-way product recovery in a closed-loop supply chain with variable markup under price and quality dependent demand
+AU  - Maiti, T.
+AU  - Giri, B. C.
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - This article considers a two-way product recovery in a two-echelon closed-loop supply chain which comprises one manufacturer and one retailer for trading a single product. The market demand of the product is linearly dependent on selling price and product quality. The retailer sets the selling price with a variable markup on the wholesale price of the manufacturer. The manufacturer also sets his wholesale, price with a fixed markup on the production cost of the product. The retailer recovers the used product in two ways. He collects from consumers the used products, which is a fraction of newly sold products in the forward channel. He also collects the used products through an exchange offer and replaces a fraction of the collected used products by new ones. We analyze the proposed model under four different decision structures: decentralized (Nash game), manufacture led and retailer-led Stackelberg games and centralized (cooperative game) structures. We then compare these policies to identify the best policy. We also examine the feasibility of the cooperative game through a bargaining model. To examine the effects of key model-parameters on the decisions, we perform a sensitivity analysis for a numerical example.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ijpe.2016.09.025
+VL  - 183
+IS  - 
+SP  - 259-272
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Two-stage remanufacturing decision makings considering product life cycle and consumer perception
+AU  - Li, Wei
+AU  - Wu, Hang
+AU  - Jin, Mingzhou
+AU  - Lai, Mingyong
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Remanufacturing is widely considered a solution to environmental pollution and resource shortage but its progression is influenced by Original Equipment Manufacturers (OEMs), remanufacturers, consumers and public policy makers. This research studies the optimal price and production quantity of new and remanufactured products with a two-stage model under both scenarios under which the remanufacturing is conducted by the OEM or by the third-party remanufacturer (TPR). A non-cooperative game model is used at the second stage when the TPR conducts remanufacturing. The models consider both the impact of the product life cycle through the market growth factor at the second stage and the influence of consumers' perceived value of new and remanufactured products, which depends on the identity of the remanufacturer. Both theoretical and numerical analyses show that both the life cycle phase and consumers' perception have an impact on the OEM's decision whether to allow the TPR in the remanufacturing business. The results also reveal that the market may not be efficient for maximizing the environmental sustainability and societal equity. Governments may need to interfere with the market in order to promote the TPR manufacturing, especially when the product is at the mature or declining phases of its life cycle. (C) 2017 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2017.05.157
+VL  - 161
+IS  - 
+SP  - 581-590
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Sustainable development by waste recycling under a three-echelon supply chain: A game-theoretic approach
+AU  - Jafari, Hamed
+AU  - Hejazi, Seyed Reza
+AU  - Rasti-Barzoki, Morteza
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - In this study, the economic and environmental aspects of sustainability are considered on the waste recycling process under a three-echelon dual-channel supply chain containing one collector, one recycler, and one manufacturer. To our knowledge, this study is the first one focused on the recyclables under a dual-channel structure. Under the considered structure, the customers' demand for the finished product is specified. Then, the manufacturer procures the product from a recyclable waste with a specific recyclability degree. The collector collects the waste while the recycler recycles it. The manufacturer is also capable to recycle the waste. Thus, he can purchase the recycled materials from the recycler or gets the non-recycled waste from the collector and then recycles it. Under the various power structures, the game-theoretic models are established among the members. Then, the equilibrium strategies are obtained and various managerial insights are revealed. It is found that under the various games, the manufacturer selects the collector when some thresholds are met. When the collector and recycler have similar decision powers, the manufacturer gets higher profit than the situation that they make decisions with different decision powers. Moreover, more the recyclability degree of the waste leads to higher profits for the members. (C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2016.11.051
+VL  - 142
+IS  - 
+SP  - 2252-2261
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Information sharing in a closed-loop supply chain with technology licensing
+AU  - Huang, Yanting
+AU  - Wang, Zongjun
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - This paper analyzes the benefits of information sharing in a closed-loop supply chain with a manufacturer, a distributor and a third party under technology licensing. The distributor has access to private market demand information and decides whether to share information with the manufacturer. We investigate three kinds of remanufacturing scenarios, namely (1) the manufacturer taking the responsibility for remanufacturing, (2) the manufacturer licensing the distributor to undertake remanufacturing, (3) the manufacturer licensing the third party to conduct remanufacturing. We adopt Stackelberg game to obtain equilibrium decisions of each remanufacturing scenario with/without information sharing. We show that, regardless of whether technology licensing exists in remanufacturing models, information sharing always results in a profit increase to the manufacturer and the third party, whilst a profit loss to the distributor. Such profit loss of the distributor can be effectively reduced with the introduction of technology licensing in each remanufacturing model. As for the remanufacturing choice, if the distributor/the third-party saving unit cost is high enough, the manufacturer would prefer distributor/third-party remanufacturing mode with information sharing instead of manufacturer-remanufacturing mode as he could share more remanufacturing benefits by charging a licensing fee from the distributor/the third party. Our study extends and complements prior research that has only examined remanufacturing mode combined with either technology licensing or information sharing.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ijpe.2017.06.008
+VL  - 191
+IS  - 
+SP  - 113-127
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Governance mechanisms of dual-channel reverse supply chains with informal collection channel
+AU  - Li, Yongjian
+AU  - Xu, Fangchao
+AU  - Zhao, Xiukun
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The existence of informal collection channel has been a serious problem for reverse supply chain management in China. Informal collectors interrupt the normal order of end-of-life product collection. To assess this problem, this article explores governance mechanisms of the current recycling system in practical operations from the perspectives of both governments and enterprises. Based on the respective characteristics of two collection channels (i.e., formal and informal), we establish a Stackelberg game model to describe and analyze the dual-channel collection supply chain in which consumer preference to collection channels is considered. Based on the benchmark model, three governance mechanisms set by both governments and formal collectors are introduced and analyzed when deriving optimal decisions and certain parameter properties. This study demonstrates that both governments and collectors can implement appropriate governance mechanisms to control or utilize the informal collection channel under different circumstances on one hand. On the other hand, governance mechanisms set by the government are unenforceable to control informal collection under certain situations. The effectiveness of governance mechanisms is determined based on different channel preferences of consumers and the economic value of the waste electrical and electronic equipment (WEEE). (C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2016.09.084
+VL  - 155
+IS  - 
+SP  - 125-140
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Strategic planning: Design and coordination for dual-recycling channel reverse supply chain considering consumer behavior
+AU  - Feng, Lipan
+AU  - Govindan, Kannan
+AU  - Li, Chunfa
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper, we consider a two-echelon reverse supply chain with dual-recycling channels where the recyclable dealer acts as a Stackelberg game leader and the recycler acts as a follower. Due to the price competition between these two channels, the dominant dealer always faces a challenge on how to strategically design the reverse channel structure. By introducing consumer preference for the online recycling channel into the model, we examine the challenge in three scenarios: single traditional recycling channel, single online-recycling channel, and a hybrid dual-recycling channel with both centralized and decentralized cases. We investigate two problems that are comprised of designing and coordinating a reverse supply chain with a traditional and an online recycling channel. The results show that the dual-recycling channel always outperforms its single channel counterparts from the recyclable dealer's and system's perspectives. In the coordination problem, a contract with transfer and online recycling prices can coordinate the dual-recycling channel reverse supply chain but harms the dealer. Therefore, we propose two complementary contracts - a two-part tariff contract and a profit sharing contract - which succeed in coordinating the reverse supply chain system and create a win-win situation. Finally, numerical examples illustrate the model, and results show that the consumer preference for online recycling affects the acceptance of the above contracts for the recyclable dealer. (C) 2017 Elsevier B.V. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.ejor.2016.12.050
+VL  - 260
+IS  - 2
+SP  - 601-612
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Closed-loop supply chain models with product take-back and hybrid remanufacturing under technology licensing
+AU  - Huang, Yanting
+AU  - Wang, Zongjun
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - The economical and environmental benefits of remanufacturing have been widely recognized in literature and practical life. In this paper, we consider a closed-loop supply chain consisting of a manufacturer, a distributor and a third party, who are engaged in producing remanufactured products. Additionally, the manufacturer as the channel leader tends to cooperate with the distributor and the third party by technology licensing. Specifically, we develop three hybrid remanufacturing models: (1) the manufacturer collects and remanufactures used products by herself (Model M), (2) the manufacturer re manufactures a fraction of used products and licenses the distributor to remanufacture while the distributor collects used products (Model MD), (3) the manufacturer remanufactures a fraction of used products and licenses the third party to remanufacture while the third party collects used products (Model MT). We discuss the impacts of remanufacturing ability on the chain members and environmental sustainability, and also analyze the role of saving unit cost in the remanufacturing process. Moreover, we apply the Stackelberg game to attain the equilibrium strategies from the perspective of chain members' profits. The profit of the manufacturer, the distributor and the third party reaches the most in Model M, Model MD and Model MT, respectively. These results can help achieve an optimal approach of hybrid remanufacturing in a closed-loop supply chain.(C) 2016 Elsevier Ltd. All rights reserved.
+DA  - 2017
+PY  - 2017
+DO  - https://doi.org/10.1016/j.jclepro.2016.10.065
+VL  - 142
+IS  - 
+SP  - 3917-3927
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - A decision model for a strategic closed-loop supply chain to reclaim End-of-Life Vehicles
+AU  - Shankar, Ravi
+AU  - Bhattacharyya, Shisam
+AU  - Choudhary, Alok
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - Closed-loop supply chain strategies for End-of-Life (EOL) products and their logistics operations have received greater attention in recent years from supply chain research community. These strategies include warranty-based acquisition, quantity-based acquisition, quality-based acquisition, centrally coordinated logistics operations and third-party logistics (3PL) operations. The proposed research integrates two important aspects of an automobile's closed-loop supply chain strategy. The first aspect is optimal transportation planning for raw material parts, newly manufactured and EOL products in a closed-loop supply chain, using demand, collection rate and capacity of associated facilities in the network as functional parameters. We formulated a mixed integer mathematical model for the closed-loop supply chain network with a multi-echelon inventory, multi-period planning and multi-product scenario, which are used to compute the maximum contribution margin generated through different strategies. The second aspect pertains to using the output of the proposed model in first stage to handle the sequential form of a cooperative game. The proposed two-phase decision model analyzes the realization times and delivery limits of different products as an indicator of swapping different strategies. We analyze three instances to understand and validate the applicability of the model. In these scenarios, sensitivity analysis has been performed to demonstrate the robustness of the proposed model. We present managerial insights, leading to flexibility in decision making. It is observed that the demand, collection rate and capacity of network facilities create highly sensitive trilogy for the contribution margin of proposed network. The outcome of this research firstly confers optimal amounts of mass flows in the closed loop supply chain network from a state of the end product (new products, recycled products and non-recycled used products) to a state of the raw material (ferrous metal, non-ferrous metal and shredder fluff). Secondly, authors culminated a confound dichotomy among all reintegration strategies (conveyance, acquisition and cannibalization) by distinct enumeration and quantification (regarding realization times and delivery limits) of each one to forge a robust planning horizon for original equipment manufacturer.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ijpe.2017.10.005
+VL  - 195
+IS  - 
+SP  - 273-286
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal return and rebate mechanism in a closed-loop supply chain game
+AU  - Genc, Talat S.
+AU  - De Giovanni, Pietro
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Within a Closed-loop Supply Chain (CLSC) framework we study several consumer return behaviors for the used products which are based on the product prices and rebates. Consumers evaluate the rebate they receive as well as the price of the new product before deciding whether to dump a return. Therefore, the number of used products returned is examined under two types of rebates: a fixed rebate and a variable rebate. We search for the optimal rebate mechanism and find that the CLSC profits are higher under an variable rebate policy. This finding justifies the industry practices that employ a rebate mechanism based on both the value and the price of used item. We offer two types of solution concepts to the CLSC games: open-loop Stackelberg solution and Markov perfect Stackelberg solution, which are commonly employed in the dynamic games literature. While we mainly employ Markovian equilibrium, we also allow firms to utilize open-loop strategies so as to assess the impact of precommitment on the market outcomes. Therefore, we offer a comprehensive analysis of all possible market equilibrium solutions under different strategic considerations and the commitment deliberations. We show that under the fixed rebate regime open-loop solution coincides with Markov perfect solution. Furthermore, we show how consumer return behavior impacts the dynamic nature of the game. We find that the time frame is irrelevant if firms offer a fixed rebate. In contrast, the game will be fully dynamic when firms offer a variable rebate. (C) 2018 Elsevier B.V. All rights reserved.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1016/j.ejor.2018.01.057
+VL  - 269
+IS  - 2
+SP  - 661-681
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+

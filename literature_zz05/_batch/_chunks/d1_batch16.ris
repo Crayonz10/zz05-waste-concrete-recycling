@@ -1,0 +1,479 @@
+TY  - JOUR
+TI  - Life cycle assessment of construction and demolition waste upcycling: A critical review of studies from 2010 to 2025
+AU  - Chen, Ying
+AU  - Ou, Yifu
+AU  - Mohamed, M. Shadi
+AU  - Bao, Zhikang
+T2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+AB  - Upcycling construction and demolition waste (CDW) not only enhances material performance and functional value, but also offers environmental co-benefits, thereby promoting a circular economy within the construction industry. Life Cycle Assessment (LCA) has gained widespread recognition as an effective tool for evaluating the environmental impacts of CDW upcycling. Although the body of research in this area has expanded in recent years, a systematic understanding of how LCA is applied across different upcycling practices remains limited. To address this gap, this paper aims to examine how LCA has been used to evaluate the environmental impacts of CDW upcycling. A systematic literature review was conducted, covering 46 studies published between 2010 and 2025, identified through searches in Scopus and the Web of Science Core Collection. The review reveals that recycled concrete waste materials are the primary focus of upcycling research. Among the three main upcycling methods, physical processing is the most commonly used due to its fundamental role in material transformation. A significant proportion of upcycled CDW materials is applied in structural applications, particularly as loadbearing components in buildings and infrastructure. Since upcycling technologies are still in the developmental stage, existing studies mainly focus on the environmental benefits from resource extraction to production, with particular emphasis on the impacts of CDW upcycling on air pollution and climate change. Accordingly, this study develops a Structural Framework for Upcycling and a Technical Framework for LCA, aiming to systematically integrate LCA research for CDW upcycling. Future research should concentrate on three key areas: (1) establishing a comprehensive LCA framework, (2) optimizing the sustainability of upcycling processes, and (3) improving the accuracy of LCA calculations. This study provides a valuable roadmap for researchers and practitioners to enhance LCA applications in CDW upcycling, thereby accelerating the transition toward a circular economy in the construction sector.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.dibe.2025.100685
+VL  - 22
+IS  - 
+SP  - 100685
+J2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Recyclability potential of multi-generation carbonated recycled aggregate concrete under coupling action of high stress and freeze-thaw cycles
+AU  - Zhu, Xudong
+AU  - Zhu, Pinghua
+AU  - Liu, Hui
+AU  - Yan, Xiancui
+AU  - Chen, Chunhong
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - With the growing emphasis on sustainable construction, multi-generation recycling of waste concrete has gained increasing attention due to its dual environmental and economic advantages. However, existing studies have largely underestimated the detrimental effects of real-service environments on the recyclability of recycled concrete, particularly freeze-thaw cycles. This study systematically investigates the properties of repeatedly recycled aggregates (RRA) and carbonated RRA (CRRA) after freeze-thaw-loading exposure, along with the durability of repeatedly recycled aggregate concrete (RRC) and carbonated RRC (CRRC). The results demonstrate that successive multi-generation recycling processes lead to progressive deterioration in both RRA and CRRA. Pore structure characterization reveals that carbonation treatment unexpectedly exhibits high efficacy in enhancing the properties of freeze-thaw-damaged RRA, increasing apparent density by 5.4 %, while reducing water absorption, crushing value, and mass loss by 38.0 %, 20.6 %, and 24.9 %, respectively. In concrete, third-generation CRRC (CRRC3) achieved a compressive strength of 33.0 MPa, withstanding 62.6 % more than RRC3, attributable to the enhanced cement hydration of fresh mortar induced by carbonation products. Moreover, CRRC1 and CRRC2 could withstand 300 and 250 freeze-thaw cycles without failure, respectively, with an increase of 50 cycles than RRC1 and RRC2. Notably, CRRC3 exhibited a 43.3 % improvement in chloride penetration resistance compared to RRC3, satisfying the permeability index for a 50-year design service life of structural concrete in an E-type chloride environment as stipulated in relevant standards. In general, it is feasible to apply accelerated carbonation treatment as a modification technique to enhance the properties of RRC exposed to freeze-thaw and chloride-rich environments.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jobe.2025.114333
+VL  - 114
+IS  - 
+SP  - 114333
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - A novel computer vision-based approach for autonomous building facade material stock estimation
+AU  - Rajaratnam, Dilakshan
+AU  - Stewart, Rodney A.
+AU  - Liu, Tingting
+AU  - Vieira, Abel Silva
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Estimating building stock at the elemental level is essential for a circular economy. However, the lack of information on building stock due to considerable time and costs associated with data collection poses a significant challenge in large-scale analysis. This study employed computer vision-based fa & ccedil;ade classification and weighted material intensity to estimate building fa & ccedil;ade material stock using a bottom-up approach. Autonomous semantic enhancements on fa & ccedil;ade material typologies and opening areas aided better estimation of building-facing materials' weight. ResNet 50 deep learning architecture was chosen, with an F1 score of 0.77 and 80 % accuracy. Most fa & ccedil;ade classes have achieved a relatively high level of accuracy of predictions. Common Brick, Face Brick, Concrete Blocks, and Concrete were identified as the most widespread fa & ccedil;ade materials in the model deployed area of interest: Southport (SA3), City of Gold Coast, Australia. The model provides the necessary foundations for progressing circular economy and urban metabolism efforts.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.resconrec.2025.108311
+VL  - 219
+IS  - 
+SP  - 108311
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - A carbon footprint assessment for usage of recycled aggregate and supplementary cementitious materials for sustainable concrete: A life-cycle perspective in China
+AU  - Ma, Xiaosong
+AU  - Hu, Haibo
+AU  - Luo, Yu
+AU  - Yao, Wu
+AU  - Wei, Yongqi
+AU  - She, Anming
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Recycled coarse aggregates (RCA) from construction and demolition (C&D) waste have emerged as a sustainable solution to the challenges of natural resource depletion and C&D waste disposal. However, amidst the global push to reduce carbon emissions, the embedded carbon in the recycling and transport processes of RCA has prompted questions about their effectiveness in mitigating concrete-related emissions. This study first compares the carbon footprint of RCA sourced from fixed and mobile plants with that of natural aggregates (NA). A twostage transport model is incorporated to highlight the contrasting carbon emission characteristics of recycling RCA via these two modes in urbanized areas. Since supplementary cementitious materials (SCMs) are commonly used in concrete to improve performance and significantly reduce carbon emissions, the life cycle assessment (LCA) is further performed to explore the synergistic potential of combining RCA with SCMs for greater carbon mitigation. The results underscore the potential for reducing emissions from concrete by substituting NA with RCA recycled from both mobile and fixed plants. Sensitivity analysis further illustrates that the carbon reduction benefits of RCA can be enhanced by optimizing waste recycling programs. Considering both the technical characteristics and emissions of concrete, a combination of RCA and SCMs emerges as a more effective solution to mitigate emissions sustainably. It is anticipated that the results will provide valuable data and technical insights for policymakers.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jclepro.2025.144772
+VL  - 490
+IS  - 
+SP  - 144772
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - The hazards and resource utilization of construction and demolition waste
+AU  - Zhang, Yanan
+AU  - Xian, Bensen
+AU  - Liao, Chenchen
+AU  - Lu, Ruifang
+AU  - Sun, Wenkai
+AU  - Wang, Mei
+AU  - Bai, Shaoyuan
+AU  - Zhang, Qin
+AU  - Liu, Huili
+AU  - Xu, Dandan
+AU  - Fu, Mingming
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - The escalating volume of construction and demolition waste (CDW) worldwide poses critical challenges to environmental safety and public health. While existing literature has addressed CDW management, a systematic comparison of the effectiveness, limitations, and trade-offs between international regulatory frameworks and component-specific recycling technologies remains underrepresented. To address this disadvantage, this review introduces a novel dual-analysis framework that concurrently examines technological pathways and policy mechanisms. We begin by synthesizing the environmental impacts of CDW across soil, water, and air compartments, highlighting the urgency of advancing resource-oriented solutions. The study further conducts a parallel assessment of resource recovery technologies for major CDW streams, evaluating their maturity, performance, and application barriers, alongside an analysis of regulatory regimes in leading economies, revealing critical disparities between policy intent and practical implementation. Ultimately, this analysis identifies key bottlenecks spanning technical, economic, and governance dimensions, and concludes with integrated recommendations to inform future research, policy formulation, and sustainable management strategies for CDW.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.jenvman.2025.128218
+VL  - 397
+IS  - 
+SP  - 128218
+J2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Establishing a Market for Carbon-Neutral Technology in Concrete Waste Recycling by Sequestering Flue CO2: An Evolutionary Game Theory-Based Case Study in Hong Kong
+AU  - Besklubova, Svetlana
+AU  - Kravchenko, Ekaterina
+AU  - Kasprzhitskii, Anton
+AU  - Lazorenko, Georgy
+AU  - Zhong, Ray Y.
+T2  - JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT
+AB  - The construction sector significantly impacts the environment through concrete waste and CO2 emissions. Carbonation technology not only enhances the strength properties of recycled materials such as recycled concrete aggregate (RCA) and waste concrete powder (WCP) but also sequesters CO2, thereby potentially increasing the value of RCA and WCP for concrete production. Large-scale adoption of this technology can reduce CO2 emissions, improve air quality, and enhance recycling by utilizing flue CO2 from cement plants, creating efficient practices and new business opportunities. However, the financial feasibility of scaling up carbonation technology in concrete recycling remains underexplored, particularly in relation to market incentives and stakeholder behavior. This study addresses this gap by developing an integrated decision-making framework that combines evolutionary game theory, cost-benefit analysis, and rationality constraints to guide the formation of carbon-neutral construction markets. This paper assesses the financial motivations of key stakeholders-governments, recycling facilities, and cement manufacturers-to establish a concrete recycling market, focusing on integrating flue CO2 and underutilized WCP. Based on evolutionary game theory, this study establishes a robust framework that integrates benefit-cost analysis and the individual rationality condition to comprehensively address technical, environmental, and financial factors while analyzing strategic decisions and optimizing stakeholder interactions. This study highlights the importance of balanced CO2 pricing in the initial market development stage to minimize subsidies and ensure financial sustainability. With a subsidy, CO2 is priced at 1,456 HKD/t; without it, the price rises to 1,525 HKD/t, requiring adjustments to RCA and WCP prices or additional subsidies to maintain stability. In a stable market without subsidies, the recycling facility can achieve financial independence by procuring CO2 at 1,456 HKD/t, with minimum product prices of 156 HKD/t for RCA and 159 HKD/t for WCP to cover costs and remain competitive. This study offers key insights to kickstart the market for carbon-neutral waste-based concrete production, advancing the sustainability of the construction and demolition recycling industry. Additionally, it supports the development of carbon markets, enabling organizations that capture and sequester CO2 to earn carbon credits, further promoting sustainable practices.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1061/JCEMD4.COENG-17592
+VL  - 152
+IS  - 4
+SP  - 4026017
+J2  - JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Recovered cement paste for recycling and production of cement in different countries
+AU  - Prajapati, Rohit
+AU  - Joseph, Shiju
+AU  - Burdiles, Patricio A.
+AU  - Allwood, Julian M.
+AU  - Dunant, Cyrille F.
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Using waste concrete as recycled aggregates is a down-cycling practice because cement paste, responsible for 80-90 % emissions and 40-60 % cost in concrete, is not extracted. A better approach is to separate cement paste from aggregates, which can produce better quality recycled aggregates and recovered cement paste (RCP) with high calcium content. This paper compares processing techniques for producing RCP and proposes a new classification currently absent from reports and standards. We evaluate potential RCP applications in cement production, as raw meal for clinker production and for cement replacement after forced carbonation. Further, we evaluate potential of quality-adjusted substitution of RCP for cement production across a panel of countries, with a range of different economic status, to outline optimal practices for cement recycling. Finally, this paper aims to change the perception of concrete waste, showing that when processed efficiently, it can be recycled into cement with minimal loss at each cycle.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.resconrec.2025.108580
+VL  - 225
+IS  - 
+SP  - 108580
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - Local Heroes: Construction firms pioneering circular innovation
+AU  - Chioatto, Elisa
+AU  - Montanaro, Alessandro
+AU  - Mazzanti, Massimiliano
+T2  - ECOLOGICAL ECONOMICS
+AB  - Innovation in the construction sector is critical to reducing environmental impacts, yet the adoption of circular innovations remains poorly understood. This paper examines the determinants of circular innovation adoption among 376 construction firms in the Emilia-Romagna region of Italy, based on an original survey dataset. Our analysis reveals that R&D investments increase the likelihood of circular innovation adoption by 24 percentage points, while larger firm size raises it by 13 points. Local market orientation exerts a strong positive effect: firms generating at least 50 % of their turnover locally are 15 percentage points more likely to adopt a circular innovation. Regulatory factors are not significant in aggregate, but become decisive for specific circular practices such as selective demolition and the use of sustainable inputs. Theoretically, the study demonstrates that circular innovations follow different adoption dynamics than traditional innovations in the construction industry, with proximity-based networks and local material flows playing a central role. Policy-wise, findings highlight the need to support R&D, especially in smaller firms, strengthen targeted regulatory incentives, and foster local inter-firm collaborations to reduce transaction costs and overcome secondary material quality risks.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.ecolecon.2025.108862
+VL  - 241
+IS  - 
+SP  - 108862
+J2  - ECOLOGICAL ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Consumer innovation resistance and green technological innovation behavior: an evolutionary game approach
+AU  - Li, Xingwei
+AU  - Zhou, Guichuan
+AU  - Yi, Beiyu
+T2  - JOURNAL OF INNOVATION & KNOWLEDGE
+AB  - Green technology innovation (GTI) is crucial for enhancing the resource utilization of construction and demolition waste (CDW). However, consumer resistance to products made from recycled CDW significantly constrains their advancement. Existing studies largely emphasize government policies and technological progress, while the pivotal influence of consumer innovation resistance remains underexplored. This study applies evolutionary game theory, grounded in innovation resistance theory, to examine the long-term interactive dynamics between consumers and building material manufacturers (BMMs). The results reveal that (1) both consumers' stronger willingness to purchase green innovative products and BMMs' higher initial intention to adopt GTI foster sustainable green development; and (2) the degree of consumer innovation resistance exerts heterogeneous effects on BMMs' GTI decisions, whereas consumer green preferences consistently stimulate GTI adoption. Overall, this study elucidates the evolutionary mechanisms through which consumer innovation resistance and green preferences affect BMMs' GTI behavior, addressing a key gap in the CDW domain. It further offers theoretical guidance for enterprises to mitigate innovation resistance, refine GTI strategies, and advance sustainable innovation in the construction industry.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.jik.2025.100905
+VL  - 12
+IS  - 
+SP  - 100905
+J2  - JOURNAL OF INNOVATION & KNOWLEDGE
+ER  - 
+
+
+TY  - JOUR
+TI  - Axial behavior of RBA concrete column confined with lipped cold-formed steel box
+AU  - Roy, Pranoy
+AU  - Samanta, Amiya K.
+T2  - JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH
+AB  - The rapid industrial and infrastructural growth throughout the globe generates a huge amount of Construction and Demolition (C&D) waste annually, which is mostly dumped and, as a result, degrades the environment largely. Recycled Brick Aggregate (RBA), which is mainly available from demolition of old masonry structures, can be processed as C&D waste, but it is primarily used for non-structural purposes due to its low strength and high water absorption capacity. On the other hand, cold formed steel is also used for non-structural applications due to its susceptibility to local buckling; however, it has proven its efficiency in providing passive confinement to concrete through enhanced load-carrying capacity and improved ductility. This study proposes a sustainable solution by considering a composite system of RBA concrete stub columns confined with thin-walled cold-formed steel, utilizing waste RBA to develop an effective structural solution for low-cost housing. In the present investigation, an experimental and numerical study on the axial compressive behaviour of seventy-five short columns has been conducted, where Natural Coarse Aggregate (NCA) was replaced with RBA in variable percentages of 0, 30, 50, 70 and 100, considering M30 grade concrete. The samples were divided into unconfined and confined samples with 1mm and 1.5mm thick cold formed lipped box sections of height 300mm and 500mm, respectively. Experimental results show improved performance in samples up to 30% replacement of NCA with RBA. The experimental peak loads were compared with existing codal stipulations and Finite Element Models (FEM). Based on the experimental data and findings, a Response Surface Methodology (RSM) based predictive equation is proposed for calculating the peak load applicable to similar configurations.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.jcsr.2026.110248
+VL  - 239
+IS  - 
+SP  - 110248
+J2  - JOURNAL OF CONSTRUCTIONAL STEEL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Evaluating the impact of soft management policies on construction and demolition waste recycling efficiency: A hybrid simulation-machine learning approach
+AU  - Ding, Zhikun
+AU  - Wen, Xinping
+AU  - Teng, Yue
+AU  - Wu, Huanyu
+T2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+AB  - Construction and demolition waste (CDW) recycling plays a critical role in sustainable development, yet the sector faces a low recycling rate and ineffective management practices. While current CDW recycling management predominantly employs government-led rigid measures, the potential of soft management approaches remains critically underexplored. To address this, this study evaluates the impact of soft management policies and identifies optimal strategies through an empirical study. An agent-based model embedded with back-propagation neural networks was innovatively developed and validated using data from 1005 residential projects in Shenzhen, China. Results reveal that soft management policies significantly enhance recycling rates and generate greater environmental, economic, and social benefits compared to rigid policies. Among soft policies, guidance policy performs best, increasing recycling rates by 14.13 %, followed by voluntary (7.24 %) and incentive (4.32 %) policies, while mandatory policy shows minimal improvement (0.24 %). However, a hybrid policy combining soft and rigid measures delivers the highest benefits, nearly three times those of the baseline policy. This study provides empirical support for integrating system simulation and machine learning to address CDW recycling management. More importantly, these findings advance scholarly understanding of the effects of soft management on CDW recycling and offer valuable insights for governments to refine CDW recycling policies, promoting a more sustainable future in the built environment.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.eiar.2025.108161
+VL  - 117
+IS  - 
+SP  - 108161
+J2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Large-scale analysis of environmental and circularity metrics in construction products through automated data extraction using large language models
+AU  - Verges, Roger
+AU  - Gaspar, Katia
+AU  - Forcada, Nuria
+T2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+AB  - The selection of construction products significantly impacts building practices as well as environmental and biodiversity outcomes. However, current Environmental Product Declarations (EPDs) lack standardized circularity metrics and contain highly heterogeneous, manufacturer-dependent data, which severely limits sectorwide assessments and data-driven decision-making. Existing methods fail to systematically extract and structure this fragmented information at scale, creating a critical barrier to benchmarking circularity-related metrics, such as circular origin, dismantlability potential, and end-of-life pathways, and environmental performance across construction products. This study addresses this gap by introducing a novel Large Language Model (LLM)based approach for the reliable extraction and standardization of data from diverse EPDs. Applying this method to 8463 products reveals three key findings: (i) manufacturers deprioritize circular end-of-life pathways; (ii) environmental and biodiversity impacts vary substantially both within and across product categories based on material composition; and (iii) a circularity paradox persists, whereby products sourced circularly often end up in landfills. Methodologically, this research establishes the first scalable procedure for comprehensive benchmarking of circularity-related metrics and environmental performance in construction products. Practically, it identifies critical intervention points including the standardization of circularity and environmental reporting in EPDs, the promotion of digital product passports, and the reinforcement of industrial symbiosis with transformation companies. For policymakers, the results highlight how existing regulatory shortcomings perpetuate linear economic models and obstruct consistent, equitable reporting, highlighting the urgent need for more stringent, standardized disclosure requirements to enable nuanced environmental comparisons.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.eiar.2025.108243
+VL  - 117
+IS  - 
+SP  - 108243
+J2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Environmental assessment of waste-derived materials in 3D concrete printing and cast-in-place construction through a BIM-integrated multi-scale life cycle assessment framework
+AU  - Kocaer, Oznur
+T2  - JOURNAL OF BUILDING ENGINEERING
+AB  - The construction sector urgently requires low-carbon and resource-efficient alternatives to conventional OPC-based mortar/concrete. Ordinary Portland cement (OPC) production remains one of the most carbon-intensive industrial processes, while construction and demolition waste (CDW) continues to grow worldwide, undermining circular economy goals. This study addresses both challenges by integrating CDW-derived alkali-activated binders (AABs) with 3D concrete printing (3DCP) and evaluating the environmental performance through a two-stage life cycle assessment (LCA) consistent with ISO 14040/44 and EN 15978. Stage 1 compares the cradle-togate impacts of CDW-based AABs with an OPC-based reference mortar and a geopolymer reference mortar. Stage 2 links Building Information Modeling (BIM) and LCA to quantify the cradleto-handover impacts of a single-storey 3D-printed building against a functionally equivalent castin-place (CIP) reference building. Results indicate that optimized CDW-based alkali-activated mortars can reduce global warming potential by up to 80% relative to the OPC-based reference, while 3DCP further reduces building-scale impacts by nearly 90% through formwork elimination and material efficiency. Material production remains the dominant hotspot for both systems, with alkaline activators identified as key contributors. Overall, coupling waste-derived binders with digital additive manufacturing provides a viable pathway toward circular, low-carbon construction and supports global decarbonization targets for the built environment.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.jobe.2026.115554
+VL  - 120
+IS  - 
+SP  - 115554
+J2  - JOURNAL OF BUILDING ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Managing risks in reverse logistics supply chains of demolition waste: A systematic literature review
+AU  - Illeperuma, I. E.
+AU  - Wijewickrama, M. K. C. S.
+AU  - Edwards, David J.
+T2  - ENVIRONMENTAL DEVELOPMENT
+AB  - Alongside implementing circular economic principles, the concept of reverse logistics supply chains (RLSCs) of demolition waste (DW) has captured the construction industry's attention. Due to the escalating risk vulnerability, risk management (RM) in RLSCs of DW has emerged as a critical requirement yet, has not been reviewed extensively. To address this knowledge gap, this study synthesises extant literature to develop a comprehensive RM framework for RLSCs of DW. This was accomplished through two objectives viz.: i) to explore the existing level of scientific development in RM for RLSCs of DW; and ii) to study how risks are managed in RLSCs of DW with the aim of identifying key risks, risk assessment procedures, existing mitigation strategies, and potential gaps that need to be addressed for resilient and efficient DW management practices. In total, 35 pertinent articles sourced from two search engines published between 2000 and 2024 were subjected to descriptive and content analysis. Most articles reviewed collected data through field measurements/sample testing and originated from developed countries. The waste reprocessing stage is the most vulnerable to various risks, including health and safety, environmental, industrial, social and regulatory risks. Effective risk mitigation strategies proposed include establishing favourable policies and incentives, enhancing awareness, improving information sharing, incorporating innovative technologies, ensuring multi-stakeholder engagement and adopting safety measures. The study significantly contributes to RM in RLSCs of DW by providing an overarching foundation via the proposed conceptual framework, which guides organisations to articulate an appropriate RM strategy.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.envdev.2025.101427
+VL  - 58
+IS  - 
+SP  - 101427
+J2  - ENVIRONMENTAL DEVELOPMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Robust referring image segmentation for construction and demolition waste recognition
+AU  - He, Jun
+AU  - Jiang, Tao
+AU  - Hong, Sunyan
+AU  - Sun, Jihong
+AU  - Hu, Xingran
+T2  - WASTE MANAGEMENT
+AB  - Automated sorting is critical for improving the recycling rates of Construction and Demolition Waste (CDW), a significant global waste stream. While language-guided recognition-a technology known as Referring Image Segmentation (RIS)-offers a potential frontier for flexible and intelligent sorting, its practical deployment is hindered by a considerable lack of robustness. These systems often fail when operator instructions are ambiguous or do not correspond to objects in the visual scene-common occurrences in dynamic industrial environments-leading to sorting errors and reduced material purity. To address this challenge, this study introduces RefSegformer-CDW, a robust recognition framework explicitly designed to enhance the reliability of automated CDW sorting. The architecture integrates a cross-modal verification mechanism that enables the system to reject invalid commands, preventing costly sorting errors. The Ref-CODD dataset was developed to facilitate the development and validation of such robust systems, the first benchmark featuring real-world CDW imagery paired with adversarial negative samples that simulate challenging operational scenarios. Experimental results on the Ref-CODD dataset demonstrate the effectiveness of the proposed RefSegformer-CDW. It achieves a mean Intersection over Union (mIoU) of 94.03%, surpassing the state-of-the-art by 1.24 percentage points. The framework shows high stability under varying illumination, with the mIoU dropping by only 2.38 percentage points between dark and normal lighting conditions. Moreover, it maintains robust performance across diverse waste types, achieving an average overall Intersection over Union (oIoU) of 93.90% on ten different CDW categories.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.wasman.2025.115245
+VL  - 210
+IS  - 
+SP  - 115245
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - A review of recycled micro-powder concrete: material treatment, performance and mechanism
+AU  - Zhou, Changshun
+AU  - Wang, Dapeng
+AU  - Zhan, Peimin
+AU  - Tao, Hongyu
+AU  - Li, Mingyong
+AU  - Wang, Juan
+T2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+AB  - Recycled micro-powder (RP), composed primarily of recycled concrete powder and recycled brick powder derived from construction and demolition waste, has emerged as a promising sustainable supplementary cementitious material in concrete production. Owing to its inherent pozzolanic reactivity and micro-filler effect, RP contributes to refining pore structures and enhancing both the fresh and hardened properties of cement-based materials. This review provides a comprehensive overview of the physicochemical characteristics and hydration potential of RP, critically evaluating its effects on workability, mechanical performance, and durability. Furthermore, the environmental and economic implications of RP utilization are discussed, emphasizing its potential to reduce energy consumption, lower carbon emissions, and conserve natural resources. Finally, key research gaps are identified, and future directions are proposed to advance the practical application of RP in developing low-carbon, sustainable concrete.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.dibe.2026.100861
+VL  - 25
+IS  - 
+SP  - 100861
+J2  - DEVELOPMENTS IN THE BUILT ENVIRONMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Integrating metaheuristic optimization algorithms with random forest to predict waste generation in construction and demolition projects
+AU  - Awad, Ruba
+AU  - Budayan, Cenk
+AU  - Calik, Idil
+AU  - Gurgun, Asli Pelin
+AU  - Koc, Kerim
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - The construction sector is a significant source of global waste, making accurate and proactive prediction of Construction and Demolition Waste (C&DW) essential for sustainable resource management and circular economy efforts. However, estimating C&DW at the project level remains a major challenge. This paper investigates whether C&DW prediction accuracy can be enhanced by integrating the Random Forest (RF) model with two metaheuristic optimization algorithms: the Archimedes Optimization Algorithm (AOA) and Grey Wolf Optimization (GWO). Based on data from 200 real-world projects in Palestine, the GWO-RF model achieved the highest predictive accuracy using only four input variables: project type, start date, building type, and number of floors. To ensure model transparency, Shapley Additive Explanations (SHAP) analysis confirmed that project type and the number of floors were the most influential parameters. This study thus provides a practical, robust, and highly accurate model to support effective waste management strategies in the construction industry.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.autcon.2025.106732
+VL  - 182
+IS  - 
+SP  - 106732
+J2  - AUTOMATION IN CONSTRUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - DIGITAL TWIN-ENABLED REVERSE SUPPLY CHAIN FOR BUILDING DEMOLITION WASTE MANAGEMENT
+AU  - Su, Shuaiming
+AU  - Yang, Yishu
+AU  - Besklubova, Svetlana
+AU  - Song, Jidong
+AU  - Kong, Xiang T. R.
+AU  - Zhong, Ray Y.
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The increasing volume of building demolition waste (BDW) has exerted significant pressure on the ecological environment. In response, governmental bodies, corporations, and academia have made considerable efforts in the field of BDW management. However, the recycling and reuse rates of BDW remain below expectations. This shortfall is primarily attributed to the limited digitalization across the waste disposal chain, which hinders seamless information exchange and, consequently, the efficient circulation of BDW. Additionally, the underdeveloped state of the reverse supply chain (RSC) further exacerbates this issue. To address these challenges, this study proposes a digital twin-enabled RSC as a novel paradigm for BDW management. By leveraging digital twin technology, the monitoring of BDW treatment processes and information sharing among stakeholders can be significantly enhanced, thereby laying a digital foundation for efficient resource circulation. Furthermore, by comprehensively assessing the recyclable value of BDW, a market-oriented circulation channel is explored to ensure profitability for stakeholders within the RSC. The BDW RSC is constructed based on the classic fivedimensional digital twin model. A mathematical model is developed to analyze the impact of internal and external factors within the RSC on the cost-benefit dynamics of demolition contractors. A case study, based on a real estate project in Beijing, is conducted to validate the framework. Finally, ten key implications are derived from the framework and case study to offer practical insights for stakeholders engaged in BDW RSC management.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.cie.2025.111605
+VL  - 211
+IS  - 
+SP  - 111605
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Total recycling of waste concrete in sustainable concrete production through CO2 mineralization: Strength, durability, and corrosion issues
+AU  - Chen, Bingcheng
+AU  - Miao, Xu
+AU  - Jia, Bin
+AU  - Wang, Yuzhou
+AU  - Hu, Zhiyuan
+AU  - Peng, Ligang
+T2  - WASTE MANAGEMENT
+AB  - CO2 mineralization technology provides a technically feasible strategy to achieve the high-value recycling of waste concrete as a carbon sink, aiming to achieve the carbon neutrality goal in the construction sector. In this study, CO2 mineralization technology was harnessed to enhance recycled aggregate (RA) and recycled powder (RP) to fully replace natural aggregate (NA) and partially replace cement, thereby developing carbonated recycled aggregate concrete incorporating carbonated RP (CRAC-CRP). The results show that the physical and mechanical properties of RA were enhanced after CO2 mineralization due to the reduction of porosity and the refinement of pore size. Furthermore, CRAC-CRP achieved 90-day compressive strength within similar to 7% of natural aggregate concrete, together with a similar to 16% strength gain from 28 to 90 days. Additionally, CRAC-CRP showed 4.5% lower water absorption and 24.7% lower chloride migration coefficient than recycled aggregate concrete at 90 days. Under chloride exposure, CRAC-CRP maintained more positive open-circuit potential and higher polarization resistance for 200 days, whereas depassivation occurred after 105-180 days in mixes without carbonated constituents. A cradle-to-gate life cycle assessment indicated up to a similar to 33% reduction in CO2 emissions and similar to 28% lower carbon intensity, together with similar to 25% reduced production cost, confirming both environmental and economic advantages of this approach.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.wasman.2026.115407
+VL  - 214
+IS  - 
+SP  - 115407
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Real-time plastic waste segmentation for sustainable resource recovery in construction
+AU  - Ranjbar, Iman
+AU  - Ventikos, Yiannis
+AU  - Arashpour, Mehrdad
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - The construction and demolition (C&D) sector is a major contributor to Australia's total waste, with reports indicating continuous annual growth. Among this waste, end-of-life plastic represents a valuable recyclable material with significant recovery potential. However, effective separation of plastic waste remains a challenge due to the highly cluttered and heterogeneous nature of C&D waste. This study focuses on the detection and segmentation of C&D plastic waste using advanced instance segmentation models to enable efficient waste sorting and recycling. A large, specialised dataset is curated, capturing the complex and very often deformed nature of C&D plastic waste across seven key categories: buckets, cables, drums, insulation, liquid containers, pipes, and PVC profiles. The dataset features a high density of objects per image, ensuring robust model training and generalisation in real-world scenarios. State-of-the-art instance segmentation models, including FastInst, RTMDet-Ins, YOLOv9, and YOLOv11, are trained and evaluated on this dataset. Among these, YOLOv11 demonstrated the highest performance, achieving a mean Average Precision (mAP) of 51.3 while maintaining a real-time inference speed of 89 frames per second (FPS). A systematic analysis of the models' strengths and limitations is provided, highlighting challenges associated with segmenting highly cluttered and overlapping objects. Additionally, EigenCAM visualisations are used to interpret the model's decision-making process. The findings demonstrate that the proposed models achieve accurate segmentation of C&D plastic waste, contributing to improved resource recovery and the advancement of a circular economy within the construction industry.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.resconrec.2025.108719
+VL  - 227
+IS  - 
+SP  - 108719
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - A nexus of barriers and strategies for circular economy implementation in the construction industry: A structural equation modeling approach
+AU  - Abdulai, Sulemana Fatoama
+AU  - Nani, Gabriel
+AU  - Taiwo, Ridwan
+AU  - Zayed, Tarek
+AU  - Jimoh, Azeez Arisekola
+AU  - Mogbojuri, Akinlo Olorunju
+T2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+AB  - The construction industry's significant environmental footprint, consuming 40% of global raw materials and generating 33% of greenhouse gas emissions, necessitates an urgent transition from linear to circular economy (CE) models. While previous research has identified individual barriers and strategies for CE implementation, the quantitative relationship between these constructs remains unexplored. This study addresses this gap by developing and validating a framework linking CE barriers to implementation strategies in Ghana's construction industry using Partial Least Squares Structural Equation Modeling (PLS-SEM). Through a systematic literature review, 21 barriers were categorized into four constructs: market policy and technology-related, legal and institutional, supply chain-related, and product design and waste management barriers. A structured questionnaire survey of construction professionals in Ghana validated the measurement model and tested the hypothesized barrier-strategy relationship. Results demonstrate a strong positive relationship (beta = 0.731, p < 0.05) between CE barriers and strategies, with barriers explaining 53.5% of variance in strategy adoption. Market policy and technology-related barriers emerged as most influential (beta = 0.482), followed by legal and institutional barriers (beta = 0.352). Eight critical strategies were identified for CE implementation, including enhanced building waste management regulations, stakeholder education, and national action plan development. The validated framework provides evidence-based insights for policymakers and practitioners in Ghana to develop targeted interventions that address CE barriers while promoting effective CE strategies in the building sector.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.eiar.2026.108397
+VL  - 119
+IS  - 
+SP  - 108397
+J2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Modeling the environmental benefits of recycling infrastructure demolition waste into recycled aggregate concrete bricks
+AU  - Song, Xiaoming
+AU  - Yuan, Yu
+AU  - Guo, Yangyang
+AU  - Tang, Bao-Jun
+T2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+AB  - The continued growth of infrastructure demolition waste (IDW) in China highlights a persistent mismatch between waste generation and resource recovery capacity. Recycling IDW into recycled aggregate concrete bricks (RACB) offers a scalable pathway to alleviate environmental pressures while promoting circular construction practices. However, existing studies are constrained by fragmented life-cycle inventories, static project-level system boundaries, and the lack of dynamic representations of infrastructure-derived waste streams. Consequently, they fail to comprehensively track material flows or elucidate the broader environmental consequences associated with large-scale RACB deployment. In response, we develop an IDW-to-RACB environmental benefit assessment (IREBA) model to quantify the environmental benefits of recycling IDW into RACB across various policy scenarios. Our results show that from 2020 to 2060, IDW recycling could cumulatively generate 1583.85 Mt of recycled aggregate, which is adequate for 1836.63 Mt of RACB fabrication. Regarding source composition, RACB derived from ordinary highway demolition accounts for majority share (81.54%), followed by contributions from railways (8.70%), urban roads (6.42%), and expressways (3.33%). Recycling IDW could avoid 84.30 Mt CO2-eq, 10.98 t CFC-11-eq, 0.032 Mt PM2.5-eq, 0.016 Mt 1,4-DB-eq, 95.68 t P-eq, and 0.094 Mt SO2-eq. It could also conserve 11.57 Mt oil-eq in energy consumption and reduce land occupation by 246.98 million m2 & sdot;yr cropland-eq, although it would incur an increased freshwater usage by 1.26 million m3. Among the policy interventions assessed, extending infrastructure lifespan yields the most substantial long-term environmental benefits, outperforming strategies focused on increasing resource utilization or adopting advanced recycling technologies by around 2030.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.eiar.2026.108408
+VL  - 120
+IS  - 
+SP  - 108408
+J2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - A novel approach to forecasting product end-of-life circularity from material compositions using a hybrid autoencoder-predictor model
+AU  - Verges, Roger
+AU  - Gaspar, Katia
+AU  - Forcada, Nuria
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Construction and demolition activities are a major source of industrial waste, yet material end-of-life circularity and traceability remain poorly understood. This study addresses the challenge of forecasting end-of-life pathways from building material compositions by introducing a hybrid autoencoder-predictor model. The approach encodes material profiles into continuous embeddings and considers additional design parameters to predict probable end-of-life scenarios. Trained on 8,680 environmental product declaration-derived samples, the model achieved a mean error of 0.01%, MAE of 3.3%, RMSE of 6.2%, and R2 = 0.82. Results identify key materials that enable recycling and highlight the importance of design-for-disassembly and recycled content in guiding end-oflife decisions. Besides, findings also reveal that end-of-life reporting practices are somewhat inconsistent, especially for reuse, filling, reconditioning, and composting, highlighting opportunities for policy and reporting standard enhancements. By enabling probabilistic forecasting of end-of-life outcomes, this tool supports transparent material traceability and informs procurement, policy development, and sustainable design.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.resconrec.2025.108573
+VL  - 224
+IS  - 
+SP  - 108573
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - An analytical framework of quantifying carbon emission impacts of construction and demolition waste circularity and trading: A case study of the UK
+AU  - Ou, Yifu
+AU  - Darko, Amos
+AU  - Manzardo, Alessandro
+AU  - Mora, Luca
+AU  - Bao, Zhikang
+T2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+AB  - Developing a circular economy (CE) for construction and demolition waste (CDW) presents a promising pathway to decarbonize the construction industry by reducing reliance on carbon-intensive primary material production. However, most existing studies rely on life cycle assessment (LCA) approaches and treat CDW flows as isolated processes, overlooking the broader economy-wide emission consequences and distributional effects arising from complex inter-sectoral and inter-regional material and energy flows. This limitation risks underestimating the full carbon mitigation potential of CDW circularity, thereby hindering progress toward the Net-Zero targets pledged by most global economies. This study introduces a novel analytical framework integrating LCA with environmentally extended input-output (EEIO) analysis to quantify the environmental impacts of CDW circularity, explicitly accounting for sectoral and regional trading linkages. Applying the framework to the United Kingdom (UK), this study estimates carbon emissions and potential savings under multiple CDW circularity scenarios for the year 2018. The results indicate that material use for domestic final demand and exports generates approximately 159 and 170 million tonnes of CO2, respectively, while CDW circularity achieves only modest emission savings of 2-3 million tonnes (<1%). Reuse scenarios deliver greater reductions than recycling, with the most significant benefits observed in secondary and tertiary industries, particularly from the circular use of metallic and wood materials. Despite the UK's high CDW recovery rate, inefficient treatment pathways and weak alignment between recovered-material supply and industrial demand constrain the net-zero potential of CDW circularity. Enhancing recovery efficiency, advancing cleaner technologies, and improving material productivity are therefore critical for supporting the UK's net-zero transition. This study is novel in pioneering one of the first LCA-EEIO analytical frameworks for evaluating the economy-wide environmental impacts of CDW circularity, providing a scalable methodological foundation and system-level evidence for global economies seeking to accelerate their pathways toward Net-Zero targets.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.eiar.2026.108343
+VL  - 118
+IS  - 
+SP  - 108343
+J2  - ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - From waste to carbon benefits - A dynamic spatiotemporal model for assessing carbon reduction potential in urban concrete recycling systems
+AU  - Wang, Xiangjin
+AU  - Huang, Beijia
+AU  - Zhang, Xi
+AU  - Liu, Qiong
+AU  - Wang, Yao
+AU  - Long, Yuqiong
+T2  - RESOURCES CONSERVATION AND RECYCLING
+AB  - Urbanization has intensified the challenge of managing waste concrete, thereby making recycling essential for sustainable resource management. However, the absence of a methodology to assess the carbon reduction potential of municipal waste concrete recycling limits the accurate quantification of emission reduction potential. This study integrates material flow analysis and life cycle assessment to develop a dynamic model that captures regional spatial variations alongside temporal changes in energy consumption and technological advancement. Taking Shanghai as a case study, we project that waste concrete generation will peak at 18 million tons in 2052, with cumulative unrecycled waste reaching 290 million tons by 2060. Over the period 2023-2060, central districts generate 37.82% of waste but rely on peripheral processing, a spatial mismatch requiring cross-regional facility planning and phased capacity expansion strategies. Through scenario analysis, technological optimization (TO) scenario, which achieves a 48% reduction in baseline emissions, yields greater cumulative carbon benefits than the energy transition (ET) scenario; the synergistic optimization (SO) scenario yields the lowest cumulative carbon benefits, 95.4 kt CO2e. The scenario results indicate that deeper decarbonization may shrink carbon mitigation potential of recycled waste. This model developed in this study provides a practical tool to evaluate waste recycling benefits under different future scenarios and to inform regional decisions such as coordinated facility siting and capacity expansion.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.resconrec.2025.108538
+VL  - 224
+IS  - 
+SP  - 108538
+J2  - RESOURCES CONSERVATION AND RECYCLING
+ER  - 
+
+
+TY  - JOUR
+TI  - EXPERIMENTAL RESEARCH ON ROAD BASE MADE OF RECYCLED AGGREGATE FROM WASTE CONCRETE IN COMPLEX ENVIRONMENTAL CONDITIONS
+AU  - Shi, Jing
+AU  - Wang, Xinzheng
+AU  - He, Ping
+T2  - JOURNAL OF ENVIRONMENTAL PROTECTION AND ECOLOGY
+AB  - The recycling and reuse of waste concrete not only curb environmental pollution, but also save natural aggregate resources, bringing remarkable social, economic and environmental benefits. This paper prepares recycled aggregate from waste concrete, and determines its basic properties: apparent density (AD), water absorption (WA), crushing index (CI), and bulk density (BD). On this basis, the authors theoretically analysed the feasibility of replacing natural aggregate with recycled aggregate to make road lime-fly ash concrete (LFAC), and experimentally determined the main performance indices of recycled aggregate lime-fly ash macadam, including peak dry density (PDD), optimal water content (OWC), unconfined compressive strength (UCS), and indirect tensile strength (ITS). The results demonstrate the feasibility of lime-fly ash stabilised aggregate base in road engineering.
+DA  - 2022
+PY  - 2022
+VL  - 23
+IS  - 4
+SP  - 1469-1476
+J2  - JOURNAL OF ENVIRONMENTAL PROTECTION AND ECOLOGY
+ER  - 
+

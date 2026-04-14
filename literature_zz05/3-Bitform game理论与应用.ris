@@ -1,0 +1,697 @@
+TY  - JOUR
+TI  - Biform games
+AU  - Brandenburger, Adam
+AU  - Stuart, Harborne
+T2  - MANAGEMENT SCIENCE
+AB  - Both noncooperative and cooperative game theory have been applied to business strategy. We propose a hybrid noncooperative-cooperative game model, which we call a biform game. This is designed to formalize the notion of business strategy as making moves to try to shape the competitive environment in a favorable way. (The noncooperative component of a biform game models the strategic moves. The cooperative component models the resulting competitive environment.) We give biform models of various well-known business strategies. We prove general results on when a business strategy, modelled as a biform game, will be efficient.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1287/mnsc.1060.0591
+VL  - 53
+IS  - 4
+SP  - 537-549
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - The horizontal scope of the firm: Organizational tradeoffs vs. buyer-supplier relationships
+AU  - Chatain, Olivier
+AU  - Zemsky, Peter
+T2  - MANAGEMENT SCIENCE
+AB  - Horizontal scope-the set of products and services offered-is an important dimension of firm strategy and a potentially significant source of competitive advantage. On one hand, the ability to build close buyer-supplier relationships over multiple transactions can give an advantage to broad firms that offer buyers one-stop shopping. On the other hand, the existence of organizational tradeoffs can give an advantage to firms that specialize in a narrower range of products or services. We develop a biform game that incorporates this tension and show how the use of three generic scope strategies-specialist, generalist, and hybrid-depends on organizational tradeoffs, client-specific scope economies, barriers to entry heterogeneity in buyer task requirements, and the bargaining power of suppliers relative to buyers. We then use the model to study a variety of issues in supply chain management, including the gains to coordinating suppliers, the optimal level of buyer power, and the desirability of subsidizing suppliers. One of our objectives is to show how biform games, which introduce unstructured negotiations into game theory analysis, can be used to develop applied theory relevant to strategy. Generalizing from our stylized model, we identify a class of biform games involving buyers and suppliers that is useful for strategy analysis. Games in this class have the attractive property of each supplier's share of industry total surplus being the product of its added value and its relative bargaining power.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1287/mnsc.1060.0680
+VL  - 53
+IS  - 4
+SP  - 550-565
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Creating monopoly power
+AU  - Stuart, Harborne W., Jr.
+T2  - INTERNATIONAL JOURNAL OF INDUSTRIAL ORGANIZATION
+AB  - The standard analysis of monopoly assumes that the seller has price-setting power. Without this assumption, it is not clear what monopoly power is or whether it exists. To address this question, this paper uses the core of a TU game in place of price-setting. The core provides a model of competition in which outcomes can be interpreted as the consequences of free-form bargaining or negotiations. This paper shows that if a core analysis is embedded in a capacity choice context, monopoly power can be created with credible undersupply. But in monopoly, a core analysis also shows that competition only partially determines the outcomes. Using a biform game analysis, this paper shows that the monopolist's view of this indeterminacy directly affects its capacity choice. A moderate view of the indeterminacy generates outcomes that are more socially beneficial than setting a uniform price. The two extreme views of the indeterminacy are shown to generate results consistent with uniform pricing and perfect price-discrimination. (C) 2007 Elsevier B.V. All rights reserved.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1016/j.ijindorg.2007.05.001
+VL  - 25
+IS  - 5
+SP  - 1011-1025
+J2  - INTERNATIONAL JOURNAL OF INDUSTRIAL ORGANIZATION
+ER  - 
+
+
+TY  - JOUR
+TI  - Lateral capacity exchange and its impact on capacity investment decisions
+AU  - Chakravarty, Amiya K.
+AU  - Zhang, Jun
+T2  - NAVAL RESEARCH LOGISTICS
+AB  - We study the problem of capacity exchange between two firms in anticipation of the mismatch between demand and capacity, and its impact on firm's capacity investment decisions. For given capacity investment levels of the two firms, we demonstrate how capacity price may be determined and how much capacity should be exchanged when either manufacturer acts as a Stackelberg leader in the capacity exchange game. By benchmarking against the centralized system, we show that a side payment may be used to coordinate the capacity exchange decisions. We then study the firms' capacity investment decisions using a biform game framework in which capacity investment decisions are made individually and exchange decisions are made as in a centralized system. We demonstrate the existence and uniqueness of the Nash equilibrium capacity investment levels and study the impact of firms' share of the capacity exchange surplus on their capacity investment levels. (c) 2007 Wiley Periodicals, Inc.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1002/nav.20235
+VL  - 54
+IS  - 6
+SP  - 632-644
+J2  - NAVAL RESEARCH LOGISTICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Brokers and competitive advantage
+AU  - Ryall, Michael D.
+AU  - Sorenson, Olav
+T2  - MANAGEMENT SCIENCE
+AB  - The broker profits by intermediating between two (or more) parties. Using a biform game, we examine whether such a position can confer a competitive advantage, as well as whether any such advantage could persist if actors formed relations strategically. Our analysis reveals that, if one considers exogenous the relations between actors, brokers can enjoy an advantage but only if (1) they do not face substitutes either for the connections they offer or the value they can create, (2) they intermediate more than two parties, and (3) interdependence does not lock them into a particular pattern of exchange. If, on the other hand, one allows actors to form relations on the basis of their expectations of the future value of those relations, then profitable positions of intermediation only arise under strict assumptions of unilateral action. We discuss the implications of our analysis for firm strategy and empirical research.
+DA  - 2007
+PY  - 2007
+DO  - https://doi.org/10.1287/mnsc.1060.0675
+VL  - 53
+IS  - 4
+SP  - 566-583
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - VALUE CREATION AND VALUE CAPTURE WITH FRICTIONS
+AU  - Chatain, Olivier
+AU  - Zemsky, Peter
+T2  - STRATEGIC MANAGEMENT JOURNAL
+AB  - We use a formal value-based model to study how frictions-incomplete linkages in the industry value chain that keep some parties from meeting and transacting-affect value creation and value capture. Frictions arise from search and switching costs and moderate the intensity of industry rivalry and the efficiency of the market. We find that firms with a competitive advantage prefer industries with less, but not zero, frictions. We show that rivalry interacts nontrivially with other competitive forces to affect industry attractiveness. Firm heterogeneity emerges naturally when we introduce resource development. Heterogeneity falls with frictions, but the sustainability of competitive advantage increases. Overall, we show that introducing frictions makes value-based models very effective at integrating analyses at the industry, firm, and resource levels. Copyright (C) 2011 John Wiley & Sons, Ltd.
+DA  - 2011
+PY  - 2011
+DO  - https://doi.org/10.1002/smj.939
+VL  - 32
+IS  - 11
+SP  - 1206-1231
+J2  - STRATEGIC MANAGEMENT JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Biform game: Reflection as a stochastic programming problem
+AU  - Summerfield, Nichalin S.
+AU  - Dror, Moshe
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In this paper we examine the biform games modeling framework. More specifically, we recast biform games as two-stage stochastic programming with recourse. The two-stage stochastic programming view of biform games is demonstrated in this paper on an example from Brandenburger and Stuart (2007) regarding a coordination game. We claim that our stochastic programming format for biform games allows for a well established mathematical methodology to enrich the modeling options when applied to biform competitive and cooperative game options. Published by Elsevier B.V.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1016/j.ijpe.2012.10.021
+VL  - 142
+IS  - 1
+SP  - 124-129
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - COMPETITION, GOVERNANCE, AND RELATIONSHIP-SPECIFIC INVESTMENTS: THEORY AND IMPLICATIONS FOR STRATEGY
+AU  - Jia, Nan
+T2  - STRATEGIC MANAGEMENT JOURNAL
+AB  - This paper uses biform games to examine the endogenous decision to invest in relationship-specific assets. It addresses the questions of how competition affects suppliers' decisions to produce a general-purpose product or a relationship-specific product for a buyer and under what circumstances a governance arrangement designed to share investment costs between the transacting parties increases the investment in relationship-specific assets. We offer a balanced perspective that emphasizes both the superior transaction value of relationship-specific products and their high transaction costs while considering the competition effects generated by alternative investment plans. The model and its extensions generate new insights into investment decisions regarding relationship-specific assets. Copyright (C) 2013 John Wiley & Sons, Ltd.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1002/smj.2077
+VL  - 34
+IS  - 13
+SP  - 1551-1567
+J2  - STRATEGIC MANAGEMENT JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - Organization and Bargaining: Sales Process Choice at Auto Dealerships
+AU  - Bennett, Victor Manuel
+T2  - MANAGEMENT SCIENCE
+AB  - This paper examines how firms' organizational form affects prices negotiated. Negotiated prices are one factor determining whether a vendor or customer captures the value from a transaction. Firms that systematically negotiate more effectively capture more value. Research has investigated individual- and market-level determinants of negotiation outcomes, but little has been done on the firm-level determinants of negotiated prices. I present a first look at one feature, sales process: whether salespeople handle the entire sale in parallel or customers begin with less experienced salespeople who can escalate difficult assignments. I model firms' choice of sales process as a biform game and test predictions of the model using a combination of transaction-level data on new car purchases in the United States and a unique survey of dealership management practices. I find that a serial process has implications consistent with improving firms' bargaining power and reducing customers' outside options.
+DA  - 2013
+PY  - 2013
+DO  - https://doi.org/10.1287/mnsc.1120.1691
+VL  - 59
+IS  - 9
+SP  - 2003-2018
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Manufacturers' coalition under a price elastic market - a quadratic production game approach
+AU  - Mahjoub, Sonia
+AU  - Hennet, Jean-Claude
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - The paper addresses a supply network design problem in which a set of enterprises decides to organise itself as a multi-stage supply network by resource sharing and production coordination. A biform game theory formulation of the problem is obtained by combining the cooperative sub-game in the manufacturing network with the strategic sub-game of the Stackelberg type between the retailer and the manufacturers' network. As a result of the interaction between these two sub-games, a new type of cooperative game, the quadratic production game, is formulated to describe the supply network design problem under anticipated price elastic demands from the market. The key problem of coalitional stability is addressed through the properties of rationality and fairness of the profit sharing agreement. We prove that the game is non-convex in general and thus, the fair solution given by the Shapley value allocation is not always rational. It is proposed to reinforce the coalition stability by selecting a minimal set of partner enterprises achieving the maximal expected profit and applying a profit sharing policy with guaranteed fairness restricted to the member enterprises.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1080/00207543.2013.874605
+VL  - 52
+IS  - 12
+SP  - 3568-3582
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Surplus division and investment incentives in supply chains: A biform-game analysis
+AU  - Feess, Eberhard
+AU  - Thun, Joern-Henrik
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper, we use a biform-game approach for analyzing the impact of surplus division in supply chains on investment incentives. In the first stage of the game, firms decide non-cooperatively on investments. In the second stage, the surplus is shared according to the Shapley value. We find that all firms have inefficiently low investment incentives which, however, depend on their position in the supply chain. Cross-subsidies for investment costs can mitigate, but not eliminate the underinvestment problem. Vertical integration between at least some firms.yields efficient investments, but may nevertheless reduce the aggregated payoff of the firms. We show how the size of our effects depends on the structure of the supply chain and the efficiency of the investment technology. Various extensions demonstrate that our results are qualitatively robust. (C) 2013 Elsevier B.V. All rights reserved.
+DA  - 2014
+PY  - 2014
+DO  - https://doi.org/10.1016/j.ejor.2013.09.039
+VL  - 234
+IS  - 3
+SP  - 763-773
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Design Incentives Under Collective Extended Producer Responsibility: A Network Perspective
+AU  - Gui, Luyi
+AU  - Atasu, Atalay
+AU  - Ergun, Ozlem
+AU  - Toktay, L. Beril
+T2  - MANAGEMENT SCIENCE
+AB  - A key goal of Extended Producer Responsibility (EPR) legislation is to provide incentives for producers to design their products for recyclability. EPR is typically implemented in a collective system, where a network of recycling resources are coordinated to fulfill the EPR obligations of a set of producers, and the resulting system cost is allocated among these producers. Collective EPR is prevalent because of its cost efficiency advantages. However, it is considered to provide inferior design incentives compared to an individual implementation (where producers fulfill their EPR obligations individually). In this paper, we revisit this assertion and investigate its fundamental underpinnings in a network setting. To this end, we develop a new biform game framework that captures producers' independent design choices (noncooperative stage) and recognizes the need to maintain the voluntary participation of producers for the collective system to be stable (cooperative stage). This biform game subsumes the network-based operations of a collective system and captures the interdependence between producers' product design and participation decisions. We then characterize the manner in which design improvement may compromise stability and vice versa. We establish that a stable collective EPR implementation can match and even surpass an individual implementation with respect to product design outcomes. In particular, we show that when the processing technology efficiency and product recyclability are substitutes (complements), a recycling network where processor capacity pooling leads to sufficiently low (high) cost reduction will lead to superior designs in the collective system and maintain its stability, and we propose cost allocation mechanisms to achieve this dual purpose.
+DA  - 2018
+PY  - 2018
+DO  - https://doi.org/10.1287/mnsc.2017.2897
+VL  - 64
+IS  - 11
+SP  - 5083-5104
+J2  - MANAGEMENT SCIENCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Organic Food Labeling and Advertising: A Tripartite Game Model between One Supplier and Two Heterogeneous Manufacturers
+AU  - Wang, Jun
+AU  - Yao, Song
+AU  - Lu, Xinman
+AU  - Li, Yu
+T2  - COMPLEXITY
+AB  - The development of the organic food industry is of great significance to the environment and society as consumers increasingly prefer green and healthy food. However, certain production and investment problems must be solved. A tripartite game model is established in this study to investigate the labeling and advertising investment decisions in an organic food supply chain composed of one supplier and two heterogeneous manufacturers by the biform game approach. In addition, a subsidy mechanism is introduced to alleviate underinvestment. The results show that, first, the supplier will label if labeling cost is relatively low without considering advertising investment. Second, the supplier will not label if advertising investment is considered because of the diffusion of responsibility mentality, and both manufacturers will invest in advertising as a result of equilibrium in dominant strategies. Third, the advertising subsidy mechanism can achieve Pareto improvement and coordinate the supply chain. Finally, manufacturer heterogeneity will lead to differentiated subsidy strategies that the supplier can claim to give additional subsidies to the weak manufacturer, thereby weakening the diffusion of responsibility mentality.
+DA  - 2019
+PY  - 2019
+DO  - https://doi.org/10.1155/2019/3143416
+VL  - 2019
+IS  - 
+SP  - 3143416
+J2  - COMPLEXITY
+ER  - 
+
+
+TY  - JOUR
+TI  - The promotion of community energy projects in Chile and Scotland: An economic approach using biform games
+AU  - Fuentes Gonzalez, Fabian
+AU  - Hendrik van der Weijde, Adriaan
+AU  - Sauma, Enzo
+T2  - ENERGY ECONOMICS
+AB  - We model simple and novel three-player bi-form coalitional games to analyse community energy projects in Chile and Scotland. We take into account two methods based on biform games, which deal with games with a non-empty Core and an empty Core, respectively, and construct models based on real-world data on community energy projects, net billing (or distributed generation) schemes, and ordinary utility contracts. We then use these to derive insights about the economic-strategic viability of community energy projects, in the sense of stability within the projects or coalitions and competitiveness versus the other schemes. Under some mild assumptions, we find that community energy projects can be the best strategy to follow for residential electricity customers in Scotland and Chile. Cost subsidisation can further improve community energy incentives. Moreover, after a statistical simulation, we find that community energy projects present more opportunities to be implemented in comparison with net billing schemes in both countries. We use these results to draw conclusions for the community energy sector and show that biform games can be a valuable tool to analyse increasingly complex electricity markets. (C) 2020 Elsevier B.V. All rights reserved.
+DA  - 2020
+PY  - 2020
+DO  - https://doi.org/10.1016/j.eneco.2020.104677
+VL  - 86
+IS  - 
+SP  - 104677
+J2  - ENERGY ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - The choice of value-based strategies under rivalry: Whether to enhance value creation or bargaining capabilities
+AU  - Almeida Costa, Afonso
+AU  - Zemsky, Peter
+T2  - STRATEGIC MANAGEMENT JOURNAL
+AB  - Research Summary The value-based perspective emphasizes the importance of both value creation and bargaining for firm performance. While formal theoretical work has focused on value creation strategies, empirical evidence suggests that substantial performance differences also arise from heterogeneity in bargaining. We develop a model where rival firms choose value-based innovation strategies to enhance either value creation or bargaining capabilities. We show a tendency for homogeneous strategy choices, with coordination on bargaining promoting firm value capture at the expense of overall industry value creation. We identify conditions for strategic heterogeneity, wherein a firm that enhances its bargaining capability risks the sustainability of its competitive advantage. Our model incorporates a natural distinction between incremental and radical value-creating innovations, which influences the risk-return tradeoffs faced by firms in their strategies. Managerial Summary A critical strategy choice for a firm's management is where to focus innovation efforts. Should it be on increasing the value the firm creates with other players, or on enhancing the firm's ability to bargain for a greater share of existing value creation? We develop a theory to inform such choices among rival firms. We show that there can be opportunities for rival firms to enhance their performance by coordinating innovation efforts on bargaining rather than on a race for value creation. However, the ability to coordinate on bargaining is undermined when value-creating innovations allow firms to disrupt extant market structures, in which case the pursuit of high-risk, high-return value-creating innovations may become attractive to individual firms even at the expense of overall industry profitability.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1002/smj.3282
+VL  - 42
+IS  - 11
+SP  - 2020-2046
+J2  - STRATEGIC MANAGEMENT JOURNAL
+ER  - 
+
+
+TY  - JOUR
+TI  - When good deals need help getting done: Articulating side payment strategies
+AU  - Fox, Brian C.
+AU  - Grove, Sergio
+AU  - Souder, David
+T2  - LONG RANGE PLANNING
+AB  - Value creation often requires coordinated action by multiple firms. Existing research on valuebased strategy emphasizes situations where both parties reasonably anticipate sharing the gains to cooperation and develop arms-length contracts through bargaining. Less existing research on value-based strategy addresses situations where value-creating market transactions fail to occur because one party expects to be worse off from coordinated action, precluding their participation. Although vertical integration or informal contracts potentially overcome this reticence, these solutions are not always feasible or incur costs of their own. We model how firms may be able to strike a stable deal and create value by employing a side payment strategy. This technique mitigates transactional frictions by playing a biform game with a cooperative first stage, which modifies the payoffs in a non-cooperative second stage so that coordinated action becomes feasible in a stable agreement. We also extend the basic analysis to consider variations in contract enforceability, reneging, and presence of multiple counterparties.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.1016/j.lrp.2021.102072
+VL  - 54
+IS  - 6
+SP  - 102072
+J2  - LONG RANGE PLANNING
+ER  - 
+
+
+TY  - JOUR
+TI  - A Biform Game Model with the Shapley Allocation Functions
+AU  - Liu, Chenwei
+AU  - Xiang, Shuwen
+AU  - Yang, Yanlong
+T2  - MATHEMATICS
+AB  - We define the mixed strategy form of the characteristic function of the biform games and build the Shapley allocation function (SAF) on each mixed strategy profile in the second stage of the biform games. SAF provides a more detailed and accurate picture of the fairness of the strategic contribution and reflects the degree of the players' further choices of strategies. SAF can guarantee the existence of Nash equilibrium in the first stage of the non-cooperative games. The existence and uniqueness of SAF on each mixed strategy profile overcome the defect that the core may be an empty set and provide a fair allocation method when the core element is not unique. Moreover, SAF can be used as an important reference or substitute for the core with the confidence index.
+DA  - 2021
+PY  - 2021
+DO  - https://doi.org/10.3390/math9161872
+VL  - 9
+IS  - 16
+SP  - 1872
+J2  - MATHEMATICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A Biobjective Biform Game Approach to Optimizing Strategies in Bilateral Link Network Formation
+AU  - Liang, Kai-Rong
+AU  - Li, Deng-Feng
+T2  - IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS
+AB  - The purpose of this article is to present a novel biobjective biform game framework for optimizing strategy selection of nodes (agents) in bilateral link network formation under dual objectives of profit and link security. First, in the first part of the noncooperative game, we construct various possible strategy combinations (situations) of all players (nodes) in the network, which define the competitive environment in the second part of the cooperative game. Second, in the second part, we derive coalitions' payoffs under the two objectives of profit and link security and propose the biobjective Banzhaf values to allocate the corresponding cooperative games in all strategy situations. Then, a biobjective noncooperative game is formed on the basis of the obtained biobjective Banzhaf values. Third, we redefine Pareto-Nash equilibriums (in the sense of pure strategies) and obtain the Pareto-Nash equilibriums of the biobjective noncooperative game in the first part. Subsequently, the choice of the obtained Pareto-Nash equilibriums is regarded as a biobjective group decision-making problem, which is solved by employing the redefined Borda choice function method with objective weights. Hence, we can obtain the optimal strategy choices of all the nodes (players) for the entire bilateral link network formation. Finally, numerical examples and comparative analysis are given to verify the validity and applicability of the proposed models and methods.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1109/TSMC.2020.3034480
+VL  - 52
+IS  - 3
+SP  - 1653-1662
+J2  - IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - THE TRADE-OFF BETWEEN CORPORATE SOCIAL RESPONSIBILITY AND COMPETITIVE ADVANTAGE: A BIFORM GAME MODEL
+AU  - Zhao, Xiaoyang
+AU  - Tan, Justin
+AU  - Zhong, Shuxin
+T2  - TECHNOLOGICAL AND ECONOMIC DEVELOPMENT OF ECONOMY
+AB  - This paper uses a biform game model to study firms' trade-offs between corporate social responsibility (CSR) and competitive advantage. We focus on the context in which a competitive advantage may lead to a non-profitable scenario. It is possible that the first mover's investment in competitive strength may deter itself from the market, which encourages firms' investment in CSR over competitive strength. As a result, in some circumstances, firms may actively choose a CSR strategy over a competitive strategy. Our results show that (1) technological characteristics, (2) industrial structure, and (3) institutional environments are factors that influence the rational equilibrium of our model and the balance between competitive advantage and CSR. The mechanism and boundary on how firms make trade-offs between CSR activities and competitive strength are exhibited by our model, which provides a framework for decision-making and adds new insights into the strategic balance between market and non-market strategies.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.3846/tede.2022.16321
+VL  - 28
+IS  - 2
+SP  - 463-482
+J2  - TECHNOLOGICAL AND ECONOMIC DEVELOPMENT OF ECONOMY
+ER  - 
+
+
+TY  - JOUR
+TI  - Modelling and analysis of co-opetition in network industries by biform games
+AU  - Fiala, Petr
+T2  - CENTRAL EUROPEAN JOURNAL OF OPERATIONS RESEARCH
+AB  - In today's economy, many activities are networked. The importance of network industries that deliver products and services is growing. Traditionally, only the effects of competition have been analysed within networks. Companies are increasingly finding that even the cooperation of competitors can bring benefits to all involved. The concept of co-opetition is a mix of competition and cooperation that captures the advantages of both approaches and also changes the business environment. The paper present models and analyses of co-opetition in network industries using biform games as a combination of the non-cooperative and cooperative games theory. The paper proposes the division of the biform games into sequential and simultaneous games. Sequential biform games can be solved consequently by application of non-cooperative and cooperative approaches. Simultaneous biform games can be solved by negotiation using both game approaches at the same time. The models analyse network industries in terms of the total number of members and the number of cooperating members in terms of prices for services and network access fees and are solved by simultaneous biform games. Network interconnections are also analysed, where networks not only provide services on their own network, but also allow access to foreign networks. The model can be solved as a sequential biform game.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.1007/s10100-021-00768-z
+VL  - 30
+IS  - 2
+SP  - 647-665
+J2  - CENTRAL EUROPEAN JOURNAL OF OPERATIONS RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Existence and essential stability of Nash equilibria for biform games with Shapley allocation functions
+AU  - Liu, Chenwei
+AU  - Xiang, Shuwen
+AU  - Yang, Yanlong
+T2  - AIMS MATHEMATICS
+AB  - We define the Shapley allocation function (SAF) based on the characteristic function on a set of strategy profiles composed of infinite strategies to establish an n-person biform game model. It is the extension of biform games with finite strategies and scalar strategies. We prove the existence of Nash equilibria for this biform game with SAF, provided that the characteristic function satisfies the linear and semicontinuous conditions. We investigate the essential stability of Nash equilibria for biform games when characteristic functions are perturbed. We identify a residual dense subclass of the biform games whose Nash equilibria are all essential and deduce the existence of essential components of the Nash equilibrium set by proving the connectivity of its minimal essential set.
+DA  - 2022
+PY  - 2022
+DO  - https://doi.org/10.3934/math.2022432
+VL  - 7
+IS  - 5
+SP  - 7706-7719
+J2  - AIMS MATHEMATICS
+ER  - 
+
+
+TY  - JOUR
+TI  - A novel coordination mechanism to coordinate the multi-agent reverse supply chain with fairness concerns
+AU  - Jia, Fu
+AU  - Zhang, Shiyuan
+AU  - Zheng, Xiao-Xue
+AU  - Choi, Tsan-Ming
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In the recycling industry, reverse supply chain (RSC) management with used and end-of-life product collection and remanufacturing has an important role to play with respect to improving environmental sustainability. Such a RSC is generally composed of more than two heterogenous agents such that the existing contracts in the literature fail to coordinate it. Besides, as long as one of these agents makes profit comparisons and exhibits fairness concerns, it would further complicate this coordination problem. In this paper, we develop a biform game-based coordination mechanism, combining the non-cooperative and cooperative games, to coordinate a multi-agent RSC with one remanufacturer and two competition collectors, where one of the collectors has distributional fairness concerns. Applying the game-theoretic and numerical analyses, we obtain the following results: (1) Our proposed methods accomplish the coordination in the sense that all the RSC agents are better off than in the case of the non-cooperative game. (2) We identify the conditions under which the fairness-minded collector would achieve fair outcomes in the biform game, as is the case for the non-cooperative game. (3) In contrast to the non-cooperative game case, the biform game mechanism resolves the impact of fairness concerns on the recycling channel to a certain extent, as both the coalition externalities and biform game-based contracts make it more compatible across all RSC agents. Our main contributions are the adoption of novel biform games combined with behavioral economics factors to study the coordination challenge of multi-agent RSC with collector's fairness concerns.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijpe.2023.108973
+VL  - 265
+IS  - 
+SP  - 108973
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Cooperative Games Based on Coalition Functions in Biform Games
+AU  - Liu, Chenwei
+AU  - Xiang, Shuwen
+AU  - Yang, Yanlong
+AU  - Luo, Enquan
+T2  - AXIOMS
+AB  - In this paper, we try to study a class of biform games with the coalition function from the cooperation of players. For this purpose, we interpret the biform games as cooperative games by defining a characteristic function of minimax representation based on the coalition function and giving the core and Shapley value as cooperative solutions. The relations between the coalition function and the characteristic function are investigated in terms of additivity and convexity, and the properties associated with the characteristic function, such as individual rationalities and cores, are compared with the corresponding results. The relations among the solutions of the normal-form game, biform game, and cooperative game are discussed with several examples.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.3390/axioms12030296
+VL  - 12
+IS  - 3
+SP  - 296
+J2  - AXIOMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Competition and cooperation in linear production and sequencing processes
+AU  - van Beek, Andries
+AU  - Malmberg, Benjamin
+AU  - Borm, Peter
+AU  - Quant, Marieke
+AU  - Schouten, Jop
+T2  - GAMES AND ECONOMIC BEHAVIOR
+AB  - We analyze applications of biform games to linear production (LP) and sequencing processes. Biform games apply to problems in which strategic decisions are followed by some cooperative game, where the specific environment of the cooperative game is in turn determined by these strategic decisions. In biform LP-processes, we allow firms to compete for resources, rather than assuming the resource bundles are simply given. With strategy dependent resource bundles that can be obtained from two locations, we show that the induced strategic game has a (pure) Nash equilibrium, using the Owen set or any game-theoretic solution concept that satisfies anonymity to solve the cooperative LP-game. In biform sequencing processes, we no longer assume an initial processing order is given. Instead, this initial order is strategically determined. Solving the second-stage cooperative sequencing game using a gain splitting rule, we fully determine the set of Nash equilibria of the induced strategic game.(c) 2023 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons .org /licenses /by /4 .0/).
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.geb.2023.02.001
+VL  - 139
+IS  - 
+SP  - 117-132
+J2  - GAMES AND ECONOMIC BEHAVIOR
+ER  - 
+
+
+TY  - JOUR
+TI  - Examining the influence of knowledge spillover on partner selection in knowledge Alliances: The role of benefit distribution
+AU  - Su, Jiafu
+AU  - Zhang, Fengting
+AU  - Wang, Dan
+AU  - Sindakis, Stavros
+AU  - Xiao, Yan
+AU  - Herrera-Viedma, Enrique
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Partner selection plays a meaningful role in gaining and maintaining the competitive advantage of knowledge alliance. The knowledge spillover effect impacts the competitiveness of members, thereby affecting the partner selection strategy of the knowledge alliance. Therefore, this paper will explore the impact of knowledge spillover effects on partner selection in knowledge alliances based on benefit distribution. We construct a biform game model of partner selection for a knowledge alliance composed of core and collaborative members. The clique solution is employed to divide the alliance's overall benefits after the introduction of the variables such as innovation efficiency, knowledge input, and marginal loss. Then the influence of the knowledge spillover effect on partner selection for knowledge alliance is explored. Under certain conditions, the core member and members with whom they have cooperated are at the advantage of benefit distribution in the knowledge alliance, while the rest of the members are at the disadvantage of benefit distribution. Enhancing the alliance's overall interests while boosting its competitiveness is made possible by the growth of innovation efficiency and knowledge input. Also, knowledge spillover helps organizations identify and select potential partners, which is conducive to exerting the positive knowledge spillover effect to the fullest, especially for collaborative members who lack cooperation experience, which can significantly enhance their competitiveness. The results offer a useful guide for choosing suitable knowledge alliance partners to fully exploit the knowledge spillover effect.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.cie.2023.109245
+VL  - 180
+IS  - 
+SP  - 109245
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - An interval noncooperative-cooperative biform game model based on weighted equal contribution division values
+AU  - Liang, Kai-Rong
+AU  - Li, Deng-Feng
+AU  - Li, Kevin W.
+AU  - Liu, Jia-Cai
+T2  - INFORMATION SCIENCES
+AB  - This paper develops an interval noncooperative-cooperative biform game (referred to as the interval biform game in short hereafter) model that accounts for both strategy choice and coalition formation while also addressing profit allocation with interval coalition characteristic values. This interval biform game consists of four elements: a finite set of players, their strategy choices, coalitions, and interval coalition characteristic functions, and contains both noncooperative and cooperative parts. The payoffs of different strategies are not directly given a priori in the noncooperative part but obtained by solving interval cooperative games in the cooperative part. To solve the interval cooperative game, we extend a real-valued weighted equal contribution division (WECD) approach to an interval-valued version. Subsequently, an interval acceptability degree comparison method is introduced to compare the interval payoff values. We then establish existence and necessary conditions of pure strategy Nash equilibriums and derive a condition for a Nash equilibrium to be efficient in an interval biform game. Finally, numerical examples are furnished to illustrate the validity and applicability of the proposed framework. (c) 2022 Elsevier Inc. All rights reserved.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ins.2022.11.016
+VL  - 619
+IS  - 
+SP  - 172-192
+J2  - INFORMATION SCIENCES
+ER  - 
+
+
+TY  - JOUR
+TI  - A new biform game-based investment incentive mechanism for eco-efficient innovation in supply chain
+AU  - Zheng, Xiao-Xue
+AU  - Li, Deng-Feng
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+AB  - In supply chain, when a visionary focal firm makes direct investment in his partners' upfront cost of eco-efficient innovation, he would want more innovation efforts without sacrificing too many self-interests. To this end, we use a new biform-game model to develop an investment incentive mechanism for eco-efficient innovation in a supply chain consisting of two competing manufactures who are accountable for their respective eco-efficient innovations and a supplier who provides them with investments. Our proposed biform-game model can be regarded as a nested combination of noncooperative and cooperative games: In the noncooperative part, we construct a noncooperative game between the two manufacturers under their profit maximizing strategies, defining the competitive environment in the cooperative part. For three players in the cooperative part, we use Minimax and Maximin principles to construct their cooperative game of the investment cooperation strategy, which is proven to be convex. Subsequently, Shapley value is employed to derive the solution (profits) of the cooperative game, which is used to deduce the pay-off functions of the noncooperative part, thereby obtaining the optimal profit-maximizing strategies and investment cooperation strategies of the biform game. Next, we conduct analytical and numerical studies to verify the validity of our developed model by comparing with the model without applying the biform coordination mechanism.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.ijpe.2023.108795
+VL  - 258
+IS  - 
+SP  - 108795
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Value creation and value capture from patents: Theory and implications for patent strategies
+AU  - Zhao, Xiaoyang
+AU  - Guo, Yuanjing
+AU  - Mi, Jie
+T2  - JOURNAL OF INNOVATION & KNOWLEDGE
+AB  - This study uses biform game models to examine firms' patent deployment strategies that involve a choice between appropriating a patented technology to gain a unique competitive advantage or licensing the technology to a competitor in the product market. It addresses the question of under what circumstances firms use a patent appropriation strategy over a licensing strategy, or vice versa. By incorporating competitive and cooperative settings, this study develops theory and propositions to illustrate the mechanisms by which patent deployment strategies are chosen by an innovator or follower in a product market as a function of the characteristics of innovation, transaction costs, bargaining power, strategic interactions, and other market conditions. This study contributes to the literature by distinguishing between patent appropriability and value appropriation in a transactional network under rivalry. The model and its extensions provide new insights into appropriation strategies for patent portfolios, which are important intellectual assets in a knowledge-based economy.(c) 2023 The Authors. Published by Elsevier Espana, S.L.U. on behalf of Journal of Innovation & Knowledge. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.jik.2023.100397
+VL  - 8
+IS  - 3
+SP  - 100397
+J2  - JOURNAL OF INNOVATION & KNOWLEDGE
+ER  - 
+
+
+TY  - JOUR
+TI  - The Shapley value based on hesitant fuzzy linguistic comprehensive entropy and its application in noncooperative-cooperative biform game
+AU  - Yang, Jie
+AU  - Cai, Zhikun
+AU  - Fu, Qingxia
+AU  - Xu, Zeshui
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Profit allocation is a decision-making process, and noncooperative-cooperative biform game can effectively depict the real competitive-cooperative relationship. This paper aims to construct an effective Shapley function of biform game in hesitant fuzzy linguistic environment, which can reasonably analyze the formation and the distribution of profits by taking into account the individual hesitation and information fuzziness. Firstly, we propose a new construction method of an entropy for hesitant fuzzy linguistic term sets (HFLTSs). This entropy measure can describe the linguistic information from the aspects of fuzziness and hesitation, which improves the flaws of the existing entropy for HFLTSs. After that, a function for calculating confidence level is defined based on comprehensive entropy. Then in order to study the profit allocation in a competitive-cooperative environ-ment, we define hesitant fuzzy linguistic biform game and its characteristic function, and the effectiveness of the proposed Shapley value function according to an axiomatic system is proved. Finally, the feasibility of this approach is indicated by an example of profit allocation of cooperation in watershed management considering information asymmetry.
+DA  - 2023
+PY  - 2023
+DO  - https://doi.org/10.1016/j.eswa.2023.120516
+VL  - 230
+IS  - 
+SP  - 120516
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Game of banks- biform game theoretical framework for ATM network cost sharing
+AU  - Nguyen, Tri-Dung
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - Automated teller machines (ATM) play a major role in the world economy as they enable financial transactions and hence good exchanges and consumption. ATM transaction fees are incurred to cover the cost of running the network and these are often settled among the members including banks and cash machine operators. In this paper, we develop a novel biform game theoretic model for members to optimally invest in the ATM network and to share the cost. This biform game includes both a cooperative game theory mechanism for interchange fee sharing and a non -cooperative counterpart to model the fact that members also wish to maximize their utilities. While the proposed coopetition framework is applicable to general ATM networks, we focus the case study on the UK ATM network thanks to the accessibility of the data in addition to the notable stability issues that the network is currently experiencing as has been widely featured by the mainstream media. On the technical side, we prove the existence of a pure Nash equilibrium, which can be computed efficiently. We also show that, under some settings, the Shapley allocation belongs to the core and hence it is not only fair to all members but also leads to a stable ATM network. In addition, we show that the Shapley value allocation dominates the current mechanism in terms of social welfare. Finally, we provide numerical analysis and managerial insights using real data on the complete UK ATM network.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.ejor.2024.02.036
+VL  - 316
+IS  - 3
+SP  - 1158-1178
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - A new biform game-based coordination mechanism for a carbon complementary supply chain under hybrid carbon regulations
+AU  - Zheng, Xiao-Xue
+AU  - Zhang, Shiyuan
+AU  - Jia, Fu
+AU  - Lin, Xiao
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - Cap -and -trade, Certified Emission Reductions (CERs) and Renewable Energy Consumption Obligation (RECO) are three regulatory instruments used by governments to decarbonize supply chains. Integrating these mechanisms creates a Carbon Complementary Supply Chain (CCSC), in which traditional energy manufacturers (TMs) with high emissions can offset their carbon footprint by trading CERs with renewable energy manufacturers (RMs) who develop the CER projects, and compete with RMs. In the downstream, retailers are incentivized to procure more renewable energy products to avoid RECO penalties. Given that all the CCSC members tend to cooperatively invest in the CER project, this paper proposes a novel biform game -based coordination mechanism combining noncooperative and cooperative games to promote CCSC ' s synergy. The findings show that this mechanism can induce CCSC members to cooperate, achieving Pareto improvement in social welfare, economic performance, and individual profits under specific regulatory intensity thresholds compared to the noncooperative scenario. Our findings contribute to the ongoing debate on the role of carbon regulations in enhancing supply chain performance by providing insights into the contractual relationships among supply chain members and the economic forces at play.
+DA  - 2024
+PY  - 2024
+DO  - https://doi.org/10.1016/j.tre.2024.103592
+VL  - 187
+IS  - 
+SP  - 103592
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Biform game consensus analysis of group decision making with unconnected social network
+AU  - Tang, Jie
+AU  - Li, Zi-Jun
+AU  - Meng, Fan-Yong
+AU  - Gong, Zai-Wu
+AU  - Pedrycz, Witold
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In today's network era, people's decisions are susceptibly influenced by others, especially the ones they trust. This study confines to studying social network group decision making (SNGDM). Due to the mutual influence of consensus level and consensus adjustment among decision makers (DMs), this study utilizes biform game theory to propose an innovative consensus mechanism for facilitating group decision making with unconnected social networks. Specifically, in the context of a DM social network with multiple trust relationship-based connected components, we construct a multi-objective programming model to determine the consensus adjustment. Within each connected component, we employ the digraph game theory to study DMs' consensus adjustments, leveraging the directional and asymmetrical characteristics of trust-relationships. We then analyze the consensus adjustments of feasible DM coalitions using built optimization models and define the di-Myerson value. Additionally, we construct several axiomatic systems to show the rationality of consensus allocation results. We identify partial trust-relationships that increase the consensus adjustments of DMs as irrational, and design an algorithm to address them, thereby reducing the cost of consensus. Finally, we present a case study that showcases the real-world application of our new theoretical results. This is the first bi-form game consensus mechanism based on trust relationship for SNGDM.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.ejor.2025.01.019
+VL  - 324
+IS  - 1
+SP  - 259-275
+J2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Biform game analysis with the Owen allocation function for a supply chain game under precedence constraints
+AU  - Liu, Chenwei
+AU  - Xiang, Shuwen
+AU  - Yang, Yanlong
+AU  - Xu, Shanshan
+T2  - OPERATIONAL RESEARCH
+AB  - Supply chain operational management is a challenging yet critical task owing to the supply chain's complex structure. For example, the flow of material information establishes diverse ordered relationships among members. At the same time, suppliers, manufacturers, wholesalers, and others collaboratively make decisions on multiple fronts, which may result in a situation where a member belongs to various coalitions. This complex supply chain operational management can be coordinated by members implementing reasonable and efficient joint competitive strategies within the ordered relationship. To address the operational management challenges posed by these intricate relationships, we construct a coalition structure by introducing the precedence constraints. Based on this structure, we propose a biform game mechanism that integrates non-cooperative and cooperative games to harmonize the joint competitive strategies of members. This mechanism can model the precedence relationships of member and asset flow, derive a Nash equilibrium for joint independent investment, and provide an efficient allocation scheme based on an extended Owen value. Moreover, through numerical analysis, we illustrate the influence of precedence constraints on this mechanism. Our findings contribute to the ongoing operational management on the role of member relationships in enhancing supply chain performance by developing a novel biform game in which the cooperation stage is modeled as a cooperative game with precedence-constrained coalition intersections.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1007/s12351-025-00910-8
+VL  - 25
+IS  - 2
+SP  - 50
+J2  - OPERATIONAL RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Green Product Innovation Coordination in Aluminum Building Material Supply Chains with Innovation Capability Heterogeneity: A Biform Game-Theoretic Approach
+AU  - Wang, Mingyue
+AU  - Kong, Rui
+AU  - Luo, Jianfu
+T2  - SUSTAINABILITY
+AB  - Green product innovation in aluminum building material supply chains is critical for sustainability, particularly amid growing economic and environmental pressures. However, effective coordination is challenged by the presence of multiple agents with divergent interests and heterogeneous innovation capacities. This study proposes coordination mechanisms based on a biform game that integrates both non-cooperative and cooperative elements. Key findings include the following: (1) Greater innovation capability heterogeneity promotes green innovation investment by the stronger manufacturer and enhances overall welfare, but reduce the supplier's profit. (2) Biform game-based decision making supports the triple bottom line more effectively than decentralized models and offers greater flexibility than centralized ones. (3) A multi-perspective compensation contract, incorporating three decision-making modes, is developed within the biform game. Exogenous decision making helps resolve the endogenous game dilemma, improving coordination outcomes. (4) The coordination framework allows firms to dynamically adjust compensation parameters in response to environmental changes, thereby enhancing supply chain resilience. Our main contribution lies in applying a novel biform game approach to address coordination challenges in green product innovation under innovation capability heterogeneity. In addition, a multi-perspective contract coordination paradigm is proposed to support triple bottom line sustainability.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.3390/su17167377
+VL  - 17
+IS  - 16
+SP  - 7377
+J2  - SUSTAINABILITY
+ER  - 
+
+
+TY  - JOUR
+TI  - A Biform Game Approach to Store Brand Introduction and Production Mode Selection in a Platform Supply Chain
+AU  - Liang, Kai-Rong
+AU  - Li, Kevin W.
+AU  - Sgarbossa, Fabio
+AU  - Huang, Jun
+T2  - GROUP DECISION AND NEGOTIATION
+AB  - Store brand (SB) introduction has become a critical business strategy for many e-commerce platforms (EPs). EPs' SB introduction decision involves both competition with the incumbent national brand (NB) manufacturer (NM) and cooperation with the SB producer. Existing research typically employs noncooperative game models to characterize the interactions among different players. In contrast, biform games integrate noncooperative and cooperative games into a unified framework to simultaneously account for competition and cooperation. As such, this paper takes a biform game approach to investigate whether an EP should introduce SB and how to select its production mode among three choices if it determines to do so: in-house production, outsourcing to NM or a third-party manufacturer (TM). Our analysis yields the following results. First, introducing SB is not always beneficial for EP. When product substitutability is lower than a threshold, EP benefits from introducing SB. Second, product substitutability and manufacturing entry cost are two important factors affecting EP's optimal SB production mode. When they are both low, EP prefers to produce SB in house. Once the manufacturing entry cost is higher than a threshold or product substitutability is high, EP chooses to co-produce SB with TM. Cooperating with NM is EP's optimal strategy under a higher manufacturing entry cost and intermediate product substitutability. Third, EP's SB introduction tends to benefit NM as well, but their interests are not always aligned. This interest divergence can be mitigated by a proper side payment.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1007/s10726-025-09923-2
+VL  - 34
+IS  - 3
+SP  - 557-587
+J2  - GROUP DECISION AND NEGOTIATION
+ER  - 
+
+
+TY  - JOUR
+TI  - Balancing collaborative investment with opportunity costs in a carbon complementary supply chain
+AU  - Zhang, Shiyuan
+AU  - Zheng, Xiaoxue
+AU  - Jia, Fu
+T2  - INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+AB  - PurposeThe carbon complementary supply chain (CCSC) is a collaborative framework that facilitates internal carbon credit trading agreements among supply chain agents in compliance with prevailing carbon regulations. Such agreements are highly beneficial, prompting agents to consider joint investment in emission reduction initiatives. However, capital investments come with inevitable opportunity costs, compelling agents to weigh the potential revenue from collaborative investments against these costs. Thus, this paper mainly explores carbon abatement strategies and operational decisions of the CCSC members and the influence of opportunity costs on the strategic choice of cooperative and noncooperative investment.Design/methodology/approachThe authors propose a novel biform game-based theoretical framework that captures the interplay of pricing competition and investment cooperation among CCSC agents and assesses the impact of opportunity costs on CCSC profits and social welfare. Besides, the authors also compare the biform game-based collaborative scenario (Model B) to the noncooperative investment scenario (Model N) to investigate the conditions under which collaborative investment is most effective.FindingsThe biform game-based collaborative investment strategy enhances the economic performance of the traditional energy manufacturer, who bears the risk of opportunity costs, as well as the retailer. Additionally, it incentivizes the renewable energy manufacturer to improve environmental performance through renewable projects.Originality/valueThis research contributes significantly by establishing a theoretical framework that integrates the concepts of opportunity costs and biform game theory, offering new insights into the strategic management of carbon emissions within supply chains.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1108/IMDS-06-2024-0541
+VL  - 125
+IS  - 2
+SP  - 575-603
+J2  - INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+ER  - 
+
+
+TY  - JOUR
+TI  - Biform Game Approach to Strategy Optimization of Autonomous Vehicle Lane Changes on Highway Ramps
+AU  - Wang, Xiaorong
+AU  - Li, Yinzhen
+AU  - Ma, Changxi
+AU  - Cao, Shurui
+T2  - APPLIED SCIENCES-BASEL
+AB  - The traditional non-cooperative and cooperative game methods have limitations in solving the traffic problems of autonomous or assisted driving vehicles using vehicle-to-everything communication. In this paper, the biform game method is introduced to optimize the lane-changing behavior of autonomous or assisted driving vehicles in highway on-ramp areas based on vehicle-to-everything. Considering the lane-changing and speed adjustment needs of autonomous vehicles in high-speed scenarios, a forced lane-changing framework was constructed, and the speed gain allocation was determined based on the target vehicle lane-changing time, and a speed increase was regarded as a benefit. Through the constructed biform game model, research was carried out on conflicting and cooperative vehicles. A strategy combination is first constructed in the non-cooperative situation, and then the cooperative game competition stage begins. The Shapley value is used to deduce the distribution value of each participant in the cooperative game stage, which is the profit value in the non-cooperative stage, and then the pure-strategy Nash equilibrium solution is calculated. The interaction with other vehicles in the lane-change process is based on maximizing the benefit to all the vehicles participating in the lane change, and the optimal speed solution of the biform game model when changing lanes is obtained. Numerical examples were used to verify the validity and feasibility of the model and broaden the application range of the biform game method. In future research, this method will be applied to more complex traffic models, such as driving models in emergency situations and research from the perspective of road infrastructure designers, providing new ideas and directions for optimization strategies for autonomous vehicle lane changes in the Internet of Vehicles.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.3390/app15052568
+VL  - 15
+IS  - 5
+SP  - 2568
+J2  - APPLIED SCIENCES-BASEL
+ER  - 
+
+
+TY  - JOUR
+TI  - Pricing strategy and blockchain technology investment under hybrid carbon trading schemes: a biform game analysis
+AU  - Zhang, Shiyuan
+AU  - Zheng, Xiao-Xue
+AU  - Jia, Fu
+AU  - Liu, Zhi
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - Blockchain technology (BCT) plays a pivotal role in ensuring cost-effective carbon trading and establishing customers' trust. In this paper, we consider the combination of hybrid carbon trading schemes and blockchain technology and model a carbon trading supply chain, in which traditional and renewable energy manufacturers coexist. Within this supply chain, BCT adoption facilitates the recording of carbon trading information and simplifies the transaction process when traditional energy manufacturers procure Certified Emission Reductions (CERs) from renewable energy manufacturers. However, the substantial upfront investment costs pose a barrier to the widespread application of BCT in carbon trading processes. To address this, we introduce the cooperative investment strategy by proposing a novel biform game model framework combining the noncooperative and cooperative games, exploring the competitive strategies (the pricing strategies and BCT level decisions) and cooperative investment strategies within the same model. By comparing with noncooperative cases, in which the supply chain agents engage in BCT investment on a competition basis, our findings reveal several thresholds of competition intensity where cooperative-investment strategies induce Pareto improvements in economic performance and individual profits compared to non-cooperative strategies. These findings have significant implications for firms who adopt BCT to engage in carbon trading schemes.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1080/00207543.2024.2398582
+VL  - 63
+IS  - 14
+SP  - 5336-5357
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Coopetition strategies in a two-stage, multi-agent supply chain under hybrid carbon trading mechanisms
+AU  - Zheng, Xiao-Xue
+AU  - Li, Ran
+AU  - Jia, Fu
+AU  - Liu, Zhi-Yang
+AU  - Yang, Ying
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - Managing a multi-agent supply chain within a hybrid carbon trading framework, which integrates Certified Emission Reductions (CERs) and Carbon Quota Trading (CQT), presents a significant challenge. This complexity is further amplified by the interplay of competition and cooperation among agents. Motivated by this, we develop a biform game-based cooperative mechanism for a two-stage supply chain that includes a high-emission manufacturer, a negative-emission manufacture and a downstream retailer. This mechanism is designed to encapsulate both the non-cooperative and cooperative game elements. The former features a product competition game among the manufacturers and retailer, setting the stage for the cooperative game without directly yielding equilibrium solutions. The latter involves a cost-sharing agreement for the CER project's initial investment, informed by various coalitional zero-sum games. Our analytical findings, corroborated by numerical simulations, reveal that the biform game coordination mechanism significantly enhances the volume of CERs traded and consumer surplus, compared to a non-cooperative scenario. It effectively aligns the collaborative efforts of all agents within the supply chain. This research contributes substantially to the literature on coordinating multi-stage, multi-agent supply chains, and the strategic deployment of emission reduction initiatives in supply chains. It also offers valuable managerial insights for the design of government regulations in carbon markets.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1080/00207543.2024.2392635
+VL  - 63
+IS  - 22
+SP  - 8155-8177
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - A Biform Analysis of Coopetition in Green Co-Creation
+AU  - Zhang, Yan
+AU  - Tian, Yixiang
+AU  - Liu, Bo
+AU  - Jin, Yi
+T2  - SUSTAINABILITY
+AB  - Green co-creation plays a vital role in promoting sustainability by engaging both firms and consumers in value creation, yet most studies examine competition and cooperation separately without considering their interplay. This study investigates the dynamics of coopetition in green co-creation by developing a two-stage biform game that integrates competitive interaction and cooperative bargaining within a unified framework. The results show that (1) greater green co-creation efforts, representing deeper firm-customer interactions, improve both parties' equilibrium outcomes; (2) cooperation leads to greater green effort investment than pure competition; and (3) when Nash bargaining conditions are satisfied, coopetition improves both individual profits and total welfare compared with sole competition. These findings highlight that coopetition not only strengthens mutual economic benefits, but also enhances sustainability performance by balancing competitive and cooperative forces. This study provides an analytical foundation for understanding firm-customer coopetition and offers actionable insights for advancing sustainable value creation in green supply chain management.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.3390/su172310770
+VL  - 17
+IS  - 23
+SP  - 10770
+J2  - SUSTAINABILITY
+ER  - 
+
+
+TY  - JOUR
+TI  - Certified emission reductions asset pledge financing strategy and biform game-based coordination mechanism in a supply chain: Implications for SDGs
+AU  - Li, Ran
+AU  - Zheng, Xiao-Xue
+AU  - Jia, Fu
+AU  - Yang, Ying
+T2  - ANNALS OF OPERATIONS RESEARCH
+AB  - Investing in carbon emission reduction projects is essential for advancing sustainable development goals (SDGs), but it may also impose substantial financial burdens on firms. Many new energy manufacturers (EMs) use certified emission reductions (CERs) as pledged assets to obtain financing support. However, in cases where EMs and other firms enter into a cooperation investment agreement through cost-sharing contracts, it may involve a mix of complex decision-making processes and coordination issues. In this study, we consider a supply chain consisting of a retailer and two competing manufacturers under hybrid carbon trading mechanisms. The EM invests in CERs projects and adopts CERs asset pledge financing, while the high-carbon emission manufacturer (HM) trades CERs with EM and purchases carbon quotas to offset carbon emissions. Moreover, we propose a biform game mechanism that portrays supply chain participants' independent price competition decisions (non-cooperative stage) and benefit allocation mechanisms (cooperative stage). Our results indicate that the CERs asset pledge financing in the non-cooperative supply chain can increase the volume of CERs and manufacturers' profits when EM's initial capital is moderate. Furthermore, the biform game mechanism can lead to Pareto improvements for supply chain members, contingent upon the CERs trading price, the unit cost of carbon quotas, and the CERs cost coefficient. Additionally, we extend the model to incorporate a more general cost structure, and our findings remain robust under varying production cost scenarios. This study offers valuable insights for enterprises addressing the dual challenges of carbon abatement and capital constraints in the context of carbon emissions regulation and competitive markets.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1007/s10479-025-07022-8
+VL  - 358
+IS  - 3
+SP  - 1529-1560
+J2  - ANNALS OF OPERATIONS RESEARCH
+ER  - 
+

@@ -1,0 +1,456 @@
+TY  - JOUR
+TI  - Design and evaluation of policy schemes supporting waste-heat recovery into district heating networks
+AU  - Monsalves, Juan Jerez
+AU  - Bergaentzle, Claire
+AU  - Pisciella, Paolo
+AU  - Saber, Esmail
+AU  - Keles, Dogan
+T2  - APPLIED ENERGY
+AB  - Waste-heat recovery (WHR) offers significant decarbonisation potential for district heating (DH) networks. However, economic barriers limit adoption, highlighting the need for policy incentives that consider DH's costdriven decision-making. This study formulates a bilevel optimisation framework to determine optimal support incentives that minimise government spending while capturing policymaker-DH interactions. We examine five policy scenarios: WHR operational subsidies, WHR capital subsidies, carbon taxation on existing heating units, and subsidy-tax combinations. These are evaluated across varying decarbonisation targets and consumer cost constraints, using Denmark as a case study. Results show combined subsidy-tax schemes significantly outperform standalone subsidies, reducing the policy cost of 5% DH decarbonisation from 14%-20% of pre-policy heating costs to only 4%, without increasing net consumer costs. This efficiency stems from taxes internalising policy objectives within DH merit-order, preventing displacement of already decarbonised heating sources and avoiding excessive WHR subsidisation.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.apenergy.2025.126517
+VL  - 399
+IS  - 
+SP  - 126517
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Sustainable development through the balancing of photovoltaic charging facilities and agriculture for energy harvesting
+AU  - Goh, Hui Hwang
+AU  - Huang, Changhe
+AU  - Liang, Xue
+AU  - Xie, Haonan
+AU  - Zhang, Dongdong
+AU  - Dai, Wei
+AU  - Kurniawan, Tonni Agustiono
+AU  - Wong, Shen Yuong
+AU  - Goh, Kai Chen
+T2  - APPLIED ENERGY
+AB  - Photovoltaics (PV) and electric vehicles (EVs) provide viable alternatives for powering rural areas and promoting sustainable development. However, solar energy and agricultural land compete with each other, necessitating a balance between energy needs and land preservation. Despite the potential of agricultural PV charging stations, there is a lack of research on their operational models, policies, stakeholder interactions, and feasibility of development. This study combines renewable energy and charging infrastructure subsidy policies, utilizes a public-private partnership model, and employs evolutionary game theory to establish a theoretical framework exploring strategic interactions among energy operators, EV users, and farmers. The model considers the impacts of generation, charging, and agricultural elements, conducting techno-economic research. A case study conducted in Sioux Falls, South Dakota, USA, revealed subsequent findings: (1) The players' evolutionary stable approach ultimately converges to (1,1,1). When renewable energy subsidies are decreased by 50 %, the likelihood of active engagement for energy operators drops to 0, and for farmers, it falls to 0.8. (2) As the usage duration of charging facilities grows by 50 %, energy operators and EVUs make steady progress before reaching 0.2 cycles, but farmers encounter a delay after 0.4 cycles. (3) It is feasible to fulfil the yearly charging requirements for EVs in Sioux Falls and South Dakota using only 7.4 ha and less than 22 ha of agricultural land area, respectively. Investors in Sioux Falls have the potential to earn an annual income of $1.1085 million, generate 7906.07 MWh of electricity, and reduce GHG emissions by 6525.91 tons of CO2-equivalent. Although farmers generate higher annual revenue, it typically takes them over a decade to reach the point of breaking even, and their return on investment is comparatively lower than that of energy operators.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.apenergy.2024.124463
+VL  - 377
+IS  - 
+SP  - 124463
+J2  - APPLIED ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - Online collection channel and government subsidy strategy of retired power batteries considering cascade utilization
+AU  - Wen, Danping
+AU  - Wang, Zhuangzhong
+AU  - Wang, Min
+AU  - Appolloni, Andrea
+AU  - Xiao, Tiaojun
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - Recyclers have valued the cascade utilization of retired power batteries, and the advent of the online collection has prompted many recyclers to redesign the traditional collection channel to achieve a sustainable circular economy. This paper conducts a game-theoretic model to study the recycler's collection channel design, and further investigates the interplay between the collection channel and the government subsidy strategies. The subsidies for cascade utilization rate and online collection cost are examined. We find that (i) Engaging in online collection motivates the recycler to collect more retired power batteries, and can help the recycler achieve a win-win situation for both environment and economy under certain conditions. (ii) A high cascade utilization rate motivates the recycler to engage in online collection. When the additional management cost is low, a high consumers' preference for online collection or a low subsidy for online collection cost motivates the recycler to use dual collection channels. (iii) Under single online collection, the subsidy for online collection cost improves social welfare when the online collection cost is moderate. Under dual collection channels, a high cascade utilization revenue (rate) increases (decreases) the government's motivation to subsidize the cascade utilization rate. These findings offer guidance for collection channel redesign and the choice of subsidy strategy in the retired power batteries industry.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.cie.2025.111417
+VL  - 209
+IS  - 
+SP  - 111417
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Suppliers' equilibrium carbon abatement investment in the food supply chain network with the government subsidy
+AU  - Guo, Xiaotong
+AU  - He, Yong
+AU  - Li, Dong
+T2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+AB  - This paper analyzes the food supplier's equilibrium carbon abatement investment decisions, supply chain members' profits, consumer surplus, and carbon emissions under the scenario with and without the government subsidy. Our results reveal that the marginal carbon abatement cost is a key determinant of the suppliers' equilibrium decisions and supply chain performance. The influence of this factor varies with the supply chain network size. The deterioration of food quality will reduce each supplier's carbon abatement investment and will incur negative effects on the whole supply chain network's performance. Furthermore, our results demonstrate the effectiveness of the government subsidy in improving economic and social performance. The government subsidy can improve the carbon abatement investment level and supply chain members' profits while the effectiveness may be reduced in a larger network size. Implementing the government subsidy can also benefit the consumer surplus while increasing the whole supply chain network's total carbon emissions under certain conditions. Furthermore, the government subsidy cannot mitigate the adverse effects of multiple suppliers' competition in the context of larger network size. Our results reveal that alleviating suppliers' competition is better than only reducing carbon abatement costs or educating consumers about environmental awareness.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1080/00207543.2025.2504164
+VL  - 63
+IS  - 22
+SP  - 8429-8451
+J2  - INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Identifying spatially targeted organic fertilizer subsidies for water pollution control: An interactive hydro-economic model
+AU  - Wang, Shuping
+AU  - Yang, Pan
+AU  - Tan, Qian
+AU  - Yao, Linlin
+AU  - Li, Cangbai
+T2  - WATER RESEARCH
+AB  - Developing a reasonable subsidy policy for organic fertilizer use can enhance manure recycling and mitigate nonpoint source (NPS) pollution. However, traditional policy analysis methods face challenges in capturing the interactions between real-world hydrological and economic processes, hindering accurate policy assessment and spatially targeted policy formulation. To address this gap, a hydro-economic model was proposed for policy analysis by coupling a microeconomic module based on positive mathematical programming with a semidistributed eco-hydrological module (the SWAT model). This hydro-economic method overcomes the limitations of traditional models in capturing mutual feedback between hydrological and economic systems by using an iterative algorithm to reveal the interactions among water quantity, pollution loads, and agricultural practices. The pervasive scale mismatches between economic and eco-hydrological modules are also bridged by introducing a hydro-economic decision unit. Moreover, this approach advances previous models by formulating spatially targeted agri-environmental policies and identifying the spatiotemporal variations in NPS pollution under policy incentives. The hydro-economic model was applied to a typical agricultural watershed in northern China. The results indicated that increasing organic fertilizer subsidies from 0 to 1000 yuan/ton led to increased organic fertilizer use and higher farmer income, as well as spatiotemporal variations in NPS pollution and hydrological factors. The total phosphorus (TP) load, water yield, and surface runoff declined as subsidy levels increased, while the total nitrogen (TN) load fluctuated and evapotranspiration increased. The greatest reductions in TN loads occurred in spring (9510 kg), while TP loads were most reduced in summer (2680 kg). Priority areas for policy implementation were identified, where the same subsidies resulted in larger pollution reductions and greater benefits. Targeted subsidy levels have been suggested for each region to maximize the subsidy's marginal utility in pollution mitigation. The proposed hydro-economic model could be widely applied to policy formulation and planning decisions in other resource management fields.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.watres.2025.123662
+VL  - 281
+IS  - 
+SP  - 123662
+J2  - WATER RESEARCH
+ER  - 
+
+
+TY  - JOUR
+TI  - Research on the spatial spillover effects and mechanisms of environmental regulation on the upgrading of WEEE industrial structure
+AU  - Wang, Hongfei
+AU  - Yan, Xiuxia
+AU  - Zhang, Caiyun
+AU  - Yang, Man
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Under the remanufacturing subsidy policy (RSP) and carbon tax policy (CTP), this paper explores the influence of environmental responsibility awareness on the operational decisions of enterprises within the dual-channel recycling closed-loop supply chain by constructing the Stackelberg model. Additionally, it examines the spatial spillover effects of both policies on the upgrading of the WEEE industrial structure. The research findings provide valuable insights for the government's selection of carbon emission reduction policies and for enterprises' engagement in environmental regulation. The study found that first, awareness of environmental responsibility positively contributes to the efficiency of WEEE recycling; however, it negatively impacts the improvement of corporate profits. Second, both carbon emission reduction policies can facilitate the development of remanufacturing. The recovery rate is higher under the recycling subsidy policy; however, the level of social welfare under both policies depends on specific product characteristics and varying boundary conditions. Third, enterprises can actively engage in environmental regulation by adjusting relevant production indicators to achieve high-quality development and foster organic integration with social green development.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jclepro.2025.146020
+VL  - 519
+IS  - 
+SP  - 146020
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - How to restrict informal recycling of photovoltaic modules: Research on closed-loop supply chain decision-making of photovoltaic modules under different recycling subsidy policies
+AU  - Gao, Jiaming
+AU  - Zhang, Li
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Due to their advantages of low cost, the informal recycling channels of photovoltaic modules occupy over 60 % of the market share for recycling photovoltaic modules, and the unit recycling cost is only about 50 % of that of formal recycling channels. However, their non - standard operations not only result in resource waste, but also pose environmental pollution and safety hazards. This article establishes a long - term closed - loop supply chain that includes photovoltaic module manufacturers, photovoltaic module retailers, consumers, legitimate recyclers, and non-formal recyclers. Through a differential game model, it studies how recycling subsidy policies curb informal recycling of photovoltaic modules. The conclusions are as follows: (1) The government subsidy policy is highly effective in restricting informal recycling of photovoltaic modules. (2) The policy model offers significant differentiated benefits. (3) Both the size of the photovoltaic module recycling market and consumer price sensitivity influence recycling behavior, with market factors dominating recycling decisions. (4) Government regulatory tools can optimize the combi-nation strategy to deter-mine whether to focus on developing the recycling market or restricting the profits of informal recyclers.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jclepro.2025.146904
+VL  - 531
+IS  - 
+SP  - 146904
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimizing pricing for sustainable government-subsidized omnichannel closed-loop supply chains
+AU  - Khorshidvand, Behrooz
+AU  - Guitouni, Adel
+AU  - Govindan, Kannan
+AU  - Soleimani, Hamed
+AU  - Talebi, Leila
+AU  - Sibdari, Soheil
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - In this study, we explore how government subsidies contribute to the adoption of environmentally sustainable practices in supply chains, focusing on pricing, green awareness, marketing, and recycling. We compare decentralized, centralized, and collaborative operational models, both with and without subsidies, and find that the green-cost-sharing collaborative model significantly enhances supply chain profitability. This model is more cost-effective for manufacturers and retailers than decentralized or centralized approaches and achieves higher green performance compared to the decentralized model. It also strengthens recycling efforts and enhances retailers' multitasking capabilities within a closed-loop network. Furthermore, it delivers stakeholder satisfaction comparable to centralized models while requiring significantly less selling effort, and it outperforms decentralized models in operational efficiency. Additionally, we identify the equilibrium subsidy level that maximizes environmental efficiency across decentralized and collaborative frameworks. This research provides valuable insights for policymakers and strategists, contributing to both academic literature and practical applications.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.tre.2024.103932
+VL  - 194
+IS  - 
+SP  - 103932
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - The impact of government policies on the coordination of power battery closed-loop supply chain
+AU  - Chu, Hongrui
+AU  - Zhang, Wensi
+AU  - Zhu, Li
+T2  - JOURNAL OF CLEANER PRODUCTION
+AB  - Effective coordination in power battery closed-loop supply chains is critical to align stakeholder incentives, balance environmental and economic goals in the electric vehicle industry. Thus, this paper investigates the coordination problem of a power battery closed-loop supply chain consisting of a battery manufacturer, an electric vehicle producer and consumers. Considering the environmental protection factor, this study examines the impacts of four types of government subsidy policies on supply chain decision-making based on Stackelberg game. Results indicate that while the subsidy policy based on recycling quantity solely increases the recovery price, the subsidy policy based on recycling capacity enhances both the battery range and recycling price, thereby leading to an increase in the sales price of electric vehicles. Due to its substantial financial burden, the deposit-refund policy is proposed to be replaced by the subsidy-reward policy to coordinate the power battery closed-loop supply chain. The reward-penalty policy based on recycling quantity can promote the sale and recycling of EVs, but it does not ensure an optimal battery range. Therefore, we propose an innovative bidirectional subsidy policy, which integrates forward capacity-based production subsidies with reverse quantitylinked reward-punishment mechanisms, to achieve supply chain coordination. Furthermore, some management implications are given through numerical simulation combined with theoretical analysis. Our study offers a novel policy framework that bridges economic and environmental objectives, providing actionable strategies for advancing sustainable power battery supply chains in the EV industry.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jclepro.2025.145961
+VL  - 519
+IS  - 
+SP  - 145961
+J2  - JOURNAL OF CLEANER PRODUCTION
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimising resource recovery from construction waste material reverse supply chain coordination games
+AU  - Tan, Kangye
+AU  - Xu, Fang
+AU  - Yi, Zelong
+AU  - Li, Chunsheng
+T2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+AB  - The inefficiency of government, recycling, and recovery companies in managing construction waste, especially after an earthquake, highlights the operational challenges of reverse supply chain (RSC) in effectively recycling materials. This study aims to address these inefficiencies by proposing a decision-making supply chain model that enhances coordination within the RSC, and focusing on optimising the management of post-disaster construction waste. Grounded in market demand functions, the model explores three subsidy models to examine their impact on recycling efficiency, the recycling ratio, retail pricing of materials from recycled waste, and overall profit. The study uses manufacturing enterprises-leadership and subsidy-specific Stackelberg game models to find optimal strategies for minimising waste and maximising supply chain profit. The results show that government subsidies significantly influence recycling and pricing strategies within RSC operations, and governments should offer subsidies according to waste dispersion prioritisation and quantity of recoverable construction debris. Based on the study findings, the proposed RSC model substantially enhances recycling efficiency and profitability for both recycling and manufacturing firms. These findings validate the effectiveness of the model and emphasise the prospects for future research on an RSC framework for construction waste material.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1080/23302674.2025.2458176
+VL  - 12
+IS  - 1
+SP  - 2458176
+J2  - INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE-OPERATIONS & LOGISTICS
+ER  - 
+
+
+TY  - JOUR
+TI  - Design and selection of recycling strategy considering consumer preference
+AU  - Chen, Yan-Ting
+AU  - Chang, Ching-Ter
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - With the escalating issue of plastic pollution, exploring suitable post-consumer plastic waste (PCPW) recycling holds significant importance for global environmental protection. To address this issue, this paper proposes a novel PCPW recycling platform (PRP) that offers two recycling strategies to improve the recycling level of PCPW. Then, we construct a Stackelberg game model to analyze and compare three recycling strategies, i.e., traditional recycling strategies, only tradein for cash, and trade-in for cash and for new. Meantime, we consider the impact of consumer preference and government subsidies on recycling strategies. Research finding: (1) The operation of PRP increases the value of PCPW, particularly PRP's only trade-in for cash has the highest recycling price. (2) PRP's trade-in for cash and for new can attract more consumers to participate in PCPW recycling under certain conditions. (3) PRP's only trade-in for cash enables recyclers and remanufacturers to reap greater benefits. To ensure the robustness of our research results, we conduct further analysis to explore the impact of corporate social responsibility (CRS) and the hassle cost. The study also provides management implications for promoting PCPW recycling.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.tre.2024.103824
+VL  - 193
+IS  - 
+SP  - 103824
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Tripartite evolutionary game model for recycling strategies of decommissioned wind and solar energy equipment
+AU  - Zhao, Yifei
+AU  - Wang, Minxi
+AU  - Lin, Jing
+AU  - Sun, Bei
+AU  - Li, Xin
+T2  - WASTE MANAGEMENT
+AB  - The global volume of decommissioned components from wind turbines and solar photovoltaic (PV) equipment is projected to exceed 30 million tons by 2030, posing a significant challenge for their disposal and recycling. The issue of managing these components remains largely unresolved. While existing research primarily focuses on technical aspects, few studies address policies and recycling mechanisms. This research introduces an evolutionary game model to study the recycling of retired wind and PV equipment, exploring strategic interactions and policy effects over time by constructing a tripartite model involving the government, manufacturers, and dismantlers. Through numerical simulations, the impact of initial willingness and government subsidies is analyzed. The findings indicate that (1) government involvement is pivotal, as its initial commitment significantly enhances collaboration between recyclers and dismantlers, accelerating the recycling process; (2) when manufacturers' initial willingness to recycle reaches 0.9, collaboration with dismantlers improves markedly, requiring minimal government subsidies to maximize overall benefits; (3) subsidies should be dynamically adjusted, with a 1:6 ratio between manufacturers and recyclers providing optimal economic efficiency. This study quantifies various recycling scenarios and provides policy recommendations based on an evolutionary game model, offering insights into optimizing the management of wind and PV equipment recycling.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.wasman.2025.115077
+VL  - 206
+IS  - 
+SP  - 115077
+J2  - WASTE MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Reimagining government subsidy policies: facilitating echelon utilization and sustainable practices for retired battery systems
+AU  - Gu, Xiaoyu
+AU  - Huang, Mengyi
+AU  - Zhou, Li
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+AB  - The rising number of retired electric vehicle batteries has sparked significant global interest in the recycling and reuse sectors, crucial for achieving a Sustainable Circular Economy and Net-Zero goals. In response, governments are exploring strategic initiatives to enhance the echelon utilization of these batteries, yet current subsidy policies require refinement. This study presents a two-period closed-loop supply chain model involving a battery manufacturer, recycler, power grid company, and government to investigate how subsidies for purchasing reuseable batteries can bolster their utilization for energy storage. The paper analyzes the optimal subsidy amount and assesses stakeholder decisions, profits, and social welfare under scenarios with and without subsidies. The findings reveal that while effective subsidy policies can enhance overall social welfare and support a circular economy, their impact on echelon utilization is influenced by the factors such as battery quality, operating revenue, carbon emission and installation costs. Furthermore, varying installation costs between second-life and new batteries do not necessarily hinder purchase decisions by power companies. This research enriches the discourse on sustainable industrial systems by providing actionable insights for businesses to develop effective strategies in retired battery utilization and guiding policymakers in promoting circular economy initiatives that contribute to industry sustainability and Net-Zero objectives.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.cie.2025.111437
+VL  - 208
+IS  - 
+SP  - 111437
+J2  - COMPUTERS & INDUSTRIAL ENGINEERING
+ER  - 
+
+
+TY  - JOUR
+TI  - Promoting ship sewage recycling in China's inland waterways: A balanced funding approach for advanced disposal fees and subsidies
+AU  - Zhong, Huiling
+AU  - Gao, Jiajue
+AU  - Gu, Yimiao
+T2  - OCEAN & COASTAL MANAGEMENT
+AB  - Ship-generated sewage presents significant environmental challenges in maritime transport, particularly in inland waterways. In China, the existing fee-free delivery policies fall short of providing sufficient incentives for ports and ships, while heavily relying on unsustainable government subsidies. To tackle these challenges, this paper introduces a financially sustainable Advance Disposal Fee (ADF) system paired with a subsidy recycling policy. The proposed approach is built on a tri-level Stackelberg game framework that involves the government, two ports, and a fleet of ships, aiming to optimize recycling policies and stakeholder decision-making. This framework is further formalized into a mixed-integer nonlinear tri-level programming model, where four stakeholders strategically maximize their respective profits. Using two ports along the Pearl River in China as a case study, the findings reveal that the proposed recycling policy substantially improves engagement from both ports and ships, achieving a sewage delivery rate of 89 %. These results provide practical guidance for the development of government recycling policies, the selection of port reception strategies, and the formulation of ship sewage management plans.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.ocecoaman.2025.107728
+VL  - 267
+IS  - 
+SP  - 107728
+J2  - OCEAN & COASTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Revolution or trap? Long-term diffusion of bioplastics in China: Economic losses, health benefits, and policy pathways based on a multi-module CGE-LCA model
+AU  - Chen, Guo
+AU  - Lim, Ming K.
+AU  - Yeo, Wee Meng
+AU  - Zhong, Cheng
+AU  - Li, Weiyuan
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+AB  - Bioplastics, which are made from crops and are biodegradable, are considered a sustainable alternative to petroleum-based plastics for reducing emissions and pollution. However, there is currently insufficient systematic assessment of the long-term economic, health, and environmental impacts, as well as the long-term policy effects and consumer diffusion patterns, of large-scale promotion of bioplastics in different regions of China. To address this gap, this study developed a multi-regional dynamic simulation framework integrating a recursive dynamic computable general equilibrium model (CGE), life cycle assessment (LCA), and consumer social network analysis. It employed the value of statistical life (VSL) method to quantify health benefits. The results indicate that the promotion of bio-based plastics may lead to a decrease of approximately 0.0157 % in China's gross domestic product (GDP) by 2052, with reductions in income for enterprises, residents, and the government of approximately 0.014 %, 0.012 %, and 0.013 %, respectively. However, over 30 years, health costs could be reduced by approximately 44.8 billion yuan (a decrease of 8.68 %), partially offsetting the economic losses. Additionally, bio-based plastics significantly reduce carbon dioxide (CO2) emissions intensity by 7.71 % and terrestrial ecological toxicity by 9.74 %, among other emissions, but significant regional variations exist. Coastal provinces with high production capacity (such as Guangdong and Jiangsu) exhibit non-linear relationships between emission reduction effects and production capacity due to differences in consumption patterns. Policy analysis results indicate that government subsidies are more effective than carbon taxes, and combining plastic bans with green education can further enhance emission reduction effects. Oil price fluctuations and high waste management costs also impact regional emission reduction outcomes. This study comprehensively assesses the multi-dimensional trade-offs and synergistic effects of promoting bio-based plastics in China, aiming to provide practical pathways and policy recommendations for decision-makers and the industry to achieve a sustainable transition of plastics.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.jenvman.2025.127056
+VL  - 393
+IS  - 
+SP  - 127056
+J2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative governance for urban waste management: A case study using evolutionary game theory
+AU  - Song, Wenxuan
+AU  - Elahi, Ehsan
+AU  - Hou, Guisheng
+AU  - Wang, Pengmin
+T2  - SUSTAINABLE CITIES AND SOCIETY
+AB  - The rapid escalation in municipal solid waste generation presents a critical challenge, compounded by delays in implementing source-separated household waste management systems. This study addresses the lack of comprehensive stakeholder-oriented planning in government-led waste classification efforts-characterized by overreliance on administrative enforcement, imbalanced resource allocation, and inadequate coordination mechanisms-which has led to rising administrative costs and suboptimal outcomes. By employing an evolutionary game model, this study explores the dynamic interactions between key stakeholders-governments, property service enterprises, and residents-while incorporating subsidy and transfer payment mechanisms to establish a collaborative governance framework. The empirical analysis, grounded in data from Shanghai, China, reveals that a multi-agent collaborative model improves cost efficiency by 25 % compared to a government-only approach. The research findings indicate that when government subsidies exceed an 80 % distribution ratio to real estate service enterprises, a cooperative strategy is achieved, although it may lead to a non-cooperative state among residents. Reducing the cooperation costs of property service enterprises enhances their willingness to cooperate but has limited influence on residents. In contrast, residents' strategies are more sensitive to changes in government subsidies, and increasing subsidies led to evolutionary stability points characterized by dual and tripartite cooperation modes. These findings demonstrate how properly designed subsidy structures can address macro-level planning deficiencies by creating incentive alignment among stakeholders. The study also finds that reducing urban household garbage sorting costs by 30 % contributes to optimal tripartite cooperation. Although the study focuses on Shanghai, its findings apply to other cities with similar waste management policies, offering universal insights for improving urban waste classification systems. The study advocates for robust regulations and comprehensive monitoring systems to sustain long-term collaborative waste management practices.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.scs.2025.106380
+VL  - 126
+IS  - 
+SP  - 106380
+J2  - SUSTAINABLE CITIES AND SOCIETY
+ER  - 
+
+
+TY  - JOUR
+TI  - Analysis of recycling and emission reduction models under carbon taxes and government subsidies
+AU  - Li, Yuan
+AU  - Jia, Zhao
+AU  - Qin, Chuan
+AU  - Li, Zhaoqi
+AU  - Ying, Jinhuika
+T2  - INTERNATIONAL REVIEW OF ECONOMICS & FINANCE
+AB  - This study constructs a recycling and emission reduction model where a third party is responsible for recycling, and the manufacturer is responsible for remanufacturing. We compare three scenarios: no government subsidy, government subsidies to recyclers for recycling volumes, and government subsidies to manufacturers for emission reductions. The results show that while carbon tax can effectively reduce carbon emissions, it also increases product prices and reduces market demand. In contrast, government subsidies significantly improve product recycling and reduce carbon emissions, enhancing corporate profits and government efficiency. Specifically, government subsidies are found to be more effective than carbon taxes in promoting recycling and emission reduction. The subsidy intensity is proportional to the basic recycling amount of old products and inversely proportional to the unit recycling cost and carbon tax. This study provides valuable insights for policymakers and businesses on how to design and implement effective subsidy policies to promote low-carbon supply chain management.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1016/j.iref.2025.104052
+VL  - 99
+IS  - 
+SP  - 104052
+J2  - INTERNATIONAL REVIEW OF ECONOMICS & FINANCE
+ER  - 
+
+
+TY  - JOUR
+TI  - Factors influencing residents' inclination towards engaging in the recycling of electric vehicle batteries
+AU  - Zuo, Chao
+AU  - Yan, Xuqiang
+AU  - Chen, Ziyi
+AU  - Wei, Wenbo
+AU  - Gao, Meina
+AU  - Ling, Yuting
+AU  - Zhu, Fenping
+AU  - Liu, Bei
+AU  - Zhou, Hongwei
+AU  - Xu, Dong
+AU  - Zhang, Mengjun
+T2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+AB  - In Hangzhou, the rapid development of electric vehicles has led to the first large-scale battery retirement trend in recent years. Despite ongoing efforts by the government and enterprises to promote the formal recycling of used batteries, recycling rates remain low. Therefore, exploring the factors that influence consumers' willingness to recycle retired batteries is key to improving the recovery rate of residents. In this study, from July 1 to July 31, 2023, we conducted an offline survey in Hangzhou with multi-stage stratified sampling. A total of 657 questionnaires were collected and analyzed as the basic data for our research. The results indicated that personal norms, subjective norms, and recycling intentions were all significantly positively correlated. Ascription of responsibility was associated with stronger personal norms, while policy incentives were associated with stronger subjective norms. However, the impact of product after-sales on intention to recycle was not significant, and residents have low recycling cognition of recycling behavior. These results suggested that the norm activation model was applicable for examining consumer recycling behavior in the context of electric vehicle batteries. The study contributed to the theoretical understanding of pro-environmental behavior and provides practical insights for policymakers and enterprises aiming to enhance consumer participation in battery recycling initiatives.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1057/s41599-025-05704-z
+VL  - 12
+IS  - 1
+SP  - 1380
+J2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Government subsidy strategies for power batteries of new energy vehicles: the perspectives of R&D and recycling
+AU  - Bai, Shizhen
+AU  - He, Hao
+AU  - Li, Ye
+T2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+AB  - Amid global efforts to achieve carbon neutrality and promote circular economy, the new energy vehicle (NEV) supply chain has emerged as a critical focus of industrial policy optimization. This study develops a Stackelberg game model where battery manufacturers act as leaders and NEV manufacturers as followers to investigate optimal decision-making strategies in the supply chain. We examine four distinct scenarios: no government subsidy (n-strategy), government subsidy for battery manufacturers (b-strategy), government subsidy for vehicle manufacturers (m-strategy), and dual subsidy (bm-strategy). Our analysis reveals several key findings: (1) any form of government subsidy enhances both power battery research and development (R&D) levels and waste recovery rates compared to the non-subsidy scenario; (2) from the perspective of consumer surplus and social welfare, the optimal subsidy strategy follows the hierarchy: bm > m > b > n; (3) higher subsidy levels do not necessarily translate into increased government revenue. Under both high and low regulatory cost scenarios, the dual subsidy (bm) and vehicle manufacturer subsidy (m) strategies generate optimal government net income when subsidy values are appropriately calibrated. These findings provide valuable insights for policymakers in designing effective subsidy mechanisms for the NEV industry, ultimately contributing to the optimization of economic and environmental benefits in this rapidly evolving sector.
+DA  - 2025
+PY  - 2025
+DO  - https://doi.org/10.1057/s41599-025-05103-4
+VL  - 12
+IS  - 1
+SP  - 748
+J2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Research on supply chain optimization under different government subsidy strategies in the remanufacturing-insurance combination system
+AU  - Liu, Bohai
+AU  - Liu, Xian
+AU  - Zhou, Tao
+AU  - Zheng, Handong
+AU  - Jin, Xiaobing
+AU  - Li, Kai
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Remanufacturing is a sustainable production model with significant economic, social, and environmental benefits. However, its development faces three critical constraints: Consumers often misperceive remanufactured products as inferior secondhand items, leading to lower willingness to pay; Most Original Equipment Manufacturers (OEMs) prioritize new product R&D over remanufacturing; Intellectual property disputes between OEMs and remanufacturers hinder collaboration. Despite existing research on government subsidies and authorized remanufacturing, two key literature gaps remain: few studies integrate insurance institutions as independent decision-makers into remanufacturing supply chains, and consumer-targeted subsidies are treated as a homogeneous category, lacking differentiation. To address these, this study builds a supply chain with four stakeholders (OEM, Third-Party Remanufacturer/TPR, insurance institution, consumers) and develops Stackelberg game models for three subsidy strategies: subsidizing TPR (Model R), subsidizing all remanufactured-part-claim insurance (i.e., insurance where the insurance institution settles claims with remanufactured parts when consumers file claims due to product failures) buyers (Model B), and subsidizing consumers of remanufactured-part-claim insurance with valid claims (Model A). Our key results reveal two core findings: Model R and Model A have similar effects-both lead to equivalent equilibrium decisions and profits for supply chain members; When both the claims ratio and consumer acceptance of remanufactured products are high, Model B achieves a win-win situation: it boosts the remanufacturing market share and increases profits for the OEM, TPR, and insurance institution, while aligning with government sustainability goals. Provides a quantitative basis for governments to design targeted remanufacturing subsidy policies. Collectively, these findings provide a quantitative basis for governments to design targeted remanufacturing subsidy policies.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.eswa.2025.130726
+VL  - 304
+IS  - 
+SP  - 130726
+J2  - EXPERT SYSTEMS WITH APPLICATIONS
+ER  - 
+
+
+TY  - JOUR
+TI  - Optimal decisions and coordination of power battery closed-loop supply chain considering fairness concerns and government subsidies
+AU  - Song, Hongyu
+AU  - Hou, Guisheng
+AU  - Jiang, Liwen
+T2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+AB  - The expansion of new energy vehicles has precipitated a significant increase in end-of-life batteries, highlighting critical battery lifecycle management issues. While current studies explore various dimensions of power battery recycling, the interaction between government interventions and the one-to-many and many-to-one fairness concerns remains underexplored, particularly with the third-party recycler mode. This gap hinders effective policy-making and management strategies. Therefore, we consider different fairness concerns under cap-and-trade regulation and recycling subsidies, establishing four game models incorporating the battery manufacturer (M), the vehicle manufacturer (V), and the third-party recycler (3P). Then, we analyze the corresponding pricing, marketing, and recycling strategies. To address fairness-related inefficiencies, we propose two coordination strategies. First, our results indicate that recycling quantity and member profits are significantly influenced by fairness concerns. Compared to the model without fairness concerns, M's fairness concerns reduce recycling quantity, member profits, and overall supply chain profit, while V's and 3P's fairness concerns increase their own profits but decrease M's profit. Second, we reveal that the effectiveness of government subsidies is moderated by members' fairness concerns. Furthermore, the improved two-part tariff contract and the joint revenue and cost-sharing contract can coordinate the closed-loop supply chain with fairness concerns, achieving a Pareto improvement in recycling quantity, profit, and utility. Finally, robustness tests show that asymmetric fairness concerns do not affect the main conclusions, while endogenous government subsidies significantly impact social welfare. These findings support circular supply chain management by revealing key interactions among government interventions, fairness concerns, and supply chain performance.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.tre.2025.104521
+VL  - 206
+IS  - 
+SP  - 104521
+J2  - TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+ER  - 
+
+
+TY  - JOUR
+TI  - Enabling enterprise coordination without fiscal burden: New policy pathways for coal waste management
+AU  - Ge, Jiaojiao
+AU  - Ran, Lun
+AU  - Wang, Jiancai
+T2  - ENERGY POLICY
+AB  - Coal-fired power plants generate substantial waste that requires green pretreatment before valorization, yet high costs and demand uncertainty discourage investment. Although government subsidies are often advocated to pro mote waste management, this study focuses on an implementable, enterprise-led alternative: recycler-provided pretreatment cost sharing as a contract-based mechanism within the supply chain, alongside recycler-to-plant de mand information sharing. Using a game-theoretic model with demand uncertainty and quality differentiation, we compare equilibrium outcomes under four coordination regimes: no cooperation, information sharing only, subsidization only, and a combined mechanism. Results show that information transparency robustly improves coordination by enabling state-contingent pretreatment decisions and sustaining mutual profitability across di verse market conditions. Subsidization increases pretreatment by relieving the plant's effective cost burden, but its attractiveness to the recycler is limited by direct payment costs, implying that cost-sharing requires targeted, performance-linked design. Combining the two instruments can strengthen outcomes under uncertainty but often provides limited incremental benefits beyond transparency. Policy implications emphasize prioritizing trans parency infrastructure, standardized disclosure, and data governance as a baseline, while facilitating subsidy-like cost sharing selectively in contexts where quality premia and uncertainty make cost relief more likely to generate shared gains.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.enpol.2026.115195
+VL  - 213
+IS  - 
+SP  - 115195
+J2  - ENERGY POLICY
+ER  - 
+
+
+TY  - JOUR
+TI  - Research on technology investment in the echelon utilization of retired power batteries for energy storage under the carbon trading mechanism
+AU  - Liu, Juanjuan
+AU  - Pan, Luyi
+T2  - ENERGY
+AB  - To promote international carbon emission reduction, the retired power batteries have been applied to energy storage for echelon utilization. This paper investigates the reverse closed-loop supply chain decisions, consisting of a echelon user, a third-party recycler, and an energy storage enterprise. The analysis encompasses models: whether echelon user investments blockchain technologies and carbon emission reduction technologies. The paper investigates optimal technology investment decisions under various models. The results indicate that: (1) Increasing government subsidy, the echelon utilization rate, and the carbon trading price can reduce carbon emissions during the processing and disposal of retired power batteries, and enable all parties in the supply chain to achieve higher profits; (2) Enhancing the testing/sorting level for retired power batteries enables recyclers to provide higher-quality power batteries suitable for echelon utilization to echelon users; (3) In the basic UB model, as well as the UBC and HB models with standalone investments in carbon emission reduction technology or blockchain technology respectively, none can achieve optimal performance. When echelon users simultaneously invest in blockchain technology and carbon emission reduction technology, both their profits and the total supply chain profits can reach the maximum among the four models.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.energy.2025.139631
+VL  - 344
+IS  - 
+SP  - 139631
+J2  - ENERGY
+ER  - 
+
+
+TY  - JOUR
+TI  - A game-theoretic approach to sustainable smart manufacturing using IoT under policy incentives: a case study of Iran and South Korea
+AU  - Naghsh-Nilchi, Mahnaz
+AU  - Rasti-Barzoki, Morteza
+AU  - Jamali, Mohammad-Bagher
+AU  - Altmann, Jorn
+AU  - Egger, Bernhard
+T2  - INTERNET OF THINGS
+AB  - This study presents a mathematical model to analyze the competition between smart and traditional home appliance manufacturers in Iran and South Korea using a game theory approach. The smart manufacturer utilizes IoT-enabled products and a Sensing-as-a-Service (SaaS) ecosystem to collect and analyze real-time operational data, enabling predictive maintenance, energy optimization, and intelligent product design. This data-driven approach extends the product life cycle, reduces operating costs, and reduces material waste and carbon emissions. In contrast, the traditional manufacturer relies on conventional R&D and after-sales feedback, which limits responsiveness and efficiency. The proposed model is the first to highlight the strategic value of data analytics in the SaaS ecosystem in shaping competitive advantage, sustainability, and market performance by considering customer behavior and government incentives. The results show that providing targeted incentives for data sharing significantly increases demand, profitability, and environmental benefits, especially in mature digital markets. Furthermore, the study shows that supporting context-specific policies enhances the effectiveness of smart manufacturing strategies. Overall, this research provides actionable insights for policymakers, manufacturers, and IoT stakeholders seeking to foster sustainable, competitive, and digital industrial systems in emerging and advanced economies.
+DA  - 2026
+PY  - 2026
+DO  - https://doi.org/10.1016/j.iot.2025.101860
+VL  - 36
+IS  - 
+SP  - 101860
+J2  - INTERNET OF THINGS
+ER  - 
+
+
+TY  - JOUR
+TI  - Collaborative influences of technological innovation capability and government subsidy rate on the stability of eco-innovational cooperation in the chemical industry
+AU  - Duan, Nannan
+AU  - Xu, Fuyuan
+T2  - CHIMICA OGGI-CHEMISTRY TODAY
+AB  - With worsening global environmental problems such as climate change, eco-innovation has become the driving factor for global sustainable transition. As a high-pollution industry, the chemical industry is devoted to promoting the development process of eco-innovation and pursuing gains while reducing chemical pollution caused by waste water, rubbish, and exhaust emission. In this work, three major factors that influence eco-innovation in the chemical industry, namely, the technological innovative capability of enterprises, government eco-innovation subsidy rate, and cooperation among enterprises, were selected as the study object. Evolutionary game theory and Matlab simulation were utilized to analyze the effects of enterprises' technological innovation capability and governmental eco-innovation subsidy rate on the stability of enterprise cooperation when the knowledge spillover effect exists. Results showed that when two enterprises have equal technological innovation capability, they can still form a stable cooperative relationship even if no subsidy policy is provided by the government. By contrast, when the capabilities of two enterprises are at different levels, a stable cooperation can be formed with the help of the government's implementation of a reasonable eco-innovation subsidy rate.
+DA  - 2016
+PY  - 2016
+VL  - 34
+IS  - 6B
+SP  - 46-52
+J2  - CHIMICA OGGI-CHEMISTRY TODAY
+ER  - 
+
