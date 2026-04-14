@@ -265,7 +265,80 @@ Based on the above assumptions, the profit functions are expressed as:
 \Pi_R = (\theta k - p_R - m - \mu_R + s)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - n\frac{c k^2}{2} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
 \end{equation}
 
-\subsection{Cooperative game: characteristic function construction and profit allocation}
+\subsection{Pure non-cooperative game: Baseline scenario}
+In the baseline scenario, there is no investment cost sharing between the manufacturer and the recycler. Specifically, the recycler $R$ bears all the investment costs ($n=1$), while the manufacturer $M$ does not participate in technology investment. Under this setting, the recycler independently optimizes the conversion rate $k$ to maximize its own profit, and subsequently both parties compete in collection prices. This baseline scenario serves as a benchmark for comparing with the cooperative biform game.
+
+Under $n=1$, the profit functions simplify to:
+\begin{equation}
+\Pi_M^N = (\theta k - p_M - w - \mu_M + s)(\alpha p_M - \beta p_R)
+\label{eq:profit_MN}
+\end{equation}
+\begin{equation}
+\Pi_R^N = (\theta k - p_R - m - \mu_R + s)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - \frac{c k^2}{2} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\label{eq:profit_RN}
+\end{equation}
+
+We solve this game using backward induction.
+
+\textbf{Step 1: Recycler's technology investment decision.} Given collection prices $(p_M, p_R)$, the recycler $R$ chooses $k$ to maximize $\Pi_R^N$:
+\begin{equation}
+\frac{\partial \Pi_R^N}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving for $k$, we obtain:
+\begin{equation}
+k^N(p_M, p_R) = \frac{\theta(\alpha p_R - \beta p_M)}{c}
+\label{eq:k_N}
+\end{equation}
+Substituting $k^N$ into $\Pi_R^N$, the recycler's profit becomes:
+\begin{equation}
+\Pi_R^N = (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\end{equation}
+
+\textbf{Step 2: Price competition equilibrium.} Using the profit functions $\Pi_M^N$ and $\Pi_R^N$, we derive the reaction functions. Solving the system yields the equilibrium collection prices:
+\begin{equation}
+p_M^{N*} = \frac{
+4c^2 \left[ 2\alpha^2(s - w - \mu_M) + \alpha\beta(s - m - \mu_R) - \beta^2(w - m) \right]
+- 2c\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha^2(s - w - \mu_M) - (\alpha^2 - \alpha\beta + \beta^2)(w - m) \right] - \alpha(\alpha^2 - \alpha\beta + \beta^2)(\mu_M - \mu_R) \Big\}
+- 4c\alpha p_c e (\alpha - \beta)(\alpha^2 - \alpha\beta + \beta^2)
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\label{eq:p_MN_star}
+\end{equation}
+
+\begin{equation}
+p_R^{N*} = \frac{
+4c^2\alpha \left[ 2\alpha(s - m - \mu_R) + \beta(s - 3w + 2m - \mu_M) \right]
+- 2c\alpha\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha(w - m) + \beta(s - 3w + 2m - \mu_M) \right] + \alpha(\alpha - 2\beta)(\mu_M - \mu_R) \Big\}
+- 4c p_c e (\alpha - \beta) \left[ c(2\alpha^2 - \beta^2) - \theta^2\alpha(\alpha - \beta) \right]
+}{
+(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+}
+\label{eq:p_RN_star}
+\end{equation}
+
+Substituting the equilibrium prices into Equation~\eqref{eq:k_N}, we obtain the optimal conversion rate:
+\begin{equation}
+k^{N*} = \frac{\theta(\alpha p_R^{N*} - \beta p_M^{N*})}{c}
+\label{eq:k_N_star}
+\end{equation}
+
+The equilibrium collection quantities are:
+\begin{equation}
+q_M^{N*} = \alpha p_M^{N*} - \beta p_R^{N*}
+\label{eq:q_MN_star}
+\end{equation}
+\begin{equation}
+q_R^{N*} = \alpha p_R^{N*} - \beta p_M^{N*}
+\label{eq:q_RN_star}
+\end{equation}
+
+This baseline equilibrium provides a benchmark for analyzing how cooperation through investment cost sharing improves the overall system performance.
+
+\subsection{Two-stage biform game analysis}
+In this subsection, we analyze the two-stage biform game where the manufacturer and recycler cooperate through investment cost sharing.
+
+\subsubsection{Cooperative stage: Profit allocation via Shapley value}
 Based on the game sequence of the non-cooperative and cooperative biform game, we construct the cooperative game model under any given competitive situation $(p_M, p_R)$. We calculate the characteristic values $V_{p_M,p_R}(S)$ for all possible coalitions, where $S \in \{\emptyset, \{M\}, \{R\}, \{M, R\}\}$. Here, $\{M, R\}$ denotes the grand coalition composed of manufacturer $M$ and recycler $R$. If the coalition is empty, we assume $V_{p_M,p_R}\{\varnothing\} = 0$. Under any competitive situation, the characteristic functions of the coalitions are determined using the maximin theorem.
 
 (1) For coalition $\{M\}$, based on the profit function $\Pi_M$ in Equation (3), the characteristic function is:
@@ -354,7 +427,9 @@ Combining with Equations (7) and (13), we can obtain:
 
 Therefore, for any competitive situation $(p_M, p_R)$, the profit allocations for manufacturer $M$ and recycler $R$ satisfy $\varphi_M(p_M, p_R) \geq V_{p_M,p_R}(\{M\})$ and $\varphi_R(p_M, p_R) \geq V_{p_M,p_R}(\{R\})$. This indicates that under any competitive situation $(p_M, p_R)$, when manufacturer $M$ and recycler $R$ cooperate, the allocated profit is no less than the profit when not cooperating, which helps achieve a stable cooperative alliance.
 
-\subsection{Non-cooperative game: optimal pricing for manufacturer and recycler}
+\textbf{Remark.} The key difference between $\varphi_R$ in the biform game and $\Pi_R^N$ in the baseline is that under cooperation, the recycler benefits from the shared investment technology which generates higher conversion rate $k$, while the carbon cost term remains the same.
+
+\subsubsection{Non-cooperative stage: Equilibrium pricing}
 The above analysis solves the profit allocation values $\varphi_M$ and $\varphi_R$ in the cooperative game stage. Using these profit allocation values as the payoff functions for manufacturer $M$ and recycler $R$ in the non-cooperative game, we derive the reaction functions by taking first-order partial derivatives with respect to the collection prices $p_M$ and $p_R$, respectively. By simultaneously solving these reaction functions, we obtain the equilibrium strategies $(p_M^*, p_R^*)$. The solution procedure is as follows:
 
 Taking the second-order partial derivatives of the profit allocation functions $\varphi_M$ and $\varphi_R$ with respect to $p_M$ and $p_R$, we obtain:
@@ -454,6 +529,15 @@ q_{total}^* = \frac{
 (\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
 }
 \end{equation}
+
+The optimal cost-sharing proportion is:
+\begin{equation}
+n^{C*} = \frac{2(\alpha p_R^{C*} - \beta p_M^{C*})^2 + 2(\alpha p_M^{C*} - \beta p_R^{C*})(\alpha p_R^{C*} - \beta p_M^{C*}) - (\alpha p_M^{C*} - \beta p_R^{C*})^2}{2 \big[ (\alpha-\beta)(p_M^{C*} + p_R^{C*}) \big]^2}
+\end{equation}
+
+\textbf{Impact of carbon price $p_c$ on equilibrium.} Comparing the reaction functions in the biform game with those in the baseline, we observe that the carbon price $p_c$ affects the recycler's first-order condition through the term $- p_c e (\alpha - \beta)$. This term shifts the recycler's reaction curve: as $p_c$ increases, the recycler's optimal collection price decreases to offset the additional carbon cost burden. This is a key difference from the baseline scenario, where the recycler's pricing decision is not modulated by carbon costs in the same manner.
+
+The equilibrium analysis reveals that under the biform game framework with cooperation, both parties achieve higher profits compared to the baseline non-cooperative scenario, provided that the investment cost sharing mechanism effectively improves the conversion rate $k$. The following section validates these theoretical findings through numerical simulations.
 
 The above expressions are relatively complex, making it difficult to conduct theoretical analysis on the impacts of parameters such as competition intensity and R\&D cost coefficients on the equilibrium solutions. Therefore, the following numerical simulation analysis will be conducted with specific parameter values.
 
