@@ -184,9 +184,11 @@ However, these applications predominantly assume symmetric resource endowments o
 
 \section{Model formulation}
 \subsection{Problem description}
-We consider a waste concrete recycling supply chain consisting of a traditional concrete manufacturer $M$ and a specialized construction waste recycler $R$. Both $M$ and $R$ participate in the collection of waste concrete from waste generators (e.g., construction companies or demolition contractors). Recycler $R$ possesses specialized waste processing technologies and equipment, responsible for crushing, screening, decontamination, and enhancement of collected waste concrete to produce recycled concrete aggregate (RCA). 
+We consider a two-stage waste concrete recycling supply chain consisting of a traditional concrete manufacturer M and a specialized construction waste recycler R. Both M and R participate in the collection of waste concrete from waste generators, while recycler R possesses specialized technologies and equipment to process the collected waste into recycled concrete aggregate (RCA). As the party processing the waste concrete, recycler R generates carbon dioxide emissions during its operations, and therefore must consider the impact of cap-and-trade policies on its economic decisions. In this section, we develop and compare two different game-theoretic models: (1) a pure non-cooperative waste concrete recycling model considering the cap-and-trade mechanism, and (2) a biform game model combining cooperative investment with the cap-and-trade mechanism.
 
-This section establishes a non-cooperative and cooperative game model to investigate the competition in collection and cooperation in processing technology cost sharing between manufacturer $M$ and recycler $R$ in concrete waste recycling. First, in the non-cooperative game, manufacturer $M$ and recycler $R$ determine their respective collection prices to form a competitive situation $(p_M, p_R)$. Second, in the cooperative game, under any competitive situation, manufacturer $M$ and recycler $R$ determine the strategy of the cooperative game, i.e., the proportion of investment cost sharing $n$ and the corresponding conversion rate $k$, to obtain the characteristic values of each coalition. The Shapley value method is used to calculate the profit distribution values $V_M$ and $V_R$ for manufacturer $M$ and recycler $R$, respectively. Third, using the obtained profit distribution values as the payoff function for the non-cooperative game, the optimal collection prices $(p_M^*, p_R^*)$ are derived. Finally, substituting the optimal collection prices $(p_M^*, p_R^*)$ into the cooperative game yields the optimal strategies $n^*$ and $k^*$, as well as the corresponding optimal profit allocations $(\Pi_M^*, \Pi_R^*)$ and optimal collection quantities $(q_M^*, q_R^*)$.
+In the non-cooperative game scenario, there is no investment cost sharing between the manufacturer and the recycler. Recycler R independently bears all the investment costs for upgrading the processing technology. The decision sequence is as follows: first, recycler R independently determines the optimal RCA conversion rate to maximize its own profit; subsequently, based on this established conversion rate, manufacturer M and recycler R simultaneously determine their respective collection prices to compete for waste concrete resources in the market.
+
+In the biform game scenario, the interaction involves both pricing competition and investment cooperation. The game process is modeled in two stages. First, in the non-cooperative stage, manufacturer M and recycler R determine their respective collection prices to form a competitive situation. Second, in the cooperative stage, under any given competitive situation, the two parties jointly form an alliance to determine the optimal conversion rate and the proportion of investment cost sharing. We calculate the characteristic values of each coalition and apply the Shapley value method to determine the profit distribution values ($\varphi_M$ and $\varphi_R$) for manufacturer M and recycler R, respectively. Finally, using these profit distribution values as the payoff functions, we solve the first-stage non-cooperative game backward to derive the optimal collection prices, conversion rate, and final profit allocations.
 
 The following assumptions are made:
 
@@ -210,7 +212,7 @@ where $c$ is the investment cost coefficient. This quadratic function indicates 
 
 \textbf{Assumption 6.} Both manufacturer $M$ and recycler $R$ incur unit transportation costs for collecting waste concrete from generators. Due to the distinctive backhaul logistics advantage in the construction industry, manufacturer $M$'s concrete delivery trucks can collect waste concrete on return trips from construction sites, resulting in a lower transportation cost $\mu_M$. In contrast, recycler $R$ must dispatch dedicated vehicles for collection, incurring a higher transportation cost $\mu_R$. We assume $\mu_M < \mu_R$. This cost asymmetry reflects a key engineering management characteristic of waste concrete recycling: the physical properties of waste concrete (heavy, large volume, low value density) make transportation costs a significant component of total recycling costs.
 
-\textbf{Assumption 7 (Cap-and-Trade Mechanism).} Under the cap-and-trade mechanism, recycler $R$ is subject to government-allocated carbon emission quotas and engages in carbon trading. Let $G$ denote the total carbon emission quota allocated by the government to recycler $R$ in a compliance cycle. The actual carbon emissions generated by recycler $R$ processing a unit of waste concrete is denoted by $e$ (treated as a constant). The total processing quantity is $q_{total} = q_M + q_R = (\alpha - \beta)(p_M + p_R)$. Let $p_c$ denote the trading price per unit of carbon emission in the carbon market. The net carbon trading cost incurred by recycler $R$ is:
+\textbf{Assumption 7.} Under the cap-and-trade mechanism, recycler $R$ is subject to government-allocated carbon emission quotas and engages in carbon trading. Let $G$ denote the total carbon emission quota allocated by the government to recycler $R$ in a compliance cycle. The actual carbon emissions generated by recycler $R$ processing a unit of waste concrete is denoted by $e$ (treated as a constant). The total processing quantity is $q_{total} = q_M + q_R = (\alpha - \beta)(p_M + p_R)$. Let $p_c$ denote the trading price per unit of carbon emission in the carbon market. The net carbon trading cost incurred by recycler $R$ is:
 \begin{equation}
 p_c \left[ e \cdot q_{total} - G \right] = p_c \left[ e(\alpha - \beta)(p_M + p_R) - G \right]
 \end{equation}
@@ -265,8 +267,8 @@ Based on the above assumptions, the profit functions are expressed as:
 \Pi_R = (\theta k - p_R - m - \mu_R + s)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - n\frac{c k^2}{2} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
 \end{equation}
 
-\subsection{Pure non-cooperative game: Baseline scenario}
-In the baseline scenario, there is no investment cost sharing between the manufacturer and the recycler. Specifically, the recycler $R$ bears all the investment costs ($n=1$), while the manufacturer $M$ does not participate in technology investment. Under this setting, the recycler independently optimizes the conversion rate $k$ to maximize its own profit, and subsequently both parties compete in collection prices. This baseline scenario serves as a benchmark for comparing with the cooperative biform game.
+\subsection{Non-cooperative game module}
+In this module, there is no investment cost sharing between the manufacturer and the recycler. Specifically, the recycler $R$ bears all the investment costs ($n=1$), while the manufacturer $M$ does not participate in technology investment. Under this setting, the recycler independently optimizes the conversion rate $k$ to maximize its own profit, and subsequently both parties compete in collection prices.
 
 Under $n=1$, the profit functions simplify to:
 \begin{equation}
@@ -305,9 +307,12 @@ Substituting $k^N$ into $\Pi_R^N$, the recycler's profit becomes:
 \textbf{Step 2: Price competition equilibrium.} Using the profit functions $\Pi_M^N$ and $\Pi_R^N$, we derive the reaction functions. Solving the system yields the equilibrium collection prices:
 \begin{equation}
 p_M^{N*} = \frac{
-\displaystyle 4c^2 \left[ 2\alpha^2(s - w - \mu_M) + \alpha\beta(s - m - \mu_R) - \beta^2(w - m) \right]
-- 2c\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha^2(s - w - \mu_M) - (\alpha^2 - \alpha\beta + \beta^2)(w - m) \right] - \alpha(\alpha^2 - \alpha\beta + \beta^2)(\mu_M - \mu_R) \Big\}
-- 4c\alpha p_c e (\alpha - \beta)(\alpha^2 - \alpha\beta + \beta^2)
+\displaystyle
+\begin{aligned}
+& 4c^2 \left[ 2\alpha^2(s - w - \mu_M) + \alpha\beta(s - m - \mu_R) - \beta^2(w - m) \right] \\
+& - 2c\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha^2(s - w - \mu_M) - (\alpha^2 - \alpha\beta + \beta^2)(w - m) \right] - \alpha(\alpha^2 - \alpha\beta + \beta^2)(\mu_M - \mu_R) \Big\} \\
+& - 4c\alpha p_c e (\alpha - \beta)(\alpha^2 - \alpha\beta + \beta^2)
+\end{aligned}
 }{
 \displaystyle (\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
 }
@@ -316,9 +321,12 @@ p_M^{N*} = \frac{
 
 \begin{equation}
 p_R^{N*} = \frac{
-\displaystyle 4c^2\alpha \left[ 2\alpha(s - m - \mu_R) + \beta(s - 3w + 2m - \mu_M) \right]
-- 2c\alpha\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha(w - m) + \beta(s - 3w + 2m - \mu_M) \right] + \alpha(\alpha - 2\beta)(\mu_M - \mu_R) \Big\}
-- 4c p_c e (\alpha - \beta) \left[ c(2\alpha^2 - \beta^2) - \theta^2\alpha(\alpha - \beta) \right]
+\displaystyle
+\begin{aligned}
+& 4c^2\alpha \left[ 2\alpha(s - m - \mu_R) + \beta(s - 3w + 2m - \mu_M) \right] \\
+& - 2c\alpha\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha(w - m) + \beta(s - 3w + 2m - \mu_M) \right] + \alpha(\alpha - 2\beta)(\mu_M - \mu_R) \Big\} \\
+& - 4c p_c e (\alpha - \beta) \left[ c(2\alpha^2 - \beta^2) - \theta^2\alpha(\alpha - \beta) \right]
+\end{aligned}
 }{
 \displaystyle (\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
 }
@@ -341,9 +349,21 @@ q_R^{N*} = \alpha p_R^{N*} - \beta p_M^{N*}
 \label{eq:q_RN_star}
 \end{equation}
 
-This baseline equilibrium provides a benchmark for analyzing how cooperation through investment cost sharing improves the overall system performance.
+Finally, substituting the equilibrium values into the profit functions, we derive the equilibrium profits for manufacturer $M$ and recycler $R$ under the non-cooperative game module:
+\begin{equation}
+\Pi_M^{N*} = (\theta k^{N*} - p_M^{N*} - w - \mu_M + s)(\alpha p_M^{N*} - \beta p_R^{N*})
+\label{eq:Pi_MN_star}
+\end{equation}
+\begin{equation}\Pi_R^{N*} =
+\begin{aligned}& (\theta k^{N*} - p_R^{N*} - m - \mu_R + s)(\alpha p_R^{N*} - \beta p_M^{N*}) + (w - m)(\alpha p_M^{N*} - \beta p_R^{N*}) \\
+& + \frac{\theta^2(\alpha p_R^{N*} - \beta p_M^{N*})^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M^{N*} + p_R^{N*}) - G \right]
+\end{aligned}
+\label{eq:Pi_RN_star}
+\end{equation}
 
-\subsection{Two-stage biform game analysis}
+Note that the non-cooperative game model characterizes the case where there is no investment cost-sharing mechanism between the concrete manufacturer and the recycler, therefore this model serves as a benchmark for our subsequent comparative analyses with the biform game model.
+
+\subsection{Two-stage biform game model}
 In this subsection, we analyze the two-stage biform game where the manufacturer and recycler cooperate through investment cost sharing.
 
 \subsubsection{Cooperative stage: Profit allocation via Shapley value}
@@ -455,8 +475,6 @@ Combining with Equations (7) and (13), we can obtain:
 
 Therefore, for any competitive situation $(p_M, p_R)$, the profit allocations for manufacturer $M$ and recycler $R$ satisfy $\varphi_M(p_M, p_R) \geq V_{p_M,p_R}(\{M\})$ and $\varphi_R(p_M, p_R) \geq V_{p_M,p_R}(\{R\})$. This indicates that under any competitive situation $(p_M, p_R)$, when manufacturer $M$ and recycler $R$ cooperate, the allocated profit is no less than the profit when not cooperating, which helps achieve a stable cooperative alliance.
 
-\textbf{Remark.} The key difference between $\varphi_R$ in the biform game and $\Pi_R^N$ in the baseline is that under cooperation, the recycler benefits from the shared investment technology which generates higher conversion rate $k$, while the carbon cost term remains the same.
-
 \subsubsection{Non-cooperative stage: Equilibrium pricing}
 The above analysis solves the profit allocation values $\varphi_M$ and $\varphi_R$ in the cooperative game stage. Using these profit allocation values as the payoff functions for manufacturer $M$ and recycler $R$ in the non-cooperative game, we derive the reaction functions by taking first-order partial derivatives with respect to the collection prices $p_M$ and $p_R$, respectively. By simultaneously solving these reaction functions, we obtain the equilibrium strategies $(p_M^*, p_R^*)$. The solution procedure is as follows:
 
@@ -477,27 +495,27 @@ When $\alpha > 2\beta > 0$, we have $\frac{\partial^2 \varphi_M}{\partial p_M^2}
 From this, we can obtain the optimal collection price $p_M^{C*}$ for manufacturer $M$:
 \begin{equation}
 p_M^{C*} = \frac{
-\stackrel{}{\begin{aligned}
+\displaystyle
+\begin{aligned}
 &4c^2 \left[ 2\alpha^2(s - w - \mu_M) + \alpha\beta(s - m - \mu_R) - \beta^2(w - m) \right] \\
-&\quad - 2c\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha^2(s - w - \mu_M) - (\alpha^2 - \alpha\beta + \beta^2)(w - m) \right] \\
-&\qquad - \alpha(\alpha^2 - \alpha\beta + \beta^2)(\mu_M - \mu_R) \Big\} \\
-&\quad - 4c\alpha p_c e (\alpha - \beta)(\alpha^2 - \alpha\beta + \beta^2)
-\end{aligned}}
+&- 2c\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha^2(s - w - \mu_M) - (\alpha^2 - \alpha\beta + \beta^2)(w - m) \right] - \alpha(\alpha^2 - \alpha\beta + \beta^2)(\mu_M - \mu_R) \Big\} \\
+&- 4c\alpha p_c e (\alpha - \beta)(\alpha^2 - \alpha\beta + \beta^2)
+\end{aligned}
 }{
-(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+\displaystyle (\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
 }
 \end{equation}
 And the optimal collection price $p_R^{C*}$ for recycler $R$:
 \begin{equation}
 p_R^{C*} = \frac{
-\stackrel{}{\begin{aligned}
+\displaystyle
+\begin{aligned}
 &4c^2\alpha \left[ 2\alpha(s - m - \mu_R) + \beta(s - 3w + 2m - \mu_M) \right] \\
-&\quad - 2c\alpha\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha(w - m) + \beta(s - 3w + 2m - \mu_M) \right] \\
-&\qquad + \alpha(\alpha - 2\beta)(\mu_M - \mu_R) \Big\} \\
-&\quad - 4c p_c e (\alpha - \beta) \left[ c(2\alpha^2 - \beta^2) - \theta^2\alpha(\alpha - \beta) \right]
-\end{aligned}}
+&- 2c\alpha\theta^2 \Big\{ (\alpha-\beta) \left[ \alpha(w - m) + \beta(s - 3w + 2m - \mu_M) \right] + \alpha(\alpha - 2\beta)(\mu_M - \mu_R) \Big\} \\
+&- 4c p_c e (\alpha - \beta) \left[ c(2\alpha^2 - \beta^2) - \theta^2\alpha(\alpha - \beta) \right]
+\end{aligned}
 }{
-(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
+\displaystyle (\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
 }
 \end{equation}
 
