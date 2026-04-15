@@ -274,7 +274,11 @@ Under $n=1$, the profit functions simplify to:
 \label{eq:profit_MN}
 \end{equation}
 \begin{equation}
-\Pi_R^N = (\theta k - p_R - m - \mu_R + s)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - \frac{c k^2}{2} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\Pi_R^N =
+\begin{aligned}
+& (\theta k - p_R - m - \mu_R + s)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& - \frac{c k^2}{2} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\end{aligned}
 \label{eq:profit_RN}
 \end{equation}
 
@@ -291,7 +295,11 @@ k^N(p_M, p_R) = \frac{\theta(\alpha p_R - \beta p_M)}{c}
 \end{equation}
 Substituting $k^N$ into $\Pi_R^N$, the recycler's profit becomes:
 \begin{equation}
-\Pi_R^N = (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\Pi_R^N =
+\begin{aligned}
+& (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\end{aligned}
 \end{equation}
 
 \textbf{Step 2: Price competition equilibrium.} Using the profit functions $\Pi_M^N$ and $\Pi_R^N$, we derive the reaction functions. Solving the system yields the equilibrium collection prices:
@@ -356,11 +364,19 @@ V_{p_M,p_R}(\{M\}) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)
 
 (2) For coalition $\{R\}$, based on the profit function $\Pi_R$ in Equation (4), the characteristic function is:
 \begin{equation}
-V_{p_M,p_R}(\{R\}) = \max_{k \in [0,1]} \min_{n \in [0,1]} \{\Pi_R\} = \max_{k \in [0,1]} \min_{n \in [0,1]} \{(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - n\frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
+V_{p_M,p_R}(\{R\}) =
+\begin{aligned}
+= \max_{k \in [0,1]} \{ &(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
+\end{aligned}
 \end{equation}
 Since $n \in [0,1]$, the investment cost term $n\frac{ck^2}{2}$ is minimized when $n^* = 1$, which yields the maximum profit. Setting $n^* = 1$, we have:
 \begin{equation}
-V_{p_M,p_R}(\{R\}) = \max_{k \in [0,1]} \{(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
+V_{p_M,p_R}(\{R\}) =
+\begin{aligned}
+\max_{k \in [0,1]} \{ &(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
+\end{aligned}
 \end{equation}
 Taking the first derivative of the above equation with respect to $k$ and setting it to zero, we obtain:
 \begin{equation}
@@ -372,12 +388,20 @@ k^* = \frac{\theta(\alpha p_R - \beta p_M)}{c}
 \end{equation}
 Substituting $k^*$ into the characteristic function, we obtain:
 \begin{equation}
-V_{p_M,p_R}(\{R\}) = \left(s - p_R - m - \mu_R\right)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c[e(\alpha-\beta)(p_M+p_R)-G]
+V_{p_M,p_R}(\{R\}) =
+\begin{aligned}
+& \left(s - p_R - m - \mu_R\right)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c[e(\alpha-\beta)(p_M+p_R)-G]
+\end{aligned}
 \end{equation}
 
 (3) When manufacturer $M$ cooperates with recycler $R$, they form the grand coalition $\{M,R\}$. Based on the profit functions in Equations (3) and (4), the characteristic function of the grand coalition is:
 \begin{equation}
-V_{p_M,p_R}(\{M,R\}) = \max_{k \in [0,1]} \{(\theta k + s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
+V_{p_M,p_R}(\{M,R\}) =
+\begin{aligned}
+= \max_{k \in [0,1]} \{ &(\theta k + s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) \\
+& + (\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
+\end{aligned}
 \end{equation}
 Taking the first derivative of the above equation with respect to $k$ and setting it to zero, we obtain:
 \begin{equation}
@@ -389,7 +413,11 @@ k^* = \frac{\theta\alpha(p_M + p_R) - \theta\beta(p_M + p_R)}{c} = \frac{\theta(
 \end{equation}
 Substituting $k^*$ into the characteristic function, we obtain:
 \begin{equation}
-V_{p_M,p_R}(\{M,R\}) = (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c[e(\alpha-\beta)(p_M+p_R)-G]
+V_{p_M,p_R}(\{M,R\}) =
+\begin{aligned}
+& (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) \\
+& + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c[e(\alpha-\beta)(p_M+p_R)-G]
+\end{aligned}
 \end{equation}
 
 Based on Equations (7), (13) and (16), we can derive:
