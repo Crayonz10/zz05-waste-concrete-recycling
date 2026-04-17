@@ -7,6 +7,7 @@
 % ===== 宏包导入部分 =====
 % 数学相关宏包（必备！工程管理论文经常用到数学公式）
 \usepackage{amsmath}      % 强大的数学环境，如align、equation等
+\usepackage{amsthm}        % 定理环境（prop环境）
 \usepackage{amssymb}      % 数学符号，如∈、⊆、∀、∃等
 \usepackage{amsfonts}     % 数学字体，如粗体向量、花体字母等
 \usepackage{bm}           % 加粗数学符号
@@ -72,6 +73,9 @@
 \journal{}
 
 \begin{document}
+
+% 定理环境定义
+\newtheorem{prop}{Proposition}[section]
 
 % 行号设置（审稿格式）
 \modulolinenumbers[1]
@@ -267,7 +271,7 @@ Based on the above assumptions, the profit functions are expressed as:
 \Pi_R = (\theta k - p_R - m - \mu_R + s)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) - n\frac{c k^2}{2} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
 \end{equation}
 
-\subsection{Non-cooperative game module}
+\subsection{Non-cooperative game module (baseline)}
 In this module, there is no investment cost sharing between the manufacturer and the recycler. Specifically, the recycler $R$ bears all the investment costs ($n=1$), while the manufacturer $M$ does not participate in technology investment. Under this setting, the recycler independently optimizes the conversion rate $k$ to maximize its own profit, and subsequently both parties compete in collection prices.
 
 Under $n=1$, the profit functions simplify to:
@@ -284,27 +288,19 @@ Under $n=1$, the profit functions simplify to:
 \label{eq:profit_RN}
 \end{equation}
 
-We solve this game using backward induction.
+We solve this game using backward induction. The detailed solution process is provided in Appendix \ref{app:prop1}. We now present the main result as follows.
 
-\textbf{Step 1: Recycler's technology investment decision.} Given collection prices $(p_M, p_R)$, the recycler $R$ chooses $k$ to maximize $\Pi_R^N$:
+\begin{prop}
+\label{prop:baseline}
+Under the non-cooperative game module (baseline), the equilibrium strategies are given by:
+\begin{enumerate}
+\item The optimal conversion rate chosen by the recycler is:
 \begin{equation}
-\frac{\partial \Pi_R^N}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
-\end{equation}
-Solving for $k$, we obtain:
-\begin{equation}
-k^N(p_M, p_R) = \frac{\theta(\alpha p_R - \beta p_M)}{c}
-\label{eq:k_N}
-\end{equation}
-Substituting $k^N$ into $\Pi_R^N$, the recycler's profit becomes:
-\begin{equation}
-\Pi_R^N =
-\begin{aligned}
-& (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
-& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
-\end{aligned}
+k^{N*} = \frac{\theta(\alpha p_R^{N*} - \beta p_M^{N*})}{c}
+\label{eq:k_N_star}
 \end{equation}
 
-\textbf{Step 2: Price competition equilibrium.} Using the profit functions $\Pi_M^N$ and $\Pi_R^N$, we derive the reaction functions. Solving the system yields the equilibrium collection prices:
+\item The equilibrium collection prices $(p_M^{N*}, p_R^{N*})$ satisfy:
 \begin{equation}
 p_M^{N*} = \frac{
 \displaystyle
@@ -333,166 +329,99 @@ p_R^{N*} = \frac{
 \label{eq:p_RN_star}
 \end{equation}
 
-Substituting the equilibrium prices into Equation~\eqref{eq:k_N}, we obtain the optimal conversion rate:
-\begin{equation}
-k^{N*} = \frac{\theta(\alpha p_R^{N*} - \beta p_M^{N*})}{c}
-\label{eq:k_N_star}
-\end{equation}
-
-The equilibrium collection quantities are:
+\item The equilibrium collection quantities are:
 \begin{equation}
 q_M^{N*} = \alpha p_M^{N*} - \beta p_R^{N*}
-\label{eq:q_MN_star}
-\end{equation}
-\begin{equation}
+\quad \text{and} \quad
 q_R^{N*} = \alpha p_R^{N*} - \beta p_M^{N*}
-\label{eq:q_RN_star}
+\label{eq:q_N_star}
 \end{equation}
 
-Finally, substituting the equilibrium values into the profit functions, we derive the equilibrium profits for manufacturer $M$ and recycler $R$ under the non-cooperative game module:
+\item The equilibrium profits are:
 \begin{equation}
-\Pi_M^{N*} = (\theta k^{N*} - p_M^{N*} - w - \mu_M + s)(\alpha p_M^{N*} - \beta p_R^{N*})
+\Pi_M^{N*} = (\theta k^{N*} - p_M^{N*} - w - \mu_M + s)q_M^{N*}
 \label{eq:Pi_MN_star}
 \end{equation}
-\begin{equation}\Pi_R^{N*} =
-\begin{aligned}& (\theta k^{N*} - p_R^{N*} - m - \mu_R + s)(\alpha p_R^{N*} - \beta p_M^{N*}) + (w - m)(\alpha p_M^{N*} - \beta p_R^{N*}) \\
-& + \frac{\theta^2(\alpha p_R^{N*} - \beta p_M^{N*})^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M^{N*} + p_R^{N*}) - G \right]
-\end{aligned}
+\begin{equation}
+\Pi_R^{N*} = (\theta k^{N*} - p_R^{N*} - m - \mu_R + s)q_R^{N*} + (w - m)q_M^{N*}
++ \frac{\theta^2(q_R^{N*})^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M^{N*} + p_R^{N*}) - G \right]
 \label{eq:Pi_RN_star}
 \end{equation}
+\end{enumerate}
+\end{prop}
 
-Note that the non-cooperative game model characterizes the case where there is no investment cost-sharing mechanism between the concrete manufacturer and the recycler, therefore this model serves as a benchmark for our subsequent comparative analyses with the biform game model.
+Note that the non-cooperative game model characterizes the case where there is no investment cost-sharing mechanism between the concrete manufacturer and the recycler. The recycler independently decides the conversion rate $k$ based on the anticipated collection prices, while both parties engage in price competition for collection. This model serves as a baseline benchmark for subsequent comparative analyses with the biform game model.
 
 \subsection{Two-stage biform game model}
-In this subsection, we analyze the two-stage biform game where the manufacturer and recycler cooperate through investment cost sharing.
+\label{sec:biform_model}
+In this subsection, we analyze the two-stage biform game where the manufacturer and recycler cooperate through investment cost-sharing. The biform game consists of two stages: (i) a cooperative stage where the parties determine investment cost-sharing and profit allocation via Shapley value; (ii) a non-cooperative stage where they compete in collection prices.
 
-\subsubsection{Cooperative stage: Profit allocation via Shapley value}
-Based on the game sequence of the non-cooperative and cooperative biform game, we construct the cooperative game model under any given competitive situation $(p_M, p_R)$. We calculate the characteristic values $V_{p_M,p_R}(S)$ for all possible coalitions, where $S \in \{\emptyset, \{M\}, \{R\}, \{M, R\}\}$. Here, $\{M, R\}$ denotes the grand coalition composed of manufacturer $M$ and recycler $R$. If the coalition is empty, we assume $V_{p_M,p_R}\{\varnothing\} = 0$. Under any competitive situation, the characteristic functions of the coalitions are determined using the maximin theorem.
+The detailed derivations are presented in Appendices \ref{app:prop2}--\ref{app:prop4}. We now summarize the main results.
 
-(1) For coalition $\{M\}$, based on the profit function $\Pi_M$ in Equation (3), the characteristic function is:
-\begin{equation}
-V_{p_M,p_R}(\{M\}) = \max_{n \in [0,1]} \min_{k \in [0,1]} \{\Pi_M\} = \max_{n \in [0,1]} \min_{k \in [0,1]} \{(\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) - (1 - n)\frac{ck^2}{2}\}
-\end{equation}
-Since $n \in [0,1]$, the term $(1 - n)\frac{ck^2}{2}$ is minimized when $n^* = 1$, which yields the maximum value. Substituting $n^* = 1$ into the above equation, we have:
-\begin{equation}
-V_{p_M,p_R}(\{M\}) = \min_{k \in [0,1]} \{(\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)\}
-\end{equation}
-Since $(\alpha p_M - \beta p_R) \geq 0$, the minimum is achieved when $k = 0$. Therefore, the characteristic function of coalition $\{M\}$ is:
+%\subsubsection{Cooperative stage}
+
+The cooperative game is constructed under any given competitive situation $(p_M, p_R)$. Following the standard approach in cooperative game theory, we compute the characteristic values $V_{p_M,p_R}(S)$ for all possible coalitions $S \in \{\emptyset, \{M\}, \{R\}, \{M, R\}\}$ using the maximin principle.
+
+\begin{prop}
+\label{prop:characteristic}
+Under any competitive situation $(p_M, p_R)$, the characteristic functions of the cooperative game are given by:
+\begin{enumerate}
+\item For singleton coalition $\{M\}$:
 \begin{equation}
 V_{p_M,p_R}(\{M\}) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)
 \end{equation}
 
-(2) For coalition $\{R\}$, based on the profit function $\Pi_R$ in Equation (4), the characteristic function is:
-\begin{equation}
-V_{p_M,p_R}(\{R\}) =
-\begin{aligned}
-= \max_{k \in [0,1]} \{ &(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
-& - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
-\end{aligned}
-\end{equation}
-Since $n \in [0,1]$, the investment cost term $n\frac{ck^2}{2}$ is minimized when $n^* = 1$, which yields the maximum profit. Setting $n^* = 1$, we have:
-\begin{equation}
-V_{p_M,p_R}(\{R\}) =
-\begin{aligned}
-\max_{k \in [0,1]} \{ &(\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
-& - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
-\end{aligned}
-\end{equation}
-Taking the first derivative of the above equation with respect to $k$ and setting it to zero, we obtain:
-\begin{equation}
-\frac{\partial \Pi_R}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
-\end{equation}
-Solving for $k$, we have:
-\begin{equation}
-k^* = \frac{\theta(\alpha p_R - \beta p_M)}{c}
-\end{equation}
-Substituting $k^*$ into the characteristic function, we obtain:
+\item For singleton coalition $\{R\}$:
 \begin{equation}
 V_{p_M,p_R}(\{R\}) =
 \begin{aligned}
 & \left(s - p_R - m - \mu_R\right)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
-& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c[e(\alpha-\beta)(p_M+p_R)-G]
+& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
 \end{aligned}
 \end{equation}
 
-(3) When manufacturer $M$ cooperates with recycler $R$, they form the grand coalition $\{M,R\}$. Based on the profit functions in Equations (3) and (4), the characteristic function of the grand coalition is:
-\begin{equation}
-V_{p_M,p_R}(\{M,R\}) =
-\begin{aligned}
-= \max_{k \in [0,1]} \{ &(\theta k + s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) \\
-& + (\theta k + s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) - \frac{ck^2}{2} - p_c[e(\alpha-\beta)(p_M+p_R)-G]\}
-\end{aligned}
-\end{equation}
-Taking the first derivative of the above equation with respect to $k$ and setting it to zero, we obtain:
-\begin{equation}
-\frac{\partial (\Pi_M + \Pi_R)}{\partial k} = \theta(\alpha p_M - \beta p_R) + \theta(\alpha p_R - \beta p_M) - ck = 0
-\end{equation}
-Solving for $k$, we have:
-\begin{equation}
-k^* = \frac{\theta\alpha(p_M + p_R) - \theta\beta(p_M + p_R)}{c} = \frac{\theta(\alpha - \beta)(p_M + p_R)}{c}
-\end{equation}
-Substituting $k^*$ into the characteristic function, we obtain:
+\item For the grand coalition $\{M,R\}$:
 \begin{equation}
 V_{p_M,p_R}(\{M,R\}) =
 \begin{aligned}
 & (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) \\
-& + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c[e(\alpha-\beta)(p_M+p_R)-G]
+& + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
 \end{aligned}
 \end{equation}
+\end{enumerate}
+\end{prop}
 
-Based on Equations (7), (13) and (16), we can derive:
+\begin{prop}
+\label{prop:convexity}
+The cooperative game defined by the characteristic functions in Proposition \ref{prop:characteristic} is convex and satisfies superadditivity. Specifically, for any $(p_M, p_R)$, we have:
 \begin{equation}
-\begin{aligned}
 V_{p_M,p_R}(\{M,R\}) - V_{p_M,p_R}(\{M\}) - V_{p_M,p_R}(\{R\})
-&= \frac{\theta^2}{2c}(\alpha p_M - \beta p_R)[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)]
+= \frac{\theta^2}{2c}(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big] \geq 0
+\end{equation}
+Consequently, $V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})$, and the Shapley value allocation belongs to the core.
+\end{prop}
+
+Based on the convexity property established in Proposition \ref{prop:convexity}, we can compute the Shapley value profit allocations $\varphi_M$ and $\varphi_R$ for the manufacturer and recycler, respectively:
+\begin{equation}
+\varphi_M(p_M, p_R) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big]}{4c}
+\end{equation}
+\begin{equation}
+\varphi_R(p_M, p_R) =
+\begin{aligned}
+& (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& + \frac{\theta^2 \big[ (\alpha p_R - \beta p_M)^2 + (\alpha p_M - \beta p_R + \alpha p_R - \beta p_M)^2 \big]}{4c}
 \end{aligned}
 \end{equation}
-In Equation (17), $(\alpha p_M - \beta p_R)$ and $(\alpha p_R - \beta p_M)$ represent the collection quantities of manufacturer $M$ and recycler $R$, respectively, which are both non-negative. Additionally, $\theta$, $c$, $\mu_M$, and $\mu_R$ are all positive. Therefore, Equation (17) is always greater than or equal to 0. This indicates that for any competitive situation $(p_M, p_R)$, the characteristic functions of the cooperative game satisfy:
-\begin{equation}
-V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})
-\end{equation}
 
-Equation (17) shows that the characteristic functions satisfy superadditivity and convexity, and the cooperative game is a convex game. Therefore, the Shapley value of the cooperative game belongs to the core and satisfies individual rationality. The Shapley value can be used to solve the cooperative game and calculate the specific profit allocation values. Shapley allocates the coalition profit using the following formula:
-\begin{equation}
-\varphi_i = \sum_{S \subseteq N \setminus \{i\}} \frac{|S|! (n - |S| - 1)!}{n!} [V(S \cup \{i\}) - V(S)]
-\end{equation}
+%\subsubsection{Non-cooperative stage}
 
-The profit allocation functions for $M$ and $R$ are respectively:
-\begin{equation}
-\varphi_M = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big]}{4c}
-\end{equation}
-\begin{equation}
-\varphi_R = (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) + \frac{\theta^2 \big[ (\alpha p_R - \beta p_M)^2 + (\alpha p_M - \beta p_R + \alpha p_R - \beta p_M)^2 \big]}{4c}
-\end{equation}
+Using the Shapley value allocations $\varphi_M$ and $\varphi_R$ as payoff functions, we now analyze the non-cooperative price competition stage.
 
-Combining with Equations (7) and (13), we can obtain:
-\begin{equation}
-\varphi_M - V_{p_M,p_R}(\{M\}) = \frac{\theta^2(\alpha p_M - \beta p_R) \big[ (\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M) \big]}{4c} \geq 0
-\end{equation}
-\begin{equation}
-\varphi_R - V_{p_M,p_R}(\{R\}) = \frac{\theta^2 \big[ (\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M) \big] (\alpha p_M - \beta p_R)}{4c} \geq 0
-\end{equation}
-
-Therefore, for any competitive situation $(p_M, p_R)$, the profit allocations for manufacturer $M$ and recycler $R$ satisfy $\varphi_M(p_M, p_R) \geq V_{p_M,p_R}(\{M\})$ and $\varphi_R(p_M, p_R) \geq V_{p_M,p_R}(\{R\})$. This indicates that under any competitive situation $(p_M, p_R)$, when manufacturer $M$ and recycler $R$ cooperate, the allocated profit is no less than the profit when not cooperating, which helps achieve a stable cooperative alliance.
-
-\subsubsection{Non-cooperative stage: Equilibrium pricing}
-The above analysis solves the profit allocation values $\varphi_M$ and $\varphi_R$ in the cooperative game stage. Using these profit allocation values as the payoff functions for manufacturer $M$ and recycler $R$ in the non-cooperative game, we derive the reaction functions by taking first-order partial derivatives with respect to the collection prices $p_M$ and $p_R$, respectively. By simultaneously solving these reaction functions, we obtain the equilibrium strategies $(p_M^*, p_R^*)$. The solution procedure is as follows:
-
-Taking the second-order partial derivatives of the profit allocation functions $\varphi_M$ and $\varphi_R$ with respect to $p_M$ and $p_R$, we obtain:
-\begin{equation}
-\frac{\partial^2 \varphi_M}{\partial p_M^2} = \frac{\theta^2(\alpha^2 - 2\alpha\beta)}{2c}
-\end{equation}
-\begin{equation}
-\frac{\partial^2 \varphi_R}{\partial p_R^2} = \frac{\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2)}{2c}
-\end{equation}
-When $\alpha > 2\beta > 0$, we have $\frac{\partial^2 \varphi_M}{\partial p_M^2} < 0$ and $\frac{\partial^2 \varphi_R}{\partial p_R^2} < 0$. This indicates that the profit allocation functions are strictly concave with respect to the collection prices. Therefore, there exist optimal collection prices that maximize the profits of manufacturer $M$ and recycler $R$. To find the profit maximization, we take the first-order partial derivatives of $\varphi_M$ and $\varphi_R$ with respect to $p_M$ and $p_R$ and set them equal to 0, resulting in the system of reaction function equations:
-\begin{equation}
-\begin{cases}
-\frac{\partial \varphi_M}{\partial p_M} = [\theta^2(\alpha^2 - 2\alpha\beta) - 4c\alpha]p_M + [\theta^2(\alpha^2 - \alpha\beta + \beta^2) + 2c\beta]p_R + 2c\alpha(s - w - \mu_M) = 0 \\
-\frac{\partial \varphi_R}{\partial p_R} = [\theta^2(\alpha^2 - 3\alpha\beta + \beta^2) + 2c\beta]p_M + [\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2) - 4c\alpha]p_R + 2c[\alpha(s - m - \mu_R) - \beta(w - m)] - 2c p_c e (\alpha - \beta) = 0
-\end{cases}
-\end{equation}
-From this, we can obtain the optimal collection price $p_M^{C*}$ for manufacturer $M$:
+\begin{prop}
+\label{prop:biform}
+Under the two-stage biform game model, the equilibrium strategies are given by:
+\begin{enumerate}
+\item The equilibrium collection prices $(p_M^{C*}, p_R^{C*})$ satisfy:
 \begin{equation}
 p_M^{C*} = \frac{
 \displaystyle
@@ -505,7 +434,7 @@ p_M^{C*} = \frac{
 \displaystyle (\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
 }
 \end{equation}
-And the optimal collection price $p_R^{C*}$ for recycler $R$:
+
 \begin{equation}
 p_R^{C*} = \frac{
 \displaystyle
@@ -519,73 +448,33 @@ p_R^{C*} = \frac{
 }
 \end{equation}
 
-Substituting Equations (27) and (28) into Equation (15), we can obtain the optimal conversion rate $k^{C*}$:
+\item The optimal conversion rate is:
 \begin{equation}
-k^* = \frac{
-\stackrel{}{\begin{aligned}
-&2\theta(\alpha-\beta) \Big\{ \alpha(s - w - \mu_M) \big[ 2c(2\alpha+\beta) - \theta^2\alpha(\alpha+\beta) \big] \\
-&\quad + \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c(2\alpha+\beta) + \theta^2\beta(\alpha+\beta) \big] \Big\}
-\end{aligned}}
-}{
-(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
-}
+k^{C*} = \frac{\theta(\alpha - \beta)(p_M^{C*} + p_R^{C*})}{c}
 \end{equation}
 
-By combining the optimal profits with the profit functions, we can obtain the optimal proportion:
-\begin{equation}
-n^* = \frac{2(\alpha p_R^* - \beta p_M^*)^2 + 2(\alpha p_M^* - \beta p_R^*)(\alpha p_R^* - \beta p_M^*) - (\alpha p_M^* - \beta p_R^*)^2}{2 \big[ (\alpha-\beta)(p_M^* + p_R^*) \big]^2}
-\end{equation}
-
-Therefore, the optimal profits are:
-\begin{equation}
-\varphi_M^* = (s - p_M^* - w - \mu_M)(\alpha p_M^* - \beta p_R^*) + \frac{\theta^2(\alpha p_M^* - \beta p_R^*)\big[(\alpha p_M^* - \beta p_R^*) + 2(\alpha p_R^* - \beta p_M^*)\big]}{4c}
-\end{equation}
-\begin{equation}
-\varphi_R^* = (s - p_R^* - m - \mu_R)(\alpha p_R^* - \beta p_M^*) + (w - m)(\alpha p_M^* - \beta p_R^*) + \frac{\theta^2 \big[ (\alpha p_R^* - \beta p_M^*)^2 + (\alpha p_M^* - \beta p_R^* + \alpha p_R^* - \beta p_M^*)^2 \big]}{4c}
-\end{equation}
-
-The optimal collection quantities are:
-\begin{equation}
-q_M^* = \frac{
-\stackrel{}{\begin{aligned}
-&2c \Big\{ \alpha(s - w - \mu_M) \big[ 2c(2\alpha^2 - \beta^2) - \theta^2(2\alpha-\beta)(\alpha^2-\beta^2) \big] \\
-&\quad - \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c\alpha\beta - \theta^2\alpha(\alpha^2-\beta^2) \big] \Big\}
-\end{aligned}}
-}{
-(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
-}
-\end{equation}
-\begin{equation}
-q_R^* = \frac{
-\stackrel{}{\begin{aligned}
-&2c \Big\{ \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c(2\alpha^2 - \beta^2) - \theta^2(\alpha-\beta)(\alpha^2-\beta^2) \big] \\
-&\quad - \alpha(s - w - \mu_M) \big[ 2c\alpha\beta - \theta^2(\alpha-\beta)(\alpha^2-\beta^2) \big] \Big\}
-\end{aligned}}
-}{
-(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
-}
-\end{equation}
-\begin{equation}
-q_{total}^* = \frac{
-\stackrel{}{\begin{aligned}
-&2c(\alpha-\beta) \Big\{ \alpha(s - w - \mu_M) \big[ 2c(2\alpha+\beta) - \theta^2\alpha(\alpha+\beta) \big] \\
-&\quad + \big[ \alpha(s - m - \mu_R) - \beta(w - m) \big] \big[ 2c(2\alpha+\beta) + \theta^2\beta(\alpha+\beta) \big] \Big\}
-\end{aligned}}
-}{
-(\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
-}
-\end{equation}
-
-The optimal cost-sharing proportion is:
+\item The optimal cost-sharing proportion is:
 \begin{equation}
 n^{C*} = \frac{2(\alpha p_R^{C*} - \beta p_M^{C*})^2 + 2(\alpha p_M^{C*} - \beta p_R^{C*})(\alpha p_R^{C*} - \beta p_M^{C*}) - (\alpha p_M^{C*} - \beta p_R^{C*})^2}{2 \big[ (\alpha-\beta)(p_M^{C*} + p_R^{C*}) \big]^2}
 \end{equation}
 
+\item The equilibrium Shapley value allocations are:
+\begin{equation}
+\varphi_M^{C*} = (s - p_M^{C*} - w - \mu_M)(\alpha p_M^{C*} - \beta p_R^{C*}) + \frac{\theta^2(\alpha p_M^{C*} - \beta p_R^{C*})\big[(\alpha p_M^{C*} - \beta p_R^{C*}) + 2(\alpha p_R^{C*} - \beta p_M^{C*})\big]}{4c}
+\end{equation}
+\begin{equation}
+\varphi_R^{C*} =
+\begin{aligned}
+& (s - p_R^{C*} - m - \mu_R)(\alpha p_R^{C*} - \beta p_M^{C*}) + (w - m)(\alpha p_M^{C*} - \beta p_R^{C*}) \\
+& + \frac{\theta^2 \big[ (\alpha p_R^{C*} - \beta p_M^{C*})^2 + (\alpha p_M^{C*} - \beta p_R^{C*} + \alpha p_R^{C*} - \beta p_M^{C*})^2 \big]}{4c}
+\end{aligned}
+\end{equation}
+\end{enumerate}
+\end{prop}
+
 \textbf{Impact of carbon price $p_c$ on equilibrium.} Comparing the reaction functions in the biform game with those in the baseline, we observe that the carbon price $p_c$ affects the recycler's first-order condition through the term $- p_c e (\alpha - \beta)$. This term shifts the recycler's reaction curve: as $p_c$ increases, the recycler's optimal collection price decreases to offset the additional carbon cost burden. This is a key difference from the baseline scenario, where the recycler's pricing decision is not modulated by carbon costs in the same manner.
 
-The equilibrium analysis reveals that under the biform game framework with cooperation, both parties achieve higher profits compared to the baseline non-cooperative scenario, provided that the investment cost sharing mechanism effectively improves the conversion rate $k$. The following section validates these theoretical findings through numerical simulations.
-
-The above expressions are relatively complex, making it difficult to conduct theoretical analysis on the impacts of parameters such as competition intensity and R\&D cost coefficients on the equilibrium solutions. Therefore, the following numerical simulation analysis will be conducted with specific parameter values.
+The equilibrium analysis reveals that under the biform game framework with cooperation, both parties achieve higher profits compared to the baseline non-cooperative scenario, provided that the investment cost-sharing mechanism effectively improves the conversion rate $k$. The following section validates these theoretical findings through numerical simulations.
 
 \section{Equilibrium analysis}
 \subsection{Subsection title}
@@ -692,6 +581,152 @@ These findings carry important implications for supply chain coordination and fi
 \label{sec:transportation_cost_impact}
 
 Figs. 7 and 8 illustrate the impacts of transportation costs for the manufacturer ($\mu_M$) and the recycler ($\mu_R$) on equilibrium outcomes, respectively. Overall, this simulation result aligns highly with engineering practice: increases in transportation costs exert significant suppressive effects on the recycling businesses of both the manufacturer and the recycler itself. When an enterprise faces higher transportation costs, to avoid profit inversion or losses in waste collection, it is forced to reduce the collection prices offered to waste generators ($p_M^*$ or $p_R^*$). This loss of price attractiveness directly leads to reduced collection quantities. Regarding technology investment decisions, elevated logistics costs similarly diminish investment willingness from both parties. This decline in investment willingness caused by rising logistics costs ultimately results in the system's actual conversion rate ($k^*$) remaining consistently low, with profits declining for both firms.
+
+\appendix
+\section{Proof of Proposition \ref{prop:baseline}}
+\label{app:prop1}
+
+We solve the non-cooperative game using backward induction.
+
+\textbf{Step 1: Recycler's technology investment decision.} Given collection prices $(p_M, p_R)$, the recycler $R$ chooses $k$ to maximize $\Pi_R^N$ in Equation \eqref{eq:profit_RN}. Taking the first-order derivative with respect to $k$:
+\begin{equation}
+\frac{\partial \Pi_R^N}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving for $k$, we obtain the optimal conversion rate:
+\begin{equation}
+k^N(p_M, p_R) = \frac{\theta(\alpha p_R - \beta p_M)}{c}
+\tag{A1}
+\end{equation}
+
+Substituting (A1) into $\Pi_R^N$, the recycler's profit becomes:
+\begin{equation}
+\Pi_R^N =
+\begin{aligned}
+& (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\end{aligned}
+\tag{A2}
+\end{equation}
+
+\textbf{Step 2: Price competition equilibrium.} Using the profit functions $\Pi_M^N$ and $\Pi_R^N$, we derive the reaction functions by taking first-order partial derivatives with respect to $p_M$ and $p_R$, respectively, and setting them equal to zero:
+\begin{equation}
+\frac{\partial \Pi_M^N}{\partial p_M} = (\theta k - p_M - w - \mu_M + s)\alpha - (\alpha p_M - \beta p_R) = 0
+\tag{A3}
+\end{equation}
+\begin{equation}
+\frac{\partial \Pi_R^N}{\partial p_R} =
+\begin{aligned}
+& (s - p_R - m - \mu_R)\alpha + \theta\alpha k^N - \alpha p_R + (w - m)(-\beta) \\
+& - p_c e (\alpha - \beta) = 0
+\end{aligned}
+\tag{A4}
+\end{equation}
+
+Substituting $k^N$ from (A1) into (A4), and solving the system of (A3)-(A4) simultaneously, we obtain the equilibrium collection prices $p_M^{N*}$ and $p_R^{N*}$, which are given by Equations \eqref{eq:p_MN_star} and \eqref{eq:p_RN_star} in Proposition \ref{prop:baseline}. Substituting these equilibrium prices back into (A1) yields $k^{N*}$ in Equation \eqref{eq:k_N_star}. The equilibrium collection quantities and profits follow directly from substituting the equilibrium values into the profit functions. This completes the proof. \hfill $\square$
+
+\section{Proof of Proposition \ref{prop:characteristic}}
+\label{app:prop2}
+
+We compute the characteristic functions for each coalition using the maximin principle.
+
+\textbf{(1) Coalition $\{M\}$.} The characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{M\}) = \max_{n \in [0,1]} \min_{k \in [0,1]} \{\Pi_M\}
+\end{equation}
+Since $\Pi_M = (\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) - (1 - n)\frac{ck^2}{2}$ and $(\alpha p_M - \beta p_R) \geq 0$, for any given $n$, the term is minimized when $k = 0$. Maximizing over $n \in [0,1]$ yields $n^* = 1$, which eliminates the investment cost term. Therefore:
+\begin{equation}
+V_{p_M,p_R}(\{M\}) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)
+\tag{B1}
+\end{equation}
+
+\textbf{(2) Coalition $\{R\}$.} The characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{R\}) = \max_{k \in [0,1]} \{\Pi_R\}
+\end{equation}
+Setting $n = 1$ (the recycler bears all costs) and taking the first-order derivative with respect to $k$:
+\begin{equation}
+\frac{\partial \Pi_R}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving yields $k^* = \frac{\theta(\alpha p_R - \beta p_M)}{c}$. Substituting into $\Pi_R$:
+\begin{equation}
+V_{p_M,p_R}(\{R\}) =
+\begin{aligned}
+& \left(s - p_R - m - \mu_R\right)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
+\end{aligned}
+\tag{B2}
+\end{equation}
+
+\textbf{(3) Grand coalition $\{M,R\}$.} The characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) = \max_{k \in [0,1]} \{\Pi_M + \Pi_R\}
+\end{equation}
+Taking the first-order derivative:
+\begin{equation}
+\frac{\partial (\Pi_M + \Pi_R)}{\partial k} = \theta(\alpha p_M - \beta p_R) + \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving yields $k^* = \frac{\theta(\alpha - \beta)(p_M + p_R)}{c}$. Substituting:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) =
+\begin{aligned}
+& (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) \\
+& + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
+\end{aligned}
+\tag{B3}
+\end{equation}
+
+Equations (B1)-(B3) correspond to the characteristic functions stated in Proposition \ref{prop:characteristic}. This completes the proof. \hfill $\square$
+
+\section{Proof of Proposition \ref{prop:convexity}}
+\label{app:prop3}
+
+From Proposition \ref{prop:characteristic}, we compute the surplus from forming the grand coalition:
+\begin{equation}
+\begin{aligned}
+& V_{p_M,p_R}(\{M,R\}) - V_{p_M,p_R}(\{M\}) - V_{p_M,p_R}(\{R\}) \\
+&= \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} \\
+&= \frac{\theta^2}{2c}(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big]
+\end{aligned}
+\tag{C1}
+\end{equation}
+
+Since $\alpha > \beta > 0$ by assumption, we have $(\alpha p_M - \beta p_R) \geq 0$ and $(\alpha p_R - \beta p_M) \geq 0$. Additionally, $\theta > 0$ and $c > 0$. Therefore, the right-hand side of (C1) is always non-negative. Hence:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})
+\end{equation}
+which establishes superadditivity. Furthermore, the marginal contribution of each player increases with the size of the coalition, satisfying the convexity condition. Consequently, the Shapley value allocation belongs to the core of the cooperative game. This completes the proof. \hfill $\square$
+
+\section{Proof of Proposition \ref{prop:biform}}
+\label{app:prop4}
+
+Having established the characteristic functions and Shapley value allocations $\varphi_M(p_M, p_R)$ and $\varphi_R(p_M, p_R)$ in Section \ref{sec:biform_model}, we now solve the non-cooperative price competition stage.
+
+\textbf{Step 1: Concavity verification.} Taking second-order partial derivatives of $\varphi_M$ and $\varphi_R$ with respect to their respective prices:
+\begin{equation}
+\frac{\partial^2 \varphi_M}{\partial p_M^2} = \frac{\theta^2(\alpha^2 - 2\alpha\beta)}{2c}
+\quad \text{and} \quad
+\frac{\partial^2 \varphi_R}{\partial p_R^2} = \frac{\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2)}{2c}
+\end{equation}
+When $\alpha > 2\beta > 0$, both second-order derivatives are negative, confirming strict concavity of the profit allocation functions.
+
+\textbf{Step 2: First-order conditions.} Setting the first-order partial derivatives to zero:
+\begin{equation}
+\begin{cases}
+\frac{\partial \varphi_M}{\partial p_M} = [\theta^2(\alpha^2 - 2\alpha\beta) - 4c\alpha]p_M + [\theta^2(\alpha^2 - \alpha\beta + \beta^2) + 2c\beta]p_R + 2c\alpha(s - w - \mu_M) = 0 \\
+\frac{\partial \varphi_R}{\partial p_R} = [\theta^2(\alpha^2 - 3\alpha\beta + \beta^2) + 2c\beta]p_M + [\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2) - 4c\alpha]p_R + 2c[\alpha(s - m - \mu_R) - \beta(w - m)] - 2c p_c e (\alpha - \beta) = 0
+\end{cases}
+\tag{D1}
+\end{equation}
+
+\textbf{Step 3: Solving the reaction functions.} Solving the linear system (D1) yields the equilibrium collection prices $p_M^{C*}$ and $p_R^{C*}$, which are given by Equations (27) and (28) in Proposition \ref{prop:biform}.
+
+\textbf{Step 4: Optimal conversion rate and cost-sharing proportion.} Substituting $p_M^{C*}$ and $p_R^{C*}$ into the grand coalition's optimal $k$:
+\begin{equation}
+k^{C*} = \frac{\theta(\alpha - \beta)(p_M^{C*} + p_R^{C*})}{c}
+\end{equation}
+The optimal cost-sharing proportion $n^{C*}$ is derived by equating the marginal contributions and solving for $n$, yielding the expression in Proposition \ref{prop:biform}.
+
+The equilibrium Shapley value allocations $\varphi_M^{C*}$ and $\varphi_R^{C*}$ follow directly from substituting the equilibrium prices into the Shapley value formulas. This completes the proof. \hfill $\square$
 
 \section{Conclusion and implications}
 \subsection{Conclusions}
