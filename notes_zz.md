@@ -96,6 +96,23 @@ propostion 2.
 propostion 3.
 propostion 4.
 
+
+<Literature review>
+**废弃混凝土回收管理与经济决策
+In the waste concrete recycling supply chain, the distinct resource asymmetry between traditional concrete manufacturers and specialized recyclers gives rise to complex interactions. Existing literature exploring their management and economic decision-making processes can be broadly categorized into three main research themes: reverse logistics network design and operation management, government subsidy and incentive mechanism design, and manufacturer-recycler competition and cooperation dynamics.
+
+Regarding reverse logistics network design and operation management, researchers primarily focus on optimizing physical flows and capacity. Rahimi et al. (2018) developed a multi-period mixed integer linear programming (MILP) model to optimize the network design for C&D waste recycling. Similarly, Xu (2019) proposed a capacity expansion pricing mechanism tailored for recycling networks under demand uncertainty , while Liu (2019) identified key cost drivers through a comprehensive network cost analysis. However, these operational models treat the recycling network as a centrally coordinated system, overlooking the decentralized decision-making processes and the profit-driven strategic conflicts between independent manufacturers and recyclers.
+
+Within the theme of government subsidy and incentive mechanism design, studies emphasize utilizing external policy interventions to stimulate market participation. Yuan et al. (2023) investigated differentiated subsidy schemes under heterogeneous consumer quality perceptions, demonstrating that uniform subsidies often fail to achieve optimal outcomes. Su et al. (2024) evaluated the impact of government intervention through quota trading mechanisms on recycling rates , and Zheng (2024) examined how various incentive combinations influence stakeholder participation. While these studies confirm the effectiveness of macro-level policy tools, they predominantly assume symmetric cost structures among participants. They inadequately address how the specific resource asymmetry shapes these policy responses.
+
+Finally, concerning manufacturer-recycler competition and cooperation dynamics, scholarship has begun to unpack micro-level strategic behaviors. He et al. (2020) analyzed optimal decisions under different market scenarios to identify the conditions under which cooperation dominates pure competition. Lin et al. (2025) revealed the cooperation dilemma (prisoner's dilemma) in C&D waste recycling, showing that unilateral strategies frequently lead to suboptimal industry outcomes. Furthermore, Li (2025) employed evolutionary game theory to study the long-term dynamics of manufacturer-recycler relationships. While these contributions provide essential theoretical guidance for the decision-making of concrete manufacturers and recyclers in waste concrete recycling, existing research predominantly focuses on single-scenario analyses or separate scenario comparisons. They fail to capture the simultaneous interaction patterns of competition and cooperation inherent in this process, struggling to resolve the persistent profit distribution conflicts and investment hesitation within the industry.
+
+**碳排放与交易机制
+
+
+**两型博弈与回收供应链
+
+
 <Numerical analysis>
 数值模拟：变化参数：敏感系数alpha；竞争强度beta；补贴s；单位废弃混凝土价值theta（无需设置直接得到）；委托处理费用w，处理成本m；运输成本miuM，miuR；其他设置参数：c（成本系数）;单位碳配额G；碳交易单位价格pc；单位废弃混凝土处理产生量，无需设置直接得到：k（转化率）；n（分担比例）
 分析参数：p；q；pi（利润）；
