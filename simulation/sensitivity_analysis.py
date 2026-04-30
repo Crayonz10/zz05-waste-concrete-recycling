@@ -342,7 +342,7 @@ def plot_4subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
     ax.plot(x_data, y_data_dict['p_M'], color=MORANDI_COLORS['blue'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$p_M^*$')
     ax.plot(x_data, y_data_dict['p_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$p_R^*$')
     ax.set_xlabel(xlabel, fontsize=11)
-    ax.set_ylabel(r'Collection price (yuan/m$^3$)', fontsize=11)
+    ax.set_ylabel(r'Collection price', fontsize=11)
     ax.legend(loc='best', frameon=True)
     ax.grid(True, linestyle='--', alpha=0.3)
     ax.set_title('(a) Collection Prices', fontweight='bold')
@@ -353,7 +353,7 @@ def plot_4subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
     ax.plot(x_data, y_data_dict['q_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$q_R^*$')
     ax.plot(x_data, y_data_dict['q_total'], color=MORANDI_COLORS['green'], linewidth=2, marker='^', markersize=4, markevery=3, label=r'$Q^*$')
     ax.set_xlabel(xlabel, fontsize=11)
-    ax.set_ylabel(r'Collection quantity (m$^3$)', fontsize=11)
+    ax.set_ylabel(r'Collection quantity', fontsize=11)
     ax.legend(loc='best', frameon=True)
     ax.grid(True, linestyle='--', alpha=0.3)
     ax.set_title('(b) Collection Quantities', fontweight='bold')
@@ -373,7 +373,7 @@ def plot_4subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
     ax.plot(x_data, y_data_dict['Pi_M'], color=MORANDI_COLORS['blue'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$\Pi_M^*$')
     ax.plot(x_data, y_data_dict['Pi_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$\Pi_R^*$')
     ax.set_xlabel(xlabel, fontsize=11)
-    ax.set_ylabel(r'Profit (yuan)', fontsize=11)
+    ax.set_ylabel(r'Profit', fontsize=11)
     ax.legend(loc='best', frameon=True)
     ax.grid(True, linestyle='--', alpha=0.3)
     ax.set_title('(d) Profits', fontweight='bold')
@@ -411,7 +411,7 @@ def plot_2subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
     ax.plot(x_data, y_data_dict['Pi_M'], color=MORANDI_COLORS['blue'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$\Pi_M^*$')
     ax.plot(x_data, y_data_dict['Pi_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$\Pi_R^*$')
     ax.set_xlabel(xlabel, fontsize=11)
-    ax.set_ylabel(r'Profit (yuan)', fontsize=11)
+    ax.set_ylabel(r'Profit', fontsize=11)
     ax.legend(loc='best', frameon=True)
     ax.grid(True, linestyle='--', alpha=0.3)
     ax.set_title('(b) Profits', fontweight='bold')
@@ -460,7 +460,7 @@ def main():
     print("="*60)
     s_range = np.linspace(85, 150, 25)  # Start from 85 to ensure positive q_R and k
     results_s = analyze_s(s_range, params)
-    plot_4subfigs(s_range, results_s, r'$s$ (yuan/m$^3$)',
+    plot_4subfigs(s_range, results_s, r'$s$',
                   os.path.join(output_dir, 'fig_s.png'), 's')
 
     # Fig 4: Impact of θ
@@ -469,7 +469,7 @@ def main():
     print("="*60)
     theta_range = np.linspace(50, 250, 25)
     results_theta = analyze_theta(theta_range, params)
-    plot_4subfigs(theta_range, results_theta, r'$\theta$ (yuan/m$^3$)',
+    plot_4subfigs(theta_range, results_theta, r'$\theta$',
                   os.path.join(output_dir, 'fig_theta.png'), 'θ')
 
     # Fig 5: Impact of m (ensure positive profits)
@@ -478,7 +478,7 @@ def main():
     print("="*60)
     m_range = np.linspace(15, 34, 25)  # Limit to 34 to ensure positive Pi_R (w=35 > m)
     results_m = analyze_m(m_range, params)
-    plot_2subfigs(m_range, results_m, r'$m$ (yuan/m$^3$)',
+    plot_2subfigs(m_range, results_m, r'$m$',
                   os.path.join(output_dir, 'fig_m.png'), 'm')
 
     # Fig 6: Impact of w (ensure positive profits)
@@ -487,7 +487,7 @@ def main():
     print("="*60)
     w_range = np.linspace(50, 60, 25)  # Start from 50 to ensure positive n and Pi_R
     results_w = analyze_w(w_range, params)
-    plot_2subfigs(w_range, results_w, r'$w$ (yuan/m$^3$)',
+    plot_2subfigs(w_range, results_w, r'$w$',
                   os.path.join(output_dir, 'fig_w.png'), 'w')
 
     # Fig 7: Impact of μ_R - μ_M (ensure positive values)
@@ -496,7 +496,7 @@ def main():
     print("="*60)
     mu_diff_range = np.linspace(5, 17.5, 25)  # Limit to 17.5 to ensure positive n
     results_mu_diff = analyze_mu_diff(mu_diff_range, params)
-    plot_4subfigs(mu_diff_range, results_mu_diff, r'$\mu_R - \mu_M$ (yuan/m$^3$)',
+    plot_4subfigs(mu_diff_range, results_mu_diff, r'$\mu_R - \mu_M$',
                   os.path.join(output_dir, 'fig_mu_diff.png'), 'μ_R-μ_M')
 
     print("\n" + "="*60)

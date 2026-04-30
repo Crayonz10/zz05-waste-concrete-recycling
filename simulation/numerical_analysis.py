@@ -236,6 +236,10 @@ def plot_profits_vs_param(x_data, y_data_N, y_data_C, param_name, param_unit,
     """
     fig, ax = plt.subplots(figsize=(8, 6), dpi=150)
 
+    # 设置Times New Roman字体全局
+    plt.rcParams['font.family'] = 'Times New Roman'
+    plt.rcParams['font.size'] = 12
+
     # 设置线条样式 - Morandi配色
     line_width = 2.5
     marker_size = 6
@@ -264,14 +268,9 @@ def plot_profits_vs_param(x_data, y_data_N, y_data_C, param_name, param_unit,
             marker='d', markersize=marker_size, markevery=3,
             label=r'Recycler (Biform)', linestyle='--')
 
-    # 设置标签和标题
-    if param_unit:
-        ax.set_xlabel(f'{param_name} ({param_unit})', fontsize=12, fontweight='bold')
-    else:
-        ax.set_xlabel(f'{param_name}', fontsize=12, fontweight='bold')
-    ax.set_ylabel(r'Profit ($\times 10^6$ yuan)', fontsize=12, fontweight='bold')
-    ax.set_title(f'Profit Comparison: Non-cooperative vs Biform Game\n{title_suffix}',
-               fontsize=13, fontweight='bold', pad=15)
+    # 设置标签和标题 - 去掉title
+    ax.set_xlabel(f'{param_name}', fontsize=12, fontweight='bold')
+    ax.set_ylabel(r'Profit', fontsize=12, fontweight='bold')
 
     # 设置图例 - Nature风格
     ax.legend(loc='best', frameon=True, fancybox=True, shadow=True,
@@ -317,9 +316,9 @@ def main():
 
     plot_profits_vs_param(
         pc_range, (Pi_data_pc[0], Pi_data_pc[1]), (Pi_data_pc[2], Pi_data_pc[3]),
-        param_name=r'$p_c$', param_unit='yuan/ton',
+        param_name=r'$p_c$', param_unit='',
         save_path=os.path.join(output_dir, 'fig1_profit_vs_pc.pdf'),
-        title_suffix=r'Varying Carbon Trading Price $p_c$'
+        title_suffix=''
     )
 
     # (2) 竞争强度beta对利润的影响
@@ -334,7 +333,7 @@ def main():
         beta_range, (Pi_data_beta[0], Pi_data_beta[1]), (Pi_data_beta[2], Pi_data_beta[3]),
         param_name=r'$\beta$', param_unit='',
         save_path=os.path.join(output_dir, 'fig2_profit_vs_beta.pdf'),
-        title_suffix=r'Varying Competition Intensity $\beta$'
+        title_suffix=''
     )
 
     # (3) 成本系数c对利润的影响
@@ -349,7 +348,7 @@ def main():
         c_range, (Pi_data_c[0], Pi_data_c[1]), (Pi_data_c[2], Pi_data_c[3]),
         param_name=r'$\ln(c)$', param_unit='',
         save_path=os.path.join(output_dir, 'fig3_profit_vs_c.pdf'),
-        title_suffix=r'Varying Cost Coefficient $\ln(c)$'
+        title_suffix=''
     )
 
     print("\n" + "="*60)
