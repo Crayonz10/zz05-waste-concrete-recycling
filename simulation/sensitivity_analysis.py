@@ -93,8 +93,8 @@ def compute_equilibrium(alpha, beta, theta, c, s, w, m, mu_M, mu_R, p_c, e, G):
     # 转化率 k (non-cooperative)
     k = theta * (alpha * p_R - beta * p_M) / c
 
-    # 碳排放超过配额部分
-    emissions_excess = e * (alpha - beta) * (p_M + p_R) - G
+    # 碳排放超过配额部分 (使用绝对值确保为正)
+    emissions_excess = abs(e * (alpha - beta) * (p_M + p_R)) - G
 
     # 制造商利润 (non-cooperative)
     Pi_M = (theta * k - p_M - w - mu_M + s) * q_M
@@ -331,7 +331,80 @@ def analyze_mu_diff(mu_diff_range, params):
     return results
 
 
-# ============== 4. 绘图函数 ==============
+# ============== 4. 碳交易参数分析函数 ==============
+def analyze_p_c(p_c_range, params):
+    """分析碳交易价格p_c的影响"""
+    results = {
+        'p_M': [], 'p_R': [], 'q_M': [], 'q_R': [], 'q_total': [],
+        'k': [], 'n': [], 'Pi_M': [], 'Pi_R': []
+    }
+
+    for p_c in p_c_range:
+        p = params.copy()
+        p['p_c'] = p_c
+        eq = compute_equilibrium(**p)
+        results['p_M'].append(eq['p_M'])
+        results['p_R'].append(eq['p_R'])
+        results['q_M'].append(eq['q_M'])
+        results['q_R'].append(eq['q_R'])
+        results['q_total'].append(eq['q_total'])
+        results['k'].append(eq['k'])
+        results['n'].append(eq['n'])
+        results['Pi_M'].append(eq['Pi_M'])
+        results['Pi_R'].append(eq['Pi_R'])
+
+    return results
+
+
+def analyze_e(e_range, params):
+    """分析碳排放系数e的影响"""
+    results = {
+        'p_M': [], 'p_R': [], 'q_M': [], 'q_R': [], 'q_total': [],
+        'k': [], 'n': [], 'Pi_M': [], 'Pi_R': []
+    }
+
+    for e in e_range:
+        p = params.copy()
+        p['e'] = e
+        eq = compute_equilibrium(**p)
+        results['p_M'].append(eq['p_M'])
+        results['p_R'].append(eq['p_R'])
+        results['q_M'].append(eq['q_M'])
+        results['q_R'].append(eq['q_R'])
+        results['q_total'].append(eq['q_total'])
+        results['k'].append(eq['k'])
+        results['n'].append(eq['n'])
+        results['Pi_M'].append(eq['Pi_M'])
+        results['Pi_R'].append(eq['Pi_R'])
+
+    return results
+
+
+def analyze_G(G_range, params):
+    """分析碳配额G的影响"""
+    results = {
+        'p_M': [], 'p_R': [], 'q_M': [], 'q_R': [], 'q_total': [],
+        'k': [], 'n': [], 'Pi_M': [], 'Pi_R': []
+    }
+
+    for G in G_range:
+        p = params.copy()
+        p['G'] = G
+        eq = compute_equilibrium(**p)
+        results['p_M'].append(eq['p_M'])
+        results['p_R'].append(eq['p_R'])
+        results['q_M'].append(eq['q_M'])
+        results['q_R'].append(eq['q_R'])
+        results['q_total'].append(eq['q_total'])
+        results['k'].append(eq['k'])
+        results['n'].append(eq['n'])
+        results['Pi_M'].append(eq['Pi_M'])
+        results['Pi_R'].append(eq['Pi_R'])
+
+    return results
+
+
+# ============== 5. 绘图函数 ==============
 def plot_4subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
     """绘制4子图 (a) 价格 (b) 数量 (c) k和n (d) 利润"""
 
@@ -501,6 +574,68 @@ def main():
 
     print("\n" + "="*60)
     print("All Parameter Sensitivity Analysis figures generated successfully!")
+    print("="*60)
+
+    # ============== 新增: 碳交易参数分析 ==============
+    print("\n" + "="*60)
+    print("Generating Cap-and-Trade Parameter Analysis Figures")
+    print("="*60)
+
+    # Fig 8: Impact of p_c (carbon trading price) - use smaller range to keep n positive
+    print("\nGenerating Figure 8: Impact of p_c (carbon trading price)")
+    p_c_range = np.linspace(0, 30, 25)
+    # 使用特殊参数使变化更明显
+    params_pc = params.copy()
+    params_pc.update({
+        's': 200, 'm': 5, 'theta': 200, 'c': 100000,
+        'mu_M': 20, 'mu_R': 35,
+        'p_c': 10, 'e': 2, 'G': 0
+    })
+    results_p_c = analyze_p_c(p_c_range, params_pc)
+    plot_4subfigs(p_c_range, results_p_c, r'$p_c$',
+                  os.path.join(output_dir, 'fig_p_c.png'), 'p_c')
+
+    # Fig 9: Impact of e (carbon emission coefficient)
+    print("\nGenerating Figure 9: Impact of e (carbon emission coefficient)")
+    e_range = np.linspace(0.1, 5, 25)
+    # 使用特殊参数使变化更明显
+    params_e = params.copy()
+    params_e.update({
+        's': 200, 'm': 5, 'theta': 200, 'c': 100000,
+        'mu_M': 20, 'mu_R': 35,
+        'p_c': 10, 'G': 0
+    })
+    results_e = analyze_e(e_range, params_e)
+    plot_4subfigs(e_range, results_e, r'$e$',
+                  os.path.join(output_dir, 'fig_e.png'), 'e')
+
+    # Fig 10: Impact of G (carbon quota) - only recycler profit (positive!)
+    print("\nGenerating Figure 10: Impact of G (carbon quota)")
+    # 使用特殊参数使利润为正
+    params_G = params.copy()
+    params_G.update({
+        's': 200, 'm': 5, 'theta': 200, 'c': 100000,
+        'mu_M': 20, 'mu_R': 35,
+        'p_c': 10, 'e': 2
+    })
+    G_range = np.linspace(0, 300, 25)
+    results_G = analyze_G(G_range, params_G)
+
+    # 只画回收商利润
+    fig, ax = plt.subplots(figsize=(8, 6))
+    ax.plot(G_range, results_G['Pi_R'], color=MORANDI_COLORS['orange'], linewidth=2,
+           marker='s', markersize=4, markevery=3)
+    ax.set_xlabel(r'$G$ (Carbon quota)', fontsize=12)
+    ax.set_ylabel(r'$\Pi_R^*$ (Recycler Profit)', fontsize=12)
+    ax.grid(True, linestyle='--', alpha=0.3)
+    ax.set_title('Impact of Carbon Quota (G) on Recycler Profit', fontweight='bold', fontsize=13)
+    plt.tight_layout()
+    plt.savefig(os.path.join(output_dir, 'fig_G.png'), dpi=300, bbox_inches='tight')
+    plt.close()
+    print(f"Figure saved: {os.path.join(output_dir, 'fig_G.png')}")
+
+    print("\n" + "="*60)
+    print("All Cap-and-Trade Analysis figures generated successfully!")
     print("="*60)
 
 
