@@ -521,33 +521,47 @@ Proposition 8 (2) demonstrates that the biform game protects the profit of the r
 To illustrate the equilibrium outcomes more intuitively and investigate the impacts of key parameters (including price sensitivity coefficient, competition intensity, recycling value, and transportation costs) on collection prices, collection quantities, cost-sharing ratios, and technology improvement levels, we conduct numerical simulations using MATLAB 2023b.
 
 \subsection{Parameter settings}
-Waste concrete recycling represents a global challenge, and parameter values vary across different countries and contexts. To ensure the numerical simulation aligns with practical scenarios, we situate our analysis in the Chinese context. This selection is justified by two considerations: First, China has demonstrated strong policy commitment to waste concrete recycling, exemplified by initiatives such as the ``14th Five-Year Plan'' for solid waste pollution prevention and control, which explicitly mandates construction waste resource utilization rates to reach 60\% in large and medium-sized cities by 2025 (Ministry of Housing and Urban-Rural Development, 2021). Second, China's waste concrete recycling industry is at an early stage of development, with firms actively pursuing technological upgrades and seeking R\&D collaborations, which parallels the non-cooperative and cooperative game framework in this study. Accordingly, this context provides valuable insights for firm decision-making and government policy guidance.
+Waste concrete recycling represents a global challenge, and parameter values vary across different countries and contexts. To ensure the numerical simulation aligns with practical scenarios, we situate our analysis in the Chinese context. This selection is justified by two considerations: First, China has demonstrated strong policy commitment to waste concrete recycling, exemplified by initiatives such as the ``14th Five-Year Plan'' for solid waste pollution prevention and control, which explicitly mandates construction waste resource utilization rates to reach 60\% in large and medium-sized cities by 2025. Second, China's waste concrete recycling industry is at an early stage of development, with firms actively pursuing technological upgrades and seeking R\&D collaborations, which parallels the non-cooperative and cooperative game framework in this study. Accordingly, this context provides valuable insights for firm decision-making and government policy guidance.
 
-Based on China's official policies, industry reports, project disclosures, expert interviews, and relevant literature, we calibrate the parameters as follows:
+Based on China's official policies, industry reports, project disclosures, expert interviews, and relevant literature, we calibrate the parameters as presented in Table~\ref{tab:parameters}.
 
-Price sensitivity coefficient ($\alpha$) measures the responsiveness of collection quantity to price fluctuations. Drawing upon Liu's survey report on construction waste resource utilization in Shanghai, the collection price for waste concrete typically ranges from 10 to 15 yuan per ton. Following the parameter specification in Chen et al., we set $\alpha = 1.5$.
-
-Competition intensity ($\beta$) reflects the degree of market competition. According to the China Construction Waste Recycling Industry Overview, the compound annual growth rate of construction waste (including waste concrete) is approximately 13.4\%. Given the substantial capital requirements and technical barriers in concrete manufacturing and recycling, the number of major firms remains relatively stable, with channel resources well-established. We therefore interpret the annual incremental waste concrete resources as the competition intensity, setting $\beta = 0.134$.
-
-Recycler's processing cost ($m$) refers to the cost incurred by the recycler for processing waste concrete. Based on Xiao's report in \textit{World Environment}, processing 100,000 cubic meters of waste concrete costs approximately 8 million yuan, yielding $m = 32$ yuan/m$^3$.
-
-Transfer price ($w$) denotes the price at which the recycler transfers processed materials to the manufacturer. Drawing from annual reports of A-share listed firms specializing in waste concrete recycling (e.g., Sinoma Resources, China Tianying, Shanghai Environment), the gross profit margins range from 7.88\% to 13.04\%. Taking the average margin of 9.84\%, we calculate $w = m \times (1 + 9.84\%) = 35$ yuan/m$^3$.
-
-Government subsidy ($s$) represents financial incentives provided by the government to promote waste concrete recycling. The Chinese government has implemented various subsidy programs, including value-added tax exemptions and transportation cost reimbursements. According to the 2025 project disclosure for the Fuzhou (Jiangxi Province) construction waste treatment franchise, the government provides a subsidy of 35 yuan per ton based on collection volume, equivalent to $s = 87.5$ yuan/m$^3$ after unit conversion.
-
-Transportation costs ($\mu_M, \mu_R$) represent the logistics expenses for collecting and transporting waste concrete. We conducted market research by requesting quotes from multiple logistics providers and interviewing construction cost professionals. The results yield $\mu_M = 25$ yuan/m$^3$ and $\mu_R = 44$ yuan/m$^3$.
-
-Investment cost coefficient ($c$) captures the cost associated with R\&D investments in recycling technology improvement. Based on equipment pricing data from the China Construction Waste Recycling Industry Overview (including crushers, vibrating feeders, and magnetic separators), we calculated the weighted average cost coefficient, setting $c = 135,000$.
-
-Baseline technology parameter ($\theta$) represents the intrinsic technology level that determines the marginal value of recycled materials. According to Liu's survey report, the selling price of recycled concrete aggregate (RCA) from waste concrete ranges from 50 to 60 yuan per ton. Taking the median value and converting units, we set $\theta = 137.5$ yuan/m$^3$.
-
-Carbon trading price ($p_c$) represents the market price for trading carbon emission quotas under the cap-and-trade mechanism. Referring to the carbon trading prices in various Chinese pilot markets in 2021, which ranged from 50 to 80 yuan per ton, we set $p_c = 65$ yuan/ton as the baseline value.
-
-Carbon emission quota ($G$) represents the free carbon emission allowance allocated to the recycler by the government under the cap-and-trade mechanism. Following the parameter specification in the study by \cite{sun2021Optimal}, we set $G = 300$ (corresponding to 300 tons of CO$_2$ equivalent).
-
-Carbon emission coefficient ($e$) measures the actual carbon emissions per unit of waste concrete processed by the recycler. According to the European Environment Agency (EEA), processing 1 ton of waste concrete (including collection, crushing, transportation, and other resource utilization processes) generates approximately 0.02 to 0.05 tons (i.e., 20 to 50 kg) of carbon dioxide emissions. Taking the median value, we set $e = 0.035$ ton CO$_2$/m$^3$.
-
-% Table of parameter values will be added here
+\begin{table}[!htbp]
+\centering
+\captionsetup{font=normalsize, labelsep=period}
+\caption{Parameter settings and baseline values}
+\label{tab:parameters}
+\scriptsize
+\begin{tabular}{lp{6cm}c}
+\toprule
+\textbf{Parameter} & \textbf{Source} & \textbf{Value} \\
+\midrule
+$\alpha$ & Drawing upon Liu's survey report on construction waste resource utilization in Shanghai, the collection price for waste concrete typically ranges from 10 to 15 yuan per ton. Following the parameter specification in Chen et al. & 1.5 \\
+\midrule
+$\beta$ & According to the China Construction Waste Recycling Industry Overview, the compound annual growth rate of construction waste is approximately 13.4\%. Given the substantial capital requirements and technical barriers, the number of major firms remains relatively stable. We interpret the annual incremental waste concrete resources as the competition intensity. & 0.134 \\
+\midrule
+$m$ & Based on the report in World Environment journal, processing 100,000 cubic meters of waste concrete costs approximately 8 million yuan. & 32 yuan/m$^3$ \\
+\midrule
+$w$ & Drawing from annual reports of A-share listed firms specializing in waste concrete recycling (e.g., Sinoma Resources, China Tianying, Shanghai Environment), the gross profit margins range from 7.88\% to 13.04\%. Taking the average margin of 9.84\%, we calculate $w = m \times (1 + 9.84\%) = 35$ yuan/m$^3$. & 35 yuan/m$^3$ \\
+\midrule
+$s$ & According to the 2025 project disclosure for the Fuzhou (Jiangxi Province) construction waste treatment franchise, the government provides a subsidy of 35 yuan per ton based on collection volume. We convert the unit. & 87.5 yuan/m$^3$ \\
+\midrule
+$\mu_M$ & We conducted market research by requesting quotes from multiple logistics providers and interviewing construction cost professionals. & 25 yuan/m$^3$ \\
+\midrule
+$\mu_R$ & We conducted market research by requesting quotes from multiple logistics providers and interviewing construction cost professionals. & 44 yuan/m$^3$ \\
+\midrule
+$c$ & Based on equipment pricing data from the China Construction Waste Recycling Industry Overview (including crushers, vibrating feeders, and magnetic separators), we calculated the weighted average cost coefficient. & 135,000 \\
+\midrule
+$\theta$ & According to Liu's survey report, the selling price of recycled concrete aggregate from waste concrete ranges from 50 to 60 yuan per ton. Taking the median value and converting units. & 137.5 yuan/m$^3$ \\
+\midrule
+$p_c$ & Referring to the carbon trading prices in various Chinese pilot markets in 2021, which ranged from 50 to 80 yuan per ton. Taking the median value. & 65 yuan/ton \\
+\midrule
+$G$ & We follow the parameter specification in the research of \cite{sun2021Optimal}. & 300 ton \\
+\midrule
+$e$ & According to the European Environment Agency (EEA), processing 1 ton of waste concrete generates approximately 0.02 to 0.05 tons of carbon dioxide emissions. Taking the median value. & 0.035 ton CO$_2$/m$^3$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+\vspace{-15pt}
 
 \subsection{Simulation results and analysis}
 \label{sec:simulation_analysis}
