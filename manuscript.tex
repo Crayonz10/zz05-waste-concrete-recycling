@@ -113,11 +113,13 @@
 % === END AUTHOR INFO ===
 
 \begin{abstract}
-% TODO: Write abstract here
+
+  Waste concrete recycling is essential for sustainable construction and resource management. Concrete manufacturers and recyclers face multiple challenges as the participants. They engage in pricing competition and have the option to pursue research and development investment cooperation. However, existing research typically treats competition and cooperation as isolated stages, leaving it unclear whether the enterprises should cooperate within a competitive environment and what the resulting economic benefits might be. Additionally, the cap and trade mechanism acts as a crucial policy tool for balancing environmental protection and economic development and further complicates their decisions and financial interests. To address these gaps, we develop a biform game framework for waste concrete recycling that simultaneously integrates cooperative and non-cooperative games under the influence of the cap-and-trade mechanism. We compare this with a pure non-cooperative game model. We find that the biform game incentivizes a higher conversion rate of the waste concrete and leads to an expansion of total collection quantities. Cooperation in the competition environment achieves a Pareto improvement, where both the manufacturer and the recycler realize higher individual profits compared to the noncooperative game. Furthermore, the cap-and-trade mechanism raises costs and reduces profit margins for both participants, but cooperation provides a buffering effect against such volatility. This study expands the application of biform games and contributes to the literature on waste concrete recycling management and economic decision making. It also provides essential managerial insights for enterprises seeking cooperation in the competitive environment and for government policy design in the carbon market.
+
 \end{abstract}
 
 \begin{keyword}
-% TODO: Keyword1 \sep Keyword2 \sep Keyword3
+Waste concrete recycling \sep Biform Game \sep Cap-and-trade Mechanism \sep Cooperation
 \end{keyword}
 
 \end{frontmatter}
@@ -125,7 +127,7 @@
 % ===== 正文各章节 =====
 
 \section{Introduction}
-Rapid development of the construction industry in recent decades has led to a sharp increase in construction and demolition (C\&D) waste generation, with waste concrete accounting for more than half of total C\&D waste \citep{zhao2020Use}. Given the environmental and social damage caused by this waste, urgent management of its recycling is required \citep{wu2019Offsite}. Waste concrete recycling has demonstrated potential to alleviate environmental pressures and shortages of construction raw materials due to its regenerative and utilization value \citep{mostert2021Climate}. Many countries, particularly developed nations with limited natural resources, have widely adopted recycled concrete \citep{yenipazarli2019Incentives}. However, promotion of waste concrete recycling management faces obstacles including immature technologies, unclear economic benefits, and incomplete policies, resulting in low enterprise participation \citep{liu2021Explore,ma2020Challenges}. The waste concrete recycling process involves two major participants: concrete manufacturers and recyclers \citep{he2020Investigation,lu2015Stakeholders}. Confronted with high technical costs and market uncertainties, concrete manufacturers and recyclers often lack the capacity to independently overcome these barriers and require inter-enterprise coordination to achieve complementary advantages, risk sharing, and maximum economic benefits from waste concrete recycling \citep{bao2019Procurement}. Therefore, how to effectively coordinate the waste concrete recycling management process has become a critical management challenge constraining the development of the waste concrete recycling industry.
+The recycling and processing of renewable resources has become one challenge in engineering management, with the construction industry serving as one of the most significant sectors for these activities \citep{yuan2025Exploring}. Rapid development of the construction industry in recent decades has led to a sharp increase in construction and demolition (C\&D) waste generation, with waste concrete accounting for more than half of total C\&D waste \citep{zhao2020Use}. Given the environmental and social damage caused by this waste, urgent management of its recycling is required \citep{wu2019Offsite}. Waste concrete recycling has demonstrated potential to alleviate environmental pressures and shortages of construction raw materials due to its regenerative and utilization value \citep{mostert2021Climate}. Many countries, particularly developed nations with limited natural resources, have widely adopted recycled concrete \citep{yenipazarli2019Incentives}. However, promotion of waste concrete recycling management faces obstacles including immature technologies, unclear economic benefits, and incomplete policies, resulting in low enterprise participation \citep{liu2021Explore,ma2020Challenges}. The waste concrete recycling process involves two major participants: concrete manufacturers and recyclers \citep{he2020Investigation,lu2015Stakeholders}. Confronted with high technical costs and market uncertainties, concrete manufacturers and recyclers often lack the capacity to independently overcome these barriers and require inter-enterprise coordination to achieve complementary advantages, risk sharing, and maximum economic benefits from waste concrete recycling \citep{bao2019Procurement}. Therefore, how to effectively coordinate the waste concrete recycling management process has become a critical management challenge constraining the development of the waste concrete recycling industry.
 
 The waste concrete recycling process generally involves collecting raw waste concrete from the market and the treatment \citep{he2020Investigation}. In this process, concrete manufacturers possess the channel advantage. They can collect waste concrete from construction sites using their delivery trucks on return trips, which keeps their transportation costs relatively low \citep{besklubova2026Establishing}. On the other hand, specialized recyclers use dedicated equipment to process the collected waste into recycled aggregates\citep{chen2025Exploring}. During these interactions, the two prticipants engage in price competition at the front end to secure limited waste concrete resources \citep{he2020Investigation}. At the same time, they can choose to cooperate at the back end by sharing the research and development costs required to improve these processing technologies \citep{liu2019Expand}. These intertwined behaviors form a complex coopetition relationship. However, both parties are often hesitant to actually commit to such cooperation \citep{bao2020Developing}. This is because their competitive and cooperative behaviors mutually influence each other. Pricing battles at the front end directly impact the final profit distribution from technology sharing at the back end, making the ultimate economic benefits of working together unclear \citep{li2020Key}. While previous research has explored recycling strategies, most studies treat collection and processing as separate stages \citep{hu2021Dynamic,yuan2023Differentiated}. They fail to clarify whether these companies should cooperate in such a competitive environment and how they should adjust their prices based on this cooperation. Therefore, it is necessary to explore how the interaction between pricing competition and R\&D investment cooperation affects the decisions and economic benefits for both concrete manufacturers and recyclers.
 
@@ -378,7 +380,7 @@ V_{p_M,p_R}(\{M,R\}) =& (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R
 
  The proof is provided in Appendix B.
 
-The coalitions' characteristic values computed in Proposition 2 constitute the cooperative game for technology investment cooperation. In cooperative game theory, the characteristic value reflects a coalition's bargaining power. To apply the Shapley value to determine a fair profit allocation scheme, it is crucial to check whether this cooperative game is convex and super-additive. If so, the core of this game is non-empty, and the Shapley value, as a single solution, will fall into the core.
+The coalitions' characteristic values computed in Proposition 2 constitute the cooperative game for R\&D investment cooperation. In cooperative game theory, the characteristic value reflects a coalition's bargaining power. To apply the Shapley value to determine a fair profit allocation scheme, it is crucial to check whether this cooperative game is convex and super-additive. If so, the core of this game is non-empty, and the Shapley value, as a single solution, will fall into the core.
 
 \begin{prop}
 \label{prop:convexity}
@@ -391,7 +393,8 @@ Consequently, $V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})
 
  The proof is provided in Appendix C.
 
-Proposition 3 implies that forming the grand coalition generates more benefits, providing a strong incentive for both the manufacturer and the recycler to cooperate. Since the Shapley value allocation belongs to the core, it guarantees both collective and individual rationality, meaning what any agent gains is not less than the payoff they could receive independently. The Shapley value allocations $\varphi_M$ and $\varphi_R$ are calculated as:
+Proposition 3 implies that forming the grand coalition generates more benefits, providing a strong incentive for both the manufacturer and the recycler to cooperate. 
+The Shapley value is an important and widely accepted allocation mechanism in the cooperative game theory. Although cooperative games with a nonempty core offer several distribution strategies, this paper utilizes the Shapley value due to its superior practical acceptance among participants. This allocation method is effective because it aligns individual rewards with each player's distinct contribution to the overall coalition. The Shapley value allocations $\varphi_M$ and $\varphi_R$ are calculated as:
 
 \begin{equation}
 \varphi_M(p_M, p_R) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) + \frac{\theta^2(\alpha p_M - \beta p_R)[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)]}{4c}
@@ -446,7 +449,7 @@ p_R^{C*} = \frac{
 \displaystyle (\alpha-\beta)^3(\alpha+\beta)\theta^4 - 4c(\alpha-\beta)(3\alpha^2-\beta^2)\theta^2 + 4c^2(4\alpha^2-\beta^2)
 }
 \end{equation}
-Substituting $(p_M^{C*}, p_R^{C*})$ back into the grand coalition's optimal decisions, the optimal conversion rate $k^{C*}$ and cost-sharing proportion $n^{C*}$ are:
+Substituting $(p_M^{C*}, p_R^{C*})$ back into the grand coalition's optimal decisions, the optimal conversion rate $k^{C*}$ and R\&D investment sharing proportion $n^{C*}$ are:
 \begin{equation}
 k^{C*} = \frac{\theta(\alpha-\beta)(p_M^{C*} + p_R^{C*})}{c}
 \end{equation}
@@ -457,11 +460,11 @@ n^{C*} = \frac{2(\alpha p_R^{C*} - \beta p_M^{C*})^2 + 2(\alpha p_M^{C*} - \beta
 
  The proof is provided in Appendix D.
 
-By employing the Shapley value, we find a fair and unique allocation solution which suggests reasonable profit functions for the non-cooperative game. The biform game enables us to derive analytical results for a complex problem where collection pricing competition and technology investment cooperation interact—a dynamic that is almost impossible to solve comprehensively using traditional single-stage game approaches.
+By employing the Shapley value, we find a fair allocation solution which suggests reasonable profit functions for the non-cooperative game. The biform game enables us to derive analytical results for a complex problem where collection pricing competition and R\&D investment cooperation interact—a dynamic that is almost impossible to solve comprehensively using traditional single-stage game approaches.
 
 \section{Equilibrium analysis}
 \label{sec:equilibrium_analysis}
-In this section, we conduct a comparative analysis of the equilibrium solutions between the non-cooperative model and the biform game model. By analyzing the optimal technology conversion rates, collection prices, market shares, and economic benefits across both scenarios, we reveal the theoretical mechanisms through which the biform game drives supply chain coordination. The outcomes of this analysis are articulated in Propositions 5 through 8.
+In this section, we conduct a comparative analysis of the equilibrium solutions between the non-cooperative model and the biform game model. By analyzing the optimal conversion rates, collection prices, market shares, and economic benefits across both scenarios, we reveal the theoretical mechanisms through which the biform game drives supply chain coordination. The outcomes of this analysis are articulated in Propositions 5 through 8.
 
 
 \begin{prop}
@@ -649,9 +652,9 @@ The economic outcomes plotted in Fig. 14(d) reveal that the external logistics f
 
 This study develops a two-stage biform game model to investigate the coopetition dynamics between the concrete manufacturer and the recycler in a waste concrete recycling supply chain under the cap-and-trade mechanism. By comparing the equilibrium solutions of the biform game with a non-cooperative baseline, the study draws the following principal conclusions:
 
-First, the results demonstrate that cooperation in the competition environment is more beneficial for both participants than the pure non-cooperative model. The biform game incentivizes a higher technology conversion rate and leads to an expansion of the total collection volume. Most importantly, the cooperative investment mechanism achieves a Pareto improvement, where both the manufacturer and the recycler realize higher individual profits compared to the non-cooperative scenario. 
+First, the results demonstrate that cooperation in the competition environment is more beneficial for both participants than the pure non-cooperative game model. The biform game incentivizes a higher conversion rate and leads to an expansion of the total collection quantities. Most importantly, the cooperative investment mechanism achieves a Pareto improvement, where both the manufacturer and the recycler realize higher individual profits compared to the non-cooperative game. 
 
-Second, concerning the impacts of the cap-and-trade mechanism, the study finds that an increase in the carbon trading price generally raises costs and reduces profit margins of the waste manufacture and the recycler. Cooperation in the competition environment provides a buffering effect against such volatility. By sharing the R\&D investment, the manufacturer enables the recycler to reach a higher conversion rate, which generates greater marginal revenue and enhances the whole supply chain's resilience to rising carbon market costs. Furthermore, the government-allocated free carbon quota serves as an essential financial buffer to maintain the profitability of specialized processors. 
+Second, concerning the impacts of the cap-and-trade mechanism, the study finds that an increase in the carbon trading price generally raises costs and reduces profit margins of the concrete manufacture and the recycler. Cooperation in the competition environment provides a buffering effect against such volatility. By sharing the R\&D investment, the manufacturer enables the recycler to reach a higher conversion rate, which generates greater marginal revenue and enhances the whole supply chain's resilience to rising carbon market costs. Furthermore, the government-allocated free carbon quota serves as an essential financial buffer to maintain the profitability of specialized processors. 
 
 Third, the parameter sensitivity analysis provides the understanding of how various factors influence the waste concrete recycling. Both government subsidies and the inherent value of recycled waste serve as effective drivers for increasing the total quantity of waste concrete collected. Their impacts on the recycler's investment motivation are distinct. Subsidies primarily protect the investment by reducing financial risks, while a higher recycled value drives it by increasing potential returns. Additionally, when market price sensitivity increases, the manufacturer and recycler adopt different pricing strategies. The waste manufacturer steadily raises its collection price to capture more market share, whereas the recycler lowers its price to control front-end operational risks. Conversely, excessive outsourcing fees or significant transportation cost gaps create friction that shrinks the recycling scale, ultimately harming the profits of both participants. 
 
@@ -797,20 +800,20 @@ Since $\alpha > \beta > 0$ by assumption, we have $(\alpha p_M - \beta p_R) \geq
 \begin{equation}
 V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})
 \end{equation}
-which establishes superadditivity. Furthermore, the marginal contribution of each player increases with the size of the coalition, satisfying the convexity condition. Consequently, the Shapley value allocation belongs to the core of the cooperative game. This completes the proof. \hfill $\square$
+which establishes superadditivity. Furthermore, the marginal contribution of each player increases with the size of the coalition, satisfying the convexity condition. This completes the proof. \hfill $\square$
 
 \section{Proof of Proposition \ref{prop:biform}}
 \label{app:prop4}
 
 Having established the characteristic functions and Shapley value allocations $\varphi_M(p_M, p_R)$ and $\varphi_R(p_M, p_R)$ in Section \ref{sec:biform_model}, we now solve the non-cooperative price competition stage.
 
-\textbf{Step 1: Concavity verification.} Taking second-order partial derivatives of $\varphi_M$ and $\varphi_R$ with respect to their respective prices:
+\textbf{Step 1: Concavity verification.} Taking second-order partial derivatives of $\varphi_{M}$ and $\varphi_{R}$ with respect to their respective prices:
 \begin{equation}
-\frac{\partial^2 \varphi_M}{\partial p_M^2} = \frac{\theta^2(\alpha^2 - 2\alpha\beta)}{2c}
+\frac{\partial^{2}\varphi_{M}}{\partial p_{M}^{2}} = -2\alpha + \frac{\theta^{2}(\alpha^{2}-2\alpha\beta)}{2c}
 \quad \text{and} \quad
-\frac{\partial^2 \varphi_R}{\partial p_R^2} = \frac{\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2)}{2c}
+\frac{\partial^{2}\varphi_{R}}{\partial p_{R}^{2}} = -2\alpha + \frac{\theta^{2}(2\alpha^{2}-2\alpha\beta+\beta^{2})}{2c}
 \end{equation}
-When $\alpha > 2\beta > 0$, both second-order derivatives are negative, confirming strict concavity of the profit allocation functions.
+To ensure the strict concavity of the profit allocation functions (i.e., both second-order derivatives are negative), the parameters must satisfy the conditions: $4c\alpha > \theta^{2}(\alpha^{2}-2\alpha\beta)$ and $4c\alpha > \theta^{2}(2\alpha^{2}-2\alpha\beta+\beta^{2})$. Assuming the investment cost coefficient $c$ is sufficiently large, these concavity conditions hold.
 
 \textbf{Step 2: First-order conditions.} Setting the first-order partial derivatives to zero:
 \begin{equation}
@@ -823,13 +826,13 @@ When $\alpha > 2\beta > 0$, both second-order derivatives are negative, confirmi
 
 \textbf{Step 3: Solving the reaction functions.} Solving the linear system (D1) yields the equilibrium collection prices $p_M^{C*}$ and $p_R^{C*}$, which are given by Equations (27) and (28) in Proposition \ref{prop:biform}.
 
-\textbf{Step 4: Optimal conversion rate and cost-sharing proportion.} Substituting $p_M^{C*}$ and $p_R^{C*}$ into the grand coalition's optimal $k$:
+\textbf{Step 4: Optimal conversion rate and R\&D investment sharing proportion.} Substituting $p_M^{C*}$ and $p_R^{C*}$ into the grand coalition's optimal $k$:
 \begin{equation}
 k^{C*} = \frac{\theta(\alpha - \beta)(p_M^{C*} + p_R^{C*})}{c}
 \end{equation}
-The optimal cost-sharing proportion $n^{C*}$ is derived by equating the marginal contributions and solving for $n$, yielding the expression in Proposition \ref{prop:biform}.
+The optimal R\&D investment sharing proportion $n^{C*}$ is derived by equating the marginal contributions and solving for $n$, yielding the expression in Proposition \ref{prop:biform}.
 
-The equilibrium Shapley value allocations $\varphi_M^{C*}$ and $\varphi_R^{C*}$ follow directly from substituting the equilibrium prices into the Shapley value formulas. This completes the proof. \hfill $\square$
+The equilibrium Shapley value allocations $\varphi_M^{C*}$ and $\varphi_R^{C*}$ follow from substituting the equilibrium prices into the Shapley value formulas. This completes the proof. \hfill $\square$
 
 \bibliographystyle{elsarticle-harv}
 \bibliography{zz05}
