@@ -1,0 +1,154 @@
+% !TEX program = pdflatex
+\documentclass[authoryear,preprint,review,times,10pt]{elsarticle}
+\usepackage{amsmath,amsthm,amssymb,amsfonts,bm,booktabs,graphicx,geometry,hyperref}
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+\journal{}
+\begin{document}
+\appendix
+
+\appendix
+\section{Proof of Proposition 1}
+\label{app:prop1}
+
+We solve the non-cooperative game using backward induction.
+
+\textbf{Step 1: Recycler's technology investment decision.} Given collection prices $(p_M, p_R)$, the recycler $R$ chooses $k$ to maximize $\Pi_R^N$ in Equation 7. Taking the first-order derivative with respect to $k$:
+\begin{equation}
+\frac{\partial \Pi_R^N}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving for $k$, we obtain the optimal conversion rate:
+\begin{equation}
+k^N(p_M, p_R) = \frac{\theta(\alpha p_R - \beta p_M)}{c}
+\tag{A1}
+\end{equation}
+
+Substituting (A1) into $\Pi_R^N$, the recycler's profit becomes:
+\begin{equation}
+\Pi_R^N =
+\begin{aligned}
+& (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\end{aligned}
+\tag{A2}
+\end{equation}
+
+\textbf{Step 2: Price competition equilibrium.} Using the profit functions $\Pi_M^N$ and $\Pi_R^N$, we derive the reaction functions by taking first-order partial derivatives with respect to $p_M$ and $p_R$, respectively, and setting them equal to zero:
+\begin{equation}
+\frac{\partial \Pi_M^N}{\partial p_M} = (\theta k - p_M - w - \mu_M + s)\alpha - (\alpha p_M - \beta p_R) = 0
+\tag{A3}
+\end{equation}
+\begin{equation}
+\frac{\partial \Pi_R^N}{\partial p_R} =
+\begin{aligned}
+& (s - p_R - m - \mu_R)\alpha + \theta\alpha k^N - \alpha p_R + (w - m)(-\beta) \\
+& - p_c e (\alpha - \beta) = 0
+\end{aligned}
+\tag{A4}
+\end{equation}
+
+Substituting $k^N$ from (A1) into (A4), and solving the system of (A3)-(A4) simultaneously, we obtain the equilibrium collection prices $p_M^{N*}$ and $p_R^{N*}$, which are given by Equations (9) and (10) in Proposition 1. Substituting these equilibrium prices back into (A1) yields $k^{N*}$ in Equation (8). The equilibrium collection quantities and profits follow directly from substituting the equilibrium values into the profit functions. This completes the proof. \hfill $\square$
+
+\section{Proof of Proposition 2}
+\label{app:prop2}
+
+We compute the characteristic functions for each coalition using the maximin principle.
+
+\textbf{(1) Coalition $\{M\}$.} The characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{M\}) = \max_{n \in [0,1]} \min_{k \in [0,1]} \{\Pi_M\}
+\end{equation}
+Since $\Pi_M = (\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) - (1 - n)\frac{ck^2}{2}$ and $(\alpha p_M - \beta p_R) \geq 0$, for any given $n$, the term is minimized when $k = 0$. Maximizing over $n \in [0,1]$ yields $n^* = 1$, which eliminates the investment cost term. Therefore:
+\begin{equation}
+V_{p_M,p_R}(\{M\}) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)
+\tag{B1}
+\end{equation}
+
+\textbf{(2) Coalition $\{R\}$.} The characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{R\}) = \max_{k \in [0,1]} \{\Pi_R\}
+\end{equation}
+Setting $n = 1$ (the recycler bears all costs) and taking the first-order derivative with respect to $k$:
+\begin{equation}
+\frac{\partial \Pi_R}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving yields $k^* = \frac{\theta(\alpha p_R - \beta p_M)}{c}$. Substituting into $\Pi_R$:
+\begin{equation}
+V_{p_M,p_R}(\{R\}) =
+\begin{aligned}
+& \left(s - p_R - m - \mu_R\right)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
+\end{aligned}
+\tag{B2}
+\end{equation}
+
+\textbf{(3) Grand coalition $\{M,R\}$.} The characteristic function is:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) = \max_{k \in [0,1]} \{\Pi_M + \Pi_R\}
+\end{equation}
+Taking the first-order derivative:
+\begin{equation}
+\frac{\partial (\Pi_M + \Pi_R)}{\partial k} = \theta(\alpha p_M - \beta p_R) + \theta(\alpha p_R - \beta p_M) - ck = 0
+\end{equation}
+Solving yields $k^* = \frac{\theta(\alpha - \beta)(p_M + p_R)}{c}$. Substituting:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) =
+\begin{aligned}
+& (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) \\
+& + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
+\end{aligned}
+\tag{B3}
+\end{equation}
+
+Equations (B1)-(B3) correspond to the characteristic functions stated in Proposition \ref{prop:characteristic}. This completes the proof. \hfill $\square$
+
+\section{Proof of Proposition 3}
+\label{app:prop3}
+
+From Proposition 2, we compute the surplus from forming the grand coalition:
+\begin{equation}
+\begin{aligned}
+& V_{p_M,p_R}(\{M,R\}) - V_{p_M,p_R}(\{M\}) - V_{p_M,p_R}(\{R\}) \\
+&= \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} \\
+&= \frac{\theta^2}{2c}(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big]
+\end{aligned}
+\tag{C1}
+\end{equation}
+
+Since $\alpha > \beta > 0$ by assumption, we have $(\alpha p_M - \beta p_R) \geq 0$ and $(\alpha p_R - \beta p_M) \geq 0$. Additionally, $\theta > 0$ and $c > 0$. Therefore, the right-hand side of (C1) is always non-negative. Hence:
+\begin{equation}
+V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})
+\end{equation}
+which establishes superadditivity. Furthermore, the marginal contribution of each player increases with the size of the coalition, satisfying the convexity condition. This completes the proof. \hfill $\square$
+
+\section{Proof of Proposition 4}
+\label{app:prop4}
+
+Having established the characteristic functions and Shapley value allocations $\varphi_M(p_M, p_R)$ and $\varphi_R(p_M, p_R)$ in Section 3.3, we now solve the non-cooperative price competition stage.
+
+\textbf{Step 1: Concavity verification.} Taking second-order partial derivatives of $\varphi_{M}$ and $\varphi_{R}$ with respect to their respective prices:
+\begin{equation}
+\frac{\partial^{2}\varphi_{M}}{\partial p_{M}^{2}} = -2\alpha + \frac{\theta^{2}(\alpha^{2}-2\alpha\beta)}{2c}
+\quad \text{and} \quad
+\frac{\partial^{2}\varphi_{R}}{\partial p_{R}^{2}} = -2\alpha + \frac{\theta^{2}(2\alpha^{2}-2\alpha\beta+\beta^{2})}{2c}
+\end{equation}
+To ensure the strict concavity of the profit allocation functions (i.e., both second-order derivatives are negative), the parameters must satisfy the conditions: $4c\alpha > \theta^{2}(\alpha^{2}-2\alpha\beta)$ and $4c\alpha > \theta^{2}(2\alpha^{2}-2\alpha\beta+\beta^{2})$. Assuming the investment cost coefficient $c$ is sufficiently large, these concavity conditions hold.
+
+\textbf{Step 2: First-order conditions.} Setting the first-order partial derivatives to zero:
+\begin{equation}
+\begin{cases}
+\frac{\partial \varphi_M}{\partial p_M} = [\theta^2(\alpha^2 - 2\alpha\beta) - 4c\alpha]p_M + [\theta^2(\alpha^2 - \alpha\beta + \beta^2) + 2c\beta]p_R + 2c\alpha(s - w - \mu_M) = 0 \\
+\frac{\partial \varphi_R}{\partial p_R} = [\theta^2(\alpha^2 - 3\alpha\beta + \beta^2) + 2c\beta]p_M + [\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2) - 4c\alpha]p_R + 2c[\alpha(s - m - \mu_R) - \beta(w - m)] - 2c p_c e (\alpha - \beta) = 0
+\end{cases}
+\tag{D1}
+\end{equation}
+
+\textbf{Step 3: Solving the reaction functions.} Solving the linear system (D1) yields the equilibrium collection prices $p_M^{C*}$ and $p_R^{C*}$, which are given by Equations (27) and (28) in Proposition 4.
+
+\textbf{Step 4: Optimal conversion rate and R\&D investment sharing proportion.} Substituting $p_M^{C*}$ and $p_R^{C*}$ into the grand coalition's optimal $k$:
+\begin{equation}
+k^{C*} = \frac{\theta(\alpha - \beta)(p_M^{C*} + p_R^{C*})}{c}
+\end{equation}
+The optimal R\&D investment sharing proportion $n^{C*}$ is derived by equating the marginal contributions and solving for $n$, yielding the expression in Proposition 4.
+
+The equilibrium Shapley value allocations $\varphi_M^{C*}$ and $\varphi_R^{C*}$ follow from substituting the equilibrium prices into the Shapley value formulas. This completes the proof. \hfill $\square$
+\end{document}

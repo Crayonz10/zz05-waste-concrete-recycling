@@ -245,25 +245,25 @@ def plot_profits_vs_param(x_data, y_data_N, y_data_C, param_name, param_unit,
     marker_size = 6
 
     # 制造商 - 非合作
-    ax.plot(x_data, [v/1e6 for v in y_data_N[0]],
+    ax.plot(x_data, y_data_N[0],
             color=MORANDI_COLORS['blue'], linewidth=line_width,
             marker='o', markersize=marker_size, markevery=3,
             label=r'Manufacturer (Non-coop)', linestyle='-')
 
     # 制造商 - 合作
-    ax.plot(x_data, [v/1e6 for v in y_data_C[0]],
+    ax.plot(x_data, y_data_C[0],
             color=MORANDI_COLORS['red'], linewidth=line_width,
             marker='s', markersize=marker_size, markevery=3,
             label=r'Manufacturer (Biform)', linestyle='-')
 
     # 回收商 - 非合作
-    ax.plot(x_data, [v/1e6 for v in y_data_N[1]],
+    ax.plot(x_data, y_data_N[1],
             color=MORANDI_COLORS['green'], linewidth=line_width,
             marker='^', markersize=marker_size, markevery=3,
             label=r'Recycler (Non-coop)', linestyle='--')
 
     # 回收商 - 合作
-    ax.plot(x_data, [v/1e6 for v in y_data_C[1]],
+    ax.plot(x_data, y_data_C[1],
             color=MORANDI_COLORS['orange'], linewidth=line_width,
             marker='d', markersize=marker_size, markevery=3,
             label=r'Recycler (Biform)', linestyle='--')

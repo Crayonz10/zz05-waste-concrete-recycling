@@ -41,8 +41,11 @@ plt.rcParams['figure.figsize'] = (8, 6)
 
 
 # ============== 1. 均衡求解函数 ==============
-def solve_equilibrium(alpha, beta, theta, c, s, w, m, mu_M, mu_R, p_c, e, G):
-    """数值求解均衡价格 - 使用论文中的解析公式"""
+def solve_equilibrium(alpha, beta, theta, c, s, w, m, mu_M, mu_R, p_c, e, G, mode='C'):
+    """数值求解均衡价格 - 使用论文中的解析公式
+    mode='N': 非合作博弈 (baseline)
+    mode='C': 合作博弈 (biform game)
+    """
 
     # 计算分母 (Eq. 17 in manuscript)
     denom = (alpha - beta)**3 * (alpha + beta) * theta**4 - \
@@ -434,12 +437,12 @@ def plot_4subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
     # (c) k and n
     ax = axes[1, 0]
     ax.plot(x_data, y_data_dict['k'], color=MORANDI_COLORS['purple'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$k^*$')
-    ax.plot(x_data, y_data_dict['n'], color=MORANDI_COLORS['teal'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$n^*$')
+    ax.plot(x_data, y_data_dict['n'], color=MORANDI_COLORS['teal'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$n^*$ (R\&D sharing)')
     ax.set_xlabel(xlabel, fontsize=11)
     ax.set_ylabel(r'Value', fontsize=11)
     ax.legend(loc='best', frameon=True)
     ax.grid(True, linestyle='--', alpha=0.3)
-    ax.set_title('(c) Conversion Rate and Cost-sharing Ratio', fontweight='bold')
+    ax.set_title('(c) Conversion Rate and R\&D Investment Sharing Proportion', fontweight='bold')
 
     # (d) Profits
     ax = axes[1, 1]
@@ -450,6 +453,103 @@ def plot_4subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
     ax.legend(loc='best', frameon=True)
     ax.grid(True, linestyle='--', alpha=0.3)
     ax.set_title('(d) Profits', fontweight='bold')
+
+    plt.tight_layout()
+
+    # 保存
+    save_path_pdf = save_path.replace('.png', '.pdf')
+    plt.savefig(save_path_pdf, format='pdf', bbox_inches='tight', facecolor='white')
+    plt.savefig(save_path, format='png', bbox_inches='tight', facecolor='white', dpi=300)
+    plt.close()
+
+    print(f"Figure saved: {save_path}")
+
+
+def plot_3subfigs_1row(x_data, y_data_dict, xlabel, save_path, title_prefix):
+    """绘制3子图(横排) (a) 价格 (b) 数量 (c) k和n"""
+
+    fig, axes = plt.subplots(1, 3, figsize=(15, 4))
+
+    # (a) Collection Prices
+    ax = axes[0]
+    ax.plot(x_data, y_data_dict['p_M'], color=MORANDI_COLORS['blue'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$p_M^*$')
+    ax.plot(x_data, y_data_dict['p_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$p_R^*$')
+    ax.set_xlabel(xlabel, fontsize=11)
+    ax.set_ylabel(r'Collection price', fontsize=11)
+    ax.legend(loc='best', frameon=True)
+    ax.grid(True, linestyle='--', alpha=0.3)
+    ax.set_title('(a) Collection Prices', fontweight='bold')
+
+    # (b) Collection Quantities
+    ax = axes[1]
+    ax.plot(x_data, y_data_dict['q_M'], color=MORANDI_COLORS['blue'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$q_M^*$')
+    ax.plot(x_data, y_data_dict['q_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$q_R^*$')
+    ax.plot(x_data, y_data_dict['q_total'], color=MORANDI_COLORS['green'], linewidth=2, marker='^', markersize=4, markevery=3, label=r'$Q^*$')
+    ax.set_xlabel(xlabel, fontsize=11)
+    ax.set_ylabel(r'Collection quantity', fontsize=11)
+    ax.legend(loc='best', frameon=True)
+    ax.grid(True, linestyle='--', alpha=0.3)
+    ax.set_title('(b) Collection Quantities', fontweight='bold')
+
+    # (c) k and n
+    ax = axes[2]
+    ax.plot(x_data, y_data_dict['k'], color=MORANDI_COLORS['purple'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$k^*$')
+    ax.plot(x_data, y_data_dict['n'], color=MORANDI_COLORS['teal'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$n^*$ (R\&D sharing)')
+    ax.set_xlabel(xlabel, fontsize=11)
+    ax.set_ylabel(r'Value', fontsize=11)
+    ax.legend(loc='best', frameon=True)
+    ax.grid(True, linestyle='--', alpha=0.3)
+    ax.set_title('(c) Conversion Rate and R\&D Investment Sharing Proportion', fontweight='bold')
+
+    plt.tight_layout()
+
+    # 保存
+    save_path_pdf = save_path.replace('.png', '.pdf')
+    plt.savefig(save_path_pdf, format='pdf', bbox_inches='tight', facecolor='white')
+    plt.savefig(save_path, format='png', bbox_inches='tight', facecolor='white', dpi=300)
+    plt.close()
+
+    print(f"Figure saved: {save_path}")
+
+
+def plot_3subfigs(x_data, y_data_dict, xlabel, save_path, title_prefix):
+    """绘制3子图 (a) 价格 (b) 数量 (c) k和n"""
+
+    fig, axes = plt.subplots(2, 2, figsize=(12, 10))
+
+    # (a) Collection Prices
+    ax = axes[0, 0]
+    ax.plot(x_data, y_data_dict['p_M'], color=MORANDI_COLORS['blue'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$p_M^*$')
+    ax.plot(x_data, y_data_dict['p_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$p_R^*$')
+    ax.set_xlabel(xlabel, fontsize=11)
+    ax.set_ylabel(r'Collection price', fontsize=11)
+    ax.legend(loc='best', frameon=True)
+    ax.grid(True, linestyle='--', alpha=0.3)
+    ax.set_title('(a) Collection Prices', fontweight='bold')
+
+    # (b) Collection Quantities
+    ax = axes[0, 1]
+    ax.plot(x_data, y_data_dict['q_M'], color=MORANDI_COLORS['blue'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$q_M^*$')
+    ax.plot(x_data, y_data_dict['q_R'], color=MORANDI_COLORS['orange'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$q_R^*$')
+    ax.plot(x_data, y_data_dict['q_total'], color=MORANDI_COLORS['green'], linewidth=2, marker='^', markersize=4, markevery=3, label=r'$Q^*$')
+    ax.set_xlabel(xlabel, fontsize=11)
+    ax.set_ylabel(r'Collection quantity', fontsize=11)
+    ax.legend(loc='best', frameon=True)
+    ax.grid(True, linestyle='--', alpha=0.3)
+    ax.set_title('(b) Collection Quantities', fontweight='bold')
+
+    # (c) k and n
+    ax = axes[1, 0]
+    ax.plot(x_data, y_data_dict['k'], color=MORANDI_COLORS['purple'], linewidth=2, marker='o', markersize=4, markevery=3, label=r'$k^*$')
+    ax.plot(x_data, y_data_dict['n'], color=MORANDI_COLORS['teal'], linewidth=2, marker='s', markersize=4, markevery=3, label=r'$n^*$ (R\&D sharing)')
+    ax.set_xlabel(xlabel, fontsize=11)
+    ax.set_ylabel(r'Value', fontsize=11)
+    ax.legend(loc='best', frameon=True)
+    ax.grid(True, linestyle='--', alpha=0.3)
+    ax.set_title('(c) Conversion Rate and R\&D Investment Sharing Proportion', fontweight='bold')
+
+    # Remove (d) subplot
+    axes[1, 1].axis('off')
 
     plt.tight_layout()
 
@@ -581,18 +681,11 @@ def main():
     print("Generating Cap-and-Trade Parameter Analysis Figures")
     print("="*60)
 
-    # Fig 8: Impact of p_c (carbon trading price) - use smaller range to keep n positive
+    # Fig 8: Impact of p_c (carbon trading price)
     print("\nGenerating Figure 8: Impact of p_c (carbon trading price)")
-    p_c_range = np.linspace(0, 30, 25)
-    # 使用特殊参数使变化更明显
-    params_pc = params.copy()
-    params_pc.update({
-        's': 200, 'm': 5, 'theta': 200, 'c': 100000,
-        'mu_M': 20, 'mu_R': 35,
-        'p_c': 10, 'e': 2, 'G': 0
-    })
-    results_p_c = analyze_p_c(p_c_range, params_pc)
-    plot_4subfigs(p_c_range, results_p_c, r'$p_c$',
+    p_c_range = np.linspace(40, 120, 25)
+    results_p_c = analyze_p_c(p_c_range, params)
+    plot_3subfigs_1row(p_c_range, results_p_c, r'$p_c$',
                   os.path.join(output_dir, 'fig_p_c.png'), 'p_c')
 
     # Fig 9: Impact of e (carbon emission coefficient)
