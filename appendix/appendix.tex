@@ -8,48 +8,91 @@
 
 \appendix
 \section{Proof of Proposition 1}
-\label{app:prop1}
 
 We solve the non-cooperative game using backward induction.
 
-\textbf{Step 1: Recycler's technology investment decision.} Given collection prices $(p_M, p_R)$, the recycler $R$ chooses $k$ to maximize $\Pi_R^N$ in Equation 7. Taking the first-order derivative with respect to $k$:
+\textbf{Step 1: Recycler's technology investment decision.} Given collection prices $(p_M, p_R)$, the recycler $R$ chooses $k$ to maximize $\Pi_R^N$. Taking the first-order derivative with respect to $k$:
 \begin{equation}
-\frac{\partial \Pi_R^N}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\frac{\partial \Pi_R^N}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck + p_c \gamma (\alpha - \beta)(p_M + p_R) = 0
 \end{equation}
-Solving for $k$, we obtain the optimal conversion rate:
+Solving for $k$, we obtain:
 \begin{equation}
-k^N(p_M, p_R) = \frac{\theta(\alpha p_R - \beta p_M)}{c}
+k^N(p_M, p_R) = \frac{\theta(\alpha p_R - \beta p_M) + p_c \gamma (\alpha - \beta)(p_M + p_R)}{c}
 \tag{A1}
 \end{equation}
 
-Substituting (A1) into $\Pi_R^N$, the recycler's profit becomes:
+\textbf{Step 2: Substitute $k^N$ into profit functions.} Substituting (A1) into $\Pi_M^N$ and $\Pi_R^N$, the profit functions become:
 \begin{equation}
-\Pi_R^N =
+\Pi_M^N(p_M, p_R) = \big(\theta k^N - p_M - w - \mu_M + s\big)(\alpha p_M - \beta p_R)
+\end{equation}
+\begin{equation}
 \begin{aligned}
-& (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
-& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha - \beta)(p_M + p_R) - G \right]
+\Pi_R^N(p_M, p_R) =&\ \big(\theta k^N - p_R - m - \mu_R + s\big)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+&- \frac{c (k^N)^2}{2} - p_c\big[(e_0 - \gamma k^N)(\alpha - \beta)(p_M + p_R) - G\big]
 \end{aligned}
 \tag{A2}
 \end{equation}
 
-\textbf{Step 2: Price competition equilibrium.} Using the profit functions $\Pi_M^N$ and $\Pi_R^N$, we derive the reaction functions by taking first-order partial derivatives with respect to $p_M$ and $p_R$, respectively, and setting them equal to zero:
+\textbf{Step 3: Price competition equilibrium.} Taking first-order derivatives of $\Pi_M^N$ and $\Pi_R^N$ with respect to $p_M$ and $p_R$.
+
+For $\Pi_M^N$:
 \begin{equation}
-\frac{\partial \Pi_M^N}{\partial p_M} = (\theta k - p_M - w - \mu_M + s)\alpha - (\alpha p_M - \beta p_R) = 0
+\frac{\partial \Pi_M^N}{\partial p_M} = \theta\frac{\partial k^N}{\partial p_M}(\alpha p_M - \beta p_R) + (\theta k^N - p_M - w - \mu_M + s)\alpha - (\alpha p_M - \beta p_R) = 0
 \tag{A3}
 \end{equation}
+where from (A1):
 \begin{equation}
-\frac{\partial \Pi_R^N}{\partial p_R} =
+\frac{\partial k^N}{\partial p_M} = \frac{-\theta\beta + p_c \gamma (\alpha - \beta)}{c}, \quad \frac{\partial k^N}{\partial p_R} = \frac{\theta \alpha + p_c \gamma (\alpha - \beta)}{c}
+\end{equation}
+
+For $\Pi_R^N$:
+\begin{equation}
 \begin{aligned}
-& (s - p_R - m - \mu_R)\alpha + \theta\alpha k^N - \alpha p_R + (w - m)(-\beta) \\
-& - p_c e (\alpha - \beta) = 0
+\frac{\partial \Pi_R^N}{\partial p_R} =&\ \theta\frac{\partial k^N}{\partial p_R}(\alpha p_R - \beta p_M) + (\theta k^N - p_R - m - \mu_R + s)\alpha \\
+&- (\alpha p_R - \beta p_M) + \beta(w - m) \\
+& - c k^N \frac{\partial k^N}{\partial p_R} \\
+& - p_c\Big[-\gamma\frac{\partial k^N}{\partial p_R}(\alpha - \beta)(p_M + p_R) + (e_0 - \gamma k^N)(\alpha - \beta)\Big] = 0
 \end{aligned}
 \tag{A4}
 \end{equation}
 
-Substituting $k^N$ from (A1) into (A4), and solving the system of (A3)-(A4) simultaneously, we obtain the equilibrium collection prices $p_M^{N*}$ and $p_R^{N*}$, which are given by Equations (9) and (10) in Proposition 1. Substituting these equilibrium prices back into (A1) yields $k^{N*}$ in Equation (8). The equilibrium collection quantities and profits follow directly from substituting the equilibrium values into the profit functions. This completes the proof. \hfill $\square$
+Substituting $\partial k^N/\partial p_M$ and $\partial k^N/\partial p_R$ into (A3) and (A4) yields a linear system in $(p_M, p_R)$. Applying Cramer's rule gives the closed-form equilibrium collection prices:
+\begin{equation}
+p_M^{N*} = \frac{N_M^{N}}{D}, \qquad p_R^{N*} = \frac{N_R^{N}}{D},
+\tag{A5}
+\end{equation}
+where
+\begin{equation}
+\begin{aligned}
+N_M^{N} =&\ c^{2}\big[2\alpha^{2}(s - w - \mu_{M}) - \alpha\beta(m + \mu_{R} + e_{0} p_{c} - s) + \beta^{2}(m + e_{0} p_{c} - w)\big] \\
+&+ c \cdot \big\{ \alpha^{3}\big[\gamma^{2} p_{c}^{2}(\mu_{M} - s + w) + \gamma p_{c}\theta(2\mu_{M} - \mu_{R} - s + 2w - m) \\
+&\qquad - \theta^{2}(m - \mu_{M} + \mu_{R} - w) - e_{0} p_{c}\theta(\gamma p_{c} + \theta)\big] \\
+&\quad + \alpha^{2}\beta\big[2\gamma^{2} p_{c}^{2}(-\mu_{M} + s - w) + \gamma p_{c}\theta(3m - 2\mu_{M} + 2\mu_{R} - 3w) \\
+&\qquad + \theta^{2}(m - w) + e_{0} p_{c}\theta(3\gamma p_{c} + \theta)\big] \\
+&\quad + \alpha\beta^{2}\big[\gamma^{2} p_{c}^{2}(\mu_{M} - s + w) + \gamma p_{c}\theta(-\mu_{R} + s + 2w - 3m) \\
+&\qquad - \theta^{2}(m + \mu_{R} - s) - e_{0} p_{c}\theta(3\gamma p_{c} + \theta)\big] \\
+&\quad + \beta^{3}\big[\gamma p_{c}\theta(m - w) + \theta^{2}(m - w) + e_{0} p_{c}\theta(\gamma p_{c} + \theta)\big] \big\}, \\[3pt]
+N_R^{N} =&\ c^{2}\big[2\alpha^{2}(s - m - \mu_{R} - e_{0} p_{c}) + \alpha\beta(2m - \mu_{M} + s - 3w + 2e_{0} p_{c})\big] \\
+&+ c \cdot \big\{ \alpha^{3}\big[2e_{0}\gamma p_{c}^{2}\theta + \gamma^{2} p_{c}^{2}(-\mu_{M} + s - w) + \gamma p_{c}\theta(2m - \mu_{M} + 2\mu_{R} - s - w)\big] \\
+&\quad + \alpha^{2}\beta\big[-2e_{0} p_{c}\theta(2\gamma p_{c} + \theta) + 2\gamma^{2} p_{c}^{2}(\mu_{M} - s + w) \\
+&\qquad + \gamma p_{c}\theta(2\mu_{M} - 2\mu_{R} - 4m + 4w) - \theta^{2}(2m - \mu_{M} + 2\mu_{R} - s - w)\big] \\
+&\quad + \alpha\beta^{2}\big[2e_{0} p_{c}\theta(\gamma p_{c} + \theta) + \gamma^{2} p_{c}^{2}(-\mu_{M} + s - w) \\
+&\qquad + \gamma p_{c}\theta(-\mu_{M} + s + 2m - 3w) + 2\theta^{2}(m - w)\big] \big\}, \\[3pt]
+D =&\ \alpha^{4}\gamma p_{c}\theta(\gamma p_{c} + \theta)^{2} \\
+&+ \alpha^{3}\big[-2\beta\gamma p_{c}\theta(\gamma p_{c} + \theta)^{2} - \beta\theta^{4} - 2c(\gamma p_{c} + \theta)^{2} - 4c\gamma p_{c}\theta - \beta\gamma p_{c}\theta^{3}\big] \\
+&+ \alpha^{2}\big[3\beta c(\gamma p_{c} + \theta)^{2} + 4c^{2}\big] + \alpha\beta^{2} c\theta(4\gamma p_{c} + \theta) \\
+&+ 2\alpha\beta^{3}\gamma p_{c}\theta(\gamma p_{c} + \theta)^{2} + \alpha\beta^{3}\theta^{4} + \alpha\beta^{3}\gamma p_{c}\theta^{3} \\
+&- \beta^{4}\gamma p_{c}\theta(\gamma p_{c} + \theta)^{2} - \beta^{3} c(\gamma p_{c} + \theta)^{2} - \beta^{2} c^{2}.
+\end{aligned}
+\end{equation}
+Substituting $(p_M^{N*}, p_R^{N*})$ into (A1), we obtain the equilibrium conversion rate:
+\begin{equation}
+k^{N*} = \frac{\theta(\alpha p_R^{N*} - \beta p_M^{N*}) + p_c \gamma (\alpha - \beta)(p_M^{N*} + p_R^{N*})}{c}
+\end{equation}
+
+The equilibrium collection quantities and profits follow directly from substituting the equilibrium values into the profit functions. This completes the proof. \hfill $\square$
 
 \section{Proof of Proposition 2}
-\label{app:prop2}
 
 We compute the characteristic functions for each coalition using the maximin principle.
 
@@ -57,7 +100,7 @@ We compute the characteristic functions for each coalition using the maximin pri
 \begin{equation}
 V_{p_M,p_R}(\{M\}) = \max_{n \in [0,1]} \min_{k \in [0,1]} \{\Pi_M\}
 \end{equation}
-Since $\Pi_M = (\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) - (1 - n)\frac{ck^2}{2}$ and $(\alpha p_M - \beta p_R) \geq 0$, for any given $n$, the term is minimized when $k = 0$. Maximizing over $n \in [0,1]$ yields $n^* = 1$, which eliminates the investment cost term. Therefore:
+Since $\Pi_M = (\theta k + s - p_M - w - \mu_M)(\alpha p_M - \beta p_R) - (1 - n)\frac{ck^2}{2}$ and $(\alpha p_M - \beta p_R) \geq 0$, for any given $n$, the term is minimized when $k = 0$. Maximizing over $n \in [0,1]$ yields $n^* = 1$. Therefore:
 \begin{equation}
 V_{p_M,p_R}(\{M\}) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)
 \tag{B1}
@@ -67,16 +110,15 @@ V_{p_M,p_R}(\{M\}) = (s - p_M - w - \mu_M)(\alpha p_M - \beta p_R)
 \begin{equation}
 V_{p_M,p_R}(\{R\}) = \max_{k \in [0,1]} \{\Pi_R\}
 \end{equation}
-Setting $n = 1$ (the recycler bears all costs) and taking the first-order derivative with respect to $k$:
+Setting $n = 1$ and taking the first-order derivative:
 \begin{equation}
-\frac{\partial \Pi_R}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck = 0
+\frac{\partial \Pi_R}{\partial k} = \theta(\alpha p_R - \beta p_M) - ck + p_c \gamma (\alpha - \beta)(p_M + p_R) = 0
 \end{equation}
-Solving yields $k^* = \frac{\theta(\alpha p_R - \beta p_M)}{c}$. Substituting into $\Pi_R$:
+Solving yields $k^* = \frac{\theta(\alpha p_R - \beta p_M) + p_c \gamma (\alpha - \beta)(p_M + p_R)}{c}$. Substituting into $\Pi_R$:
 \begin{equation}
-V_{p_M,p_R}(\{R\}) =
 \begin{aligned}
-& \left(s - p_R - m - \mu_R\right)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
-& + \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
+V_{p_M,p_R}(\{R\}) =&\ \big(s - p_R - m - \mu_R\big)(\alpha p_R - \beta p_M) + (w - m)(\alpha p_M - \beta p_R) \\
+&+ \frac{\big[\theta(\alpha p_R - \beta p_M) + p_c \gamma (\alpha - \beta)(p_M + p_R)\big]^2}{2c} - p_c e_0 (\alpha - \beta)(p_M + p_R) + p_c G
 \end{aligned}
 \tag{B2}
 \end{equation}
@@ -87,68 +129,102 @@ V_{p_M,p_R}(\{M,R\}) = \max_{k \in [0,1]} \{\Pi_M + \Pi_R\}
 \end{equation}
 Taking the first-order derivative:
 \begin{equation}
-\frac{\partial (\Pi_M + \Pi_R)}{\partial k} = \theta(\alpha p_M - \beta p_R) + \theta(\alpha p_R - \beta p_M) - ck = 0
+\frac{\partial (\Pi_M + \Pi_R)}{\partial k} = \theta(\alpha p_M - \beta p_R) + \theta(\alpha p_R - \beta p_M) - ck + p_c \gamma (\alpha - \beta)(p_M + p_R) = 0
 \end{equation}
-Solving yields $k^* = \frac{\theta(\alpha - \beta)(p_M + p_R)}{c}$. Substituting:
+Solving yields $k^* = \frac{(\theta + p_c \gamma)(\alpha - \beta)(p_M + p_R)}{c}$. Substituting:
 \begin{equation}
-V_{p_M,p_R}(\{M,R\}) =
 \begin{aligned}
-& (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) \\
-& + \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c\left[ e(\alpha-\beta)(p_M+p_R)-G\right]
+V_{p_M,p_R}(\{M,R\}) =&\ (s - p_M - m - \mu_M)(\alpha p_M - \beta p_R) + (s - p_R - m - \mu_R)(\alpha p_R - \beta p_M) \\
+&+ \frac{(\theta + p_c \gamma)^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - p_c e_0 (\alpha - \beta)(p_M + p_R) + p_c G
 \end{aligned}
 \tag{B3}
 \end{equation}
-
-Equations (B1)-(B3) correspond to the characteristic functions stated in Proposition \ref{prop:characteristic}. This completes the proof. \hfill $\square$
+This completes the proof. \hfill $\square$
 
 \section{Proof of Proposition 3}
-\label{app:prop3}
 
 From Proposition 2, we compute the surplus from forming the grand coalition:
 \begin{equation}
 \begin{aligned}
 & V_{p_M,p_R}(\{M,R\}) - V_{p_M,p_R}(\{M\}) - V_{p_M,p_R}(\{R\}) \\
-&= \frac{\theta^2(\alpha - \beta)^2(p_M + p_R)^2}{2c} - \frac{\theta^2(\alpha p_R - \beta p_M)^2}{2c} \\
-&= \frac{\theta^2}{2c}(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big]
+&= \frac{\theta^2}{2c}(\alpha p_M - \beta p_R)\big[(\alpha p_M - \beta p_R) + 2(\alpha p_R - \beta p_M)\big] \\
+&+ \frac{p_c \gamma}{c} (\alpha - \beta)(p_M + p_R) \big[\theta(\alpha - \beta)(p_M + p_R) - \theta(\alpha p_R - \beta p_M)\big]
 \end{aligned}
 \tag{C1}
 \end{equation}
 
-Since $\alpha > \beta > 0$ by assumption, we have $(\alpha p_M - \beta p_R) \geq 0$ and $(\alpha p_R - \beta p_M) \geq 0$. Additionally, $\theta > 0$ and $c > 0$. Therefore, the right-hand side of (C1) is always non-negative. Hence:
+Since $\alpha > \beta > 0$ by assumption, we have $(\alpha p_M - \beta p_R) \geq 0$ and $(\alpha p_R - \beta p_M) \geq 0$. Additionally, $\theta > 0$, $c > 0$, $p_c > 0$, and $\gamma > 0$. Therefore, the right-hand side of (C1) is always non-negative. Hence:
 \begin{equation}
 V_{p_M,p_R}(\{M,R\}) \geq V_{p_M,p_R}(\{M\}) + V_{p_M,p_R}(\{R\})
 \end{equation}
-which establishes superadditivity. Furthermore, the marginal contribution of each player increases with the size of the coalition, satisfying the convexity condition. This completes the proof. \hfill $\square$
+which establishes superadditivity. This completes the proof. \hfill $\square$
 
 \section{Proof of Proposition 4}
-\label{app:prop4}
 
-Having established the characteristic functions and Shapley value allocations $\varphi_M(p_M, p_R)$ and $\varphi_R(p_M, p_R)$ in Section 3.3, we now solve the non-cooperative price competition stage.
+Having established the characteristic functions and Shapley value allocations $\varphi_M(p_M, p_R)$ and $\varphi_R(p_M, p_R)$ in the main text, we now solve the non-cooperative price competition stage.
 
-\textbf{Step 1: Concavity verification.} Taking second-order partial derivatives of $\varphi_{M}$ and $\varphi_{R}$ with respect to their respective prices:
+\textbf{Step 1: Concavity verification.} Taking second-order partial derivatives of the Shapley allocations $\varphi_M$ and $\varphi_R$ derived in the main text:
 \begin{equation}
-\frac{\partial^{2}\varphi_{M}}{\partial p_{M}^{2}} = -2\alpha + \frac{\theta^{2}(\alpha^{2}-2\alpha\beta)}{2c}
-\quad \text{and} \quad
-\frac{\partial^{2}\varphi_{R}}{\partial p_{R}^{2}} = -2\alpha + \frac{\theta^{2}(2\alpha^{2}-2\alpha\beta+\beta^{2})}{2c}
+\begin{aligned}
+\frac{\partial^{2}\varphi_M}{\partial p_M^{2}} &= \frac{\alpha(2\alpha\gamma p_c \theta + \alpha\theta^{2} - 2\beta\gamma p_c \theta - 2\beta\theta^{2} - 4c)}{2c}, \\
+\frac{\partial^{2}\varphi_R}{\partial p_R^{2}} &= \frac{\alpha^{2}\gamma^{2}p_{c}^{2} + 2\alpha^{2}\gamma p_{c}\theta + \alpha^{2}\theta^{2} - 2\alpha\beta\gamma^{2}p_{c}^{2} - 3\alpha\beta\gamma p_{c}\theta - \alpha\beta\theta^{2} - 2\alpha c + \beta^{2}\gamma^{2}p_{c}^{2} + \beta^{2}\gamma p_{c}\theta + \beta^{2}\theta^{2}/2}{c}.
+\end{aligned}
 \end{equation}
-To ensure the strict concavity of the profit allocation functions (i.e., both second-order derivatives are negative), the parameters must satisfy the conditions: $4c\alpha > \theta^{2}(\alpha^{2}-2\alpha\beta)$ and $4c\alpha > \theta^{2}(2\alpha^{2}-2\alpha\beta+\beta^{2})$. Assuming the investment cost coefficient $c$ is sufficiently large, these concavity conditions hold.
+Assuming the R\&D cost coefficient $c$ is sufficiently large relative to the marginal revenue scales, both Hessians remain negative definite, guaranteeing a unique interior maximum. The off-diagonal terms $\frac{\partial^{2}\varphi_M}{\partial p_M \partial p_R}$ and $\frac{\partial^{2}\varphi_R}{\partial p_M \partial p_R}$ are positive but smaller in magnitude than the diagonal terms under the same parameter condition, so the diagonal-dominance of the Hessian is preserved.
 
-\textbf{Step 2: First-order conditions.} Setting the first-order partial derivatives to zero:
+\textbf{Step 2: First-order conditions.} Setting the first-order partial derivatives to zero yields a linear system in $(p_M, p_R)$. Applying Cramer's rule gives the closed-form equilibrium collection prices:
 \begin{equation}
-\begin{cases}
-\frac{\partial \varphi_M}{\partial p_M} = [\theta^2(\alpha^2 - 2\alpha\beta) - 4c\alpha]p_M + [\theta^2(\alpha^2 - \alpha\beta + \beta^2) + 2c\beta]p_R + 2c\alpha(s - w - \mu_M) = 0 \\
-\frac{\partial \varphi_R}{\partial p_R} = [\theta^2(\alpha^2 - 3\alpha\beta + \beta^2) + 2c\beta]p_M + [\theta^2(2\alpha^2 - 2\alpha\beta + \beta^2) - 4c\alpha]p_R + 2c[\alpha(s - m - \mu_R) - \beta(w - m)] - 2c p_c e (\alpha - \beta) = 0
-\end{cases}
+p_M^{C*} = \frac{N_M^{C}}{D^{C}}, \qquad p_R^{C*} = \frac{N_R^{C}}{D^{C}},
 \tag{D1}
 \end{equation}
-
-\textbf{Step 3: Solving the reaction functions.} Solving the linear system (D1) yields the equilibrium collection prices $p_M^{C*}$ and $p_R^{C*}$, which are given by Equations (27) and (28) in Proposition 4.
-
-\textbf{Step 4: Optimal conversion rate and R\&D investment sharing proportion.} Substituting $p_M^{C*}$ and $p_R^{C*}$ into the grand coalition's optimal $k$:
+where
 \begin{equation}
-k^{C*} = \frac{\theta(\alpha - \beta)(p_M^{C*} + p_R^{C*})}{c}
+\begin{aligned}
+N_M^{C} =&\ c \cdot \big\{ \alpha^{3}\big[-2 e_{0}\gamma p_{c}^{2}\theta - 2 e_{0} p_{c}\theta^{2} + 4\gamma^{2} p_{c}^{2}(m + \mu_{M} - s) + 2\gamma p_{c}\theta(3m + 4\mu_{M} - \mu_{R} - 3s) \\
+&\qquad + 2\theta^{2}(m + 2\mu_{M} - \mu_{R} - s)\big] \\
+&\quad + \alpha^{2}\beta\big[6 e_{0}\gamma p_{c}^{2}\theta + 4 e_{0} p_{c}\theta^{2} - 8\gamma^{2} p_{c}^{2}(m + \mu_{M} - s) + 2\gamma p_{c}\theta(-3m - 6\mu_{M} + 2\mu_{R} + 4s - w) \\
+&\qquad + 2\theta^{2}(-2\mu_{M} + \mu_{R} + s - w)\big] \\
+&\quad + \alpha\beta^{2}\big[-6 e_{0}\gamma p_{c}^{2}\theta - 4 e_{0} p_{c}\theta^{2} + 4\gamma^{2} p_{c}^{2}(m + \mu_{M} - s) + 2\gamma p_{c}\theta(-m + 2\mu_{M} - \mu_{R} - s + 2w) \\
+&\qquad + 2\theta^{2}(-m + \mu_{M} - \mu_{R} + w)\big] \\
+&\quad + \beta^{3}\big[2 e_{0} p_{c}\theta(\gamma p_{c} + \theta) + 2\gamma p_{c}\theta(m - w) + 2\theta^{2}(m - w)\big] \big\} \\
+&+ c^{2}\big[-4\alpha\beta(m + \mu_{R} + e_{0} p_{c} - s) + 8\alpha^{2}(s - m - \mu_{M}) + 4\beta^{2}(m + e_{0} p_{c} - w)\big], \\[3pt]
+N_R^{C} =&\ c \cdot \big\{ \alpha^{3}\big[4 e_{0}\gamma p_{c}^{2}\theta + 2 e_{0} p_{c}\theta^{2} - 4\gamma^{2} p_{c}^{2}(m + \mu_{M} - s) + 2\gamma p_{c}\theta(-m - 3\mu_{M} + 2\mu_{R} + s) \\
+&\qquad + 2\theta^{2}(-\mu_{M} + \mu_{R})\big] \\
+&\quad + \alpha^{2}\beta\big[-8 e_{0}\gamma p_{c}^{2}\theta - 6 e_{0} p_{c}\theta^{2} + 8\gamma^{2} p_{c}^{2}(m + \mu_{M} - s) + 2\gamma p_{c}\theta(2m + 6\mu_{M} - 2\mu_{R} - 4s + 2w) \\
+&\qquad + 2\theta^{2}(3\mu_{M} - 2\mu_{R} - s + w)\big] \\
+&\quad + \alpha\beta^{2}\big[4 e_{0}\gamma p_{c}^{2}\theta + 4 e_{0} p_{c}\theta^{2} - 4\gamma^{2} p_{c}^{2}(m + \mu_{M} - s) + 2\gamma p_{c}\theta(-m - 3\mu_{M} + 3s - 2w) \\
+&\qquad + 2\theta^{2}(m - \mu_{M} + s - 2w)\big] \big\} \\
+&+ c^{2}\big[8\alpha^{2}(s - m - \mu_{R} - e_{0} p_{c}) + 4\alpha\beta(m - \mu_{M} + s - 2w + 2e_{0} p_{c})\big], \\[3pt]
+D^{C} =&\ \alpha^{4}\big[2\gamma^{3} p_{c}^{3}\theta + 5\gamma^{2} p_{c}^{2}\theta^{2} + 4\gamma p_{c}\theta^{3} + \theta^{4}\big] \\
+&+ \alpha^{3}\beta\big[-4\gamma^{3} p_{c}^{3}\theta - 10\gamma^{2} p_{c}^{2}\theta^{2} - 8\gamma p_{c}\theta^{3} - 2\theta^{4}\big] \\
+&+ \alpha^{3} c\big[-8\gamma^{2} p_{c}^{2} - 24\gamma p_{c}\theta - 12\theta^{2}\big] + \alpha^{2}\beta c\big[12\gamma^{2} p_{c}^{2} + 24\gamma p_{c}\theta + 12\theta^{2}\big] + 16\alpha^{2} c^{2} \\
+&+ \alpha\beta^{3}\big[4\gamma^{3} p_{c}^{3}\theta + 10\gamma^{2} p_{c}^{2}\theta^{2} + 8\gamma p_{c}\theta^{3} + 2\theta^{4}\big] + \alpha\beta^{2} c\theta(8\gamma p_{c} + 4\theta) \\
+&- \beta^{4}\big[2\gamma^{3} p_{c}^{3}\theta + 5\gamma^{2} p_{c}^{2}\theta^{2} + 4\gamma p_{c}\theta^{3} + \theta^{4}\big] - \beta^{3} c(4\gamma^{2} p_{c}^{2} + 8\gamma p_{c}\theta + 4\theta^{2}) - 4\beta^{2} c^{2}.
+\end{aligned}
 \end{equation}
-The optimal R\&D investment sharing proportion $n^{C*}$ is derived by equating the marginal contributions and solving for $n$, yielding the expression in Proposition 4.
 
-The equilibrium Shapley value allocations $\varphi_M^{C*}$ and $\varphi_R^{C*}$ follow from substituting the equilibrium prices into the Shapley value formulas. This completes the proof. \hfill $\square$
+\textbf{Step 3: Optimal conversion rate.} Substituting $(p_M^{C*}, p_R^{C*})$ into the grand coalition's optimal $k$:
+\begin{equation}
+k^{C*} = \frac{(\theta + p_c \gamma)(\alpha - \beta)(p_M^{C*} + p_R^{C*})}{c}
+\tag{D2}
+\end{equation}
+
+\textbf{Step 4: Optimal $n^{C*}$.}  To find the fair sharing rule, we equate each participant's actual profit under the chosen $n$ to the corresponding Shapley allocation derived in the main text.
+
+For the manufacturer $M$:
+\begin{equation}
+(\theta k^{C*} - p_M^{C*} - w - \mu_M + s)q_M^{C*} - (1 - n^{C*})\frac{c (k^{C*})^{2}}{2} = \varphi_M(p_M^{C*}, p_R^{C*}).
+\end{equation}
+Solving for $n^{C*}$:
+\begin{equation}
+n^{C*} = 1 - \frac{2\big[(\theta k^{C*} - p_M^{C*} - w - \mu_M + s)q_M^{C*} - \varphi_M(p_M^{C*}, p_R^{C*})\big]}{c (k^{C*})^{2}}.
+\end{equation}
+Substituting the equilibrium $k^{C*} = (\theta + p_c \gamma)(\alpha - \beta)(p_M^{C*} + p_R^{C*})/c$ and the Shapley value $\varphi_M$ and simplifying:
+\begin{equation}
+n^{C*} = 1 - \frac{\theta^{2} q_M^{C*}\big(3 q_M^{C*} + 2 q_R^{C*}\big)}{2(\theta + p_c \gamma)^{2} \big[(\alpha-\beta)(p_M^{C*} + p_R^{C*})\big]^{2}} - \frac{\theta p_c \gamma \, q_M^{C*}}{(\theta + p_c \gamma)^{2} (\alpha-\beta)(p_M^{C*} + p_R^{C*})}
+\tag{D3}
+\end{equation}
+where $q_M^{C*} = \alpha p_M^{C*} - \beta p_R^{C*}$ and $q_R^{C*} = \alpha p_R^{C*} - \beta p_M^{C*}$. 
+
+This completes the proof. \hfill $\square$
 \end{document}
